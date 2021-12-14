@@ -1,0 +1,15 @@
+AvgTempCtrl,AvgCool,AvgHeat,Identifier,Country,ProvinceState,City,Age_of_Home__years_,HvacMode,CalendarEvent,Climate,allowCompWithAux,Has_Electric,Has_a_Heat_Pump,Auxilliary_Heat_Fuel_Type
+682.32,748.99384615384611,681.53846153846155,3f540613f8190b7cd8db0a309195c4c3d2ac3bf8,US,ID,Idaho Falls,0,auto,hold,Home,false,false,false,Gas
+718.7549407114625,721.62845849802375,720.85770750988138,990cbee2265a38833e75df033fc2c099860581fb,US,ID,Rathdrum,0,heat,hold,Home,false,false,false,Gas
+725.92,782.24,732.24,990cbee2265a38833e75df033fc2c099860581fb,US,ID,Rathdrum,0,auto,hold,Home,false,false,false,Gas
+711.55241222530947,712.33038646122759,712.33038646122759,5129e5e4c05095e57bffc1ced24242c93cf5326a,US,ID,Boise,0,heat,hold,Home,false,false,false,Gas
+658.11708482676227,658.20131421744327,653.26762246117084,60109a224b6c64079ef913d0c5cf3dca35abbb35,US,ID,Eagle,0,heat,hold,Home,false,false,false,Gas
+678.216551724138,675.38482758620694,675.36965517241379,0eb9f31787410572e6cb0995b6af77ae6f13dacc,US,ID,Boise,0,heat,hold,Home,false,false,false,Gas
+694.88430361090639,717.457627118644,693.91083271923355,3f540613f8190b7cd8db0a309195c4c3d2ac3bf8,US,ID,Idaho Falls,0,heat,auto,Home,false,false,false,Gas
+691.947963800905,714.1447963800905,697.33484162895923,3f540613f8190b7cd8db0a309195c4c3d2ac3bf8,US,ID,Idaho Falls,0,cool,auto,Home,false,false,false,Gas
+702.0,700.0,700.0,3f540613f8190b7cd8db0a309195c4c3d2ac3bf8,US,ID,Idaho Falls,0,cool,hold,Home,false,false,false,Gas
+673.94039735099341,724.83443708609275,675.16556291390725,3f540613f8190b7cd8db0a309195c4c3d2ac3bf8,US,ID,Idaho Falls,0,heat,hold,Home,false,false,false,Gas
+688.34307824591576,740.676698194325,671.853826311264,3f540613f8190b7cd8db0a309195c4c3d2ac3bf8,US,ID,Idaho Falls,0,auto,auto,Home,false,false,false,Gas
+710.21153846153845,715.0,710.0,5129e5e4c05095e57bffc1ced24242c93cf5326a,US,ID,Boise,0,heat,auto,Home,false,false,false,Gas
+703.68055555555554,719.58333333333337,719.58333333333337,5129e5e4c05095e57bffc1ced24242c93cf5326a,US,ID,Boise,0,cool,hold,Home,false,false,false,Gas
+679.66666666666663,673.66666666666663,673.66666666666663,60109a224b6c64079ef913d0c5cf3dca35abbb35,US,ID,Eagle,0,cool,hold,Home,false,false,false,Gas

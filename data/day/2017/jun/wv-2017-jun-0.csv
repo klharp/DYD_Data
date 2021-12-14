@@ -1,0 +1,10 @@
+AvgTempCtrl,AvgCool,AvgHeat,Identifier,Country,ProvinceState,City,Age_of_Home__years_,HvacMode,CalendarEvent,Climate,allowCompWithAux,Has_Electric,Has_a_Heat_Pump,Auxilliary_Heat_Fuel_Type
+694.98958333333337,693.14583333333337,643.14583333333337,f710bb7d9a4a4033f351d3fe907edc4564fe1892,US,WV,Morgantown,0,auto,hold,Home,false,false,false,Gas
+686.45890968266883,684.75589910496342,684.74938974776239,7249632b05298378ea9944b850b084262a1c3cf3,US,WV,Maidsville,0,cool,hold,Home,true,false,true,Electric
+718.56094527363189,721.570895522388,669.05348258706465,c5b31dacb5cc3a1c181dbf7a905df96d0dfdc347,US,WV,Morgantown,0,auto,auto,Home,false,false,false,Gas
+718.41092436974793,723.45126050420163,669.42436974789916,c5b31dacb5cc3a1c181dbf7a905df96d0dfdc347,US,WV,Morgantown,0,auto,hold,Home,false,false,false,Gas
+686.97142857142853,689.71428571428567,629.42857142857144,f710bb7d9a4a4033f351d3fe907edc4564fe1892,US,WV,Morgantown,0,auto,auto,Home,false,false,false,Gas
+704.83333333333337,680.0,630.0,527196dd67df36085c7eb0f7137ef298e0bb60b1,US,WV,Charles Town,0,auto,hold,Home,false,false,false,Gas
+692.97549019607845,692.94117647058829,630.0,7249632b05298378ea9944b850b084262a1c3cf3,US,WV,Maidsville,0,auto,hold,Home,true,false,true,Electric
+720.4634363852557,720.0,670.0,23ea815e8d635bf755b4f45c8594fba04bf97e35,US,WV,Morgantown,0,auto,hold,Home,false,false,false,Gas
+681.35,680.0,690.0,7249632b05298378ea9944b850b084262a1c3cf3,US,WV,Maidsville,0,cool,auto,Home,true,false,true,Electric

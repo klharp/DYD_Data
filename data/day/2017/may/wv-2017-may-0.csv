@@ -1,0 +1,10 @@
+AvgTempCtrl,AvgCool,AvgHeat,Identifier,Country,ProvinceState,City,Age_of_Home__years_,HvacMode,CalendarEvent,Climate,allowCompWithAux,Has_Electric,Has_a_Heat_Pump,Auxilliary_Heat_Fuel_Type
+707.52250759458718,728.75559237779623,672.93123446561719,23ea815e8d635bf755b4f45c8594fba04bf97e35,US,WV,Morgantown,0,auto,hold,Home,false,false,false,Gas
+714.99082568807341,762.42201834862385,712.42201834862385,3a38dd3de8441afd6215d6a91bf033c2c646b786,US,WV,Morgantown,0,auto,auto,Home,true,false,true,Electric
+691.40734737979471,701.11345218800648,648.08589951377633,7249632b05298378ea9944b850b084262a1c3cf3,US,WV,Maidsville,0,auto,hold,Home,true,false,true,Electric
+690.96078431372553,690.39215686274508,633.33333333333337,f710bb7d9a4a4033f351d3fe907edc4564fe1892,US,WV,Morgantown,0,auto,hold,Home,false,false,false,Gas
+689.70496894409939,699.71739130434787,649.3540372670808,f710bb7d9a4a4033f351d3fe907edc4564fe1892,US,WV,Morgantown,0,auto,auto,Home,false,false,false,Gas
+707.12121212121212,700.0,650.0,7249632b05298378ea9944b850b084262a1c3cf3,US,WV,Maidsville,0,off,hold,Home,true,false,true,Electric
+712.45703125,716.87109375,666.87109375,c5b31dacb5cc3a1c181dbf7a905df96d0dfdc347,US,WV,Morgantown,0,auto,auto,Home,false,false,false,Gas
+726.53351955307267,741.50279329608941,677.004189944134,c5b31dacb5cc3a1c181dbf7a905df96d0dfdc347,US,WV,Morgantown,0,auto,hold,Home,false,false,false,Gas
+756.38461538461536,740.0,740.0,3a38dd3de8441afd6215d6a91bf033c2c646b786,US,WV,Morgantown,0,cool,hold,Home,true,false,true,Electric

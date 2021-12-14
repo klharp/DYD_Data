@@ -1,0 +1,10 @@
+AvgTempCtrl,AvgCool,AvgHeat,Identifier,Country,ProvinceState,City,Age_of_Home__years_,HvacMode,CalendarEvent,Climate,allowCompWithAux,Has_Electric,Has_a_Heat_Pump,Auxilliary_Heat_Fuel_Type
+694.20974289580511,724.637347767253,670.11772665764545,0eb9f31787410572e6cb0995b6af77ae6f13dacc,US,ID,Boise,0,auto,auto,Home,false,false,false,Gas
+683.52704791344672,695.43431221020091,645.31530139103552,0eb9f31787410572e6cb0995b6af77ae6f13dacc,US,ID,Boise,0,auto,hold,Home,false,false,false,Gas
+675.16666666666663,677.75,674.75,0eb9f31787410572e6cb0995b6af77ae6f13dacc,US,ID,Boise,0,cool,hold,Home,false,false,false,Gas
+684.698319327731,712.7932773109244,702.61428571428576,5129e5e4c05095e57bffc1ced24242c93cf5326a,US,ID,Boise,0,cool,auto,Home,false,false,false,Gas
+725.51478641840083,754.6659364731654,649.69879518072287,db9a0fff9a2a19b5cc46a67b689565c611c245d0,US,ID,Post Falls,0,auto,auto,Home,false,false,false,Gas
+708.1185185185185,790.0,690.0,af2e12e051baa0782690f8e4fb33211b8c94ad0a,US,ID,eagle,0,off,auto,Home,true,true,true,Electric
+690.20552147239266,694.73374233128834,694.71871165644177,5129e5e4c05095e57bffc1ced24242c93cf5326a,US,ID,Boise,0,cool,hold,Home,false,false,false,Gas
+691.30837004405282,690.04845814977978,690.04845814977978,5129e5e4c05095e57bffc1ced24242c93cf5326a,US,ID,Boise,0,heat,hold,Home,false,false,false,Gas
+723.14583333333337,720.0,720.0,60109a224b6c64079ef913d0c5cf3dca35abbb35,US,ID,Eagle,0,off,hold,Home,false,false,false,Gas

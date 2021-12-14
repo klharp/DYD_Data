@@ -1,0 +1,17 @@
+AvgTempCtrl,AvgCool,AvgHeat,Identifier,Country,ProvinceState,City,Age_of_Home__years_,HvacMode,CalendarEvent,Climate,allowCompWithAux,Has_Electric,Has_a_Heat_Pump,Auxilliary_Heat_Fuel_Type
+717.93548387096769,715.85483870967744,714.0,0f282db9c216fb43ec7241fe29cd5c947102a773,US,ND,Grand Forks,0,heat,hold,Home,false,false,false,Gas
+732.9473684210526,736.38157894736844,735.63157894736844,0f282db9c216fb43ec7241fe29cd5c947102a773,US,ND,Grand Forks,0,heat,auto,Home,false,false,false,Gas
+703.45833333333337,688.91666666666663,688.91666666666663,31bab83a250783cc0d48f1509a6fdfeb059990b7,US,ND,Argusville,0,cool,hold,Home,false,false,true,Electric
+701.82558139534888,742.32093023255811,678.92558139534879,4d17731b1ff0a2df444618f9481aa445cd823197,US,ND,Dickinson,0,auto,auto,Home,false,false,false,Gas
+687.82152974504254,723.78470254957506,667.07648725212459,4d17731b1ff0a2df444618f9481aa445cd823197,US,ND,Dickinson,0,auto,hold,Home,false,false,false,Gas
+709.38477366255142,755.37037037037032,704.62962962962968,6c8433aa1db0389cd3a0214904e1c8dbe3513686,US,ND,Dickinson,0,auto,hold,Home,false,false,false,Gas
+719.52777777777783,752.5,702.5,6c8433aa1db0389cd3a0214904e1c8dbe3513686,US,ND,Dickinson,0,auto,auto,Home,false,false,false,Gas
+669.812865497076,650.0,598.59649122807014,31bab83a250783cc0d48f1509a6fdfeb059990b7,US,ND,Argusville,0,auxHeatOnly,hold,Home,false,false,true,Electric
+653.625,650.0,640.0,31bab83a250783cc0d48f1509a6fdfeb059990b7,US,ND,Argusville,0,heat,hold,Home,false,false,true,Electric
+658.89583333333337,660.0,660.0,31bab83a250783cc0d48f1509a6fdfeb059990b7,US,ND,Argusville,0,heat,auto,Home,false,false,true,Electric
+667.005376344086,670.0,670.0,31bab83a250783cc0d48f1509a6fdfeb059990b7,US,ND,Argusville,0,off,hold,Home,false,false,true,Electric
+726.10280373831779,721.74299065420564,721.74299065420564,6c8433aa1db0389cd3a0214904e1c8dbe3513686,US,ND,Dickinson,0,heat,hold,Home,false,false,false,Gas
+717.17647058823525,720.0,720.0,6c8433aa1db0389cd3a0214904e1c8dbe3513686,US,ND,Dickinson,0,heat,auto,Home,false,false,false,Gas
+724.17799352750808,728.68932038834953,728.68932038834953,6c8433aa1db0389cd3a0214904e1c8dbe3513686,US,ND,Dickinson,0,cool,hold,Home,false,false,false,Gas
+709.9757085020243,735.62753036437243,735.62753036437243,0f282db9c216fb43ec7241fe29cd5c947102a773,US,ND,Grand Forks,0,cool,hold,Home,false,false,false,Gas
+706.95785440613031,743.10727969348659,693.62452107279694,0f282db9c216fb43ec7241fe29cd5c947102a773,US,ND,Grand Forks,0,auto,hold,Home,false,false,false,Gas

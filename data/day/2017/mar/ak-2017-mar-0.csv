@@ -1,0 +1,8 @@
+AvgTempCtrl,AvgCool,AvgHeat,Identifier,Country,ProvinceState,City,Age_of_Home__years_,HvacMode,CalendarEvent,Climate,allowCompWithAux,Has_Electric,Has_a_Heat_Pump,Auxilliary_Heat_Fuel_Type
+683.49614395886886,681.19794344473007,679.76092544987148,0404ace1bcdf88d917bd860a04cd6c66fb51679f,US,AK,Homer,0,heat,hold,Home,true,false,false,Gas
+686.53125,690.1875,683.40625,0404ace1bcdf88d917bd860a04cd6c66fb51679f,US,AK,Homer,0,heat,auto,Home,true,false,false,Gas
+702.75,650.0,646.25,0404ace1bcdf88d917bd860a04cd6c66fb51679f,US,AK,Homer,0,off,hold,Home,true,false,false,Gas
+595.92857142857144,733.30158730158735,663.563492063492,364d90d4305e64cf8a54685a3669aca9ba7667ed,US,AK,Palmer,0,heat,auto,Home,false,false,false,Gas
+694.96139705882354,697.87132352941171,694.86213235294122,fda1f67e8423ed49933c45617ee96aef3bae04ba,US,AK,Wasilla,0,heat,hold,Home,false,false,false,Gas
+710.53846153846155,714.62362637362639,714.315934065934,fda1f67e8423ed49933c45617ee96aef3bae04ba,US,AK,Wasilla,0,heat,auto,Home,false,false,false,Gas
+638.2,711.2,700.0,be4f2a63b7719c2a69aa285e8a38038c29df8fa6,US,AK,Anchorage,0,heat,auto,Home,false,false,false,Gas

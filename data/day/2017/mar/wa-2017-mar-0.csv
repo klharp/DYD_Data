@@ -1,0 +1,77 @@
+AvgTempCtrl,AvgCool,AvgHeat,Identifier,Country,ProvinceState,City,Age_of_Home__years_,HvacMode,CalendarEvent,Climate,allowCompWithAux,Has_Electric,Has_a_Heat_Pump,Auxilliary_Heat_Fuel_Type
+690.37819025522037,675.00232018561485,674.97911832946636,f27ec653fbb043d13fbd919462a1d2443cdbf230,US,WA,Bremerton,0,heat,auto,Home,false,false,false,Gas
+693.514506769826,814.76595744680856,646.05609284332684,6d7bc3daad173947535fc68f4321ed5fbcd8f65d,US,WA,Fife,0,auto,auto,Home,true,false,false,Gas
+670.5152542372881,669.91525423728808,647.12542372881353,f27ec653fbb043d13fbd919462a1d2443cdbf230,US,WA,Bremerton,0,heat,hold,Home,false,false,false,Gas
+671.61126005361928,673.69973190348526,665.911528150134,14718a85248162f1bbc41880cefc456079f869d8,US,WA,Sammamsih,0,heat,auto,Home,false,false,true,Electric
+666.23093220338978,679.61228813559319,675.69703389830511,75b3ee9dfe67eef101d7d3f089504a3d20525a65,US,WA,Sammamsih,0,heat,auto,Home,false,false,true,Electric
+679.5,660.0,660.0,ab52a7109faa0c7438b5a40e3fb459a60c9c8952,US,WA,Buckley,0,off,hold,Home,true,false,false,Gas
+656.10526315789468,660.26315789473688,660.26315789473688,20089d98708bf7da1b36917c4df21b7a6f2d7dd4,US,WA,Oak Harbor,0,heat,auto,Home,false,false,false,Gas
+676.20802919708024,683.54562043795625,681.46532846715331,75b3ee9dfe67eef101d7d3f089504a3d20525a65,US,WA,Sammamsih,0,heat,hold,Home,false,false,true,Electric
+691.44791666666663,690.0,690.0,19f5ae392e4335e5b28f5e2762003325c04dd3e9,US,WA,Colbert,0,heat,hold,Home,false,false,false,Gas
+667.69444444444446,700.0,690.0,856bf6c249de8e8e76d12d9656f857eef51e202d,US,WA,Kingston,0,heat,hold,Home,true,false,true,Electric
+707.83050847457628,760.61016949152543,709.28813559322032,6d7bc3daad173947535fc68f4321ed5fbcd8f65d,US,WA,Fife,0,auto,hold,Home,true,false,false,Gas
+701.1,706.4,703.75,dcaa1c9cdc9332b30bf37c572e86f5be1003cf19,US,WA,Bothell,0,heat,hold,Home,false,false,false,Gas
+696.28235294117644,714.6,692.01176470588234,a5df08933a16b938cbeb1fb2b4f3c18a0a3b6da3,US,WA,Bothell,0,heat,auto,Home,false,false,false,Gas
+678.56730769230774,680.0,680.0,ae74d914083577d5bad977fa441185e030d5383d,US,WA,Bothell,0,off,auto,Home,false,false,false,Gas
+695.98214285714289,749.85714285714289,699.85714285714289,dcaa1c9cdc9332b30bf37c572e86f5be1003cf19,US,WA,Bothell,0,heat,auto,Home,false,false,false,Gas
+696.63049450549454,773.00412087912093,696.72252747252742,284b8b9fd4836aa0c30e88bd4fea9fd17e5968c9,US,WA,Redmond,0,heat,auto,Home,false,false,false,Gas
+681.89080459770116,764.948275862069,714.948275862069,ad20142325b68776f6434f0abb8aa9c121a1547a,US,WA,Seattle,0,off,auto,Home,false,false,true,Electric
+713.27386541471049,762.95774647887322,703.50078247261342,ad20142325b68776f6434f0abb8aa9c121a1547a,US,WA,Seattle,0,auto,hold,Home,false,false,true,Electric
+684.6875,820.0,600.0,9a99d3a88ec8d4d67d180acd3b4e78b0513a9775,US,WA,Seattle,0,auto,auto,Home,false,false,true,Electric
+689.96368829049368,690.0,690.0,d0edb2f2164505328b088c029d0cd4781944a1e1,US,WA,Seattle,0,heat,hold,Home,true,false,false,Gas
+698.88372093023258,703.62790697674416,696.97674418604652,cc1e6bd3ea4bad14a014a300fdae91277729196e,US,WA,Seattle,0,heat,auto,Home,false,false,false,Gas
+718.54506437768237,720.0,720.0,633d2f44d61b5d8352b55170940239712f99155e,US,WA,Seattle,0,heat,hold,Home,false,false,false,Gas
+689.125,677.55357142857144,659.19642857142856,0ffd323f5b86a8c32b9c59dc695d8c7c303bf1e1,US,WA,Spokane,0,heat,hold,Home,false,false,false,Gas
+706.25,710.0,710.0,20b8830e2727faa52447a535cd0ab32cb3e65d05,US,WA,Bellevue,0,heat,hold,Home,false,false,false,Gas
+689.48349056603774,686.95695754716985,686.95754716981128,38c9bc11ef8100e3503e37d4f4ceedcb5d9e2ed1,US,WA,Kirkland,0,heat,hold,Home,true,false,false,Gas
+688.51724137931035,690.20689655172418,689.17241379310349,0baa1263dfe364c933c1c1c38dde38c932b706aa,US,WA,Kirkland,0,heat,hold,Home,true,false,false,Gas
+680.75,697.0,697.0,38c9bc11ef8100e3503e37d4f4ceedcb5d9e2ed1,US,WA,Kirkland,0,off,hold,Home,true,false,false,Gas
+677.0,800.39655172413791,679.87931034482756,8df02cfaef103548dc2a48f2ed260056bd52ec5c,US,WA,Kirkland,0,heat,hold,Home,true,false,false,Gas
+708.8,710.8,709.15,a37cfa4d5ba2bfe07d96b38529581313e4a332db,US,WA,Lynnwood,0,heat,auto,Home,false,false,false,Gas
+672.76470588235293,780.0,667.64705882352939,efa454490de1005449f2e4d0811b1bcd159664b4,US,WA,Sammamish,0,auto,hold,Home,false,false,false,Gas
+623.38938053097343,794.51327433628319,622.67256637168146,0de6f7dfb61b52041384c8218231f803ee417fc8,US,WA,Vancouver,0,auto,auto,Home,false,false,false,Gas
+645.29874213836479,860.1540880503145,619.51257861635224,0eac6ce066ecc9f4bf3f2db68107014492c90ef7,US,WA,Bellingham,0,heat,hold,Home,false,false,false,Gas
+719.34180432020332,718.64167725540028,718.64167725540028,1ca902e1801e83c2c2565d852f2f2a1b73ca6d95,US,WA,Gig Harbor,0,heat,hold,Home,false,false,false,Gas
+683.27589852008452,679.541754756871,676.15116279069764,47af9233dae84bac68a8eb3b732c9f16f6d8d619,US,WA,Marysville,0,heat,auto,Home,false,false,false,Gas
+671.37815126050418,675.45098039215691,671.21195144724561,47af9233dae84bac68a8eb3b732c9f16f6d8d619,US,WA,Marysville,0,off,auto,Home,false,false,false,Gas
+684.52682926829266,687.390243902439,687.180487804878,47af9233dae84bac68a8eb3b732c9f16f6d8d619,US,WA,Marysville,0,off,hold,Home,false,false,false,Gas
+674.045,717.93,667.93,1cbab88b9ab4fac5ecbe09ed164093aae2b612c1,US,WA,Walla Walla,0,auto,hold,Home,false,false,false,Gas
+698.16666666666663,704.16666666666663,693.66666666666663,ebc69d5d0bdaed229d92f58af9ed230b4e9a0911,US,WA,Lake Forest Park,0,heat,hold,Home,false,false,false,Gas
+693.7,703.2,696.83333333333337,a5df08933a16b938cbeb1fb2b4f3c18a0a3b6da3,US,WA,Bothell,0,heat,hold,Home,false,false,false,Gas
+675.17757009345792,671.14953271028037,648.90654205607473,20089d98708bf7da1b36917c4df21b7a6f2d7dd4,US,WA,Oak Harbor,0,heat,hold,Home,false,false,false,Gas
+668.546875,662.6875,631.59375,5ae293734d8b631cd6f96c9651f77c83fa9caf3b,US,WA,Burien,0,heat,hold,Home,true,false,false,Gas
+661.822739480752,659.81557743957023,659.81557743957023,ab52a7109faa0c7438b5a40e3fb459a60c9c8952,US,WA,Buckley,0,heat,hold,Home,true,false,false,Gas
+671.3890909090909,660.64,645.95272727272732,14718a85248162f1bbc41880cefc456079f869d8,US,WA,Sammamsih,0,heat,hold,Home,false,false,true,Electric
+668.14634146341461,668.19512195121956,666.70731707317077,1127351ca3182d4fb917ebe8f757165e35640df0,US,WA,Mountlake Terrace,0,heat,hold,Home,false,false,false,Gas
+688.23206018518522,690.0,690.0,950c973e2c9903dc62224415d744c1a794973ad6,US,WA,Moses Lake,0,heat,hold,Home,false,false,false,Gas
+658.69892473118284,700.55913978494618,672.38709677419354,856bf6c249de8e8e76d12d9656f857eef51e202d,US,WA,Kingston,0,heat,auto,Home,true,false,true,Electric
+701.0454545454545,700.31818181818187,700.31818181818187,e34174502c9a0c32a35388af25735d5eae8c0ece,US,WA,Enumclaw,0,heat,auto,Home,false,false,false,Gas
+698.0,720.0,720.0,e34174502c9a0c32a35388af25735d5eae8c0ece,US,WA,Enumclaw,0,heat,hold,Home,false,false,false,Gas
+687.08333333333337,650.0,650.0,8ec2a6879be3b8ec19d468c56bb6faa84cd4c1ed,US,WA,Monroe,0,heat,hold,Home,true,false,false,Gas
+674.3350253807107,674.76776649746193,674.755076142132,ae74d914083577d5bad977fa441185e030d5383d,US,WA,Bothell,0,heat,auto,Home,false,false,false,Gas
+680.703125,682.265625,682.265625,ae74d914083577d5bad977fa441185e030d5383d,US,WA,Bothell,0,heat,hold,Home,false,false,false,Gas
+708.78198653198649,710.0,710.0,153677bd70ce6f55738a8ad5c36152e2507c64ca,US,WA,Everett,0,heat,hold,Home,false,false,false,Gas
+708.34222222222218,756.71111111111111,703.48592592592593,ad20142325b68776f6434f0abb8aa9c121a1547a,US,WA,Seattle,0,auto,auto,Home,false,false,true,Electric
+712.68055555555554,765.0,715.0,ad20142325b68776f6434f0abb8aa9c121a1547a,US,WA,Seattle,0,heat,auto,Home,false,false,true,Electric
+706.89901477832507,702.5615763546798,702.5615763546798,d754dc22e14bacd332bcc1b08458f1a665ea6aac,US,WA,Seattle,0,heat,auto,Home,true,false,false,Gas
+681.85294117647061,681.47058823529414,681.47058823529414,719e2e4d8766f8e2d4d933230471d755d0aeb1f2,US,WA,Seattle,0,heat,hold,Home,false,false,false,Gas
+720.93073248407643,720.0,720.0,633d2f44d61b5d8352b55170940239712f99155e,US,WA,Seattle,0,heat,auto,Home,false,false,false,Gas
+717.912100456621,720.0,720.0,32c2d4c82ef3230a798c29e85676b74e5f14c9af,US,WA,Seattle,0,heat,auto,Home,false,false,false,Gas
+745.63609467455626,759.29487179487182,750.43688362919136,181c979f2d4924003d809be7dfa2707877c9dc45,US,WA,Seattle,0,heat,auto,Home,true,false,false,Gas
+703.51397849462364,705.19354838709683,698.9677419354839,4df8c9249bdd63dabf746a27d833ad6370a96d1f,US,WA,Spokane,0,heat,auto,Home,false,false,false,Gas
+661.33557046979865,657.22147651006708,654.98657718120808,4df8c9249bdd63dabf746a27d833ad6370a96d1f,US,WA,Spokane,0,heat,hold,Home,false,false,false,Gas
+696.98411978221418,701.62522686025409,696.43012704174225,90dc9800f95d0f6baf9ce6453f0ebed64900d98a,US,WA,Issaquah,0,heat,auto,Home,true,false,false,Gas
+703.59259259259261,702.79012345679007,702.54320987654319,90dc9800f95d0f6baf9ce6453f0ebed64900d98a,US,WA,Issaquah,0,heat,hold,Home,true,false,false,Gas
+677.14285714285711,684.71428571428567,670.734693877551,0baa1263dfe364c933c1c1c38dde38c932b706aa,US,WA,Kirkland,0,heat,auto,Home,true,false,false,Gas
+627.92520775623268,764.404432132964,624.30747922437672,0de6f7dfb61b52041384c8218231f803ee417fc8,US,WA,Vancouver,0,auto,hold,Home,false,false,false,Gas
+671.68125,665.31875,660.70625,5bcdafca834a8f8a3c6f3cecd8602afb01c8d381,US,WA,Gig Harbor,0,heat,auto,Home,false,false,true,Electric
+720.48596938775506,720.23596938775506,720.23596938775506,1ca902e1801e83c2c2565d852f2f2a1b73ca6d95,US,WA,Gig Harbor,0,heat,auto,Home,false,false,false,Gas
+692.78131868131868,682.91868131868137,682.90439560439563,47af9233dae84bac68a8eb3b732c9f16f6d8d619,US,WA,Marysville,0,heat,hold,Home,false,false,false,Gas
+681.37606837606836,725.0,675.0,1cbab88b9ab4fac5ecbe09ed164093aae2b612c1,US,WA,Walla Walla,0,auto,auto,Home,false,false,false,Gas
+697.24324324324323,700.0,700.0,6d452f69ebfa4419b81d8d13596acf598035a7fc,US,WA,Lake Stevens,0,heat,auto,Home,false,false,false,Gas
+699.84057971014488,704.8840579710145,704.63043478260875,6d452f69ebfa4419b81d8d13596acf598035a7fc,US,WA,Lake Stevens,0,heat,hold,Home,false,false,false,Gas
+674.13793103448279,677.82758620689651,671.9655172413793,8b213eb961a43b215428326d2a644805922bd118,US,WA,Port Orchard,0,heat,hold,Home,false,false,false,Gas
+706.9,711.2,710.0,2416ed262ab24a5db6be5141de0917afc28b4412,US,WA,Bellevue,0,heat,hold,Home,false,false,false,Gas
+643.5454545454545,650.0,570.0,a37cfa4d5ba2bfe07d96b38529581313e4a332db,US,WA,Lynnwood,0,heat,hold,Home,false,false,false,Gas
+670.21428571428567,780.0,630.5,efa454490de1005449f2e4d0811b1bcd159664b4,US,WA,Sammamish,0,auto,auto,Home,false,false,false,Gas
+646.33333333333337,780.0,650.0,ab52a7109faa0c7438b5a40e3fb459a60c9c8952,US,WA,Buckley,0,heat,auto,Home,true,false,false,Gas

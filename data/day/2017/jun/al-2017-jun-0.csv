@@ -1,0 +1,56 @@
+AvgTempCtrl,AvgCool,AvgHeat,Identifier,Country,ProvinceState,City,Age_of_Home__years_,HvacMode,CalendarEvent,Climate,allowCompWithAux,Has_Electric,Has_a_Heat_Pump,Auxilliary_Heat_Fuel_Type
+702.68538516918647,707.09647228221741,699.82505399568038,f2e245ad67cbaf37b5c53765ac425f28d9d8a633,US,AL,Indian Springs Villa,0,cool,auto,Home,true,false,false,Gas
+693.59459459459458,691.357957957958,691.30870870870876,f2e245ad67cbaf37b5c53765ac425f28d9d8a633,US,AL,Indian Springs Villa,0,cool,hold,Home,true,false,false,Gas
+722.059204440333,719.77983348751161,719.76965772432936,652395d678da6b3803704ee8a572cfdc3a3604a7,US,AL,Pell City,0,cool,hold,Home,false,false,false,Gas
+717.81372549019613,717.38235294117646,720.0,652395d678da6b3803704ee8a572cfdc3a3604a7,US,AL,Pell City,0,cool,auto,Home,false,false,false,Gas
+723.04166666666663,747.55555555555554,688.34722222222217,947339e28da03e126a722a705790f5f473d76c16,US,AL,Ohatchee,0,cool,auto,Home,true,false,true,Electric
+776.29407514450872,777.43208092485554,777.429190751445,67b0a229f40d1801e3817294ddcfe7583e4b4a71,US,AL,Auburn,0,cool,hold,Home,false,false,false,Gas
+780.47025495750711,783.29745042492914,764.98300283286119,67b0a229f40d1801e3817294ddcfe7583e4b4a71,US,AL,Auburn,0,cool,auto,Home,false,false,false,Gas
+775.05660377358492,770.0,770.0,67b0a229f40d1801e3817294ddcfe7583e4b4a71,US,AL,Auburn,0,off,hold,Home,false,false,false,Gas
+783.6,772.7,764.5,67b0a229f40d1801e3817294ddcfe7583e4b4a71,US,AL,Auburn,0,off,auto,Home,false,false,false,Gas
+728.71935724962634,728.13340807174893,715.3602391629297,22efd8fb0ec7be22a39f55446374782c777ec213,US,AL,Daphne,0,cool,hold,Home,false,false,true,Electric
+700.372311827957,700.02553763440858,718.869623655914,22efd8fb0ec7be22a39f55446374782c777ec213,US,AL,Daphne,0,cool,auto,Home,false,false,true,Electric
+735.06118266978922,737.60187353629976,630.0,ac6aecafe798aabd71b2a94647775c075a80ec8d,US,AL,Hoover,0,auto,hold,Home,false,false,true,Electric
+738.93247391037448,738.74769797421732,663.1599140577041,cfe02024ae5b553bba339025e45b5fa4c2df04e8,US,AL,Hoover,0,auto,hold,Home,false,false,true,Electric
+716.007874015748,713.503937007874,713.503937007874,195614dadbcb34c9009ec4c3f64dac538ea5b7cc,US,AL,Hoover,0,cool,hold,Home,false,false,false,Gas
+773.98159509202458,784.638036809816,691.12269938650309,ff5aa8f5b0f3c532a276504417b65e822c593794,US,AL,Hoover,0,cool,auto,Home,false,false,false,Gas
+726.41558441558436,728.038961038961,709.74025974025972,195614dadbcb34c9009ec4c3f64dac538ea5b7cc,US,AL,Hoover,0,cool,auto,Home,false,false,false,Gas
+728.92241379310349,726.32758620689651,680.0,3c7b097eeb778fd85c9c56e7d9afe52455c37591,US,AL,Hoover,0,auto,hold,Home,false,false,false,Gas
+768.76543209876547,743.074074074074,742.61728395061732,90a22524918723670df60f9904073a4836be3417,US,AL,Jasper,0,cool,hold,Home,true,false,true,Electric
+740.6911314984709,735.85932721712538,665.32721712538228,90a22524918723670df60f9904073a4836be3417,US,AL,Jasper,0,cool,auto,Home,true,false,true,Electric
+724.88038277511964,719.52153110047846,719.52153110047846,b57a70fe011f0ca2070f85221ea90fe4952790eb,US,AL,Mobile,0,cool,hold,Home,false,false,false,Gas
+758.78846153846155,759.55769230769226,700.0,56bf69df00fc3ad6879bf0f6995709ba6a0ab47c,US,AL,Chelsea,0,cool,auto,Home,false,false,false,Gas
+747.09677419354841,747.0322580645161,693.41935483870964,d8e7d7fafd75dd8ee77ae93b7548a7b2d55fe513,US,AL,Harvest,0,auto,auto,Home,false,false,true,Electric
+746.57142857142856,740.0,700.0,d8e7d7fafd75dd8ee77ae93b7548a7b2d55fe513,US,AL,Harvest,0,cool,auto,Home,false,false,true,Electric
+759.28767123287673,771.013698630137,606.72602739726028,2a719e573b5b3a8decac03f84e1d06900c8f5e0d,US,AL,Madison,0,cool,auto,Home,false,false,true,Electric
+718.69004524886873,719.22171945701359,719.22171945701359,9e600930f47230e9adac62faf29a38f6bc811e4d,US,AL,Opelika,0,cool,hold,Home,false,false,true,Electric
+741.89478859390363,741.00294985250741,741.00294985250741,65f8e0a26ed426f52ef05f0313df3c9f8e917baa,US,AL,Opelika,0,cool,hold,Home,false,false,true,Electric
+719.56928406466511,720.2569284064665,711.17782909930713,9e600930f47230e9adac62faf29a38f6bc811e4d,US,AL,Opelika,0,cool,auto,Home,false,false,true,Electric
+731.1351351351351,730.0,750.0,65f8e0a26ed426f52ef05f0313df3c9f8e917baa,US,AL,Opelika,0,cool,auto,Home,false,false,true,Electric
+706.640350877193,700.0,650.0,c85c9f8cc8305930818c707b1efe8fa0e001de46,US,AL,Opelika,0,auto,hold,Home,true,false,true,Electric
+706.9201877934272,709.48650234741785,709.48415492957747,875ebef6a0e50828b84f5b48700d3726fed11159,US,AL,Bessemer,0,cool,hold,Home,false,false,false,Gas
+712.95436241610741,715.40402684563753,713.95570469798656,875ebef6a0e50828b84f5b48700d3726fed11159,US,AL,Bessemer,0,cool,auto,Home,false,false,false,Gas
+718.29267484255888,720.29101756711964,720.29101756711964,2a2d29f3dc6cfb557b057a1c3d039bd66a640ce3,US,AL,Florence,0,cool,hold,Home,true,false,true,Electric
+744.85369649805443,748.24435797665365,741.51517509727626,01ec1e5fd26dfeb9bfc4d7e12b404f49c745aaee,US,AL,Birmingham,0,cool,auto,Home,false,false,true,Electric
+708.8115942028985,709.63768115942025,645.0,efc00cafde80ac7f441b9d2b35a262125dd3f590,US,AL,Birmingham,0,auto,auto,Home,false,false,false,Gas
+745.52716297786719,750.85446009389671,750.88262910798119,01ec1e5fd26dfeb9bfc4d7e12b404f49c745aaee,US,AL,Birmingham,0,cool,hold,Home,false,false,true,Electric
+714.28260869565213,719.88043478260875,680.0,adaf55267563a067b9ccf8d074d692030caeeead,US,AL,Birmingham,0,auto,hold,Home,false,false,true,Electric
+692.9545454545455,685.63636363636363,685.0,d5322069e943071d6d774ee9e33c45382956b9d7,US,AL,Birmingham,0,cool,hold,Home,false,false,false,Gas
+712.88372093023258,719.65116279069764,680.0,adaf55267563a067b9ccf8d074d692030caeeead,US,AL,Birmingham,0,auto,auto,Home,false,false,true,Electric
+724.42222222222222,720.0,670.0,4a8a9f810028d267b52c422071b73d5f0b004938,US,AL,Birmingham,0,auto,hold,Home,false,false,true,Electric
+694.66666666666663,660.0,680.0,01ec1e5fd26dfeb9bfc4d7e12b404f49c745aaee,US,AL,Birmingham,0,off,auto,Home,false,false,true,Electric
+747.27735517846691,747.00643651258042,747.0737273259216,01d4384fb6e0bc8f9d2d347ac245408fed66e25a,US,AL,Prattville,0,cool,hold,Home,true,false,true,Electric
+741.81115241635689,740.83866171003717,754.80223048327139,01d4384fb6e0bc8f9d2d347ac245408fed66e25a,US,AL,Prattville,0,cool,auto,Home,true,false,true,Electric
+838.43740340030911,869.33693972179287,670.0,2c01159de417d788d3e3e30e470b6308a3f2debc,US,AL,Spanish Fort,0,auto,hold,Home,false,false,true,Electric
+760.9088191330344,760.98878923766813,648.34080717488791,22c142f45dd414368e4404b1b4c61149ceaa76cd,US,AL,Spanish Fort,0,auto,hold,Home,false,false,true,Electric
+736.4985279685967,736.17075564278707,670.0,3d35b717f154b2abd216820625232259a3d996a6,US,AL,Spanish Fort,0,auto,hold,Home,false,false,true,Electric
+763.03366058906033,765.23983169705468,655.3155680224404,22c142f45dd414368e4404b1b4c61149ceaa76cd,US,AL,Spanish Fort,0,auto,auto,Home,false,false,true,Electric
+740.75409836065569,740.0,670.0,3d35b717f154b2abd216820625232259a3d996a6,US,AL,Spanish Fort,0,auto,auto,Home,false,false,true,Electric
+775.16666666666663,769.02380952380952,767.69047619047615,ff5aa8f5b0f3c532a276504417b65e822c593794,US,AL,Hoover,0,cool,hold,Home,false,false,false,Gas
+744.25,740.91666666666663,690.41666666666663,d8e7d7fafd75dd8ee77ae93b7548a7b2d55fe513,US,AL,Harvest,0,auto,hold,Home,false,false,true,Electric
+776.0,717.25,717.25,01ec1e5fd26dfeb9bfc4d7e12b404f49c745aaee,US,AL,Birmingham,0,off,hold,Home,false,false,true,Electric
+733.83333333333337,710.0,660.0,b22837a38739d740c6920c5c300e1bed17fcf706,US,AL,Meridianville,0,auto,hold,Home,true,false,true,Electric
+712.81818181818187,723.27272727272725,666.0,875ebef6a0e50828b84f5b48700d3726fed11159,US,AL,Bessemer,0,auto,hold,Home,false,false,false,Gas
+711.5,728.0,660.0,875ebef6a0e50828b84f5b48700d3726fed11159,US,AL,Bessemer,0,auto,auto,Home,false,false,false,Gas
+731.33333333333337,775.0,722.0,8be6b749a993c280f3f8ddcd7647b07b405920a1,US,AL,Birmingham,0,auto,hold,Home,false,false,true,Electric
+762.0,750.0,750.0,90a22524918723670df60f9904073a4836be3417,US,AL,Jasper,0,off,hold,Home,true,false,true,Electric

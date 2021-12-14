@@ -1,0 +1,3 @@
+AvgTempCtrl,AvgCool,AvgHeat,Identifier,Country,ProvinceState,City,Age_of_Home__years_,HvacMode,CalendarEvent,Climate,allowCompWithAux,Has_Electric,Has_a_Heat_Pump,Auxilliary_Heat_Fuel_Type
+740.76303317535542,750.05687203791467,735.65876777251185,a3a3fd48e1b69634ca3859998f7684d1593abcda,US,WY,Cheyenne,0,heat,auto,Home,false,false,false,Gas
+736.45360824742272,731.21649484536078,729.4432989690722,a3a3fd48e1b69634ca3859998f7684d1593abcda,US,WY,Cheyenne,0,heat,hold,Home,false,false,false,Gas

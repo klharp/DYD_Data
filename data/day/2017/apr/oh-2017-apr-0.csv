@@ -1,0 +1,201 @@
+AvgTempCtrl,AvgCool,AvgHeat,Identifier,Country,ProvinceState,City,Age_of_Home__years_,HvacMode,CalendarEvent,Climate,allowCompWithAux,Has_Electric,Has_a_Heat_Pump,Auxilliary_Heat_Fuel_Type
+689.21948818897636,648.89763779527561,661.12204724409446,065121c3ed20e29b8427db09d79d6652897ee9ad,US,OH,Mason,0,off,auto,Home,false,false,false,Gas
+693.0,685.0,655.0,f4cf8a385021aec34c357119159bbde17b8280a2,US,OH,Hudson,0,heat,hold,Home,false,false,false,Gas
+697.61038961038957,694.40909090909088,693.9480519480519,aab92214721d41aa3f5760873353ef2d5d096aa2,US,OH,North Ridgeville,0,cool,hold,Home,false,false,false,Gas
+717.35306334371751,770.95742471443407,697.14953271028037,cfe2ee8d4ada67d38a11117837e6aaba6eead851,US,OH,Solon,0,heat,auto,Home,true,false,false,Gas
+736.5454545454545,800.0,600.0,f3f57b61a1fce9915f89862a01308cc5a7662c65,US,OH,Akron,0,heat,auto,Home,false,false,false,Gas
+715.614855570839,699.56258596973862,699.52957359009633,3b9c13c2d3e39a2891223f52a2ce710d0946ec1c,US,OH,Troy,0,heat,hold,Home,false,false,false,Gas
+647.51432997676216,650.00735863671571,600.00697134004645,f71ecc82238dabeb78cb5a24ad23177fd498438d,US,OH,Medina,0,heat,auto,Home,false,false,false,Gas
+702.33333333333337,661.26666666666665,650.73333333333335,cfe2ee8d4ada67d38a11117837e6aaba6eead851,US,OH,Solon,0,heat,hold,Home,true,false,false,Gas
+666.854611540209,670.0,670.0,5093680fdb4fd24504e1a740b6228ad9e51f7764,US,OH,Cincinnati,0,cool,auto,Home,false,false,false,Gas
+704.25426527242712,680.0,680.0,67f6c95b705d8bf7e95553f87143cb6a9e7edf7f,US,OH,New Albany,0,off,hold,Home,false,false,false,Gas
+703.10052910052912,692.64550264550269,692.5502645502645,84c285ae86e4a8b2d27bbaca04cbd85258568f38,US,OH,lewis center,0,heat,auto,Home,false,false,false,Gas
+704.68518518518522,680.0,673.33333333333337,8c0bbba238c0484404995a089374e34f09d7384a,US,OH,Columbus,0,off,auto,Home,false,false,false,Gas
+673.97704918032787,686.616393442623,689.99344262295085,f4cf8a385021aec34c357119159bbde17b8280a2,US,OH,Hudson,0,cool,auto,Home,false,false,false,Gas
+700.97454256165474,691.45982498011142,691.45982498011142,5bfa44a5fe6b4788b795bfefc4264d7206a61781,US,OH,Parma,0,heat,hold,Home,false,false,false,Gas
+661.42016806722688,689.42857142857144,688.41176470588232,f4cf8a385021aec34c357119159bbde17b8280a2,US,OH,Hudson,0,cool,hold,Home,false,false,false,Gas
+718.49817713918083,700.0,700.0,f0b7c2afe4901cb7007f0b236457b3a5dd460376,US,OH,W. Carrollton,0,heat,auto,Home,false,false,false,Gas
+730.979020979021,700.0,680.0,a3779a32309ef4ee9d26a2c44d3ab9a10700369c,US,OH,Springfield,0,off,auto,Home,false,false,true,Electric
+709.68918918918916,709.73783783783779,709.60810810810813,e814522b2762dcdbbe0a55c7079568a28b25ce05,US,OH,Amberley,0,heat,hold,Home,false,false,false,Gas
+703.84912280701758,701.36666666666667,701.36666666666667,2ee49388052453b7e5c0bd5b689cb0f30506a788,US,OH,Medina,0,heat,hold,Home,false,false,false,Gas
+697.2268041237113,710.0,690.0,35f58aad03c16c59dbb6170ea5a53aa67f6486eb,US,OH,Westerville ,0,heat,auto,Home,false,false,false,Gas
+714.09511568123389,744.42930591259642,689.97943444730072,7f65b3a3dacff7d7045a20b19515529c94df7b46,US,OH,Bedford,0,auto,auto,Home,false,false,false,Gas
+716.51235955056177,715.93258426966293,711.21348314606746,44561c93aaacbd4670416c01f1823bb12bff8adf,US,OH,Liberty Township,0,heat,auto,Home,false,false,false,Gas
+728.6375838926175,720.503355704698,720.29530201342277,35ad59c61f9c59922c5ffb925256c3fc692397a5,US,OH,Cincinnati,0,cool,hold,Home,false,false,false,Gas
+702.15602094240842,740.20942408376959,689.248167539267,7f65b3a3dacff7d7045a20b19515529c94df7b46,US,OH,Bedford,0,auto,hold,Home,false,false,false,Gas
+717.463768115942,717.46583850931677,710.17805383022778,44561c93aaacbd4670416c01f1823bb12bff8adf,US,OH,Liberty Township,0,cool,auto,Home,false,false,false,Gas
+706.08375378405651,727.4389505549949,673.300706357215,3b9c13c2d3e39a2891223f52a2ce710d0946ec1c,US,OH,Troy,0,auto,hold,Home,false,false,false,Gas
+714.94512195121956,733.02439024390242,732.95121951219517,fddaeba6b916a3b0ebf90a8ad6aff597eebf1862,US,OH,Cincinnati,0,cool,hold,Home,false,false,false,Gas
+752.040404040404,717.27272727272725,713.63636363636363,5bfa44a5fe6b4788b795bfefc4264d7206a61781,US,OH,Parma,0,off,auto,Home,false,false,false,Gas
+726.66359447004606,732.963133640553,732.963133640553,e91fa930a541335bf802a2987e3a0555e5c1103b,US,OH,Toledo,0,cool,auto,Home,false,false,false,Gas
+742.13064516129032,733.77903225806449,733.77903225806449,bfc22d45cf67725dfe675d1393fb2a486ee264f1,US,OH,Strongsville,0,heat,auto,Home,true,false,false,Gas
+678.35458167330682,750.00199203187253,660.0,b816dad77e7d102dbae8bab80756f8dbf4728b7e,US,OH,Barberton,0,auto,hold,Home,false,false,false,Gas
+741.31343283582089,749.955223880597,749.68656716417911,5e748c855f52f9e9ad05d0a7c3420c7bcae3ead1,US,OH,Dayton,0,cool,hold,Home,false,false,false,Gas
+730.54838709677415,750.9677419354839,624.258064516129,a66586ff8c694c0a23d2405d0ae8a2d94116c36a,US,OH,Upper Arlington,0,auto,hold,Home,false,false,false,Gas
+676.040404040404,760.0,680.030303030303,db755c176296390aa9638bd004dd1fa977f4d53e,US,OH,Cincinnati,0,heat,auto,Home,true,false,false,Gas
+685.56886227544908,777.04790419161679,673.4730538922156,b816dad77e7d102dbae8bab80756f8dbf4728b7e,US,OH,Barberton,0,auto,auto,Home,false,false,false,Gas
+719.56666666666672,720.0,720.0,aab92214721d41aa3f5760873353ef2d5d096aa2,US,OH,North Ridgeville,0,off,auto,Home,false,false,false,Gas
+704.61666666666667,707.6,675.0,221d242d12b21c5ad6329cb44dfd47a5253c912f,US,OH,Cleveland heights,0,auto,hold,Home,true,false,false,Gas
+705.125,739.66666666666663,709.66666666666663,b013b5c434f1e0b39450e27a80a6cf75f8028ddd,US,OH,Lake Milton,0,auto,hold,Home,false,false,false,Gas
+717.125,680.0,700.0,aab92214721d41aa3f5760873353ef2d5d096aa2,US,OH,North Ridgeville,0,cool,auto,Home,false,false,false,Gas
+721.44444444444446,720.0,670.0,8829c0ea13e4bfd335556a9bab6fe958a30b233b,US,OH,Dublin,0,auto,hold,Home,false,false,false,Gas
+682.0,740.0,687.75,322ac4813a3c622c017c386c20e6bf03a1f64a6c,US,OH,Parma,0,auto,hold,Home,false,false,false,Gas
+682.0,720.0,684.0,98e49489d932c70a4121b4a63d76ba31573d297d,US,OH,North Canton,0,heat,auto,Home,false,false,false,Gas
+689.0,712.0,688.0,47fb62cbbec3f1397747cf73fe9999b0300b348d,US,OH,Springfield,0,off,hold,Home,true,false,true,Electric
+768.0,730.0,706.0,5bfa44a5fe6b4788b795bfefc4264d7206a61781,US,OH,Parma,0,cool,auto,Home,false,false,false,Gas
+707.768267223382,688.89561586638831,688.89561586638831,0dcb6d1da24030985cf7ca3a36f417757f0500ed,US,OH,Columbus,0,heat,hold,Home,false,false,false,Gas
+718.63864628820966,762.42685589519647,712.61572052401743,794aa32a141e81c7ac076b784b9b103cb1a75138,US,OH,Brunswick,0,auto,hold,Home,false,false,false,Gas
+713.53075291622486,740.47401908801692,740.47401908801692,9fea30f93267678e3462bc2aa84383ca420e7f8e,US,OH,Morrow,0,cool,hold,Home,false,false,true,Electric
+708.63753825229514,688.210812648759,688.0,dbd6dd62fa0dd91f4c4e03e485ecf4232bbb62b9,US,OH,Brooklyn,0,heat,hold,Home,false,false,false,Gas
+693.14606741573039,755.0,705.0,5bfa44a5fe6b4788b795bfefc4264d7206a61781,US,OH,Parma,0,auto,hold,Home,false,false,false,Gas
+728.51162790697674,617.25581395348843,663.55813953488371,065121c3ed20e29b8427db09d79d6652897ee9ad,US,OH,Mason,0,cool,auto,Home,false,false,false,Gas
+744.87205387205393,745.912457912458,726.59932659932656,35ad59c61f9c59922c5ffb925256c3fc692397a5,US,OH,Cincinnati,0,cool,auto,Home,false,false,false,Gas
+722.38202247191009,781.685393258427,725.056179775281,075710613aab6b94629d69dba6e4de98167ccb7e,US,OH,Mayfield Village,0,auto,auto,Home,false,false,false,Gas
+709.14285714285711,780.0,700.0,8b794da9250881420812f64e4ec01bd8ec661d0f,US,OH,Youngstown,0,auto,auto,Home,false,false,false,Gas
+676.33333333333337,790.0,630.0,322ac4813a3c622c017c386c20e6bf03a1f64a6c,US,OH,Parma,0,auto,auto,Home,false,false,false,Gas
+696.78187250996018,778.38446215139447,618.34960159362549,221d242d12b21c5ad6329cb44dfd47a5253c912f,US,OH,Cleveland heights,0,cool,auto,Home,true,false,false,Gas
+684.63436123348015,650.0,650.0,ad342e65f9382c44a758989379b82e1af8ce8fe5,US,OH,Grove City,0,heat,auto,Home,false,false,false,Gas
+708.20908483633934,699.45424181696728,697.33533734134937,9fea30f93267678e3462bc2aa84383ca420e7f8e,US,OH,Morrow,0,heat,hold,Home,false,false,true,Electric
+668.58612440191382,661.64832535885171,661.64832535885171,065121c3ed20e29b8427db09d79d6652897ee9ad,US,OH,Mason,0,heat,hold,Home,false,false,false,Gas
+676.04468085106384,676.99361702127658,676.99361702127658,5093680fdb4fd24504e1a740b6228ad9e51f7764,US,OH,Cincinnati,0,heat,hold,Home,false,false,false,Gas
+656.908,670.0,670.0,f4609397146b3bfe1ebb046d1a748b34693c4e37,US,OH,Cincinnati,0,cool,hold,Home,false,false,false,Gas
+682.9397427217333,680.0,680.0,67f6c95b705d8bf7e95553f87143cb6a9e7edf7f,US,OH,New Albany,0,heat,hold,Home,false,false,false,Gas
+706.06428571428569,687.93571428571431,687.93571428571431,dbd6dd62fa0dd91f4c4e03e485ecf4232bbb62b9,US,OH,Brooklyn,0,heat,auto,Home,false,false,false,Gas
+676.31155378486051,686.390438247012,686.390438247012,5093680fdb4fd24504e1a740b6228ad9e51f7764,US,OH,Cincinnati,0,cool,hold,Home,false,false,false,Gas
+709.41379310344826,680.0,680.0,3b9c13c2d3e39a2891223f52a2ce710d0946ec1c,US,OH,Troy,0,heat,auto,Home,false,false,false,Gas
+670.54074074074072,682.22962962962958,681.91111111111115,1b7f94a4e01e4b2ea6d9cfb1b904d07518801c3a,US,OH,Hilliard,0,heat,hold,Home,false,false,false,Gas
+677.97142857142853,679.94285714285718,679.94285714285718,8c0bbba238c0484404995a089374e34f09d7384a,US,OH,Columbus,0,heat,auto,Home,false,false,false,Gas
+686.84230769230771,698.82692307692309,648.81153846153848,a73f3b35d6a66d7f61485569381d52a4a020b12b,US,OH,North Ridgeville,0,auto,auto,Home,false,false,false,Gas
+689.65,690.55,689.925,bad2ebfd38de761bc40e9634d92189bbecb0329e,US,OH,Middlebranch,0,heat,auto,Home,true,false,false,Gas
+693.07563025210084,692.42016806722688,692.42016806722688,e91fa930a541335bf802a2987e3a0555e5c1103b,US,OH,Toledo,0,cool,hold,Home,false,false,false,Gas
+687.93521790341583,700.0,700.0,47fb62cbbec3f1397747cf73fe9999b0300b348d,US,OH,Springfield,0,off,auto,Home,true,false,true,Electric
+696.05555555555554,700.0,700.0,47fb62cbbec3f1397747cf73fe9999b0300b348d,US,OH,Springfield,0,cool,hold,Home,true,false,true,Electric
+707.45161290322585,706.64650537634407,706.64650537634407,668a95f715b287f8f0c1466ecb333fd0213bf8a8,US,OH,Sidney,0,heat,hold,Home,false,false,false,Gas
+700.6875,714.38375,687.58375,2ee49388052453b7e5c0bd5b689cb0f30506a788,US,OH,Medina,0,cool,auto,Home,false,false,false,Gas
+700.79638009049779,700.61085972850674,698.5746606334842,aab92214721d41aa3f5760873353ef2d5d096aa2,US,OH,North Ridgeville,0,off,hold,Home,false,false,false,Gas
+714.24277978339353,715.18862815884472,715.18862815884472,aab92214721d41aa3f5760873353ef2d5d096aa2,US,OH,North Ridgeville,0,heat,auto,Home,false,false,false,Gas
+695.530303030303,694.91666666666663,694.91666666666663,f4cf8a385021aec34c357119159bbde17b8280a2,US,OH,Hudson,0,heat,auto,Home,false,false,false,Gas
+715.50458069062722,718.724453840733,718.724453840733,44561c93aaacbd4670416c01f1823bb12bff8adf,US,OH,Liberty Township,0,cool,hold,Home,false,false,false,Gas
+693.70175438596493,715.0,715.0,02d56dc5db1dd238d1587211190b99e62cc2d0b8,US,OH,Grafton,0,heat,hold,Home,true,false,false,Gas
+738.14732142857144,723.80357142857144,723.66964285714289,bfc22d45cf67725dfe675d1393fb2a486ee264f1,US,OH,Strongsville,0,heat,hold,Home,true,false,false,Gas
+667.875,720.0,670.0,9fea30f93267678e3462bc2aa84383ca420e7f8e,US,OH,Morrow,0,auto,hold,Home,false,false,true,Electric
+694.42599277978343,738.17208182912157,680.15523465703973,869a7d67e2563469348fad767fa70b220135b847,US,OH,Strongsville,0,auto,hold,Home,false,false,false,Gas
+719.67727272727268,740.0,690.0,7f65b3a3dacff7d7045a20b19515529c94df7b46,US,OH,Bedford,0,off,auto,Home,false,false,false,Gas
+673.14423076923072,740.0,668.15384615384619,6a93c712fe4fd4772cedfaa992ed98b38e36eaa9,US,OH,Strongsville,0,auto,hold,Home,false,false,false,Gas
+680.35353535353534,760.27272727272725,680.36363636363637,5f00f518bfe674057489bd7b8b05cfc0f3c08441,US,OH,Cincinnati,0,heat,auto,Home,false,false,false,Gas
+643.08333333333337,650.0,513.0,380b8c6cdc83e579fda03fe9dcc04dcd9008ec80,US,OH,University Heights,0,heat,hold,Home,false,false,false,Gas
+694.08333333333337,700.0,700.0,47fb62cbbec3f1397747cf73fe9999b0300b348d,US,OH,Springfield,0,heat,auto,Home,true,false,true,Electric
+704.85,710.0,690.0,35f58aad03c16c59dbb6170ea5a53aa67f6486eb,US,OH,Westerville ,0,cool,auto,Home,false,false,false,Gas
+674.25,666.5,654.75,07a4af86e62b2cfbae7dbc9c3d39654d6ab7336f,US,OH,Twinsburg,0,off,hold,Home,false,false,false,Gas
+769.0,707.0,680.0,a3779a32309ef4ee9d26a2c44d3ab9a10700369c,US,OH,Springfield,0,cool,auto,Home,false,false,true,Electric
+702.0,674.5,670.0,24f142803b529298184c175982753f7aa04eba4c,US,OH,Akron,0,cool,auto,Home,false,false,false,Gas
+673.33333333333337,738.66666666666663,695.33333333333337,7f65b3a3dacff7d7045a20b19515529c94df7b46,US,OH,Bedford,0,cool,auto,Home,false,false,false,Gas
+707.46503215434086,695.13143086816717,695.13143086816717,668a95f715b287f8f0c1466ecb333fd0213bf8a8,US,OH,Sidney,0,heat,auto,Home,false,false,false,Gas
+714.84201388888891,648.95225694444446,648.95225694444446,065121c3ed20e29b8427db09d79d6652897ee9ad,US,OH,Mason,0,off,hold,Home,false,false,false,Gas
+702.83823529411768,678.0,678.0,4f2d7e76c4fa70776cdae49f41107e3e4271b3d6,US,OH,Cleveland,0,heat,hold,Home,false,false,false,Gas
+719.65625,754.453125,705.234375,5bfa44a5fe6b4788b795bfefc4264d7206a61781,US,OH,Parma,0,cool,hold,Home,false,false,false,Gas
+669.73293768545989,669.23986152324426,663.5108803165183,3b64121d01172e0abdec274455d1d13987d69ed1,US,OH,Port Clinton,0,heat,auto,Home,false,false,false,Gas
+722.63764705882352,764.24329411764711,712.568,c3360d2bd9bf79b07b0f6f9fbb72110efcf2fb5b,US,OH,North Royalton,0,auto,hold,Home,false,false,false,Gas
+720.304347826087,770.0,720.0,c3360d2bd9bf79b07b0f6f9fbb72110efcf2fb5b,US,OH,North Royalton,0,auto,auto,Home,false,false,false,Gas
+781.71810089020767,755.62314540059344,755.62314540059344,c73bc66b6ba38cf0ed35552501738dad618f35a1,US,OH,Wickliffe,0,heat,auto,Home,false,false,false,Gas
+678.76222222222225,650.54833333333329,624.105,1b7f94a4e01e4b2ea6d9cfb1b904d07518801c3a,US,OH,Hilliard,0,heat,auto,Home,false,false,false,Gas
+667.189024390244,661.70731707317077,658.29268292682923,f4609397146b3bfe1ebb046d1a748b34693c4e37,US,OH,Cincinnati,0,heat,hold,Home,false,false,false,Gas
+659.43973941368074,655.17915309446255,655.17915309446255,84c285ae86e4a8b2d27bbaca04cbd85258568f38,US,OH,lewis center,0,heat,hold,Home,false,false,false,Gas
+674.66666666666663,656.80851063829789,647.39716312056737,8c0bbba238c0484404995a089374e34f09d7384a,US,OH,Columbus,0,heat,hold,Home,false,false,false,Gas
+718.15492957746483,706.40219092331768,706.35758998435051,fddaeba6b916a3b0ebf90a8ad6aff597eebf1862,US,OH,Cincinnati,0,heat,hold,Home,false,false,false,Gas
+670.34380165289258,669.89090909090908,669.89090909090908,5093680fdb4fd24504e1a740b6228ad9e51f7764,US,OH,Cincinnati,0,heat,auto,Home,false,false,false,Gas
+678.12280701754389,680.0,680.0,98e49489d932c70a4121b4a63d76ba31573d297d,US,OH,North Canton,0,heat,hold,Home,false,false,false,Gas
+692.016393442623,680.0,640.0,bd8ebddb8c1788889d20253d14910ed0134acf28,US,OH,Solon,0,heat,hold,Home,false,false,false,Gas
+698.87428977272725,690.0,690.0,7f65b3a3dacff7d7045a20b19515529c94df7b46,US,OH,Bedford,0,heat,auto,Home,false,false,false,Gas
+701.34920634920638,690.0,690.0,5093680fdb4fd24504e1a740b6228ad9e51f7764,US,OH,Cincinnati,0,off,hold,Home,false,false,false,Gas
+713.16283524904213,702.47030651340992,702.47030651340992,e91fa930a541335bf802a2987e3a0555e5c1103b,US,OH,Toledo,0,heat,hold,Home,false,false,false,Gas
+692.4941520467836,690.0,690.0,ad342e65f9382c44a758989379b82e1af8ce8fe5,US,OH,Grove City,0,heat,hold,Home,false,false,false,Gas
+712.8394366197183,695.04507042253522,694.99295774647885,0dcb6d1da24030985cf7ca3a36f417757f0500ed,US,OH,Columbus,0,off,hold,Home,false,false,false,Gas
+711.31382193802267,708.605017215937,708.605017215937,e91fa930a541335bf802a2987e3a0555e5c1103b,US,OH,Toledo,0,heat,auto,Home,false,false,false,Gas
+705.2714285714286,700.0,700.0,8099ed5d016f3a37e049406863b1bd19f04fd260,US,OH,Springfield,0,cool,hold,Home,true,false,true,Electric
+704.59016393442619,700.0,700.0,8099ed5d016f3a37e049406863b1bd19f04fd260,US,OH,Springfield,0,heat,auto,Home,true,false,true,Electric
+729.71518987341767,700.0,700.0,8099ed5d016f3a37e049406863b1bd19f04fd260,US,OH,Springfield,0,off,hold,Home,true,false,true,Electric
+691.74,792.6,608.14,f3f57b61a1fce9915f89862a01308cc5a7662c65,US,OH,Akron,0,cool,auto,Home,false,false,false,Gas
+717.75764705882352,711.34117647058827,711.34117647058827,44561c93aaacbd4670416c01f1823bb12bff8adf,US,OH,Liberty Township,0,heat,hold,Home,false,false,false,Gas
+697.03571428571433,715.0,715.0,02d56dc5db1dd238d1587211190b99e62cc2d0b8,US,OH,Grafton,0,off,hold,Home,true,false,false,Gas
+691.25,720.0,700.0,794aa32a141e81c7ac076b784b9b103cb1a75138,US,OH,Brunswick,0,cool,auto,Home,false,false,false,Gas
+705.938596491228,733.32456140350882,680.0,0dcb6d1da24030985cf7ca3a36f417757f0500ed,US,OH,Columbus,0,cool,auto,Home,false,false,false,Gas
+735.07258064516134,734.54838709677415,734.266129032258,bfc22d45cf67725dfe675d1393fb2a486ee264f1,US,OH,Strongsville,0,off,hold,Home,true,false,false,Gas
+707.4457831325301,735.02409638554218,685.02409638554218,855686649f6f514c8c15e53e1c35442dcf8960bc,US,OH,Hudson,0,off,auto,Home,false,false,false,Gas
+687.90740740740739,740.0,690.0,f1406e91d7c8fd302e7b4576c5e3950188afe943,US,OH,Dayton,0,auto,auto,Home,false,false,false,Gas
+701.080459770115,750.0,700.0,ff35d6fd6ca8dbb43a99e3efae22030989e2fb6b,US,OH,Toledo,0,heat,auto,Home,false,false,false,Gas
+744.90909090909088,776.90909090909088,689.63636363636363,5f00f518bfe674057489bd7b8b05cfc0f3c08441,US,OH,Cincinnati,0,auto,auto,Home,false,false,false,Gas
+704.82222222222219,740.66666666666663,700.0,44561c93aaacbd4670416c01f1823bb12bff8adf,US,OH,Liberty Township,0,off,hold,Home,false,false,false,Gas
+709.67142857142858,710.0,710.0,8c0bbba238c0484404995a089374e34f09d7384a,US,OH,Columbus,0,off,hold,Home,false,false,false,Gas
+770.91666666666663,770.0,670.0,eacecf3bbcba2867d9ae47ad7af26d94cee66a44,US,OH,Amelia,0,auto,hold,Home,false,false,false,Gas
+734.91304347826087,765.47826086956525,748.47826086956525,bfc22d45cf67725dfe675d1393fb2a486ee264f1,US,OH,Strongsville,0,off,auto,Home,true,false,false,Gas
+691.57142857142856,693.71428571428567,688.0,24f142803b529298184c175982753f7aa04eba4c,US,OH,Akron,0,cool,hold,Home,false,false,false,Gas
+689.4,693.435294117647,691.55294117647054,221d242d12b21c5ad6329cb44dfd47a5253c912f,US,OH,Cleveland heights,0,heat,hold,Home,true,false,false,Gas
+712.81818181818187,720.0,690.0,aa21ec2bb0ac188f8303a6ff565f792e7a0f14d3,US,OH,Springboro,0,cool,hold,Home,true,false,false,Gas
+762.57142857142856,720.0,720.0,5bfa44a5fe6b4788b795bfefc4264d7206a61781,US,OH,Parma,0,off,hold,Home,false,false,false,Gas
+674.25,759.25,708.75,6a93c712fe4fd4772cedfaa992ed98b38e36eaa9,US,OH,Strongsville,0,auto,auto,Home,false,false,false,Gas
+696.5,682.5,682.5,2c7458fa73fa31803c17e4afb79e341bf6c05f78,US,OH,Worthington,0,cool,auto,Home,false,false,false,Gas
+676.0,656.66666666666663,614.44444444444446,f4609397146b3bfe1ebb046d1a748b34693c4e37,US,OH,Cincinnati,0,off,auto,Home,false,false,false,Gas
+742.5,710.0,710.0,e814522b2762dcdbbe0a55c7079568a28b25ce05,US,OH,Amberley,0,cool,hold,Home,false,false,false,Gas
+759.5,749.0,699.0,db755c176296390aa9638bd004dd1fa977f4d53e,US,OH,Cincinnati,0,auto,hold,Home,true,false,false,Gas
+737.0,719.0,714.0,aab92214721d41aa3f5760873353ef2d5d096aa2,US,OH,North Ridgeville,0,auto,auto,Home,false,false,false,Gas
+696.0,741.0,706.0,794aa32a141e81c7ac076b784b9b103cb1a75138,US,OH,Brunswick,0,heat,auto,Home,false,false,false,Gas
+704.0,787.0,712.0,3b9c13c2d3e39a2891223f52a2ce710d0946ec1c,US,OH,Troy,0,cool,auto,Home,false,false,false,Gas
+669.77272727272725,734.22727272727275,675.72727272727275,869a7d67e2563469348fad767fa70b220135b847,US,OH,Strongsville,0,auto,auto,Home,false,false,false,Gas
+681.993006993007,648.49650349650346,672.32867132867136,065121c3ed20e29b8427db09d79d6652897ee9ad,US,OH,Mason,0,heat,auto,Home,false,false,false,Gas
+730.0,730.5,661.5,ae92d0de1a4d140bd82df9c448ab9d3f8639dfaa,US,OH,Dayton,0,cool,auto,Home,false,false,false,Gas
+751.08333333333337,665.0,615.0,f4609397146b3bfe1ebb046d1a748b34693c4e37,US,OH,Cincinnati,0,auto,auto,Home,false,false,false,Gas
+725.03980099502485,720.8955223880597,720.8955223880597,794aa32a141e81c7ac076b784b9b103cb1a75138,US,OH,Brunswick,0,heat,hold,Home,false,false,false,Gas
+726.777108433735,700.48795180722891,650.83433734939763,f4609397146b3bfe1ebb046d1a748b34693c4e37,US,OH,Cincinnati,0,auto,hold,Home,false,false,false,Gas
+695.05134788189991,749.8600770218228,638.01540436456992,221d242d12b21c5ad6329cb44dfd47a5253c912f,US,OH,Cleveland heights,0,heat,auto,Home,true,false,false,Gas
+689.68973747016707,751.10501193317418,636.42124105011931,221d242d12b21c5ad6329cb44dfd47a5253c912f,US,OH,Cleveland heights,0,auto,auto,Home,true,false,false,Gas
+728.44,530.0,530.0,065121c3ed20e29b8427db09d79d6652897ee9ad,US,OH,Mason,0,cool,hold,Home,false,false,false,Gas
+702.382911392405,710.01898734177212,690.0,35f58aad03c16c59dbb6170ea5a53aa67f6486eb,US,OH,Westerville ,0,off,auto,Home,false,false,false,Gas
+705.95923076923077,724.01461538461535,723.90615384615387,3b9c13c2d3e39a2891223f52a2ce710d0946ec1c,US,OH,Troy,0,cool,hold,Home,false,false,false,Gas
+683.59691629955944,819.85132158590307,600.2334801762114,cca5652e08becf09868bd341e7f234e82556420b,US,OH,Newark,0,auto,auto,Home,false,false,false,Gas
+731.861224489796,781.22040816326535,723.22040816326535,075710613aab6b94629d69dba6e4de98167ccb7e,US,OH,Mayfield Village,0,auto,hold,Home,false,false,false,Gas
+694.62990196078431,684.11764705882354,680.58823529411768,2b02d295143071dc91ced99523ad4ebb748439df,US,OH,Toledo,0,heat,auto,Home,false,false,false,Gas
+703.514358974359,688.76307692307694,688.05333333333328,2ee49388052453b7e5c0bd5b689cb0f30506a788,US,OH,Medina,0,heat,auto,Home,false,false,false,Gas
+668.97472456254047,664.33182112767338,656.80622164614385,3b64121d01172e0abdec274455d1d13987d69ed1,US,OH,Port Clinton,0,heat,hold,Home,false,false,false,Gas
+679.862669245648,687.92843326885884,687.79787234042556,ad342e65f9382c44a758989379b82e1af8ce8fe5,US,OH,Grove City,0,cool,hold,Home,false,false,false,Gas
+715.27777777777783,651.16666666666663,646.24074074074076,dbd6dd62fa0dd91f4c4e03e485ecf4232bbb62b9,US,OH,Brooklyn,0,off,hold,Home,false,false,false,Gas
+677.57843137254906,660.0,660.0,07a4af86e62b2cfbae7dbc9c3d39654d6ab7336f,US,OH,Twinsburg,0,heat,auto,Home,false,false,false,Gas
+712.76288659793818,686.18556701030923,686.18556701030923,bad2ebfd38de761bc40e9634d92189bbecb0329e,US,OH,Middlebranch,0,heat,hold,Home,true,false,false,Gas
+756.12609684757876,714.78485537861559,714.78485537861559,c73bc66b6ba38cf0ed35552501738dad618f35a1,US,OH,Wickliffe,0,heat,hold,Home,false,false,false,Gas
+681.33720930232562,670.51162790697674,670.16279069767438,07a4af86e62b2cfbae7dbc9c3d39654d6ab7336f,US,OH,Twinsburg,0,heat,hold,Home,false,false,false,Gas
+671.95652173913038,680.3478260869565,620.26086956521738,de6c6e2b0e3d4208028e8df443b8f7c2f60c838b,US,OH,Pickerington,0,auto,auto,Home,false,false,false,Gas
+692.01785714285711,680.0,680.0,2c7458fa73fa31803c17e4afb79e341bf6c05f78,US,OH,Worthington,0,heat,auto,Home,false,false,false,Gas
+702.15418746533555,689.33166943982246,689.32889628397118,5bfa44a5fe6b4788b795bfefc4264d7206a61781,US,OH,Parma,0,heat,auto,Home,false,false,false,Gas
+704.52009318578916,702.74199184624342,702.74199184624342,aab92214721d41aa3f5760873353ef2d5d096aa2,US,OH,North Ridgeville,0,heat,hold,Home,false,false,false,Gas
+701.55555555555554,700.11111111111109,695.22222222222217,63bba8b1c36113cf4112012d07c423305a2cc82e,US,OH,Toledo,0,cool,hold,Home,false,false,false,Gas
+705.123076923077,708.46153846153845,708.46153846153845,8b794da9250881420812f64e4ec01bd8ec661d0f,US,OH,Youngstown,0,off,hold,Home,false,false,false,Gas
+706.58333333333337,687.5,687.5,5651e54dcbfc530496c242c38c8a9b622c71994f,US,OH,Rocky River,0,heat,hold,Home,false,false,false,Gas
+711.60296540362435,718.74135090609559,718.62932454695226,8b794da9250881420812f64e4ec01bd8ec661d0f,US,OH,Youngstown,0,heat,hold,Home,false,false,false,Gas
+711.3,705.7,703.0,221d242d12b21c5ad6329cb44dfd47a5253c912f,US,OH,Cleveland heights,0,cool,hold,Home,true,false,false,Gas
+715.58653846153845,700.0,700.0,337f230ff50945b538b04c44fd8d582b14c64408,US,OH,Chagrin Falls,0,heat,hold,Home,false,false,false,Gas
+695.60256410256409,705.38461538461536,652.20512820512818,76db903b57a474934c4e044b1a0879ea41cd6742,US,OH,Columbus,0,auto,auto,Home,false,false,false,Gas
+712.53488372093022,707.25581395348843,669.76744186046517,668a95f715b287f8f0c1466ecb333fd0213bf8a8,US,OH,Sidney,0,cool,auto,Home,false,false,false,Gas
+712.40718562874247,715.04191616766468,714.53892215568862,fddaeba6b916a3b0ebf90a8ad6aff597eebf1862,US,OH,Cincinnati,0,heat,auto,Home,false,false,false,Gas
+710.0106100795756,714.50397877984085,714.445623342175,0dcb6d1da24030985cf7ca3a36f417757f0500ed,US,OH,Columbus,0,cool,hold,Home,false,false,false,Gas
+718.66292134831463,720.0,720.0,2ee49388052453b7e5c0bd5b689cb0f30506a788,US,OH,Medina,0,cool,hold,Home,false,false,false,Gas
+688.13333333333333,720.0,660.0,a73f3b35d6a66d7f61485569381d52a4a020b12b,US,OH,North Ridgeville,0,off,auto,Home,false,false,false,Gas
+676.26426426426428,740.0,661.89189189189187,c1ee6506fd558a7ed70cfba35eed9ce314b8d0c7,US,OH,Canton,0,auto,hold,Home,false,false,false,Gas
+704.56462585034012,731.10204081632651,731.10204081632651,7f65b3a3dacff7d7045a20b19515529c94df7b46,US,OH,Bedford,0,cool,hold,Home,false,false,false,Gas
+707.66666666666663,749.93589743589746,704.23076923076928,7f65b3a3dacff7d7045a20b19515529c94df7b46,US,OH,Bedford,0,off,hold,Home,false,false,false,Gas
+707.125,749.98717948717945,684.60256410256409,855686649f6f514c8c15e53e1c35442dcf8960bc,US,OH,Hudson,0,auto,hold,Home,false,false,false,Gas
+714.29333333333329,749.86666666666667,700.0,794aa32a141e81c7ac076b784b9b103cb1a75138,US,OH,Brunswick,0,auto,auto,Home,false,false,false,Gas
+770.88372093023258,750.0,750.0,35ad59c61f9c59922c5ffb925256c3fc692397a5,US,OH,Cincinnati,0,heat,hold,Home,false,false,false,Gas
+738.90909090909088,715.0,665.0,aab92214721d41aa3f5760873353ef2d5d096aa2,US,OH,North Ridgeville,0,auto,hold,Home,false,false,false,Gas
+716.81,720.91,720.91,668a95f715b287f8f0c1466ecb333fd0213bf8a8,US,OH,Sidney,0,cool,hold,Home,false,false,false,Gas
+691.49693251533745,735.0,685.0,855686649f6f514c8c15e53e1c35442dcf8960bc,US,OH,Hudson,0,auto,auto,Home,false,false,false,Gas
+718.88888888888891,750.0,680.0,bd8ebddb8c1788889d20253d14910ed0134acf28,US,OH,Solon,0,auto,hold,Home,false,false,false,Gas
+686.28571428571433,680.0,671.42857142857144,76db903b57a474934c4e044b1a0879ea41cd6742,US,OH,Columbus,0,heat,auto,Home,false,false,false,Gas
+695.0,694.0,674.0,221d242d12b21c5ad6329cb44dfd47a5253c912f,US,OH,Cleveland heights,0,off,auto,Home,true,false,false,Gas
+713.5,709.5,690.5,8099ed5d016f3a37e049406863b1bd19f04fd260,US,OH,Springfield,0,off,auto,Home,true,false,true,Electric
+714.0,746.33333333333337,696.33333333333337,3b9c13c2d3e39a2891223f52a2ce710d0946ec1c,US,OH,Troy,0,off,hold,Home,false,false,false,Gas
+722.0,709.5,709.5,44561c93aaacbd4670416c01f1823bb12bff8adf,US,OH,Liberty Township,0,off,auto,Home,false,false,false,Gas
+746.0,710.0,710.0,8c0bbba238c0484404995a089374e34f09d7384a,US,OH,Columbus,0,cool,hold,Home,false,false,false,Gas
+746.0,770.0,720.0,855686649f6f514c8c15e53e1c35442dcf8960bc,US,OH,Hudson,0,off,hold,Home,false,false,false,Gas
+723.0,688.5,673.5,3b9c13c2d3e39a2891223f52a2ce710d0946ec1c,US,OH,Troy,0,auto,auto,Home,false,false,false,Gas
+704.0,700.0,700.0,63bba8b1c36113cf4112012d07c423305a2cc82e,US,OH,Toledo,0,off,hold,Home,false,false,false,Gas
+678.0,733.0,711.0,5bfa44a5fe6b4788b795bfefc4264d7206a61781,US,OH,Parma,0,auto,auto,Home,false,false,false,Gas

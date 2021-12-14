@@ -1,0 +1,15 @@
+AvgTempCtrl,AvgCool,AvgHeat,Identifier,Country,ProvinceState,City,Age_of_Home__years_,HvacMode,CalendarEvent,Climate,allowCompWithAux,Has_Electric,Has_a_Heat_Pump,Auxilliary_Heat_Fuel_Type
+719.66666666666663,774.91666666666663,724.91666666666663,990cbee2265a38833e75df033fc2c099860581fb,US,ID,Rathdrum,0,auto,hold,Home,false,false,false,Gas
+687.61467889908261,705.00917431192659,655.00917431192659,3f540613f8190b7cd8db0a309195c4c3d2ac3bf8,US,ID,Idaho Falls,0,auto,auto,Home,false,false,false,Gas
+735.58620689655174,740.64655172413791,739.87068965517244,990cbee2265a38833e75df033fc2c099860581fb,US,ID,Rathdrum,0,heat,hold,Home,false,false,false,Gas
+685.25,681.5,680.1875,59ad78072e51fc3b9661bb416c4696347463704c,US,ID,Boise,0,heat,hold,Home,false,false,false,Gas
+670.0,705.0,655.0,3f540613f8190b7cd8db0a309195c4c3d2ac3bf8,US,ID,Idaho Falls,0,off,auto,Home,false,false,false,Gas
+708.92604961832058,709.80582061068708,709.80582061068708,5129e5e4c05095e57bffc1ced24242c93cf5326a,US,ID,Boise,0,heat,hold,Home,false,false,false,Gas
+689.92629482071709,767.69493454752421,680.022766078543,3f540613f8190b7cd8db0a309195c4c3d2ac3bf8,US,ID,Idaho Falls,0,auto,hold,Home,false,false,false,Gas
+681.88888888888891,820.0,790.0,db9a0fff9a2a19b5cc46a67b689565c611c245d0,US,ID,Post Falls,0,cool,hold,Home,false,false,false,Gas
+709.66666666666663,650.75,610.91666666666663,990cbee2265a38833e75df033fc2c099860581fb,US,ID,Rathdrum,0,off,auto,Home,false,false,false,Gas
+729.625,650.0,650.0,990cbee2265a38833e75df033fc2c099860581fb,US,ID,Rathdrum,0,heat,auto,Home,false,false,false,Gas
+654.28102189781021,654.06569343065689,652.367396593674,60109a224b6c64079ef913d0c5cf3dca35abbb35,US,ID,Eagle,0,heat,hold,Home,false,false,false,Gas
+678.1,680.0,680.0,0eb9f31787410572e6cb0995b6af77ae6f13dacc,US,ID,Boise,0,heat,hold,Home,false,false,false,Gas
+704.64090019569471,730.08023483365946,705.65753424657532,5129e5e4c05095e57bffc1ced24242c93cf5326a,US,ID,Boise,0,heat,auto,Home,false,false,false,Gas
+704.11965811965808,740.0,700.0,5129e5e4c05095e57bffc1ced24242c93cf5326a,US,ID,Boise,0,cool,auto,Home,false,false,false,Gas

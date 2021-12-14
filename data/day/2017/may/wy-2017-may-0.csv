@@ -1,0 +1,3 @@
+AvgTempCtrl,AvgCool,AvgHeat,Identifier,Country,ProvinceState,City,Age_of_Home__years_,HvacMode,CalendarEvent,Climate,allowCompWithAux,Has_Electric,Has_a_Heat_Pump,Auxilliary_Heat_Fuel_Type
+682.5791388720437,762.19951485748936,681.561552456034,9d6a98350302417c9b2f10ae3c235d52a3bf7097,US,WY,Sheridan,0,auto,hold,Home,false,false,false,Gas
+727.86956521739125,740.13043478260875,701.82608695652175,a3a3fd48e1b69634ca3859998f7684d1593abcda,US,WY,Cheyenne,0,auto,auto,Home,false,false,false,Gas

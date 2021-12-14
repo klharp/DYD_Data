@@ -1,0 +1,19 @@
+AvgTempCtrl,AvgCool,AvgHeat,Identifier,Country,ProvinceState,City,Age_of_Home__years_,HvacMode,CalendarEvent,Climate,allowCompWithAux,Has_Electric,Has_a_Heat_Pump,Auxilliary_Heat_Fuel_Type
+705.5,685.0,635.0,0eb9f31787410572e6cb0995b6af77ae6f13dacc,US,ID,Boise,0,off,hold,Home,false,false,false,Gas
+677.19230769230774,675.92307692307691,625.92307692307691,0eb9f31787410572e6cb0995b6af77ae6f13dacc,US,ID,Boise,0,auto,hold,Home,false,false,false,Gas
+706.53498871331828,707.87923250564336,709.1805869074492,5129e5e4c05095e57bffc1ced24242c93cf5326a,US,ID,Boise,0,heat,auto,Home,false,false,false,Gas
+694.01687763713085,707.72626582278485,707.71360759493666,5129e5e4c05095e57bffc1ced24242c93cf5326a,US,ID,Boise,0,cool,hold,Home,false,false,false,Gas
+667.37403508771934,653.81122807017539,627.80701754385962,60109a224b6c64079ef913d0c5cf3dca35abbb35,US,ID,Eagle,0,heat,hold,Home,false,false,false,Gas
+668.87878787878788,770.0,650.0,59ad78072e51fc3b9661bb416c4696347463704c,US,ID,Boise,0,auto,auto,Home,false,false,false,Gas
+683.73913043478262,780.0,700.0,af2e12e051baa0782690f8e4fb33211b8c94ad0a,US,ID,eagle,0,off,hold,Home,true,true,true,Electric
+717.79166666666663,780.0,680.0,60109a224b6c64079ef913d0c5cf3dca35abbb35,US,ID,Eagle,0,off,auto,Home,false,false,false,Gas
+736.90277777777783,820.0,620.0,60109a224b6c64079ef913d0c5cf3dca35abbb35,US,ID,Eagle,0,heat,auto,Home,false,false,false,Gas
+716.0,650.0,690.0,0eb9f31787410572e6cb0995b6af77ae6f13dacc,US,ID,Boise,0,heat,auto,Home,false,false,false,Gas
+688.17221693625117,703.52997145575637,707.34728829686014,5129e5e4c05095e57bffc1ced24242c93cf5326a,US,ID,Boise,0,cool,auto,Home,false,false,false,Gas
+716.5797101449275,711.33333333333337,697.11111111111109,0eb9f31787410572e6cb0995b6af77ae6f13dacc,US,ID,Boise,0,heat,hold,Home,false,false,false,Gas
+708.47152847152847,709.27372627372631,709.27372627372631,5129e5e4c05095e57bffc1ced24242c93cf5326a,US,ID,Boise,0,heat,hold,Home,false,false,false,Gas
+712.06585365853664,722.69512195121956,658.86585365853659,db9a0fff9a2a19b5cc46a67b689565c611c245d0,US,ID,Post Falls,0,auto,auto,Home,false,false,false,Gas
+720.7899159663865,724.73109243697479,723.81512605042019,990cbee2265a38833e75df033fc2c099860581fb,US,ID,Rathdrum,0,heat,hold,Home,false,false,false,Gas
+702.38461538461536,720.0,700.0,3f540613f8190b7cd8db0a309195c4c3d2ac3bf8,US,ID,Idaho Falls,0,cool,auto,Home,false,false,false,Gas
+690.15584415584419,734.76623376623377,684.7532467532468,0eb9f31787410572e6cb0995b6af77ae6f13dacc,US,ID,Boise,0,auto,auto,Home,false,false,false,Gas
+784.66666666666663,745.0,745.0,990cbee2265a38833e75df033fc2c099860581fb,US,ID,Rathdrum,0,cool,hold,Home,false,false,false,Gas

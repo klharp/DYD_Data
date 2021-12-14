@@ -1,0 +1,36 @@
+AvgTempCtrl,AvgCool,AvgHeat,Identifier,Country,ProvinceState,City,Age_of_Home__years_,HvacMode,CalendarEvent,Climate,allowCompWithAux,Has_Electric,Has_a_Heat_Pump,Auxilliary_Heat_Fuel_Type
+742.25181758096494,821.63251817580965,799.14738929279576,fdc84179acf8e9c036a4b3e58bc8b11c0cac8f77,US,RI,South Kingstown,0,off,hold,Home,false,false,false,Gas
+695.7890625,650.0,590.0,cc03623832bd0f8a3acd19ddf942310c49c71a66,US,RI,little compton,0,off,hold,Home,false,false,false,Gas
+753.972,757.072,756.358,fdc84179acf8e9c036a4b3e58bc8b11c0cac8f77,US,RI,South Kingstown,0,cool,hold,Home,false,false,false,Gas
+745.23529411764707,751.72549019607845,685.0,7357379d344c770382ed31acdade35404877f5bc,US,RI,Saunderstown,0,auto,hold,Home,false,false,false,Gas
+752.27437641723361,754.66439909297048,754.66439909297048,69ef2ce8fd7d2353ef8bf43dd8fd27a66d1413fc,US,RI,Tiverton,0,cool,hold,Home,false,false,false,Gas
+743.44940476190482,743.891369047619,721.3125,0499a1d83aac1e394606c0a1666889a43e88a731,US,RI,Rumford,0,cool,auto,Home,true,false,false,Gas
+747.683014354067,732.56220095693777,732.54425837320571,0499a1d83aac1e394606c0a1666889a43e88a731,US,RI,Rumford,0,cool,hold,Home,true,false,false,Gas
+688.546511627907,694.16279069767438,645.82558139534888,0acff50a5a8097d75e4524bdcd367521bda0cf1a,US,RI,Barrington,0,auto,auto,Home,false,false,false,Gas
+751.79589371980671,650.0,560.0,4a3e6163b5f4598f85a5a45c719f64b26d318ae5,US,RI,Middletown,0,heat,hold,Home,true,false,false,Gas
+779.83541666666667,650.0,560.0,4a3e6163b5f4598f85a5a45c719f64b26d318ae5,US,RI,Middletown,0,off,hold,Home,true,false,false,Gas
+686.91410488245936,692.77094635322487,610.19017480409889,63a8363aa43217bb2e5f924a37b2a06197df189b,US,RI,South Kingstown,0,auto,hold,Home,true,false,false,Gas
+705.16359794747962,726.85873830365233,643.70661032297016,d07c8c7911b4b7c928fc3f5cb8ec7c5f575f1535,US,RI,South Kingstown,0,auto,hold,Home,true,false,false,Gas
+703.37669376693771,749.439024390244,746.83739837398377,cc03623832bd0f8a3acd19ddf942310c49c71a66,US,RI,little compton,0,cool,hold,Home,false,false,false,Gas
+729.38676607642128,765.38676607642128,765.38676607642128,d8af45783227cf5d14efc84a47b5f0156357f5fb,US,RI,Lincoln,0,cool,hold,Home,false,false,false,Gas
+716.41818181818178,650.0,601.12964426877465,fdc84179acf8e9c036a4b3e58bc8b11c0cac8f77,US,RI,South Kingstown,0,heat,hold,Home,false,false,false,Gas
+775.59740259740261,771.09090909090912,691.68831168831173,2c11b5af2ad0c6b911929ee17d6435743ab38985,US,RI,Johnston,0,cool,auto,Home,false,false,false,Gas
+741.88073394495416,650.0,638.256880733945,69ef2ce8fd7d2353ef8bf43dd8fd27a66d1413fc,US,RI,Tiverton,0,heat,hold,Home,false,false,false,Gas
+731.08284600389868,765.55555555555554,653.33333333333337,0acff50a5a8097d75e4524bdcd367521bda0cf1a,US,RI,Barrington,0,auto,hold,Home,false,false,false,Gas
+715.44642857142856,720.44642857142856,650.0,085d6b55257709a5e3464f47c884726839d32297,US,RI,Warwick,0,cool,auto,Home,false,false,false,Gas
+733.0,740.0,650.0,085d6b55257709a5e3464f47c884726839d32297,US,RI,Warwick,0,off,auto,Home,false,false,false,Gas
+698.66199376947043,650.0,650.0,ccb152f7936cd7a84a5a293e77aa5fd29a8f458d,US,RI,Cranston,0,off,hold,Home,false,false,false,Gas
+723.13846153846157,670.0,670.0,0acff50a5a8097d75e4524bdcd367521bda0cf1a,US,RI,Barrington,0,heat,auto,Home,false,false,false,Gas
+719.15277777777783,750.0,680.0,d8af45783227cf5d14efc84a47b5f0156357f5fb,US,RI,Lincoln,0,cool,auto,Home,false,false,false,Gas
+737.4,754.0,680.0,630cf50d8463f901f42094a4dce158644e75b639,US,RI,Saunderstown,0,auto,hold,Home,false,false,false,Gas
+756.86842105263156,766.38471177944859,698.20050125313287,4a3e6163b5f4598f85a5a45c719f64b26d318ae5,US,RI,Middletown,0,cool,hold,Home,true,false,false,Gas
+740.76190476190482,739.57142857142856,691.61904761904759,fdc84179acf8e9c036a4b3e58bc8b11c0cac8f77,US,RI,South Kingstown,0,cool,auto,Home,false,false,false,Gas
+773.09677419354841,750.0,700.0,0499a1d83aac1e394606c0a1666889a43e88a731,US,RI,Rumford,0,off,auto,Home,true,false,false,Gas
+773.66666666666663,756.66666666666663,684.0,2c11b5af2ad0c6b911929ee17d6435743ab38985,US,RI,Johnston,0,off,auto,Home,false,false,false,Gas
+721.23255813953483,719.37209302325584,719.37209302325584,085d6b55257709a5e3464f47c884726839d32297,US,RI,Warwick,0,cool,hold,Home,false,false,false,Gas
+766.0,747.66666666666663,738.33333333333337,2c11b5af2ad0c6b911929ee17d6435743ab38985,US,RI,Johnston,0,off,hold,Home,false,false,false,Gas
+739.86257468766973,743.041825095057,743.041825095057,0499a1d83aac1e394606c0a1666889a43e88a731,US,RI,Rumford,0,off,hold,Home,true,false,false,Gas
+752.0,750.0,750.0,3e08742d237bf521398b9a95e4b8df731edf49e4,US,RI,Cumberland,0,cool,hold,Home,false,false,false,Gas
+724.0,760.81818181818187,740.4545454545455,630cf50d8463f901f42094a4dce158644e75b639,US,RI,Saunderstown,0,cool,hold,Home,false,false,false,Gas
+762.29411764705878,750.0,750.0,2c11b5af2ad0c6b911929ee17d6435743ab38985,US,RI,Johnston,0,cool,hold,Home,false,false,false,Gas
+731.33333333333337,715.0,715.0,7357379d344c770382ed31acdade35404877f5bc,US,RI,Saunderstown,0,cool,hold,Home,false,false,false,Gas

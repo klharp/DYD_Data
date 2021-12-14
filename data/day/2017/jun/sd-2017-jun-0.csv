@@ -1,0 +1,6 @@
+AvgTempCtrl,AvgCool,AvgHeat,Identifier,Country,ProvinceState,City,Age_of_Home__years_,HvacMode,CalendarEvent,Climate,allowCompWithAux,Has_Electric,Has_a_Heat_Pump,Auxilliary_Heat_Fuel_Type
+679.66865079365084,680.0,620.0,4a2f71c8dace61eeb7806b1c4aabd4f7980dc760,US,SD,Rapid City,0,auto,hold,Home,false,false,false,Gas
+700.51111111111106,700.0,650.0,4a2f71c8dace61eeb7806b1c4aabd4f7980dc760,US,SD,Rapid City,0,cool,auto,Home,false,false,false,Gas
+748.55836575875492,752.192607003891,680.0,0968b16b919c5e8b72ff8de3bda124068f7f322d,US,SD,Sioux Falls,0,auto,auto,Home,false,false,false,Gas
+726.679012345679,751.11111111111109,680.0,0968b16b919c5e8b72ff8de3bda124068f7f322d,US,SD,Sioux Falls,0,auto,hold,Home,false,false,false,Gas
+718.6,765.0,715.0,ba6e220a85539b203580b1486b6e183220f6488c,US,SD,Sioux Falls,0,auto,auto,Home,false,false,false,Gas

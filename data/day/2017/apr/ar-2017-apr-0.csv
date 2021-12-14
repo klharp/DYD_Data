@@ -1,0 +1,143 @@
+AvgTempCtrl,AvgCool,AvgHeat,Identifier,Country,ProvinceState,City,Age_of_Home__years_,HvacMode,CalendarEvent,Climate,allowCompWithAux,Has_Electric,Has_a_Heat_Pump,Auxilliary_Heat_Fuel_Type
+729.75,730.93055555555554,730.80555555555554,d9bebc19f52b6b318ec0f83b49a1e7bf4c800000,US,AR,Sheridan,0,cool,hold,Home,true,false,true,Electric
+736.69403463758817,738.96792815907634,738.79474021808846,524c2b1513fde9bd4b78c791c44b0ec58b97b946,US,AR,Charlotte,0,cool,hold,Home,false,false,true,Electric
+685.62641509433968,702.04905660377358,652.43773584905659,91f406bfab7ab76b4a710339feca76cc58623ad6,US,AR,Marion,0,auto,auto,Home,false,false,false,Gas
+726.32708333333335,732.4666666666667,730.07083333333333,2e29dc2d17ffa5d19bc1ceb526300bb3d6ffbfee,US,AR,Searcy,0,cool,auto,Home,false,false,false,Gas
+725.81983805668017,752.5607287449393,752.52631578947364,89b44c708a762cb01616ed8e55cc8fe660cffb43,US,AR,Magnolia,0,cool,hold,Home,false,false,false,Gas
+703.78571428571433,748.6737012987013,654.82467532467535,e32c7f0ccf82a64ca73ee6fe70b4fbde9f97b716,US,AR,Alexander,0,auto,hold,Home,false,false,true,Electric
+639.85584092792044,648.46934548467277,648.38359569179784,d2aeae56b5aedc55ce1e17b960ad2d3ba94ca002,US,AR,El Dorado,0,cool,hold,Home,false,false,false,Gas
+707.05324074074076,733.49537037037032,654.96064814814815,685e3132e42325281e5ade82ff353736da18690b,US,AR,Greenbrier,0,auto,hold,Home,false,false,false,Gas
+715.49346405228755,753.33333333333337,753.33333333333337,5233d9c1c5df89079125d71e93d1eb7217733b1d,US,AR,Pine Bluff,0,cool,hold,Home,false,false,true,Electric
+661.81676413255366,702.76803118908379,654.55360623781678,bfb514b935f6a72d4d76483ca050e3efff46717d,US,AR,Springdale,0,off,auto,Home,false,false,false,Gas
+667.70754716981128,733.48113207547169,663.48113207547169,bfb514b935f6a72d4d76483ca050e3efff46717d,US,AR,Springdale,0,auto,auto,Home,false,false,false,Gas
+611.68825910931173,679.43724696356276,632.255060728745,bfb514b935f6a72d4d76483ca050e3efff46717d,US,AR,Springdale,0,off,hold,Home,false,false,false,Gas
+640.10655737704917,675.0,625.0,bfb514b935f6a72d4d76483ca050e3efff46717d,US,AR,Springdale,0,auto,hold,Home,false,false,false,Gas
+693.7791666666667,688.4125,691.45,bfb514b935f6a72d4d76483ca050e3efff46717d,US,AR,Springdale,0,heat,auto,Home,false,false,false,Gas
+687.79153094462538,685.85993485342021,685.885993485342,8808f47cb324f0d40e9041429253e3de4c0d9e0d,US,AR,Bentonville,0,heat,auto,Home,false,false,false,Gas
+703.54245283018872,789.24528301886789,675.940251572327,4a7d186eaab08e606dd07176b71c55da75cf09d3,US,AR,Bentonville,0,auto,hold,Home,false,false,true,Electric
+677.96130117779023,650.0,450.0,3b7425ec0c718c95c796a53ce8cba6c1a269a926,US,AR,Little Rock,0,heat,hold,Home,true,false,false,Gas
+652.59210526315792,650.0,500.0,8105256aebc7a9bb741015a1add0c1cbd07eecc2,US,AR,Little Rock,0,heat,hold,Home,false,false,false,Gas
+710.506392694064,718.2844748858447,668.2844748858447,9ea5f08e3d9020a26b4e58e94dfcdc01165b742e,US,AR,Little Rock,0,auto,hold,Home,false,false,false,Gas
+701.8360655737705,747.27868852459017,747.110655737705,d29d4a30656fe8d8339f19c788a5a76f83fb5a16,US,AR,Little Rock,0,cool,hold,Home,false,false,false,Gas
+664.08805031446536,684.44654088050311,684.44654088050311,951772b244e17b0b0553a8b6ceed085017a24ba9,US,AR,North Little Rock,0,cool,hold,Home,false,false,false,Gas
+754.33457249070636,762.41635687732344,753.79182156133834,2fdae69166f873813b4fde33534755ea8d0f20fa,US,AR,Little Rock,0,cool,auto,Home,false,false,false,Gas
+726.26942148760327,756.32438016528931,756.32231404958679,2fdae69166f873813b4fde33534755ea8d0f20fa,US,AR,Little Rock,0,cool,hold,Home,false,false,false,Gas
+712.18350168350173,737.98821548821547,737.98821548821547,35706ac6a4c8e07f711f0c5a245c102ebc115b9e,US,AR,Fayetteville,0,cool,hold,Home,false,false,false,Gas
+743.27066817667048,751.72480181200456,751.74405436013592,1c15ca425e0204a3c1bfda7d5b0163baf89a0e6e,US,AR,Searcy,0,cool,hold,Home,false,false,false,Gas
+742.66704675028507,750.54389965792473,750.54389965792473,2e29dc2d17ffa5d19bc1ceb526300bb3d6ffbfee,US,AR,Searcy,0,cool,hold,Home,false,false,false,Gas
+755.27173913043475,772.26086956521738,761.52173913043475,89b44c708a762cb01616ed8e55cc8fe660cffb43,US,AR,Magnolia,0,heat,auto,Home,false,false,false,Gas
+756.01724137931035,780.0,780.0,89b44c708a762cb01616ed8e55cc8fe660cffb43,US,AR,Magnolia,0,off,hold,Home,false,false,false,Gas
+739.6863517060367,752.87007874015751,765.35433070866145,15dd1cd0cea3a01f8309bd4c36d5d4a28de6f668,US,AR,Little Rock,0,cool,auto,Home,false,false,false,Gas
+744.69375,756.775,754.075,10f228ac41f9efc8bc725e0b7d270d8dd410459e,US,AR,Little Rock,0,cool,hold,Home,false,false,false,Gas
+706.78419811320759,804.85849056603774,750.37028301886789,ee3ff2956889c8624f5176993bee3fabd7ebe5ae,US,AR,Marion,0,cool,auto,Home,false,false,false,Gas
+722.2550231839258,738.67078825347755,731.96522411128285,5799c4260d25d351d499f0c602f90e64ce1352b9,US,AR,Little Rock,0,cool,hold,Home,false,false,false,Gas
+675.41764705882349,727.0,727.0,3b7425ec0c718c95c796a53ce8cba6c1a269a926,US,AR,Little Rock,0,cool,hold,Home,true,false,false,Gas
+731.45495495495493,771.57282282282279,715.44219219219224,5799c4260d25d351d499f0c602f90e64ce1352b9,US,AR,Little Rock,0,cool,auto,Home,false,false,false,Gas
+651.56267409470752,672.10584958217271,629.95264623955427,d2aeae56b5aedc55ce1e17b960ad2d3ba94ca002,US,AR,El Dorado,0,cool,auto,Home,false,false,false,Gas
+704.09523809523807,799.959614225437,600.03978300180836,3eba2fd16ec12fb5892eb3d7df4d241a007b906b,US,AR,Little Rock,0,auto,hold,Home,false,false,false,Gas
+735.29530201342277,799.78859060402681,600.21140939597319,3eba2fd16ec12fb5892eb3d7df4d241a007b906b,US,AR,Little Rock,0,auto,auto,Home,false,false,false,Gas
+711.89058728881741,850.0,610.0,5799c4260d25d351d499f0c602f90e64ce1352b9,US,AR,Little Rock,0,off,auto,Home,false,false,false,Gas
+682.70348258706463,760.0,620.0,8e3fc7baebae67455ff40d116fe2d74276a8ecaa,US,AR,Maumelle,0,auto,hold,Home,true,false,false,Gas
+680.6428223844282,731.70072992700727,620.0,8e3fc7baebae67455ff40d116fe2d74276a8ecaa,US,AR,Maumelle,0,auto,auto,Home,true,false,false,Gas
+743.13333333333333,754.24102564102566,620.0,d29d4a30656fe8d8339f19c788a5a76f83fb5a16,US,AR,Little Rock,0,cool,auto,Home,false,false,false,Gas
+677.72068965517246,694.61034482758623,638.803448275862,1b66a593ab5e49035d82f6e2c17652e21bf28ac7,US,AR,Rogers,0,auto,hold,Home,false,false,false,Gas
+708.24537037037032,776.66666666666663,633.33333333333337,685e3132e42325281e5ade82ff353736da18690b,US,AR,Greenbrier,0,auto,auto,Home,false,false,false,Gas
+706.08333333333337,710.0,630.0,5472d94328999e3dd7f841ed23f08ea4b5b62623,US,AR,North Little Rock,0,auto,auto,Home,false,false,false,Gas
+728.3421354764638,745.88289322617686,649.99024110218136,e32c7f0ccf82a64ca73ee6fe70b4fbde9f97b716,US,AR,Alexander,0,auto,auto,Home,false,false,true,Electric
+695.25176470588235,671.51058823529411,671.31294117647064,6992fa7f5152d432d58ea4a195774e2dec813d42,US,AR,Paragould,0,heat,auto,Home,false,false,true,Electric
+711.1425339366516,778.1447963800905,655.5746606334842,474d9b532e133415a9d276094761fa6ea148cb31,US,AR,Rogers,0,auto,hold,Home,true,false,false,Gas
+684.17965653896965,697.10964332893,697.10964332893,bfb514b935f6a72d4d76483ca050e3efff46717d,US,AR,Springdale,0,cool,hold,Home,false,false,false,Gas
+704.77884615384619,767.11950549450546,664.59615384615381,c6d60c64e05dab4263c0a2b8571a601fcf84caa0,US,AR,Bentonville,0,auto,auto,Home,false,false,false,Gas
+712.45684972842491,739.9070609535305,653.22027761013885,f0c6b2f4b68ebba1c08822be225d142fd78bffc7,US,AR,Little Rock,0,auto,hold,Home,false,false,false,Gas
+703.8648648648649,704.27027027027032,652.1351351351351,91b8f0196e96af9e352e66c8ad151c06fca1bbe6,US,AR,Little Rock,0,auto,hold,Home,true,false,false,Gas
+676.5761904761905,660.0,660.0,d2e75a2c90de867dbde7c6eb3d74b9d3ce5ef160,US,AR,Pocahontas,0,heat,hold,Home,false,false,false,Gas
+684.50595238095241,685.0,675.0,d2e75a2c90de867dbde7c6eb3d74b9d3ce5ef160,US,AR,Pocahontas,0,cool,auto,Home,false,false,false,Gas
+721.5059132720105,707.62155059132715,707.619579500657,27792f50095af21530d9e12dcc6e54a4bf31f0a9,US,AR,Lowell,0,heat,hold,Home,false,false,false,Gas
+672.19548872180451,667.52631578947364,667.593984962406,91f406bfab7ab76b4a710339feca76cc58623ad6,US,AR,Marion,0,cool,hold,Home,false,false,false,Gas
+701.146186440678,660.05720338983053,660.05720338983053,cd68debe24af1893460e06a2dbe2f3d3b36e7756,US,AR,Maumelle,0,off,auto,Home,false,false,false,Gas
+669.90825688073392,629.17431192660547,629.17431192660547,d2aeae56b5aedc55ce1e17b960ad2d3ba94ca002,US,AR,El Dorado,0,off,hold,Home,false,false,false,Gas
+734.414653784219,728.90499194847018,697.93438003220615,cff15706dd9048974ac61ac10d9fdea0d5533b0b,US,AR,Cabot,0,off,auto,Home,false,false,true,Electric
+731.91880341880346,720.26068376068372,719.482905982906,27792f50095af21530d9e12dcc6e54a4bf31f0a9,US,AR,Lowell,0,heat,auto,Home,false,false,false,Gas
+683.0201484623542,682.34252386002117,686.19936373276778,91f406bfab7ab76b4a710339feca76cc58623ad6,US,AR,Marion,0,cool,auto,Home,false,false,false,Gas
+676.7579852579853,670.0,670.0,ee3ff2956889c8624f5176993bee3fabd7ebe5ae,US,AR,Marion,0,off,auto,Home,false,false,false,Gas
+714.45663716814158,721.77433628318579,708.92743362831857,fff29f4a20cf21ebb64f5555af72670fb05a837b,US,AR,Marion,0,cool,auto,Home,false,false,false,Gas
+693.144578313253,730.0,670.0,2f2577de3e20e994ec25e6bfb05129ea2b2ca646,US,AR,Sherwood,0,auto,hold,Home,true,false,false,Gas
+683.86458333333337,730.0,670.0,2f2577de3e20e994ec25e6bfb05129ea2b2ca646,US,AR,Sherwood,0,auto,auto,Home,true,false,false,Gas
+675.09615384615381,724.22115384615381,697.94230769230774,c5111be7b7b571d0ed29f34b1be40a9f4b8e6fde,US,AR,Fort Smith,0,cool,auto,Home,true,false,false,Gas
+707.736641221374,778.37213740458014,673.89312977099235,c6d60c64e05dab4263c0a2b8571a601fcf84caa0,US,AR,Bentonville,0,auto,hold,Home,false,false,false,Gas
+688.43862815884472,685.51263537906141,689.115523465704,8808f47cb324f0d40e9041429253e3de4c0d9e0d,US,AR,Bentonville,0,off,auto,Home,false,false,false,Gas
+708.81067961165047,740.0,670.0,f0c6b2f4b68ebba1c08822be225d142fd78bffc7,US,AR,Little Rock,0,off,hold,Home,false,false,false,Gas
+692.16666666666663,701.0,670.40476190476193,0d48ed37f8f3313a241ec77a24422aef147a9f8f,US,AR,Little Rock,0,auto,hold,Home,false,false,false,Gas
+711.49629629629635,670.71851851851852,669.78518518518524,5799c4260d25d351d499f0c602f90e64ce1352b9,US,AR,Little Rock,0,off,hold,Home,false,false,false,Gas
+672.77777777777783,674.77777777777783,670.0,35706ac6a4c8e07f711f0c5a245c102ebc115b9e,US,AR,Fayetteville,0,cool,auto,Home,false,false,false,Gas
+706.33659491193737,727.06262230919765,677.06262230919765,91cf354b9c98942be8d592c68339db00dd45d36c,US,AR,Hot Springs,0,auto,auto,Home,false,false,false,Gas
+732.77732518669382,748.40393754243041,681.5145960624576,524c2b1513fde9bd4b78c791c44b0ec58b97b946,US,AR,Charlotte,0,auto,hold,Home,false,false,true,Electric
+665.03731343283584,684.51865671641792,684.5111940298508,d2e75a2c90de867dbde7c6eb3d74b9d3ce5ef160,US,AR,Pocahontas,0,cool,hold,Home,false,false,false,Gas
+682.35,680.15,679.95,6992fa7f5152d432d58ea4a195774e2dec813d42,US,AR,Paragould,0,cool,auto,Home,false,false,true,Electric
+710.23444976076553,677.17703349282294,677.11961722488036,6992fa7f5152d432d58ea4a195774e2dec813d42,US,AR,Paragould,0,heat,hold,Home,false,false,true,Electric
+767.5,750.0,680.0,524c2b1513fde9bd4b78c791c44b0ec58b97b946,US,AR,Charlotte,0,off,hold,Home,false,false,true,Electric
+745.425,746.575,681.85,cff15706dd9048974ac61ac10d9fdea0d5533b0b,US,AR,Cabot,0,cool,auto,Home,false,false,true,Electric
+712.88939051918737,717.65914221218964,717.6313017306245,fff29f4a20cf21ebb64f5555af72670fb05a837b,US,AR,Marion,0,cool,hold,Home,false,false,false,Gas
+712.560975609756,708.41463414634143,680.0,2f2577de3e20e994ec25e6bfb05129ea2b2ca646,US,AR,Sherwood,0,cool,auto,Home,true,false,false,Gas
+733.55490196078426,801.33333333333337,680.0,c4bc0fd34599db54045a86c96c622b5f04b2109f,US,AR,Little Rock,0,cool,auto,Home,false,false,false,Gas
+689.30882352941171,701.32352941176475,701.32352941176475,f4d6abcef06426574cc8b5a80ca5a30116fafa5b,US,AR,Fayetteville,0,cool,hold,Home,false,false,false,Gas
+704.87926509186354,713.04461942257217,713.03149606299212,27792f50095af21530d9e12dcc6e54a4bf31f0a9,US,AR,Lowell,0,cool,hold,Home,false,false,false,Gas
+702.70833333333337,697.91666666666663,681.25,2f2577de3e20e994ec25e6bfb05129ea2b2ca646,US,AR,Sherwood,0,cool,hold,Home,true,false,false,Gas
+701.343137254902,740.0,690.0,5233d9c1c5df89079125d71e93d1eb7217733b1d,US,AR,Pine Bluff,0,auto,hold,Home,false,false,true,Electric
+737.43478260869563,741.52173913043475,688.47826086956525,c01397ce78468ebda41f3bb4545f117d4e1e8ce2,US,AR,Little Rock,0,cool,auto,Home,false,false,false,Gas
+716.75714285714287,740.0,690.0,c01397ce78468ebda41f3bb4545f117d4e1e8ce2,US,AR,Little Rock,0,auto,auto,Home,false,false,false,Gas
+705.71428571428567,694.82142857142856,694.50595238095241,35706ac6a4c8e07f711f0c5a245c102ebc115b9e,US,AR,Fayetteville,0,heat,auto,Home,false,false,false,Gas
+697.58649789029539,705.126582278481,705.126582278481,19fb18dfa8f57589feae60fa8cbc977094f05ae8,US,AR,Fayetteville,0,off,hold,Home,false,false,false,Gas
+702.18446601941753,709.27184466019412,709.27184466019412,19fb18dfa8f57589feae60fa8cbc977094f05ae8,US,AR,Fayetteville,0,heat,hold,Home,false,false,false,Gas
+635.96043165467631,693.56115107913672,693.56115107913672,951772b244e17b0b0553a8b6ceed085017a24ba9,US,AR,North Little Rock,0,off,hold,Home,false,false,false,Gas
+698.66666666666663,685.90909090909088,685.90909090909088,951772b244e17b0b0553a8b6ceed085017a24ba9,US,AR,North Little Rock,0,heat,hold,Home,false,false,false,Gas
+698.1639344262295,714.75409836065569,714.26229508196718,6992fa7f5152d432d58ea4a195774e2dec813d42,US,AR,Paragould,0,cool,hold,Home,false,false,true,Electric
+723.88593155893534,723.97338403041829,723.77566539923953,cff15706dd9048974ac61ac10d9fdea0d5533b0b,US,AR,Cabot,0,heat,auto,Home,false,false,true,Electric
+695.51729559748424,704.70283018867929,700.80660377358492,91f406bfab7ab76b4a710339feca76cc58623ad6,US,AR,Marion,0,heat,auto,Home,false,false,false,Gas
+701.07083333333333,702.41666666666663,702.41666666666663,fff29f4a20cf21ebb64f5555af72670fb05a837b,US,AR,Marion,0,off,hold,Home,false,false,false,Gas
+703.22580645161293,707.5913978494624,706.38709677419354,91f406bfab7ab76b4a710339feca76cc58623ad6,US,AR,Marion,0,off,auto,Home,false,false,false,Gas
+681.45,700.0,700.0,fff29f4a20cf21ebb64f5555af72670fb05a837b,US,AR,Marion,0,heat,hold,Home,false,false,false,Gas
+705.77007299270076,700.0,700.0,fff29f4a20cf21ebb64f5555af72670fb05a837b,US,AR,Marion,0,off,auto,Home,false,false,false,Gas
+701.71641791044772,710.44776119402979,710.44776119402979,fff29f4a20cf21ebb64f5555af72670fb05a837b,US,AR,Marion,0,heat,auto,Home,false,false,false,Gas
+723.4375,708.3671875,707.8984375,2e29dc2d17ffa5d19bc1ceb526300bb3d6ffbfee,US,AR,Searcy,0,heat,hold,Home,false,false,false,Gas
+707.8039215686274,750.0,700.0,0e499d37214110cdde94146ebfe557b16c964379,US,AR,Alexander,0,auto,hold,Home,false,false,true,Electric
+704.83006535947709,700.0,700.0,0e499d37214110cdde94146ebfe557b16c964379,US,AR,Alexander,0,heat,hold,Home,false,false,true,Electric
+716.02389078498288,728.01151877133111,728.01151877133111,0e499d37214110cdde94146ebfe557b16c964379,US,AR,Alexander,0,cool,hold,Home,false,false,true,Electric
+684.5191740412979,700.0,700.0,c5111be7b7b571d0ed29f34b1be40a9f4b8e6fde,US,AR,Fort Smith,0,cool,hold,Home,true,false,false,Gas
+709.561403508772,706.03508771929819,705.0526315789474,c5111be7b7b571d0ed29f34b1be40a9f4b8e6fde,US,AR,Fort Smith,0,heat,hold,Home,true,false,false,Gas
+732.73291925465844,735.78260869565213,700.0,5233d9c1c5df89079125d71e93d1eb7217733b1d,US,AR,Pine Bluff,0,cool,auto,Home,false,false,true,Electric
+762.69767441860461,700.0,700.0,5233d9c1c5df89079125d71e93d1eb7217733b1d,US,AR,Pine Bluff,0,heat,auto,Home,false,false,true,Electric
+699.34931506849318,702.02054794520552,701.67808219178085,bfb514b935f6a72d4d76483ca050e3efff46717d,US,AR,Springdale,0,heat,hold,Home,false,false,false,Gas
+700.47619047619048,780.0,698.07936507936506,4a7d186eaab08e606dd07176b71c55da75cf09d3,US,AR,Bentonville,0,auto,auto,Home,false,false,true,Electric
+709.51769911504425,757.7964601769911,707.7964601769911,91cf354b9c98942be8d592c68339db00dd45d36c,US,AR,Hot Springs,0,auto,hold,Home,false,false,false,Gas
+725.13636363636363,726.72727272727275,715.530303030303,27792f50095af21530d9e12dcc6e54a4bf31f0a9,US,AR,Lowell,0,cool,auto,Home,false,false,false,Gas
+715.59707446808511,710.95345744680856,710.95345744680856,cd68debe24af1893460e06a2dbe2f3d3b36e7756,US,AR,Maumelle,0,heat,hold,Home,false,false,false,Gas
+699.83333333333337,700.0,710.0,c5111be7b7b571d0ed29f34b1be40a9f4b8e6fde,US,AR,Fort Smith,0,heat,auto,Home,true,false,false,Gas
+713.15151515151513,715.0,715.0,19fb18dfa8f57589feae60fa8cbc977094f05ae8,US,AR,Fayetteville,0,cool,hold,Home,false,false,false,Gas
+717.83333333333337,721.875,721.14583333333337,1c15ca425e0204a3c1bfda7d5b0163baf89a0e6e,US,AR,Searcy,0,heat,hold,Home,false,false,false,Gas
+726.70933333333335,725.44,725.44,5233d9c1c5df89079125d71e93d1eb7217733b1d,US,AR,Pine Bluff,0,heat,hold,Home,false,false,true,Electric
+713.79310344827582,718.58620689655174,718.43103448275861,35706ac6a4c8e07f711f0c5a245c102ebc115b9e,US,AR,Fayetteville,0,heat,hold,Home,false,false,false,Gas
+732.80536912751677,733.28859060402681,733.28859060402681,cff15706dd9048974ac61ac10d9fdea0d5533b0b,US,AR,Cabot,0,off,hold,Home,false,false,true,Electric
+726.54334038054969,740.00634249471454,730.49682875264273,1c15ca425e0204a3c1bfda7d5b0163baf89a0e6e,US,AR,Searcy,0,cool,auto,Home,false,false,false,Gas
+711.68382352941171,731.38970588235293,733.79411764705878,10f228ac41f9efc8bc725e0b7d270d8dd410459e,US,AR,Little Rock,0,cool,auto,Home,false,false,false,Gas
+753.88888888888891,740.0,740.0,cff15706dd9048974ac61ac10d9fdea0d5533b0b,US,AR,Cabot,0,cool,hold,Home,false,false,true,Electric
+735.96700507614219,740.0,740.0,cd68debe24af1893460e06a2dbe2f3d3b36e7756,US,AR,Maumelle,0,off,hold,Home,false,false,false,Gas
+752.21580547112467,758.26747720364745,747.06686930091189,89b44c708a762cb01616ed8e55cc8fe660cffb43,US,AR,Magnolia,0,cool,auto,Home,false,false,false,Gas
+745.11764705882354,753.5,749.5,89b44c708a762cb01616ed8e55cc8fe660cffb43,US,AR,Magnolia,0,heat,hold,Home,false,false,false,Gas
+718.25,750.0,750.0,15dd1cd0cea3a01f8309bd4c36d5d4a28de6f668,US,AR,Little Rock,0,cool,hold,Home,false,false,false,Gas
+755.0,760.0,760.0,15dd1cd0cea3a01f8309bd4c36d5d4a28de6f668,US,AR,Little Rock,0,heat,auto,Home,false,false,false,Gas
+731.27272727272725,730.0,680.0,cff15706dd9048974ac61ac10d9fdea0d5533b0b,US,AR,Cabot,0,auto,auto,Home,false,false,true,Electric
+750.52631578947364,808.36842105263156,781.0526315789474,ee3ff2956889c8624f5176993bee3fabd7ebe5ae,US,AR,Marion,0,cool,hold,Home,false,false,false,Gas
+679.26923076923072,680.0,630.0,1b66a593ab5e49035d82f6e2c17652e21bf28ac7,US,AR,Rogers,0,auto,auto,Home,false,false,false,Gas
+767.33333333333337,780.0,780.0,89b44c708a762cb01616ed8e55cc8fe660cffb43,US,AR,Magnolia,0,off,auto,Home,false,false,false,Gas
+702.73333333333335,690.0,700.0,8808f47cb324f0d40e9041429253e3de4c0d9e0d,US,AR,Bentonville,0,cool,auto,Home,false,false,false,Gas
+716.3,714.85,623.3,c01397ce78468ebda41f3bb4545f117d4e1e8ce2,US,AR,Little Rock,0,auto,hold,Home,false,false,false,Gas
+735.36363636363637,760.90909090909088,648.63636363636363,f0c6b2f4b68ebba1c08822be225d142fd78bffc7,US,AR,Little Rock,0,auto,auto,Home,false,false,false,Gas
+719.71428571428567,760.0,760.0,d29d4a30656fe8d8339f19c788a5a76f83fb5a16,US,AR,Little Rock,0,heat,hold,Home,false,false,false,Gas
+731.22222222222217,740.66666666666663,730.0,2e29dc2d17ffa5d19bc1ceb526300bb3d6ffbfee,US,AR,Searcy,0,heat,auto,Home,false,false,false,Gas
+727.92857142857144,740.0,740.0,cd68debe24af1893460e06a2dbe2f3d3b36e7756,US,AR,Maumelle,0,cool,hold,Home,false,false,false,Gas
+670.42857142857144,681.0,681.71428571428567,91f406bfab7ab76b4a710339feca76cc58623ad6,US,AR,Marion,0,heat,hold,Home,false,false,false,Gas
+730.55555555555554,742.66666666666663,730.0,1c15ca425e0204a3c1bfda7d5b0163baf89a0e6e,US,AR,Searcy,0,heat,auto,Home,false,false,false,Gas
+729.0,730.0,730.0,cff15706dd9048974ac61ac10d9fdea0d5533b0b,US,AR,Cabot,0,heat,hold,Home,false,false,true,Electric
+748.8,730.0,660.0,caa3a6d7300286ca2179faf454973f425498aefa,US,AR,Little Rock,0,auto,hold,Home,false,false,false,Gas
+670.0,705.0,697.0,bfb514b935f6a72d4d76483ca050e3efff46717d,US,AR,Springdale,0,cool,auto,Home,false,false,false,Gas

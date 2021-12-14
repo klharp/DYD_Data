@@ -1,0 +1,34 @@
+AvgTempCtrl,AvgCool,AvgHeat,Identifier,Country,ProvinceState,City,Age_of_Home__years_,HvacMode,CalendarEvent,Climate,allowCompWithAux,Has_Electric,Has_a_Heat_Pump,Auxilliary_Heat_Fuel_Type
+721.1664,722.9136,722.8464,a8324dbb55ef5e62f81ebac499a34cad487b2be0,US,MS,Gautier,0,cool,hold,Home,false,false,false,Gas
+726.698,732.213,732.059,74dbbbb51e8b011a771460545abaf9ba3690b807,US,MS,Starkville,0,cool,hold,Home,false,false,false,Gas
+755.27083333333337,731.25,687.5,9b718599ed03efd98e2b15948c86641a7cd4b249,US,MS,Madison,0,off,hold,Home,false,false,false,Gas
+723.00953206239171,737.57798960138643,740.64298093587524,74dbbbb51e8b011a771460545abaf9ba3690b807,US,MS,Starkville,0,cool,auto,Home,false,false,false,Gas
+735.1435897435897,736.9448717948718,736.9448717948718,01194744830da7bbc9603d51735c58faef66f72e,US,MS,Ocean Springs,0,cool,hold,Home,false,false,true,Electric
+720.41940657578186,720.70809943865277,720.71772253408176,4ab87020faba980deaf93b4ed381b5dfe1560e1c,US,MS,Pascagoula,0,cool,hold,Home,true,false,true,Electric
+735.23537669630321,734.36827328029949,734.35423490875064,7a2235db1ab86797886b3e2e4f51ebaf6bb92565,US,MS,Mooreville,0,cool,hold,Home,false,false,true,Electric
+748.44866071428567,750.94642857142856,734.5390625,7a2235db1ab86797886b3e2e4f51ebaf6bb92565,US,MS,Mooreville,0,cool,auto,Home,false,false,true,Electric
+657.35174880763111,655.72933227344993,655.72972972972968,7cc2be730bbe938e66cd541effe371e022c894d3,US,MS,Ocean Springs,0,cool,hold,Home,false,false,true,Electric
+758.34235668789813,758.01804670912952,757.96656050955414,be35204453ce52fb60900381376b731c0192106b,US,MS,Meridian,0,cool,hold,Home,true,false,true,Electric
+757.5,766.25,741.25,9b718599ed03efd98e2b15948c86641a7cd4b249,US,MS,Madison,0,cool,hold,Home,false,false,false,Gas
+718.74213406292745,721.87824897400822,602.23529411764707,3df4163d6cb3ba0e5657f420ad031f59c0fc3176,US,MS,Brandon,0,auto,auto,Home,false,false,false,Gas
+701.71875,692.703125,600.0,3df4163d6cb3ba0e5657f420ad031f59c0fc3176,US,MS,Brandon,0,auto,hold,Home,false,false,false,Gas
+659.713493530499,658.913123844732,624.49168207024024,7cc2be730bbe938e66cd541effe371e022c894d3,US,MS,Ocean Springs,0,cool,auto,Home,false,false,true,Electric
+740.64798671647986,736.99916977999169,639.129099211291,5fdd61e1a374c2c7ee88c7beeb7cc0131bb946ba,US,MS,Jackson,0,auto,hold,Home,false,false,false,Gas
+759.49509803921569,756.18627450980387,634.36274509803923,5fdd61e1a374c2c7ee88c7beeb7cc0131bb946ba,US,MS,Jackson,0,auto,auto,Home,false,false,false,Gas
+740.2614942528736,747.87356321839081,673.90804597701151,acd97a13f88cef7f94754ac51666c66cb3789ce5,US,MS,Biloxi,0,cool,auto,Home,false,false,true,Electric
+738.00803212851406,736.92269076305217,676.02108433734941,01194744830da7bbc9603d51735c58faef66f72e,US,MS,Ocean Springs,0,cool,auto,Home,false,false,true,Electric
+756.13811780636422,750.0,650.0,26851c35a72dc67eeebe3c9d26f5499381cd4669,US,MS,Starkville,0,cool,auto,Home,false,false,true,Electric
+737.94444444444446,704.52777777777783,664.36111111111109,5fdd61e1a374c2c7ee88c7beeb7cc0131bb946ba,US,MS,Jackson,0,cool,hold,Home,false,false,false,Gas
+754.38947368421054,769.37368421052633,669.69473684210527,f353f6e32d73a69a21b435f6af732064a21a9305,US,MS,Madison,0,auto,hold,Home,false,false,false,Gas
+757.12740384615381,757.97836538461536,669.97836538461536,f353f6e32d73a69a21b435f6af732064a21a9305,US,MS,Madison,0,auto,auto,Home,false,false,false,Gas
+711.02537231108658,709.69442912300053,719.9906232763376,4ab87020faba980deaf93b4ed381b5dfe1560e1c,US,MS,Pascagoula,0,cool,auto,Home,true,false,true,Electric
+712.16492693110649,713.79749478079327,713.26722338204593,a8324dbb55ef5e62f81ebac499a34cad487b2be0,US,MS,Gautier,0,cool,auto,Home,false,false,false,Gas
+738.11666666666667,706.8416666666667,706.6583333333333,a8324dbb55ef5e62f81ebac499a34cad487b2be0,US,MS,Gautier,0,heat,hold,Home,false,false,false,Gas
+759.3,756.45,706.225,e2a5d9e8bff94f9fc2f5a8a8ed4dc57a80e0c7ef,US,MS,Olive Branch,0,auto,hold,Home,false,false,false,Gas
+700.57843137254906,700.0,700.0,26851c35a72dc67eeebe3c9d26f5499381cd4669,US,MS,Starkville,0,cool,hold,Home,false,false,true,Electric
+751.04166666666663,757.5,707.5,9b718599ed03efd98e2b15948c86641a7cd4b249,US,MS,Madison,0,auto,hold,Home,false,false,false,Gas
+748.85714285714289,740.0,726.66666666666663,a8324dbb55ef5e62f81ebac499a34cad487b2be0,US,MS,Gautier,0,heat,auto,Home,false,false,false,Gas
+725.16903225806448,724.02451612903224,723.963870967742,348f67658269c0c28e23e234c66eb11891eef614,US,MS,Madison,0,cool,hold,Home,false,false,false,Gas
+721.89082969432309,720.0,720.0,acd97a13f88cef7f94754ac51666c66cb3789ce5,US,MS,Biloxi,0,cool,hold,Home,false,false,true,Electric
+738.343137254902,738.45098039215691,738.45098039215691,f353f6e32d73a69a21b435f6af732064a21a9305,US,MS,Madison,0,cool,hold,Home,false,false,false,Gas
+723.5,716.0,666.0,c3741962d8909c4b6e6aed8d5db74cda7896754f,US,MS,Olive Branch,0,auto,auto,Home,false,false,false,Gas

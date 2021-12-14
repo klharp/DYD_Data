@@ -1,0 +1,15 @@
+AvgTempCtrl,AvgCool,AvgHeat,Identifier,Country,ProvinceState,City,Age_of_Home__years_,HvacMode,CalendarEvent,Climate,allowCompWithAux,Has_Electric,Has_a_Heat_Pump,Auxilliary_Heat_Fuel_Type
+706.24608501118564,704.99552572706932,654.99552572706932,1cc2b77c1f9dd8971c8050cb5604220405ec8404,US,VT,Colchester,0,auto,auto,Home,true,false,false,Gas
+662.87676056338023,694.0,604.0,202b20f2fdcb124df820af1fd71955548fab26ff,US,VT,South Burlington,0,auto,hold,Home,true,false,false,Gas
+697.7986878453039,702.7061464088398,702.7061464088398,662953f85593ffcb52ca9d8569604ec908481b51,US,VT,South Burlington,0,cool,hold,Home,false,false,false,Gas
+725.69273743016765,685.0,685.0,8de572f3c0cd0e9fbadaff3165dc844a1ef72f5a,US,VT,South Burlington,0,heat,hold,Home,false,false,false,Gas
+766.16964856230027,866.35431309904152,789.75527156549526,8de572f3c0cd0e9fbadaff3165dc844a1ef72f5a,US,VT,South Burlington,0,cool,hold,Home,false,false,false,Gas
+678.10072522159544,650.0,540.0,5b7f5dbb625ed5102fc3e91ac27731652483eafd,US,VT,Newfane,0,off,hold,Home,false,false,false,Gas
+713.22985074626865,719.820895522388,663.01492537313436,1cc2b77c1f9dd8971c8050cb5604220405ec8404,US,VT,Colchester,0,auto,hold,Home,true,false,false,Gas
+765.58553016988867,700.0,650.0,7fa021bd983c34f07a6ab6cb5cf89b2a51fdc387,US,VT,Bethel,0,off,auto,Home,false,false,false,Gas
+754.93671679198,660.0,660.0,6f76dee396823efaa4928dd76539ab3f46489ee6,US,VT,Bethel,0,heat,auto,Home,false,false,false,Gas
+769.14925373134326,680.0,670.0,08e5ea6a99f568b84b88969934ce6fd54f4a8359,US,VT,Bethel,0,heat,auto,Home,false,false,false,Gas
+700.14763779527561,715.03937007874015,670.00590551181108,202b20f2fdcb124df820af1fd71955548fab26ff,US,VT,South Burlington,0,cool,auto,Home,true,false,false,Gas
+668.98639455782313,670.0,670.0,662953f85593ffcb52ca9d8569604ec908481b51,US,VT,South Burlington,0,off,hold,Home,false,false,false,Gas
+763.8828320802005,690.0,670.0,b8499dce4ad0e8b7441e7f16bed32acb435d233c,US,VT,Bethel,0,heat,auto,Home,false,false,false,Gas
+721.44954128440372,730.0,730.0,202b20f2fdcb124df820af1fd71955548fab26ff,US,VT,South Burlington,0,cool,hold,Home,true,false,false,Gas

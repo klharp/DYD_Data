@@ -1,0 +1,9 @@
+AvgTempCtrl,AvgCool,AvgHeat,Identifier,Country,ProvinceState,City,Age_of_Home__years_,HvacMode,CalendarEvent,Climate,allowCompWithAux,Has_Electric,Has_a_Heat_Pump,Auxilliary_Heat_Fuel_Type
+661.15407854984892,663.55589123867071,659.04733131923467,7b382f97d6ed8f50c881992217f24ace3989dd43,US,DE,Wilmington,0,heat,auto,Home,false,false,false,Gas
+659.30217186024549,661.7983947119925,656.90179414542024,7b382f97d6ed8f50c881992217f24ace3989dd43,US,DE,Wilmington,0,heat,hold,Home,false,false,false,Gas
+642.82968369829689,695.0,645.0,f1c31e2900d9c0cadbba9552cffcdeca139f6d71,US,DE,Claymont ,0,auto,hold,Home,false,false,true,Electric
+680.71422080872333,677.60290776919578,667.4407087687415,f1c31e2900d9c0cadbba9552cffcdeca139f6d71,US,DE,Claymont ,0,heat,hold,Home,false,false,true,Electric
+680.60740740740744,739.79259259259254,689.79259259259254,f1c31e2900d9c0cadbba9552cffcdeca139f6d71,US,DE,Claymont ,0,auto,auto,Home,false,false,true,Electric
+700.23262690980778,770.0,700.0,d90de80fbfc586b72b80946294a9f3c88e052572,US,DE,Newark,0,auto,auto,Home,false,false,false,Gas
+714.53289473684208,763.33333333333337,713.33333333333337,d90de80fbfc586b72b80946294a9f3c88e052572,US,DE,Newark,0,auto,hold,Home,false,false,false,Gas
+683.45847176079735,699.99335548172758,699.99335548172758,f1c31e2900d9c0cadbba9552cffcdeca139f6d71,US,DE,Claymont ,0,heat,auto,Home,false,false,true,Electric

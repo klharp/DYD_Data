@@ -1,0 +1,35 @@
+AvgTempCtrl,AvgCool,AvgHeat,Identifier,Country,ProvinceState,City,Age_of_Home__years_,HvacMode,CalendarEvent,Climate,allowCompWithAux,Has_Electric,Has_a_Heat_Pump,Auxilliary_Heat_Fuel_Type
+740.26039387308538,741.31509846827134,520.28008752735229,0c1cc54cbd5e7030b0946152616aabe3cb31ff5e,US,NM,Alamogordo,0,auto,hold,Home,false,false,false,Gas
+767.05714285714282,767.37142857142862,670.0,90b6c17a2bcdfac88ec871ed565812b59678d517,US,NM,Albuquerque,0,auto,hold,Home,false,false,false,Gas
+711.25679758308161,714.89123867069486,664.86102719033238,1f5e29977a2ceb7bcb29e01ead3cee908e1a18e3,US,NM,Albuquerque,0,auto,hold,Home,false,false,false,Gas
+724.66755248471964,727.5894233324475,727.60377358490564,57d28b3374554019def6b672ef7f8071e5fff371,US,NM,Artesia,0,cool,hold,Home,false,false,false,Gas
+743.67465753424653,748.5011415525114,747.32762557077626,57d28b3374554019def6b672ef7f8071e5fff371,US,NM,Artesia,0,cool,auto,Home,false,false,false,Gas
+714.2,704.41161616161617,704.39494949494951,71ea2668cd3ae8ec5989fb79e22528768fb6fa55,US,NM,Tucumcari,0,cool,hold,Home,false,false,false,Gas
+714.13804713804711,713.25829725829726,713.25300625300622,9736bb54108128592cd425f28e51db2f67e7f9f5,US,NM,Clovis,0,cool,hold,Home,false,false,false,Gas
+780.30157866086006,786.01741970604246,784.44365813826892,b3fea9cdafa1ab4aca52ec2199945d1c2062fb68,US,NM,Hobbs,0,cool,hold,Home,true,false,false,Gas
+781.55514705882354,785.89338235294122,754.74080882352939,b3fea9cdafa1ab4aca52ec2199945d1c2062fb68,US,NM,Hobbs,0,cool,auto,Home,true,false,false,Gas
+704.59210526315792,703.91353383458647,703.91353383458647,bb2317422d262759e134fb546572432f6446067e,US,NM,Clovis,0,cool,hold,Home,false,false,true,Electric
+780.568044788975,781.979758828596,781.979758828596,dc4686bc3d27215f6edad7393fe505739c85ad2e,US,NM,Roswell,0,cool,hold,Home,true,false,false,Gas
+765.66666666666663,767.63313609467457,767.63313609467457,e97f4fd13b53880ccaec0f49b27ff8c75f49d7d5,US,NM,Albuquerque,0,off,hold,Home,false,false,false,Gas
+762.720677146312,763.93470374848846,759.26118500604593,e97f4fd13b53880ccaec0f49b27ff8c75f49d7d5,US,NM,Albuquerque,0,cool,hold,Home,false,false,false,Gas
+766.56190476190477,777.08095238095234,775.71428571428567,b3fea9cdafa1ab4aca52ec2199945d1c2062fb68,US,NM,Hobbs,0,off,auto,Home,true,false,false,Gas
+751.07142857142856,757.83075523202911,674.3880800727934,1475fecad1c559962afb1d690b01d87cba9156ea,US,NM,Clovis,0,auto,hold,Home,false,false,false,Gas
+761.820987654321,780.02777777777783,670.0,90b6c17a2bcdfac88ec871ed565812b59678d517,US,NM,Albuquerque,0,auto,auto,Home,false,false,false,Gas
+782.227027027027,780.0,780.0,dc4686bc3d27215f6edad7393fe505739c85ad2e,US,NM,Roswell,0,off,hold,Home,true,false,false,Gas
+778.51111111111106,800.0,790.0,b3fea9cdafa1ab4aca52ec2199945d1c2062fb68,US,NM,Hobbs,0,off,hold,Home,true,false,false,Gas
+746.84,820.0,640.0,71ea2668cd3ae8ec5989fb79e22528768fb6fa55,US,NM,Tucumcari,0,auto,hold,Home,false,false,false,Gas
+726.62846803377568,727.48733413751506,727.48733413751506,bb2317422d262759e134fb546572432f6446067e,US,NM,Clovis,0,cool,auto,Home,false,false,true,Electric
+713.36363636363637,710.90909090909088,658.18181818181813,bb1c28d4383e177a515ef8963bf340c79e4d70d7,US,NM,Rio Rancho,0,cool,auto,Home,true,false,false,Gas
+717.265306122449,717.734693877551,717.734693877551,71ea2668cd3ae8ec5989fb79e22528768fb6fa55,US,NM,Tucumcari,0,off,hold,Home,false,false,false,Gas
+702.24074074074076,700.0,720.0,9736bb54108128592cd425f28e51db2f67e7f9f5,US,NM,Clovis,0,cool,auto,Home,false,false,false,Gas
+710.64331210191085,710.0,710.0,9840d487fc7e1bf0d28df4d38b76e358f7824fce,US,NM,Rio Rancho,0,cool,hold,Home,false,false,false,Gas
+702.40298507462683,710.37313432835822,642.53731343283584,3452cbe1579596691e459126a705b17b767a9615,US,NM,Hobbs,0,auto,hold,Home,false,false,false,Gas
+711.13888888888891,710.0,640.0,3452cbe1579596691e459126a705b17b767a9615,US,NM,Hobbs,0,auto,auto,Home,false,false,false,Gas
+704.94444444444446,720.0,720.0,9840d487fc7e1bf0d28df4d38b76e358f7824fce,US,NM,Rio Rancho,0,cool,auto,Home,false,false,false,Gas
+730.12797619047615,730.0,730.0,fd5688a621c17d37669b21ac97e057b2364b8ed2,US,NM,Albuquerque,0,cool,hold,Home,false,false,false,Gas
+749.9666666666667,756.16,690.0,1475fecad1c559962afb1d690b01d87cba9156ea,US,NM,Clovis,0,auto,auto,Home,false,false,false,Gas
+739.66666666666663,750.0,720.0,57d28b3374554019def6b672ef7f8071e5fff371,US,NM,Artesia,0,off,auto,Home,false,false,false,Gas
+726.42857142857144,655.0,655.0,77d05ee3aba973759ae8ac352a6f7b1e2bbfc893,US,NM,Albuquerque,0,cool,hold,Home,false,false,false,Gas
+714.5,680.0,700.0,77d05ee3aba973759ae8ac352a6f7b1e2bbfc893,US,NM,Albuquerque,0,cool,auto,Home,false,false,false,Gas
+652.0,690.0,636.0,1f5e29977a2ceb7bcb29e01ead3cee908e1a18e3,US,NM,Albuquerque,0,cool,hold,Home,false,false,false,Gas
+757.0,750.0,750.0,31c7c4611811eb3b6c7fe5551092351c8b6e4faa,US,NM,Albuquerque,0,cool,hold,Home,false,false,false,Gas

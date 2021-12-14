@@ -1,0 +1,14 @@
+AvgTempCtrl,AvgCool,AvgHeat,Identifier,Country,ProvinceState,City,Age_of_Home__years_,HvacMode,CalendarEvent,Climate,allowCompWithAux,Has_Electric,Has_a_Heat_Pump,Auxilliary_Heat_Fuel_Type
+694.12142152023694,698.47384007897335,698.47285291214212,7b382f97d6ed8f50c881992217f24ace3989dd43,US,DE,Wilmington,0,cool,hold,Home,false,false,false,Gas
+679.30048076923072,680.14543269230774,680.66466346153845,7b382f97d6ed8f50c881992217f24ace3989dd43,US,DE,Wilmington,0,cool,auto,Home,false,false,false,Gas
+713.66078588612675,713.90457097032879,713.90457097032879,ab5a9b61c056b033400697326a4873f0dc659052,US,DE,Camden,0,cool,hold,Home,false,false,false,Gas
+724.51835051546391,726.27628865979386,634.61773195876287,f1c31e2900d9c0cadbba9552cffcdeca139f6d71,US,DE,Claymont ,0,auto,hold,Home,false,false,true,Electric
+743.054794520548,747.64945556726377,673.3185809624166,d90de80fbfc586b72b80946294a9f3c88e052572,US,DE,Newark,0,auto,hold,Home,false,false,false,Gas
+732.315250767656,728.01740020470834,677.338792221085,f1c31e2900d9c0cadbba9552cffcdeca139f6d71,US,DE,Claymont ,0,auto,auto,Home,false,false,true,Electric
+798.696875,811.25416666666672,670.0,3565d7bb056bf002f140d29767967102159b869c,US,DE,Middletown,0,auto,auto,Home,false,false,false,Gas
+797.62737642585546,806.65589353612165,670.0,3565d7bb056bf002f140d29767967102159b869c,US,DE,Middletown,0,auto,hold,Home,false,false,false,Gas
+805.79202037351445,806.40747028862484,670.0,5e7ccce35cfa7d15e25e46b921bcc05492299e78,US,DE,Middletown,0,auto,hold,Home,false,false,false,Gas
+797.516447368421,817.40131578947364,670.0,5e7ccce35cfa7d15e25e46b921bcc05492299e78,US,DE,Middletown,0,auto,auto,Home,false,false,false,Gas
+713.50276243093924,719.71491712707177,715.92265193370167,ab5a9b61c056b033400697326a4873f0dc659052,US,DE,Camden,0,cool,auto,Home,false,false,false,Gas
+760.82105263157894,760.0,700.0,d90de80fbfc586b72b80946294a9f3c88e052572,US,DE,Newark,0,auto,auto,Home,false,false,false,Gas
+734.13333333333333,720.0,720.0,ab5a9b61c056b033400697326a4873f0dc659052,US,DE,Camden,0,off,hold,Home,false,false,false,Gas

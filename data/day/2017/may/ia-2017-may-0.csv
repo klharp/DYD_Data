@@ -1,0 +1,72 @@
+AvgTempCtrl,AvgCool,AvgHeat,Identifier,Country,ProvinceState,City,Age_of_Home__years_,HvacMode,CalendarEvent,Climate,allowCompWithAux,Has_Electric,Has_a_Heat_Pump,Auxilliary_Heat_Fuel_Type
+728.52214452214457,774.960372960373,647.4335664335664,dc5adbfce4b8733080ab576a8ece3b96608900fb,US,IA,Webster City,0,auto,auto,Home,false,false,false,Gas
+694.25,786.0,737.25,dc5adbfce4b8733080ab576a8ece3b96608900fb,US,IA,Webster City,0,auto,hold,Home,false,false,false,Gas
+658.62295081967216,703.62295081967216,635.27686703096538,470ea22731544cacb25a5fa66f3fea9f4d41842e,US,IA,Marion,0,auto,hold,Home,false,false,false,Gas
+666.64593301435411,684.14354066985641,619.05741626794259,470ea22731544cacb25a5fa66f3fea9f4d41842e,US,IA,Marion,0,auto,auto,Home,false,false,false,Gas
+715.551724137931,722.816091954023,722.816091954023,b9e2ef215771757d91ab7840842181cba2025493,US,IA,Le Claire,0,cool,hold,Home,false,false,false,Gas
+725.58620689655174,779.0,727.17241379310349,d9806f6fed8f001522c6236c3be9b9f81d672568,US,IA,Lone Tree,0,auto,hold,Home,true,false,true,Electric
+704.03284671532845,754.97445255474452,704.97445255474452,15570377c8ec7729829ad9d26b4b89b0ee77a4c2,US,IA,West Des Moines,0,auto,auto,Home,false,false,false,Gas
+707.82979664014147,749.63527851458889,749.61405835543769,7071f638ed24db0075a5ac9e36a6ae0c72531fc4,US,IA,Malvern,0,cool,hold,Home,false,false,false,Gas
+739.528735632184,757.0153256704981,676.09195402298849,ff7eae8a2e2abe0b454d36c479b5173f93de3b04,US,IA,Marion,0,auto,hold,Home,true,false,false,Gas
+710.0,779.875,640.05,b9e2ef215771757d91ab7840842181cba2025493,US,IA,Le Claire,0,cool,auto,Home,false,false,false,Gas
+706.22222222222217,736.66666666666663,666.33333333333337,b9e2ef215771757d91ab7840842181cba2025493,US,IA,Le Claire,0,heat,auto,Home,false,false,false,Gas
+697.45572354211663,779.950323974082,679.36285097192228,d9806f6fed8f001522c6236c3be9b9f81d672568,US,IA,Lone Tree,0,auto,auto,Home,true,false,true,Electric
+673.01569037656907,745.276150627615,670.46757322175733,470ea22731544cacb25a5fa66f3fea9f4d41842e,US,IA,Marion,0,heat,auto,Home,false,false,false,Gas
+693.13497390007456,681.97390007457125,681.33929903057424,83cd8ca639b609e6de57ea710daca6f600a8c003,US,IA,Dubuque,0,heat,hold,Home,false,false,false,Gas
+672.67391304347825,651.52429667519186,650.59207161125323,7071f638ed24db0075a5ac9e36a6ae0c72531fc4,US,IA,Malvern,0,heat,hold,Home,false,false,false,Gas
+660.00677966101694,660.0,660.0,47933e04869949febdcd50ec909451cc95d71f73,US,IA,Ames,0,heat,auto,Home,false,false,false,Gas
+668.48148148148152,681.46913580246917,665.953086419753,83cd8ca639b609e6de57ea710daca6f600a8c003,US,IA,Dubuque,0,heat,auto,Home,false,false,false,Gas
+688.88946819603757,677.6329509906152,677.6329509906152,acb71c55a6622428d64a53904f092a92ae48b102,US,IA,Norwalk,0,heat,hold,Home,false,false,false,Gas
+686.1178861788618,670.97560975609758,670.97560975609758,acb71c55a6622428d64a53904f092a92ae48b102,US,IA,Norwalk,0,off,hold,Home,false,false,false,Gas
+690.04137931034484,680.0,680.0,6b197515b4e8749ab1b95d9fb9ddbc7e2c8568a2,US,IA,Ames,0,heat,auto,Home,false,false,false,Gas
+683.55405405405406,680.0,680.0,6b5a01ebef74dbcae829d823a461eda02ce064d4,US,IA,Ames,0,heat,auto,Home,false,false,false,Gas
+673.93548387096769,693.54838709677415,648.38709677419354,6b5a01ebef74dbcae829d823a461eda02ce064d4,US,IA,Ames,0,off,auto,Home,false,false,false,Gas
+678.70967741935488,680.0,680.0,49968defe418b09ff96a4a50e5100ff5e44c5280,US,IA,Ankeny,0,heat,hold,Home,false,false,false,Gas
+603.05156950672642,717.94618834080723,717.94618834080723,470ea22731544cacb25a5fa66f3fea9f4d41842e,US,IA,Marion,0,cool,hold,Home,false,false,false,Gas
+697.24585635359119,695.95027624309387,695.95027624309387,83cd8ca639b609e6de57ea710daca6f600a8c003,US,IA,Dubuque,0,cool,hold,Home,false,false,false,Gas
+697.90277777777783,680.20833333333337,680.0,a810236f0848ffebe58088a3e36bd3edf9cbf1ac,US,IA,Dubuque,0,cool,hold,Home,true,false,false,Gas
+682.57552870090637,688.821752265861,688.821752265861,acb71c55a6622428d64a53904f092a92ae48b102,US,IA,Norwalk,0,cool,hold,Home,false,false,false,Gas
+662.7766599597586,680.0,690.0,acb71c55a6622428d64a53904f092a92ae48b102,US,IA,Norwalk,0,cool,auto,Home,false,false,false,Gas
+638.0,680.0,690.0,acb71c55a6622428d64a53904f092a92ae48b102,US,IA,Norwalk,0,heat,auto,Home,false,false,false,Gas
+763.36111111111109,680.0,679.75,6d8830a01cbebdea107f57e1ab82850b1a438c17,US,IA,Fort Dodge,0,off,auto,Home,false,false,false,Gas
+725.5826086956522,680.0,670.0,6d8830a01cbebdea107f57e1ab82850b1a438c17,US,IA,Fort Dodge,0,off,hold,Home,false,false,false,Gas
+690.35333333333335,680.72,680.44666666666672,6d8830a01cbebdea107f57e1ab82850b1a438c17,US,IA,Fort Dodge,0,heat,auto,Home,false,false,false,Gas
+732.17195571955722,721.62583025830259,720.149815498155,6d8830a01cbebdea107f57e1ab82850b1a438c17,US,IA,Fort Dodge,0,cool,hold,Home,false,false,false,Gas
+690.16666666666663,690.0,690.0,49968defe418b09ff96a4a50e5100ff5e44c5280,US,IA,Ankeny,0,heat,auto,Home,false,false,false,Gas
+697.31683168316829,699.1584158415842,699.1584158415842,be340c3e85d37c9be71d1dbb6e65cccfb806e417,US,IA,Danville,0,cool,hold,Home,false,false,false,Gas
+702.7982062780269,704.2645739910314,704.14349775784751,be340c3e85d37c9be71d1dbb6e65cccfb806e417,US,IA,Danville,0,heat,hold,Home,false,false,false,Gas
+658.200371057514,695.0,645.0,47933e04869949febdcd50ec909451cc95d71f73,US,IA,Ames,0,off,hold,Home,false,false,false,Gas
+644.45977011494256,695.0,645.0,47933e04869949febdcd50ec909451cc95d71f73,US,IA,Ames,0,auto,hold,Home,false,false,false,Gas
+691.53543307086613,694.25984251968509,644.25984251968509,6b197515b4e8749ab1b95d9fb9ddbc7e2c8568a2,US,IA,Ames,0,auto,hold,Home,false,false,false,Gas
+680.87121212121212,695.0,645.0,6b5a01ebef74dbcae829d823a461eda02ce064d4,US,IA,Ames,0,auto,auto,Home,false,false,false,Gas
+686.9,695.0,645.0,6b197515b4e8749ab1b95d9fb9ddbc7e2c8568a2,US,IA,Ames,0,off,hold,Home,false,false,false,Gas
+689.336569579288,713.39805825242718,713.39805825242718,6b5a01ebef74dbcae829d823a461eda02ce064d4,US,IA,Ames,0,cool,hold,Home,false,false,false,Gas
+666.05,703.58333333333337,644.77777777777783,470ea22731544cacb25a5fa66f3fea9f4d41842e,US,IA,Marion,0,off,hold,Home,false,false,false,Gas
+615.19230769230774,697.23076923076928,689.11538461538464,470ea22731544cacb25a5fa66f3fea9f4d41842e,US,IA,Marion,0,heat,hold,Home,false,false,false,Gas
+707.51851851851848,702.90740740740739,670.01851851851848,83cd8ca639b609e6de57ea710daca6f600a8c003,US,IA,Dubuque,0,cool,auto,Home,false,false,false,Gas
+714.5,692.5,681.0,83cd8ca639b609e6de57ea710daca6f600a8c003,US,IA,Dubuque,0,off,hold,Home,false,false,false,Gas
+699.9473684210526,700.0,700.0,1bd5122055dc2418f824032d6df5ba30aad297d4,US,IA,Davenport,0,off,hold,Home,false,false,false,Gas
+702.6258992805756,700.0,700.0,1bd5122055dc2418f824032d6df5ba30aad297d4,US,IA,Davenport,0,heat,hold,Home,false,false,false,Gas
+702.0564971751412,704.29378531073451,654.24858757062145,d101e5be1c563dba3694d02071a91daad0ac74e4,US,IA,Urbandale,0,auto,hold,Home,false,false,false,Gas
+703.6553191489362,705.17021276595744,655.05531914893618,d101e5be1c563dba3694d02071a91daad0ac74e4,US,IA,Urbandale,0,auto,auto,Home,false,false,false,Gas
+685.89671361502349,710.0,700.0,be340c3e85d37c9be71d1dbb6e65cccfb806e417,US,IA,Danville,0,cool,auto,Home,false,false,false,Gas
+754.33986928104571,710.0,710.0,6d8830a01cbebdea107f57e1ab82850b1a438c17,US,IA,Fort Dodge,0,heat,hold,Home,false,false,false,Gas
+698.5464824120603,715.0,665.0,b283e695d72de492950a35109e35d45809ebdd04,US,IA,Ames,0,auto,auto,Home,false,false,false,Gas
+722.7463002114165,722.54756871035943,667.72727272727275,6b197515b4e8749ab1b95d9fb9ddbc7e2c8568a2,US,IA,Ames,0,off,auto,Home,false,false,false,Gas
+698.62085308056874,717.28909952606637,662.69194312796208,6b197515b4e8749ab1b95d9fb9ddbc7e2c8568a2,US,IA,Ames,0,auto,auto,Home,false,false,false,Gas
+656.85714285714289,719.55844155844159,719.55844155844159,47933e04869949febdcd50ec909451cc95d71f73,US,IA,Ames,0,heat,hold,Home,false,false,false,Gas
+653.25925925925924,720.0,720.0,47933e04869949febdcd50ec909451cc95d71f73,US,IA,Ames,0,cool,hold,Home,false,false,false,Gas
+715.01960784313724,720.0,720.0,6b197515b4e8749ab1b95d9fb9ddbc7e2c8568a2,US,IA,Ames,0,cool,hold,Home,false,false,false,Gas
+692.5,720.0,720.0,6b197515b4e8749ab1b95d9fb9ddbc7e2c8568a2,US,IA,Ames,0,heat,hold,Home,false,false,false,Gas
+738.5,720.0,670.0,83cd8ca639b609e6de57ea710daca6f600a8c003,US,IA,Dubuque,0,off,auto,Home,false,false,false,Gas
+673.17355371900828,723.32231404958679,673.32231404958679,6b5a01ebef74dbcae829d823a461eda02ce064d4,US,IA,Ames,0,auto,hold,Home,false,false,false,Gas
+680.29655172413788,725.14482758620693,675.08275862068967,6b5a01ebef74dbcae829d823a461eda02ce064d4,US,IA,Ames,0,off,hold,Home,false,false,false,Gas
+736.0,742.03508771929819,775.0,7071f638ed24db0075a5ac9e36a6ae0c72531fc4,US,IA,Malvern,0,cool,auto,Home,false,false,false,Gas
+658.4019607843137,740.0,650.0,47933e04869949febdcd50ec909451cc95d71f73,US,IA,Ames,0,cool,auto,Home,false,false,false,Gas
+703.98333333333335,740.0,610.0,b283e695d72de492950a35109e35d45809ebdd04,US,IA,Ames,0,auto,hold,Home,false,false,false,Gas
+720.72222222222217,740.0,700.0,6b197515b4e8749ab1b95d9fb9ddbc7e2c8568a2,US,IA,Ames,0,cool,auto,Home,false,false,false,Gas
+738.31363636363642,760.0,760.0,ff7eae8a2e2abe0b454d36c479b5173f93de3b04,US,IA,Marion,0,cool,hold,Home,true,false,false,Gas
+710.68055555555554,760.0,700.14484126984132,6d8830a01cbebdea107f57e1ab82850b1a438c17,US,IA,Fort Dodge,0,cool,auto,Home,false,false,false,Gas
+621.57142857142856,660.0,660.0,47933e04869949febdcd50ec909451cc95d71f73,US,IA,Ames,0,off,auto,Home,false,false,false,Gas
+657.0,696.0,696.0,6b5a01ebef74dbcae829d823a461eda02ce064d4,US,IA,Ames,0,heat,hold,Home,false,false,false,Gas
+751.0,700.0,700.0,49968defe418b09ff96a4a50e5100ff5e44c5280,US,IA,Ankeny,0,cool,hold,Home,false,false,false,Gas

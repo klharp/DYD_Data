@@ -1,0 +1,21 @@
+AvgTempCtrl,AvgCool,AvgHeat,Identifier,Country,ProvinceState,City,Age_of_Home__years_,HvacMode,CalendarEvent,Climate,allowCompWithAux,Has_Electric,Has_a_Heat_Pump,Auxilliary_Heat_Fuel_Type
+657.33020477815694,649.23208191126275,645.54095563139936,662953f85593ffcb52ca9d8569604ec908481b51,US,VT,South Burlington,0,heat,hold,Home,false,false,false,Gas
+663.94594594594594,650.89189189189187,597.24324324324323,662953f85593ffcb52ca9d8569604ec908481b51,US,VT,South Burlington,0,auto,hold,Home,false,false,false,Gas
+751.17567567567562,685.0,685.0,8de572f3c0cd0e9fbadaff3165dc844a1ef72f5a,US,VT,South Burlington,0,heat,hold,Home,false,false,false,Gas
+646.26112759643922,650.01409495548967,542.080118694362,5b7f5dbb625ed5102fc3e91ac27731652483eafd,US,VT,Newfane,0,off,hold,Home,false,false,false,Gas
+602.43589743589746,652.97948717948714,556.03589743589748,5b7f5dbb625ed5102fc3e91ac27731652483eafd,US,VT,Newfane,0,heat,hold,Home,false,false,false,Gas
+675.30952380952385,663.547619047619,628.85714285714289,dbfc0699e02fe09382f1b785e1cf2f0fd3662875,US,VT,Westford,0,heat,hold,Home,false,false,false,Gas
+675.58823529411768,650.0,600.0,dbfc0699e02fe09382f1b785e1cf2f0fd3662875,US,VT,Westford,0,heat,auto,Home,false,false,false,Gas
+656.28352490421457,719.0,600.0,202b20f2fdcb124df820af1fd71955548fab26ff,US,VT,South Burlington,0,auto,auto,Home,true,false,false,Gas
+641.77777777777783,635.55555555555554,628.55555555555554,202b20f2fdcb124df820af1fd71955548fab26ff,US,VT,South Burlington,0,cool,hold,Home,true,false,false,Gas
+653.77622377622379,661.24009324009319,650.983682983683,662953f85593ffcb52ca9d8569604ec908481b51,US,VT,South Burlington,0,heat,auto,Home,false,false,false,Gas
+640.5,625.0,624.66666666666663,662953f85593ffcb52ca9d8569604ec908481b51,US,VT,South Burlington,0,cool,hold,Home,false,false,false,Gas
+722.67832469775476,663.83419689119171,662.84974093264248,08e5ea6a99f568b84b88969934ce6fd54f4a8359,US,VT,Bethel,0,heat,hold,Home,false,false,false,Gas
+724.58264997842036,680.0,630.0,6f76dee396823efaa4928dd76539ab3f46489ee6,US,VT,Bethel,0,heat,auto,Home,false,false,false,Gas
+660.59679144385029,651.11443850267381,650.90053475935827,202b20f2fdcb124df820af1fd71955548fab26ff,US,VT,South Burlington,0,heat,hold,Home,true,false,false,Gas
+662.29166666666663,642.5,642.5,662953f85593ffcb52ca9d8569604ec908481b51,US,VT,South Burlington,0,off,hold,Home,false,false,false,Gas
+620.0,737.0,660.0,202b20f2fdcb124df820af1fd71955548fab26ff,US,VT,South Burlington,0,heat,auto,Home,true,false,false,Gas
+733.92767972449417,680.0,680.0,7fa021bd983c34f07a6ab6cb5cf89b2a51fdc387,US,VT,Bethel,0,heat,hold,Home,false,false,false,Gas
+727.7743324720069,690.0,690.0,b8499dce4ad0e8b7441e7f16bed32acb435d233c,US,VT,Bethel,0,heat,hold,Home,false,false,false,Gas
+710.73178807947022,779.97350993377484,709.92715231788077,202b20f2fdcb124df820af1fd71955548fab26ff,US,VT,South Burlington,0,auto,hold,Home,true,false,false,Gas
+709.63636363636363,800.0,720.0,5a23cdc2dba46a7d22776bafa88160bbd0939939,US,VT,North Springfield,0,heat,auto,Home,false,false,false,Gas

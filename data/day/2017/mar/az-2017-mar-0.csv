@@ -1,0 +1,159 @@
+AvgTempCtrl,AvgCool,AvgHeat,Identifier,Country,ProvinceState,City,Age_of_Home__years_,HvacMode,CalendarEvent,Climate,allowCompWithAux,Has_Electric,Has_a_Heat_Pump,Auxilliary_Heat_Fuel_Type
+740.831726555653,779.01752848378612,776.41367221735322,1c7ad14e4b895a892bac9e297570aafff317b84f,US,AZ,Phoenix,0,cool,hold,Home,false,false,false,Gas
+753.35654596100278,774.94846796657384,773.32172701949855,0222630f87433cb6a60e0fe83c9bc2233a842fce,US,AZ,Phoenix,0,cool,hold,Home,true,false,false,Gas
+746.48955916473312,756.723897911833,749.45011600928069,a48c5836edcfdd38e92474454acc10e226ddfe58,US,AZ,Phoenix,0,heat,auto,Home,false,false,false,Gas
+761.78060046189375,759.74018475750574,700.4849884526559,678a510bc86b55e97ae2a38ab404571021208ab3,US,AZ,Scottsdale,0,off,hold,Home,false,false,true,Electric
+737.2671081677704,764.96688741721857,763.49889624724062,458092ae135441a4a60c62d292c67ddb406cfcbc,US,AZ,Phoenix,0,cool,hold,Home,false,false,false,Gas
+674.997219647822,760.53753475440226,760.53753475440226,602078f05528f96913cce39a7f995d019ed75f3e,US,AZ,Avondale,0,off,hold,Home,false,false,false,Gas
+764.85294117647061,808.57843137254906,785.98692810457521,0490eb26d895b30020200418258bac01cb72efb7,US,AZ,Scottsdale,0,cool,hold,Home,false,false,false,Gas
+729.04276315789468,776.37171052631584,743.28618421052636,458092ae135441a4a60c62d292c67ddb406cfcbc,US,AZ,Phoenix,0,cool,auto,Home,false,false,false,Gas
+799.11904761904759,800.0,790.0,438d6ddb9345b2fad6efe01b1a0ccad8a81722b3,US,AZ,Chandler,0,cool,hold,Home,true,false,true,Electric
+774.14285714285711,789.35714285714289,777.78571428571433,bf4108607b9750e197eeaa539d3e36c5c8beba4e,US,AZ,Sundance,0,off,hold,Home,true,false,true,Electric
+747.59375,820.0,790.0,b00f9da3121841492eef01ad8c9fbdece5e6b03e,US,AZ,Tempe,0,cool,hold,Home,false,false,true,Electric
+729.96122448979588,756.41224489795923,601.98775510204086,5a5b5a5cd9f24b83d3f02e8788e95c066b0e42d0,US,AZ,Tucson,0,auto,auto,Home,false,false,false,Gas
+695.85582822085894,740.42944785276075,603.0061349693251,88664e1ec01d9d117b96473b66aaa1ee044b61f2,US,AZ,Gilbert,0,auto,auto,Home,false,false,false,Gas
+697.57028985507247,780.508695652174,666.0,cfb5200823217847a07c2b4020309e0e5c56d98c,US,AZ,Goodyear,0,auto,auto,Home,false,false,false,Gas
+678.89102564102564,790.0,660.0,f5703ed484e3ab9243d32425d4e448b0f1bbe5c0,US,AZ,Tucson,0,auto,hold,Home,false,false,true,Electric
+739.62962962962968,780.0,670.0,b412e4f01979d8464365559f6045e8ab9dc8a885,US,AZ,Phoenix,0,cool,auto,Home,false,false,false,Gas
+667.6,779.4,670.4,cec26fcad42b2ec4abc1efbafa15eabc18def6af,US,AZ,Prescott,0,auto,auto,Home,true,false,false,Gas
+728.66666666666663,786.66666666666663,673.26666666666665,afc4148204f064addc746f2b173e84ba22ca9e2a,US,AZ,Gilbert,0,auto,auto,Home,false,false,false,Gas
+720.69800181653045,680.0,680.0,90b73d87654951d03214620f9f38086dfd4b8701,US,AZ,Mesa,0,off,hold,Home,false,false,true,Electric
+714.48626373626371,682.56524725274721,682.56524725274721,48899fbecf1d09cc1e6fd273c64df2f1bd93eb0b,US,AZ,Phoenix,0,heat,hold,Home,false,false,true,Electric
+755.33525641025642,763.5,680.0,211fc25a95e98ff7a7390bda42c09574fe24555b,US,AZ,Phoenix,0,auto,hold,Home,false,false,false,Gas
+758.93425605536333,736.53287197231839,736.49134948096889,0e888f18954e00b2aa503f92d04554494d5da828,US,AZ,Phoenix,0,heat,hold,Home,false,false,false,Gas
+724.02235772357722,699.364837398374,699.364837398374,678a510bc86b55e97ae2a38ab404571021208ab3,US,AZ,Scottsdale,0,heat,hold,Home,false,false,true,Electric
+684.58730158730157,820.0,690.0,b00f9da3121841492eef01ad8c9fbdece5e6b03e,US,AZ,Tempe,0,off,auto,Home,false,false,true,Electric
+749.58536585365857,750.0,700.0,94dd12df7e70302f0c1ac5b378be3d33875271cd,US,AZ,Chandler,0,auto,hold,Home,false,false,true,Electric
+736.48780487804879,780.0,700.0,2655e35104853c40cd71c7b5fba0260cf3245f23,US,AZ,Peoria,0,auto,auto,Home,false,false,false,Gas
+700.561403508772,700.0,700.0,40fe0ad2c29d4fa1f16443a2d1ce30642276805a,US,AZ,Phoenix,0,heat,hold,Home,true,false,false,Gas
+741.94117647058829,771.60264105642261,721.89375750300121,8569729795b5c3d9a5165c301651884d5a3b1311,US,AZ,Peoria,0,auto,auto,Home,false,false,false,Gas
+724.09649122807014,710.0,710.0,0222630f87433cb6a60e0fe83c9bc2233a842fce,US,AZ,Phoenix,0,off,auto,Home,true,false,false,Gas
+738.2114427860696,728.20895522388059,728.20895522388059,0afdaa2c6737c1ce2d02eb5b75a471a798bd5f8d,US,AZ,Gold Canyon,0,heat,hold,Home,true,false,false,Gas
+748.62360446570972,750.23285486443376,749.61084529505581,0afdaa2c6737c1ce2d02eb5b75a471a798bd5f8d,US,AZ,Gold Canyon,0,heat,auto,Home,true,false,false,Gas
+728.92063492063494,760.0,760.0,0fc3b1561cc86c7e451fa1534ade5bed22ed7808,US,AZ,Tucson,0,cool,hold,Home,true,false,false,Gas
+735.61904761904759,760.66666666666663,760.47619047619048,1c7ad14e4b895a892bac9e297570aafff317b84f,US,AZ,Phoenix,0,cool,auto,Home,false,false,false,Gas
+717.25,700.0,640.0,aced69c8dc30f64625137adb40c6f97f1f0d09a4,US,AZ,Mesa,0,auto,hold,Home,false,false,true,Electric
+700.38461538461536,700.0,740.0,664aaf4176ce2239ff5bc658ab25fe45f2ddd19e,US,AZ,Chandler,0,cool,auto,Home,false,false,true,Electric
+747.86956521739125,770.0,770.0,678a510bc86b55e97ae2a38ab404571021208ab3,US,AZ,Scottsdale,0,cool,hold,Home,false,false,true,Electric
+765.182304526749,822.267901234568,724.964609053498,1360df7cda51888ea1e94cf3d2dc0b41efb3362f,US,AZ,Gilbert,0,auto,hold,Home,false,false,false,Gas
+691.39737991266372,698.16593886462886,695.30131004366808,ed89db9fc82b6c05d19ae27a49a9fe7eedac65c3,US,AZ,Flagstaff,0,heat,hold,Home,false,false,false,Gas
+736.528735632184,740.45977011494256,739.77011494252872,9f2985ae914711ab696c2c48d00485c8bed83aa2,US,AZ,El Mirage,0,heat,hold,Home,false,false,true,Electric
+716.71523178807945,728.03311258278143,727.94481236203092,a48c5836edcfdd38e92474454acc10e226ddfe58,US,AZ,Phoenix,0,cool,hold,Home,false,false,false,Gas
+708.39163987138261,661.7639871382637,648.96527331189714,458092ae135441a4a60c62d292c67ddb406cfcbc,US,AZ,Phoenix,0,heat,hold,Home,false,false,false,Gas
+727.79194630872485,726.75838926174492,725.79194630872485,b4a23bcbdeda88fe06692dbac3148deaa9871e95,US,AZ,Phoenix,0,heat,hold,Home,false,false,false,Gas
+749.83481063658337,772.94359387590657,771.477840451249,40fe0ad2c29d4fa1f16443a2d1ce30642276805a,US,AZ,Phoenix,0,cool,hold,Home,true,false,false,Gas
+760.90737833594972,788.50863422291991,783.14285714285711,14ea48dc54edd1b1bc5c072d37090c2d43c7f2bf,US,AZ,Phoenix,0,cool,hold,Home,false,false,false,Gas
+739.4248291571754,761.72323462414579,761.71070615034171,2171a8f6d072691c5da900b00de856e10c0822b1,US,AZ,Phoenix,0,cool,hold,Home,false,false,false,Gas
+741.56047700170359,695.12776831345832,695.12776831345832,9b3b4affdfa879e1ed0e233408dbe71eaeadc232,US,AZ,Phoenix,0,off,hold,Home,false,false,true,Electric
+735.04027777777776,778.75,778.75,0afdaa2c6737c1ce2d02eb5b75a471a798bd5f8d,US,AZ,Gold Canyon,0,cool,hold,Home,true,false,false,Gas
+668.02181818181816,810.0,620.0,095a6cf90620b2d203d20f8dcb8d206c2dc6df9c,US,AZ,Gold Canyon,0,auto,auto,Home,false,false,false,Gas
+709.43574717455,702.05106739221435,633.470071159481,b69d1addc33fab4713d505e909d7871235d66939,US,AZ,Cave Creek,0,off,hold,Home,true,false,false,Gas
+710.5567052980133,650.0,648.70860927152319,2316bcb494dbccdcb02a4bc9246c3fdceceebfc5,US,AZ,Tempe,0,heat,hold,Home,true,false,true,Electric
+682.59259259259261,720.0,642.30769230769226,0879c8fd5885f3eef77d950c25dc8eb6558dd560,US,AZ,Mesa,0,auto,auto,Home,true,false,true,Electric
+724.35135135135135,650.94594594594594,641.89189189189187,458092ae135441a4a60c62d292c67ddb406cfcbc,US,AZ,Phoenix,0,off,hold,Home,false,false,false,Gas
+741.52409638554218,666.86746987951813,666.86746987951813,47f4bc607e8ff052a15da520d5b0146402787de6,US,AZ,Scottsdale,0,heat,hold,Home,false,false,true,Electric
+675.70797720797725,770.008547008547,659.991452991453,b3755174e4840ceb4e188478c2dc0b7bcff91cf9,US,AZ,Mesa,0,auto,auto,Home,false,false,false,Gas
+736.89019772822883,773.20614219604545,677.8956668068995,9f646f7da263f51e7b88676bfd9bac6e1bb2b5d7,US,AZ,Mesa,0,auto,hold,Home,false,false,true,Electric
+667.97254901960787,770.08235294117651,669.94901960784318,17f40c9ec9c7c36006a87ec39959159c245d8f8d,US,AZ,Surprise,0,off,auto,Home,false,false,true,Electric
+713.46388888888885,740.0,680.0,b481ff1b9c2a99a9d6ff12dd2be166f15ad3796c,US,AZ,Phoenix,0,auto,auto,Home,true,false,false,Gas
+682.75641025641028,680.0,680.0,9b3b4affdfa879e1ed0e233408dbe71eaeadc232,US,AZ,Phoenix,0,heat,auto,Home,false,false,true,Electric
+722.70967741935488,730.19354838709683,680.516129032258,0fc3b1561cc86c7e451fa1534ade5bed22ed7808,US,AZ,Tucson,0,cool,auto,Home,true,false,false,Gas
+669.12745098039215,690.0,690.0,0490eb26d895b30020200418258bac01cb72efb7,US,AZ,Scottsdale,0,off,hold,Home,false,false,false,Gas
+730.40067340067344,838.939393939394,690.0,d4b69256f1360b0b3c63c26b005b6cd3d22b8709,US,AZ,Mesa,0,cool,auto,Home,false,false,false,Gas
+730.15391459074738,700.0,700.0,14ea48dc54edd1b1bc5c072d37090c2d43c7f2bf,US,AZ,Phoenix,0,off,auto,Home,false,false,false,Gas
+757.58974358974353,774.35164835164835,714.35164835164835,2655e35104853c40cd71c7b5fba0260cf3245f23,US,AZ,Peoria,0,auto,hold,Home,false,false,false,Gas
+751.13333333333333,780.0,700.0,e2ba7558a9db2664031658a8118a7446b4b77857,US,AZ,Avondale,0,cool,auto,Home,false,false,true,Electric
+698.23809523809518,800.0,700.0,c3728ff2c5ebf9a5f963472c527dee7433c73d6d,US,AZ,Goodyear,0,auto,auto,Home,false,false,false,Gas
+736.655737704918,775.57377049180332,648.90163934426232,32ca7b4cdf292b1adac673dfa0be703b69b6e2b4,US,AZ,Phoenix,0,cool,auto,Home,false,false,true,Electric
+748.14316239316236,759.44658119658118,715.12393162393164,8569729795b5c3d9a5165c301651884d5a3b1311,US,AZ,Peoria,0,auto,hold,Home,false,false,false,Gas
+748.38034188034192,790.0,733.33333333333337,0f322a86d11b990191c71e81712041bcbeed3937,US,AZ,Chandler,0,auto,auto,Home,true,false,true,Electric
+722.93023255813955,725.37209302325584,724.44186046511629,2171a8f6d072691c5da900b00de856e10c0822b1,US,AZ,Phoenix,0,heat,auto,Home,false,false,false,Gas
+741.28169014084506,742.669014084507,742.669014084507,2171a8f6d072691c5da900b00de856e10c0822b1,US,AZ,Phoenix,0,heat,hold,Home,false,false,false,Gas
+734.38461538461536,770.0,690.0,c23f41079f42a5f2bee236789b2ebf8c7c3c9372,US,AZ,Fountain Hills,0,auto,hold,Home,false,false,true,Electric
+713.58333333333337,760.0,700.0,94dd12df7e70302f0c1ac5b378be3d33875271cd,US,AZ,Chandler,0,auto,auto,Home,false,false,true,Electric
+746.64102564102564,730.51282051282055,729.23076923076928,53cef793eda2bc42b5dbe6c1b6e47d176d5d732c,US,AZ,Gilbert,0,cool,hold,Home,false,false,false,Gas
+743.38461538461536,810.0,620.0,095a6cf90620b2d203d20f8dcb8d206c2dc6df9c,US,AZ,Gold Canyon,0,auto,hold,Home,false,false,false,Gas
+684.0,650.0,650.0,94dd12df7e70302f0c1ac5b378be3d33875271cd,US,AZ,Chandler,0,cool,hold,Home,false,false,true,Electric
+717.5,820.0,790.0,0490eb26d895b30020200418258bac01cb72efb7,US,AZ,Scottsdale,0,cool,auto,Home,false,false,false,Gas
+651.66666666666663,700.0,700.0,94dd12df7e70302f0c1ac5b378be3d33875271cd,US,AZ,Chandler,0,off,hold,Home,false,false,true,Electric
+713.5,676.0,658.0,03292716077cf509fa4dd9b59553c3145d507cd6,US,AZ,Buckeye,0,off,hold,Home,false,false,true,Electric
+698.73697270471462,650.0,580.0,d862ec0774e5dc1e13be7512c103f4693f022250,US,AZ,Tempe,0,off,hold,Home,false,false,true,Electric
+699.76327325864588,698.66488066244517,688.152459814905,1186bfe43eb8c0463d3033d0ed62173252c60f1c,US,AZ,Phoenix,0,off,hold,Home,false,false,false,Gas
+755.29411764705878,797.8117647058823,677.4,1186bfe43eb8c0463d3033d0ed62173252c60f1c,US,AZ,Phoenix,0,auto,hold,Home,false,false,false,Gas
+750.09932279909708,763.42212189616248,762.09255079006778,40fe0ad2c29d4fa1f16443a2d1ce30642276805a,US,AZ,Phoenix,0,cool,auto,Home,true,false,false,Gas
+734.25,735.0,685.0,32ca7b4cdf292b1adac673dfa0be703b69b6e2b4,US,AZ,Phoenix,0,auto,hold,Home,false,false,true,Electric
+762.005376344086,804.45519713261649,780.54301075268813,14ea48dc54edd1b1bc5c072d37090c2d43c7f2bf,US,AZ,Phoenix,0,cool,auto,Home,false,false,false,Gas
+729.06842105263161,756.45,736.8,a48c5836edcfdd38e92474454acc10e226ddfe58,US,AZ,Phoenix,0,cool,auto,Home,false,false,false,Gas
+762.26708074534156,762.26086956521738,760.03726708074532,c9d1677c5642ac6f2125d3a76146a04694932cac,US,AZ,Mesa,0,cool,hold,Home,false,false,true,Electric
+713.864537444934,769.43061674008811,755.68502202643174,602078f05528f96913cce39a7f995d019ed75f3e,US,AZ,Avondale,0,cool,auto,Home,false,false,false,Gas
+778.72519083969462,790.0,790.0,bf4108607b9750e197eeaa539d3e36c5c8beba4e,US,AZ,Sundance,0,cool,hold,Home,true,false,true,Electric
+757.03846153846155,800.0,790.0,8eba6e0fcc5487076abbb8bc75aedf8fa73b6a87,US,AZ,Mesa,0,cool,hold,Home,false,false,false,Gas
+696.673640167364,747.56694560669462,626.29811715481173,5a5b5a5cd9f24b83d3f02e8788e95c066b0e42d0,US,AZ,Tucson,0,auto,hold,Home,false,false,false,Gas
+707.48608534322818,672.62523191094624,667.708719851577,458092ae135441a4a60c62d292c67ddb406cfcbc,US,AZ,Phoenix,0,heat,auto,Home,false,false,false,Gas
+733.92650103519668,780.48757763975152,677.14285714285711,cfb5200823217847a07c2b4020309e0e5c56d98c,US,AZ,Goodyear,0,off,auto,Home,false,false,false,Gas
+757.23809523809518,660.0,660.0,47f4bc607e8ff052a15da520d5b0146402787de6,US,AZ,Scottsdale,0,off,hold,Home,false,false,true,Electric
+694.61805555555554,677.375,677.375,9b3b4affdfa879e1ed0e233408dbe71eaeadc232,US,AZ,Phoenix,0,heat,hold,Home,false,false,true,Electric
+712.58552631578948,717.44078947368416,701.328947368421,f0d05df9771e54f7c755eb69fe71921604773830,US,AZ,Gilbert,0,cool,auto,Home,false,false,false,Gas
+733.4854881266491,770.0,690.0,00abe73a91e4a0012069878eba34b166551cce4d,US,AZ,Tucson,0,auto,auto,Home,false,false,true,Electric
+747.98141263940522,772.86245353159848,690.0,678a510bc86b55e97ae2a38ab404571021208ab3,US,AZ,Scottsdale,0,auto,hold,Home,false,false,true,Electric
+695.038567493113,800.0,700.0,c3728ff2c5ebf9a5f963472c527dee7433c73d6d,US,AZ,Goodyear,0,off,auto,Home,false,false,false,Gas
+705.87112276103107,709.63302752293578,709.50851900393184,095a6cf90620b2d203d20f8dcb8d206c2dc6df9c,US,AZ,Gold Canyon,0,cool,hold,Home,false,false,false,Gas
+728.76439790575921,721.45026178010471,721.45026178010471,47f4bc607e8ff052a15da520d5b0146402787de6,US,AZ,Scottsdale,0,heat,auto,Home,false,false,true,Electric
+713.425925925926,710.0,710.0,0222630f87433cb6a60e0fe83c9bc2233a842fce,US,AZ,Phoenix,0,heat,auto,Home,true,false,false,Gas
+738.14781021897807,720.34489051094886,720.17883211678827,0490eb26d895b30020200418258bac01cb72efb7,US,AZ,Scottsdale,0,off,auto,Home,false,false,false,Gas
+735.35897435897436,730.0,730.0,0222630f87433cb6a60e0fe83c9bc2233a842fce,US,AZ,Phoenix,0,off,hold,Home,true,false,false,Gas
+761.09090909090912,750.0,750.0,14ea48dc54edd1b1bc5c072d37090c2d43c7f2bf,US,AZ,Phoenix,0,off,hold,Home,false,false,false,Gas
+748.44615384615383,749.89230769230767,750.0,668da38c05f7b15dce42bff6c7ae9f62bd463024,US,AZ,Phoenix,0,cool,hold,Home,false,false,true,Electric
+754.2465753424658,760.17808219178085,759.64383561643831,2655e35104853c40cd71c7b5fba0260cf3245f23,US,AZ,Peoria,0,cool,hold,Home,false,false,false,Gas
+721.61538461538464,758.46153846153845,696.30769230769226,0fea456e46fb0c4337cb146c147f10ec91dada64,US,AZ,Glendale,0,auto,hold,Home,false,false,false,Gas
+689.05555555555554,690.0,620.0,0879c8fd5885f3eef77d950c25dc8eb6558dd560,US,AZ,Mesa,0,auto,hold,Home,true,false,true,Electric
+750.22727272727275,777.34090909090912,670.2954545454545,286df0b5604375a6448e93925fc1b59531dea438,US,AZ,Green Valley,0,auto,auto,Home,false,false,false,Gas
+688.31428571428569,706.08571428571429,706.08571428571429,5016835b6c6fef2918917fa43ba1a2e353b7ebc5,US,AZ,San Tan Valley,0,cool,hold,Home,false,false,false,Gas
+715.11111111111109,790.0,740.0,4488951eac06434a289e3b0133ecbb01c17113f8,US,AZ,Buckeye,0,auto,hold,Home,true,false,true,Electric
+738.16666666666663,769.5,670.58333333333337,286df0b5604375a6448e93925fc1b59531dea438,US,AZ,Green Valley,0,auto,hold,Home,false,false,false,Gas
+696.66666666666663,765.0,706.66666666666663,4488951eac06434a289e3b0133ecbb01c17113f8,US,AZ,Buckeye,0,auto,auto,Home,true,false,true,Electric
+711.66666666666663,740.44444444444446,679.77777777777783,53cef793eda2bc42b5dbe6c1b6e47d176d5d732c,US,AZ,Gilbert,0,auto,auto,Home,false,false,false,Gas
+752.0,747.0,697.0,32ca7b4cdf292b1adac673dfa0be703b69b6e2b4,US,AZ,Phoenix,0,auto,auto,Home,false,false,true,Electric
+704.94773175542412,784.62228796844181,663.14003944773174,7bc01d802042b54b87261e34385c518012a6b12b,US,AZ,El Mirage,0,auto,hold,Home,false,false,true,Electric
+722.98331595411889,768.23774765380608,767.45568300312823,1186bfe43eb8c0463d3033d0ed62173252c60f1c,US,AZ,Phoenix,0,cool,hold,Home,false,false,false,Gas
+721.18085106382978,709.31560283687941,709.31560283687941,1c7ad14e4b895a892bac9e297570aafff317b84f,US,AZ,Phoenix,0,heat,hold,Home,false,false,false,Gas
+741.93478260869563,794.26086956521738,669.04347826086962,cbf7cf3d0463646d4e06e814aedd6ff5197d31c4,US,AZ,Queen Creek,0,auto,auto,Home,false,false,false,Gas
+775.30364372469637,808.68421052631584,743.57928475033737,9971887cd9b0fa2203bc1db6ed8aded7cf55788f,US,AZ,Peoria,0,auto,auto,Home,false,false,false,Gas
+732.4119217081851,765.04448398576517,765.04448398576517,0a1b827d92b524ce9e143e01eea2ecc4951950d8,US,AZ,Phoenix,0,cool,hold,Home,false,false,false,Gas
+760.708,775.68,775.68,0e888f18954e00b2aa503f92d04554494d5da828,US,AZ,Phoenix,0,cool,hold,Home,false,false,false,Gas
+747.41952054794524,797.74143835616439,771.52140410958907,2171a8f6d072691c5da900b00de856e10c0822b1,US,AZ,Phoenix,0,cool,auto,Home,false,false,false,Gas
+725.78571428571433,793.05952380952385,777.5,47f4bc607e8ff052a15da520d5b0146402787de6,US,AZ,Scottsdale,0,cool,auto,Home,false,false,true,Electric
+758.80769230769226,770.0,770.0,668da38c05f7b15dce42bff6c7ae9f62bd463024,US,AZ,Phoenix,0,off,hold,Home,false,false,true,Electric
+747.88951521984211,755.81623449830886,691.99774520856818,668da38c05f7b15dce42bff6c7ae9f62bd463024,US,AZ,Phoenix,0,cool,auto,Home,false,false,true,Electric
+751.575,768.20357142857142,771.46071428571429,0222630f87433cb6a60e0fe83c9bc2233a842fce,US,AZ,Phoenix,0,cool,auto,Home,true,false,false,Gas
+693.11702127659578,778.82978723404256,778.563829787234,602078f05528f96913cce39a7f995d019ed75f3e,US,AZ,Avondale,0,cool,hold,Home,false,false,false,Gas
+720.0,800.0,790.0,8eba6e0fcc5487076abbb8bc75aedf8fa73b6a87,US,AZ,Mesa,0,off,hold,Home,false,false,false,Gas
+760.547619047619,790.0,790.0,47f4bc607e8ff052a15da520d5b0146402787de6,US,AZ,Scottsdale,0,cool,hold,Home,false,false,true,Electric
+730.9,800.23333333333335,787.0,48899fbecf1d09cc1e6fd273c64df2f1bd93eb0b,US,AZ,Phoenix,0,cool,hold,Home,false,false,true,Electric
+715.34983498349834,757.47524752475249,650.74257425742576,b3755174e4840ceb4e188478c2dc0b7bcff91cf9,US,AZ,Mesa,0,auto,hold,Home,false,false,false,Gas
+706.65168539325839,709.34831460674161,659.02247191011236,0fea456e46fb0c4337cb146c147f10ec91dada64,US,AZ,Glendale,0,auto,auto,Home,false,false,false,Gas
+672.29885057471267,810.0,660.0,0afdaa2c6737c1ce2d02eb5b75a471a798bd5f8d,US,AZ,Gold Canyon,0,auto,auto,Home,true,false,false,Gas
+671.10784313725492,672.73529411764707,672.73529411764707,1186bfe43eb8c0463d3033d0ed62173252c60f1c,US,AZ,Phoenix,0,heat,hold,Home,false,false,false,Gas
+708.55585831062672,773.06267029972753,684.87602179836517,48899fbecf1d09cc1e6fd273c64df2f1bd93eb0b,US,AZ,Phoenix,0,heat,auto,Home,false,false,true,Electric
+747.031746031746,797.61904761904759,682.38095238095241,48899fbecf1d09cc1e6fd273c64df2f1bd93eb0b,US,AZ,Phoenix,0,cool,auto,Home,false,false,true,Electric
+690.47863247863245,690.0,690.0,664aaf4176ce2239ff5bc658ab25fe45f2ddd19e,US,AZ,Chandler,0,cool,hold,Home,false,false,true,Electric
+696.57142857142856,690.0,690.0,73dbad90702f5b59124b94e2afac99d9ba58a63f,US,AZ,Vail,0,heat,hold,Home,false,false,false,Gas
+700.20202020202021,700.0,700.0,40fe0ad2c29d4fa1f16443a2d1ce30642276805a,US,AZ,Phoenix,0,off,hold,Home,true,false,false,Gas
+733.29487179487182,820.0,700.0,a5eeb432e31bd7d88a5f0acfce9222c6a6b8e4de,US,AZ,Phoenix,0,auto,auto,Home,false,false,false,Gas
+744.64918414918418,786.03321678321674,729.23717948717945,0f322a86d11b990191c71e81712041bcbeed3937,US,AZ,Chandler,0,auto,hold,Home,true,false,true,Electric
+749.30742659758209,774.49568221070808,711.24179620034545,b4a23bcbdeda88fe06692dbac3148deaa9871e95,US,AZ,Phoenix,0,auto,hold,Home,false,false,false,Gas
+760.13636363636363,780.0,720.0,8569729795b5c3d9a5165c301651884d5a3b1311,US,AZ,Peoria,0,cool,auto,Home,false,false,false,Gas
+743.71295215869316,750.0,760.0,9b3b4affdfa879e1ed0e233408dbe71eaeadc232,US,AZ,Phoenix,0,off,auto,Home,false,false,true,Electric
+780.16666666666663,780.0,780.0,d4b69256f1360b0b3c63c26b005b6cd3d22b8709,US,AZ,Mesa,0,cool,hold,Home,false,false,false,Gas
+732.82291666666663,749.44791666666663,663.75,53cef793eda2bc42b5dbe6c1b6e47d176d5d732c,US,AZ,Gilbert,0,auto,hold,Home,false,false,false,Gas
+731.0,820.0,690.0,b00f9da3121841492eef01ad8c9fbdece5e6b03e,US,AZ,Tempe,0,auto,auto,Home,false,false,true,Electric
+735.10833333333335,760.0,700.0,03292716077cf509fa4dd9b59553c3145d507cd6,US,AZ,Buckeye,0,off,auto,Home,false,false,true,Electric
+709.42857142857144,706.922077922078,706.87012987012986,668da38c05f7b15dce42bff6c7ae9f62bd463024,US,AZ,Phoenix,0,heat,auto,Home,false,false,true,Electric
+734.55882352941171,741.29411764705878,741.29411764705878,a48c5836edcfdd38e92474454acc10e226ddfe58,US,AZ,Phoenix,0,heat,hold,Home,false,false,false,Gas
+753.6,770.0,770.0,9b3b4affdfa879e1ed0e233408dbe71eaeadc232,US,AZ,Phoenix,0,cool,hold,Home,false,false,true,Electric
+727.33333333333337,760.0,680.0,b481ff1b9c2a99a9d6ff12dd2be166f15ad3796c,US,AZ,Phoenix,0,auto,hold,Home,true,false,false,Gas
+731.5625,770.0,703.125,7cc51eab4261c08456fdb20161d00f3c82119f90,US,AZ,Fountain Hills,0,auto,hold,Home,false,false,true,Electric
+730.0,730.0,730.0,458092ae135441a4a60c62d292c67ddb406cfcbc,US,AZ,Phoenix,0,off,auto,Home,false,false,false,Gas
+693.3,708.2,697.2,ed89db9fc82b6c05d19ae27a49a9fe7eedac65c3,US,AZ,Flagstaff,0,heat,auto,Home,false,false,false,Gas
+724.2,750.0,740.0,0e888f18954e00b2aa503f92d04554494d5da828,US,AZ,Phoenix,0,cool,auto,Home,false,false,false,Gas
+747.0,760.0,689.0,668da38c05f7b15dce42bff6c7ae9f62bd463024,US,AZ,Phoenix,0,off,auto,Home,false,false,true,Electric

@@ -1,0 +1,28 @@
+AvgTempCtrl,AvgCool,AvgHeat,Identifier,Country,ProvinceState,City,Age_of_Home__years_,HvacMode,CalendarEvent,Climate,allowCompWithAux,Has_Electric,Has_a_Heat_Pump,Auxilliary_Heat_Fuel_Type
+713.41176470588232,718.70588235294122,707.55882352941171,dbf434d72cb702bebbf21c24db39e00975a2b7a0,US,NE,Omaha,0,heat,hold,Home,true,false,true,Electric
+646.266393442623,655.20081967213116,647.811475409836,663d42463287367b48899d4ff0958c3f9729ce48,US,NE,Holdrege,0,heat,hold,Home,false,false,false,Gas
+672.53218884120167,751.8159871244635,647.90879828326183,dd4349c57f7c3e0d5ebf15e76b53dd399940e523,US,NE,Omaha,0,heat,auto,Home,false,false,false,Gas
+667.79765886287623,749.55016722408027,649.17725752508363,dd4349c57f7c3e0d5ebf15e76b53dd399940e523,US,NE,Omaha,0,off,auto,Home,false,false,false,Gas
+644.11656005685859,650.774697938877,627.94598436389481,663d42463287367b48899d4ff0958c3f9729ce48,US,NE,Holdrege,0,heat,auto,Home,false,false,false,Gas
+639.063492063492,652.79365079365084,642.50793650793651,a3cb98fe5ad1d4f2f0bb0172c352c09af8f86236,US,NE,Omaha,0,off,hold,Home,false,false,false,Gas
+680.25661375661377,679.57142857142856,679.20811287477954,a3cb98fe5ad1d4f2f0bb0172c352c09af8f86236,US,NE,Omaha,0,heat,hold,Home,false,false,false,Gas
+671.73529411764707,670.0,670.0,9e191515cec0f18d94d1c2fdeadb8f02695f27e7,US,NE,Omaha,0,heat,hold,Home,false,false,false,Gas
+668.38461538461536,671.59615384615381,671.40384615384619,a2c2dcfba9fff480185e565300d556f462c67603,US,NE,Kearney,0,heat,auto,Home,false,false,true,Electric
+698.90234857849191,670.0,670.0,ac8d4fb0d07c40b4d389f2b39f552a8cbd917a56,US,NE,Wahoo,0,heat,hold,Home,true,false,true,Electric
+699.283422459893,780.0,680.0,7b60e6445176b896fa889985ce8b1a50620e9892,US,NE,Lincoln,0,auto,hold,Home,false,false,false,Gas
+673.125,729.75,679.75,033afd975854035a4b0ab320768f094d2b716859,US,NE,La Vista,0,auto,hold,Home,false,false,false,Gas
+706.34285714285716,709.12380952380954,709.03809523809525,10484576cdf6fa0ce377a1110f267866bcfea53d,US,NE,Omaha,0,heat,hold,Home,false,false,false,Gas
+680.55555555555554,680.0,680.0,dbf434d72cb702bebbf21c24db39e00975a2b7a0,US,NE,Omaha,0,heat,auto,Home,true,false,true,Electric
+679.71428571428567,681.59006211180122,681.59006211180122,a2c2dcfba9fff480185e565300d556f462c67603,US,NE,Kearney,0,heat,hold,Home,false,false,true,Electric
+727.83333333333337,750.25,689.875,484f2ca2f908af5160afd910c8349433da3afc81,US,NE,Hickman,0,off,hold,Home,true,false,true,Electric
+737.83333333333337,740.0,690.0,a2c2dcfba9fff480185e565300d556f462c67603,US,NE,Kearney,0,auto,hold,Home,false,false,true,Electric
+697.71428571428567,700.0,700.0,e98b28d1f1c335a8494b1c1e7367c8d02464a2eb,US,NE,Lincoln,0,heat,hold,Home,false,false,false,Gas
+708.440251572327,710.0,710.0,a2c2dcfba9fff480185e565300d556f462c67603,US,NE,Kearney,0,auxHeatOnly,hold,Home,false,false,true,Electric
+687.60034013605446,714.35374149659867,714.35374149659867,a2c2dcfba9fff480185e565300d556f462c67603,US,NE,Kearney,0,off,hold,Home,false,false,true,Electric
+695.68208092485554,740.0,723.61271676300578,a2c2dcfba9fff480185e565300d556f462c67603,US,NE,Kearney,0,cool,auto,Home,false,false,true,Electric
+731.63636363636363,730.0454545454545,730.0,a2c2dcfba9fff480185e565300d556f462c67603,US,NE,Kearney,0,cool,hold,Home,false,false,true,Electric
+716.4375,730.25,730.25,ac8d4fb0d07c40b4d389f2b39f552a8cbd917a56,US,NE,Wahoo,0,cool,hold,Home,true,false,true,Electric
+705.07146067415727,740.0,740.0,ac8d4fb0d07c40b4d389f2b39f552a8cbd917a56,US,NE,Wahoo,0,cool,auto,Home,true,false,true,Electric
+701.66666666666663,740.0,740.0,ac8d4fb0d07c40b4d389f2b39f552a8cbd917a56,US,NE,Wahoo,0,off,auto,Home,true,false,true,Electric
+679.375,670.0,610.0,033afd975854035a4b0ab320768f094d2b716859,US,NE,La Vista,0,auto,auto,Home,false,false,false,Gas
+683.5,741.5,733.5,a2c2dcfba9fff480185e565300d556f462c67603,US,NE,Kearney,0,off,auto,Home,false,false,true,Electric

@@ -1,0 +1,4 @@
+AvgTempCtrl,AvgCool,AvgHeat,Identifier,Country,ProvinceState,City,Age_of_Home__years_,HvacMode,CalendarEvent,Climate,allowCompWithAux,Has_Electric,Has_a_Heat_Pump,Auxilliary_Heat_Fuel_Type
+684.890243902439,690.3215077605322,688.90798226164077,6ea13a6a8839c82c41cc8b0da4d0749b2070e49f,US,ME,North Yarmouth,0,heat,hold,Home,false,false,false,Gas
+679.36702127659578,687.89893617021278,685.23404255319144,6ea13a6a8839c82c41cc8b0da4d0749b2070e49f,US,ME,North Yarmouth,0,heat,auto,Home,false,false,false,Gas
+652.70902915369379,753.55788281913385,638.79535805264652,b7c214e6715b7136e0cf0fbdb5b83337dda9032b,US,ME,Eliot,0,auto,hold,Home,false,false,false,Gas

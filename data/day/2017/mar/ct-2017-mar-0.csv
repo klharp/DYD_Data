@@ -1,0 +1,66 @@
+AvgTempCtrl,AvgCool,AvgHeat,Identifier,Country,ProvinceState,City,Age_of_Home__years_,HvacMode,CalendarEvent,Climate,allowCompWithAux,Has_Electric,Has_a_Heat_Pump,Auxilliary_Heat_Fuel_Type
+689.75357385976849,693.37440435670521,693.33015656909458,5bf2522a15e2e039169eaca98f8437b26282f780,US,CT,East Granby,0,heat,hold,Home,false,false,false,Gas
+661.35185185185185,778.89583333333337,663.90972222222217,215c2dfd21213f343402901d6a5bee6dae1c5718,US,CT,Orange,0,auto,hold,Home,true,false,false,Gas
+669.8138424821002,764.82577565632459,657.05727923627683,4b6bf1eb112f91544308eae23f7b1d8d9484939d,US,CT,Berlin,0,heat,auto,Home,false,false,false,Gas
+669.79411764705878,675.47058823529414,671.76470588235293,4b6bf1eb112f91544308eae23f7b1d8d9484939d,US,CT,Berlin,0,heat,hold,Home,false,false,false,Gas
+688.95567375886526,685.79078014184392,685.79078014184392,3eb4dc2a36e93ef93c0c710ef69cb77a145ba52f,US,CT,Darien,0,heat,hold,Home,true,false,false,Gas
+674.29653679653677,683.71861471861473,674.34199134199139,b04f9bb5a0632e2309c9b501eca2afa79cf163b7,US,CT,Darien,0,heat,auto,Home,true,false,false,Gas
+683.38304093567251,684.21052631578948,684.24269005847952,b04f9bb5a0632e2309c9b501eca2afa79cf163b7,US,CT,Darien,0,heat,hold,Home,true,false,false,Gas
+667.4238209084981,754.05107585307542,660.81134535970443,6b722b3db7dc87206f537b265568718c7e8cd3eb,US,CT,Hamden,0,heat,auto,Home,false,false,false,Gas
+704.10856453558506,706.39083232810617,706.39083232810617,52ecdd4d82b2ab2cf86604e2454b8b8727fa22dd,US,CT,Hamden,0,heat,hold,Home,false,false,false,Gas
+670.3255484784147,748.51026185421085,661.43099787685776,190f39e0730e0a7394c9d3954f01bb60a93a08db,US,CT,Vernon,0,auto,auto,Home,false,false,false,Gas
+596.07648026315792,655.18092105263156,589.94490131578948,e3389a3eeeb0c30b72ac1aa89eb19ab4f7d9a945,US,CT,Wilton,0,heat,hold,Home,false,false,false,Gas
+685.0,685.59649122807014,685.59649122807014,f8ded9172d7784eac8ada83cabfaca0d979c5775,US,CT,Cheshire,0,heat,auto,Home,false,false,false,Gas
+686.46089743589744,675.62980769230774,672.85416666666663,56519c40d637e2d291430112f279d53841524133,US,CT,Montville,0,heat,auto,Home,false,false,false,Gas
+591.36432432432434,667.54054054054052,622.39027027027032,51df44809b31080f8590fe8f360744f9bf6eb33d,US,CT,Southington,0,off,hold,Home,false,false,false,Gas
+600.00625,653.50625,623.95625,51df44809b31080f8590fe8f360744f9bf6eb33d,US,CT,Southington,0,heat,hold,Home,false,false,false,Gas
+649.72212230215825,650.03732014388493,641.11555755395682,7f429ed3e777b71b73c74afb5d188105933ebab4,US,CT,East Hampton,0,heat,hold,Home,false,false,false,Gas
+601.38235294117646,650.0,600.0,fb4ba55769c3bfb68a844bfd68c7b38ca7e1d559,US,CT,Wilton,0,heat,auto,Home,false,false,false,Gas
+692.68299198575244,691.11160581775,690.13178984861975,f8ded9172d7784eac8ada83cabfaca0d979c5775,US,CT,Cheshire,0,heat,hold,Home,false,false,false,Gas
+661.097770154374,662.75471698113211,649.80445969125219,0b3c9b534cf69257d66a1102858406468dd61627,US,CT,Greenwich,0,heat,auto,Home,false,false,false,Gas
+620.61818181818182,650.0,600.0,0b3c9b534cf69257d66a1102858406468dd61627,US,CT,Greenwich,0,heat,hold,Home,false,false,false,Gas
+608.49779735682819,650.0,605.36563876651985,51df44809b31080f8590fe8f360744f9bf6eb33d,US,CT,Southington,0,heat,auto,Home,false,false,false,Gas
+569.0,650.0,614.57516339869278,51df44809b31080f8590fe8f360744f9bf6eb33d,US,CT,Southington,0,off,auto,Home,false,false,false,Gas
+638.275641025641,780.0,635.56410256410254,4c65905a2d33322b15acc638fa20a317109f6ff0,US,CT,Madison,0,auto,hold,Home,false,false,false,Gas
+655.9375,818.0,613.5,6dcdecb21057bc7c3428cc43b6100da06b449b56,US,CT,Riverton,0,heat,auto,Home,true,false,true,Electric
+672.85763888888891,752.08333333333337,652.08333333333337,737eed546bf37375c274f8c21fd2af6ffd253018,US,CT,Ansonia,0,heat,auto,Home,false,false,false,Gas
+609.12962962962968,780.0,620.0,905fe1df9c6ecd5dfb36e401a91aee6bdd29369a,US,CT,Madison,0,off,hold,Home,false,false,false,Gas
+621.95833333333337,780.0,620.0,905fe1df9c6ecd5dfb36e401a91aee6bdd29369a,US,CT,Madison,0,auto,hold,Home,false,false,false,Gas
+633.20197044334975,657.02463054187194,633.97044334975374,811dc1e9c52b19ab128235122b9029ae91e825c8,US,CT,Danbury,0,heat,auto,Home,false,false,false,Gas
+695.2772277227723,650.0,620.0,9bfc654200d9025f474904278861e457f0fe0b53,US,CT,Milford,0,heat,auto,Home,false,false,false,Gas
+674.75840336134456,681.11764705882354,675.01680672268913,811dc1e9c52b19ab128235122b9029ae91e825c8,US,CT,Danbury,0,heat,hold,Home,false,false,false,Gas
+628.2,650.1,630.23333333333335,8edf5681c6e9f3c2bf4b79f2ad3a4ad9c82fdbe3,US,CT,Trumbull,0,heat,hold,Home,false,false,false,Gas
+624.1,650.0,630.0,8edf5681c6e9f3c2bf4b79f2ad3a4ad9c82fdbe3,US,CT,Trumbull,0,heat,auto,Home,false,false,false,Gas
+626.14583333333337,677.20833333333337,653.375,8eab1b11fda28f5bb21d7f801ac26a44d1e4ccca,US,CT,stony creek,0,heat,hold,Home,false,false,false,Gas
+663.1583333333333,657.125,654.07916666666665,737eed546bf37375c274f8c21fd2af6ffd253018,US,CT,Ansonia,0,heat,hold,Home,false,false,false,Gas
+686.0,650.0,640.0,1d643e73a2c013cb3b79b099d91d3e32d25ebf7f,US,CT,Stonington,0,heat,hold,Home,false,false,false,Gas
+662.98538961038957,779.85470779220782,643.78246753246754,5c2abba8d011b3608152f52771e440b90154fc73,US,CT,Berlin,0,heat,auto,Home,false,false,false,Gas
+657.85958904109589,680.0,642.60273972602738,0a751de00d076714c9f1c136f2203fae474b7ace,US,CT,East Hampton,0,heat,auto,Home,false,false,false,Gas
+652.15698587127156,653.00784929356359,647.40345368916792,7f429ed3e777b71b73c74afb5d188105933ebab4,US,CT,East Hampton,0,heat,auto,Home,false,false,false,Gas
+633.79729729729729,780.0,647.490990990991,4c65905a2d33322b15acc638fa20a317109f6ff0,US,CT,Madison,0,off,hold,Home,false,false,false,Gas
+652.9375,650.0,650.0,905fe1df9c6ecd5dfb36e401a91aee6bdd29369a,US,CT,Madison,0,heat,hold,Home,false,false,false,Gas
+632.78409090909088,650.40909090909088,648.90909090909088,e3389a3eeeb0c30b72ac1aa89eb19ab4f7d9a945,US,CT,Wilton,0,heat,auto,Home,false,false,false,Gas
+671.30833333333328,672.6125,672.6125,3eb4dc2a36e93ef93c0c710ef69cb77a145ba52f,US,CT,Darien,0,heat,auto,Home,true,false,false,Gas
+704.66880093131545,699.918509895227,699.918509895227,7be0a292b68a50ff5739937a057d8f55ab135da4,US,CT,Branford,0,heat,hold,Home,false,false,false,Gas
+666.29166666666663,780.0,669.8125,215c2dfd21213f343402901d6a5bee6dae1c5718,US,CT,Orange,0,auto,auto,Home,true,false,false,Gas
+683.351506456241,750.0,670.0,67ce6dff75807d1a4154da89e8e6511067d8e889,US,CT,Darien,0,auto,hold,Home,false,false,false,Gas
+673.52985074626861,674.47761194029852,674.47761194029852,56519c40d637e2d291430112f279d53841524133,US,CT,Montville,0,heat,hold,Home,false,false,false,Gas
+664.38888888888891,685.27777777777783,678.94444444444446,95714c4226b77ec89d37abb2162b3acbe7793b36,US,CT,East Granby,0,heat,hold,Home,false,false,false,Gas
+683.09071504802557,684.91515474919959,684.837780149413,9b94bd34b8432b166e60a489bbbff73b3e15f995,US,CT,Hamden,0,heat,hold,Home,false,false,false,Gas
+683.64574898785429,686.836032388664,686.836032388664,9b94bd34b8432b166e60a489bbbff73b3e15f995,US,CT,Hamden,0,heat,auto,Home,false,false,false,Gas
+692.46888888888884,683.4,683.4,7be0a292b68a50ff5739937a057d8f55ab135da4,US,CT,Branford,0,heat,auto,Home,false,false,false,Gas
+686.1964869281046,680.0,680.0,dbb75585778712f1f1018970d74630decdc566a9,US,CT,Branford,0,heat,auto,Home,false,false,false,Gas
+699.90566037735846,694.57756813417188,694.57756813417188,dbb75585778712f1f1018970d74630decdc566a9,US,CT,Branford,0,heat,hold,Home,false,false,false,Gas
+713.36111111111109,710.0,710.0,560981a850d99c67056b0bab1787fd24671968ab,US,CT,Avon,0,heat,auto,Home,false,false,false,Gas
+717.57638888888891,719.375,718.9375,cd9b1cd60400fb5e7bc411a9c16f4f5c711bee2c,US,CT,Darien,0,heat,hold,Home,false,false,false,Gas
+714.05930470347653,710.0,710.0,f8767c936a132e94c7600724c599178c9d98d40f,US,CT,Hamden,0,heat,hold,Home,false,false,false,Gas
+706.39519650655018,710.00655021834064,709.99781659388645,f8767c936a132e94c7600724c599178c9d98d40f,US,CT,Hamden,0,heat,auto,Home,false,false,false,Gas
+710.395061728395,720.7037037037037,719.53086419753083,5bf2522a15e2e039169eaca98f8437b26282f780,US,CT,East Granby,0,heat,auto,Home,false,false,false,Gas
+725.9375,720.0,720.0,560981a850d99c67056b0bab1787fd24671968ab,US,CT,Avon,0,heat,hold,Home,false,false,false,Gas
+720.24206349206349,720.05952380952385,719.952380952381,cd9b1cd60400fb5e7bc411a9c16f4f5c711bee2c,US,CT,Darien,0,heat,auto,Home,false,false,false,Gas
+652.0,769.75,608.25,f91e491da4d3c5ed8917b116ec11e55dfd5104b8,US,CT,killingworth,0,heat,auto,Home,false,false,false,Gas
+578.22222222222217,675.0,625.0,51df44809b31080f8590fe8f360744f9bf6eb33d,US,CT,Southington,0,auto,hold,Home,false,false,false,Gas
+639.125,753.875,619.0625,99381f338f97d44704c0f6d384d463bbb4d982fb,US,CT,Durham,0,heat,auto,Home,false,false,false,Gas
+665.6,740.0,660.0,7f429ed3e777b71b73c74afb5d188105933ebab4,US,CT,East Hampton,0,auto,auto,Home,false,false,false,Gas
+633.0,650.0,640.0,7f429ed3e777b71b73c74afb5d188105933ebab4,US,CT,East Hampton,0,off,hold,Home,false,false,false,Gas
+650.0,792.0,604.0,8eab1b11fda28f5bb21d7f801ac26a44d1e4ccca,US,CT,stony creek,0,heat,auto,Home,false,false,false,Gas
