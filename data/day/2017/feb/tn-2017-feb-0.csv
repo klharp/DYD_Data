@@ -1,0 +1,149 @@
+AvgTempCtrl,AvgCool,AvgHeat,Identifier,Country,ProvinceState,City,Age_of_Home__years_,HvacMode,CalendarEvent,Climate,allowCompWithAux,Has_Electric,Has_a_Heat_Pump,Auxilliary_Heat_Fuel_Type
+683.89655172413791,684.89655172413791,684.82758620689651,ebb19beccb8626a8e5b288e643d9f6d6228572da,US,TN,Cookeville,0,cool,hold,Home,true,false,true,Electric
+701.38181818181818,715.0,665.0,b499b6edf783bcb10c0f8bff7d335e9abf7c0291,US,TN,Goodlettsville,0,auto,hold,Home,false,false,true,Electric
+664.67153284671531,697.56204379562041,670.0,ebb19beccb8626a8e5b288e643d9f6d6228572da,US,TN,Cookeville,0,cool,auto,Home,true,false,true,Electric
+685.14285714285711,720.0,690.0,ebb19beccb8626a8e5b288e643d9f6d6228572da,US,TN,Cookeville,0,auto,hold,Home,true,false,true,Electric
+700.19895287958116,703.434554973822,702.717277486911,827c9421c79ee7b4c2340a3bcaa1b171d1546ab8,US,TN,Paris,0,heat,hold,Home,false,false,false,Gas
+703.04790419161679,700.43113772455092,699.82634730538928,6e4f3e2b270724a405d750bfefc29078ee2510de,US,TN,Rockford,0,heat,auto,Home,false,false,true,Electric
+651.563829787234,656.70638297872335,651.31489361702131,3943cd7b88eb87b1a64f9c9788c52ca20425d80a,US,TN,Cordova,0,heat,hold,Home,false,false,false,Gas
+636.88591549295779,654.556338028169,639.48873239436625,3943cd7b88eb87b1a64f9c9788c52ca20425d80a,US,TN,Cordova,0,heat,auto,Home,false,false,false,Gas
+687.81742738589207,724.811203319502,675.188796680498,3943cd7b88eb87b1a64f9c9788c52ca20425d80a,US,TN,Cordova,0,auto,auto,Home,false,false,false,Gas
+692.29442282749676,687.22178988326846,687.16990920881972,c2a5241c5ab9ba1f61777e3d0ab73775c1db8c3e,US,TN,Lebanon,0,auxHeatOnly,auto,Home,true,false,true,Electric
+712.59627329192551,720.776397515528,719.776397515528,63a9dc4a56fb3f4cd0c910ecec453d9e2440cbd4,US,TN,Memphis,0,heat,hold,Home,true,false,false,Gas
+664.92583732057415,659.78468899521533,657.01913875598086,da018df787b98b3131e935cfe29bfbfd69a077bc,US,TN,Columbia,0,heat,hold,Home,false,false,true,Electric
+664.67714285714283,657.24571428571426,651.62285714285713,da018df787b98b3131e935cfe29bfbfd69a077bc,US,TN,Columbia,0,heat,auto,Home,false,false,true,Electric
+692.18545751633985,706.94362745098044,703.26715686274508,771355e6ad9ea4acfc1e9f525afcca9a230a9b05,US,TN,Franklin,0,heat,hold,Home,false,false,false,Gas
+712.3952879581152,770.0,700.0,c020105806c6d491eeb61b9e4cf8d6473d0374c4,US,TN,Gallatin,0,auto,auto,Home,false,false,false,Gas
+710.90537289494785,760.38492381716117,710.38492381716117,facd3d88f2a3ba9784c5af69124e7df696a7bdf8,US,TN,Brentwood,0,auto,auto,Home,false,false,false,Gas
+717.1098901098901,740.0,740.0,e16a13807082bad12f5eacbdb6a582671783f912,US,TN,Brentwood,0,cool,hold,Home,false,false,false,Gas
+677.0141509433962,728.30188679245282,678.30188679245282,18989bf0c131dfbdbcd642224e3861e4c2d8adc8,US,TN,Knoxville,0,auto,hold,Home,true,false,true,Electric
+712.85714285714289,680.0,680.0,0fdacb2a2c440b2016926e5ec1fb867dd892d7da,US,TN,Nashville,0,off,hold,Home,true,false,true,Electric
+702.98395721925135,699.86631016042782,699.77005347593581,0fdacb2a2c440b2016926e5ec1fb867dd892d7da,US,TN,Nashville,0,heat,auto,Home,true,false,true,Electric
+682.875,700.875,689.54166666666663,9cc241dae9b1e10c4dd1c12f90738ad5d41d312d,US,TN,Nashville,0,heat,hold,Home,false,false,false,Gas
+696.27713625866056,699.5150115473441,699.5150115473441,0fdacb2a2c440b2016926e5ec1fb867dd892d7da,US,TN,Nashville,0,heat,hold,Home,true,false,true,Electric
+712.77083333333337,763.84375,713.796875,6bc15dc9eeea00579e91ea03b820b1205920e9be,US,TN,Nashville,0,auto,auto,Home,true,false,true,Electric
+692.63157894736844,740.0,740.0,7cf2149e617a00cb5a2cf2e6f8cda9f97f395e49,US,TN,Mt. Juliet,0,off,hold,Home,false,false,false,Gas
+678.60139860139861,743.84615384615381,743.84615384615381,7cf2149e617a00cb5a2cf2e6f8cda9f97f395e49,US,TN,Mt. Juliet,0,cool,hold,Home,false,false,false,Gas
+669.77777777777783,680.0,680.0,66101b8880805d565d84ec3e0d1f2608cd70af29,US,TN,Chattanooga,0,off,hold,Home,true,false,true,Electric
+694.72222222222217,690.0,690.0,66101b8880805d565d84ec3e0d1f2608cd70af29,US,TN,Chattanooga,0,heat,auto,Home,true,false,true,Electric
+663.15102040816328,700.07346938775515,650.06938775510207,35e7c578200083308fe08e3705c70b90e2c32f91,US,TN,Nolensville,0,auto,hold,Home,false,false,false,Gas
+685.37931034482756,688.8423645320197,670.39408866995075,35e7c578200083308fe08e3705c70b90e2c32f91,US,TN,Nolensville,0,cool,auto,Home,false,false,false,Gas
+697.0835913312693,650.0,640.0,55b8bb837df6fdc1ae1065f5545bd05420ef077e,US,TN,Nolensville,0,heat,auto,Home,false,false,false,Gas
+670.4262820512821,665.0512820512821,665.01282051282055,55b8bb837df6fdc1ae1065f5545bd05420ef077e,US,TN,Nolensville,0,heat,hold,Home,false,false,false,Gas
+713.56424581005592,750.0,620.0,27e35c979275bf13aaf8df7d4218c9526bbbea95,US,TN,Collierville,0,auto,auto,Home,true,false,false,Gas
+693.38943894389433,650.059405940594,650.059405940594,27e35c979275bf13aaf8df7d4218c9526bbbea95,US,TN,Collierville,0,heat,hold,Home,true,false,false,Gas
+715.859649122807,718.19298245614038,716.73684210526312,eb6eb075e5a141eb3980d3a000592f477c9a94f5,US,TN,Collierville,0,heat,hold,Home,false,false,false,Gas
+681.79104477611941,767.6567164179105,685.8656716417911,61590516a5949879179fe20a66105d8331533b7f,US,TN,Johnson City,0,auto,auto,Home,false,false,false,Gas
+684.87646076794658,680.0,680.0,e1586cdc98619b8868b53d73856e022c6ddc30d3,US,TN,Mount Juliet,0,heat,auto,Home,false,false,false,Gas
+697.275,690.5,690.0,7920654ea7c7cbc4c4be0fc7d49cfa9073594849,US,TN,Mount Juliet,0,heat,hold,Home,false,false,false,Gas
+729.75221238938047,733.18584070796464,733.18584070796464,f487cc1aaeaa7dfaba009d08297983d1851d779e,US,TN,Mount Juliet,0,heat,hold,Home,false,false,false,Gas
+731.13705583756348,733.48730964467006,733.258883248731,8aeba1a8e63051a719f13b29de0c633f5961a448,US,TN,Mount Juliet,0,heat,hold,Home,false,false,false,Gas
+706.04814814814813,806.66666666666663,676.66666666666663,2da807f5029782a8e7677d02094423c52bd5b297,US,TN,Thompsons Station,0,auto,hold,Home,false,false,false,Gas
+711.96739130434787,765.0,715.0,9478de2c454b58877b8d7220b5648f331daf3b06,US,TN,Thompsons Station,0,auto,hold,Home,false,false,false,Gas
+711.3,710.0,660.0,adfd41675271b184d19c5f54424fce202fe9e245,US,TN,Tazewell,0,auto,auto,Home,false,false,true,Electric
+666.41666666666663,710.0,660.0,411dcbefe9792b975e6b9b758bb44bef2f7e3938,US,TN,Medina,0,auto,hold,Home,false,false,false,Gas
+717.578947368421,720.15789473684208,719.78947368421052,eb6eb075e5a141eb3980d3a000592f477c9a94f5,US,TN,Collierville,0,heat,auto,Home,false,false,false,Gas
+712.9545454545455,710.0,660.0,682a8f91a4e4ddb0ee5473e39ea8f695b560b6d7,US,TN,Germantown,0,auto,hold,Home,false,false,false,Gas
+697.33333333333337,696.0,696.0,ebb19beccb8626a8e5b288e643d9f6d6228572da,US,TN,Cookeville,0,off,hold,Home,true,false,true,Electric
+651.33333333333337,733.66666666666663,683.66666666666663,9acd8071f25d74c9b28601a37175aa5b7e4ad736,US,TN,Germantown,0,auto,auto,Home,false,false,false,Gas
+709.5,722.75,692.0,b90d83767891dcf347bffbb8214e8d5dd76b0be2,US,TN,Nashville,0,auto,hold,Home,false,false,false,Gas
+681.25,681.0,680.25,66101b8880805d565d84ec3e0d1f2608cd70af29,US,TN,Chattanooga,0,heat,hold,Home,true,false,true,Electric
+704.0,700.0,700.0,9acd8071f25d74c9b28601a37175aa5b7e4ad736,US,TN,Germantown,0,cool,hold,Home,false,false,false,Gas
+685.39077340569872,716.74762550881951,675.42152872003624,827c9421c79ee7b4c2340a3bcaa1b171d1546ab8,US,TN,Paris,0,heat,auto,Home,false,false,false,Gas
+661.17539267015707,804.40575916230364,615.03664921465963,d683e15efe36d698881b3471ab6323ebd36fa483,US,TN,Apison,0,heat,auto,Home,true,false,true,Electric
+681.20833333333337,680.75,650.75,ebb19beccb8626a8e5b288e643d9f6d6228572da,US,TN,Cookeville,0,auto,auto,Home,true,false,true,Electric
+680.11952191235059,672.56573705179278,672.12749003984061,c19adba907c5e47ca49242b3a3f1d16394ada583,US,TN,memphis ,0,heat,hold,Home,false,false,false,Gas
+668.93055555555554,766.9537037037037,670.91666666666663,c19adba907c5e47ca49242b3a3f1d16394ada583,US,TN,memphis ,0,auto,hold,Home,false,false,false,Gas
+709.35398230088492,725.24778761061953,675.62831858407083,827c9421c79ee7b4c2340a3bcaa1b171d1546ab8,US,TN,Paris,0,off,auto,Home,false,false,false,Gas
+639.93215339233041,668.77876106194685,638.15634218289085,3943cd7b88eb87b1a64f9c9788c52ca20425d80a,US,TN,Cordova,0,cool,auto,Home,false,false,false,Gas
+662.88648648648643,695.25945945945944,651.63783783783788,fc6232649f0406a7a5ae2f67daaf5cce9096f536,US,TN,Memphis,0,auto,auto,Home,false,false,false,Gas
+632.71100917431193,819.93119266055044,639.97706422018348,833d8ddc3cb69a4ef622326370e14dbe012b0377,US,TN,Memphis,0,auto,auto,Home,false,false,false,Gas
+703.86764705882354,710.0,640.0,fc6232649f0406a7a5ae2f67daaf5cce9096f536,US,TN,Memphis,0,auto,hold,Home,false,false,false,Gas
+645.33203125,819.94140625,640.01171875,043e33bb323dc5a4b5a9f59e4a9edaa26e5f8392,US,TN,Memphis,0,auto,auto,Home,false,false,false,Gas
+727.59930313588848,780.0,726.58536585365857,82b2dfb151f9f7536d7d7788b6c9ef2ec0b58c98,US,TN,Franklin,0,heat,auto,Home,false,false,false,Gas
+728.46341463414637,730.31707317073176,729.829268292683,704c8a099d6acf60766cc2974dc864c668ad3198,US,TN,Franklin,0,heat,auto,Home,false,false,false,Gas
+733.52577319587624,714.21649484536078,713.80412371134025,704c8a099d6acf60766cc2974dc864c668ad3198,US,TN,Franklin,0,heat,hold,Home,false,false,false,Gas
+698.1877551020408,769.92653061224485,700.0,c179ef3843eff8399ed415af884763354c084987,US,TN,Ooltewah,0,auto,auto,Home,false,false,true,Electric
+685.23099415204683,680.00877192982455,680.00877192982455,e16a13807082bad12f5eacbdb6a582671783f912,US,TN,Brentwood,0,heat,auto,Home,false,false,false,Gas
+687.11818181818182,799.7,653.709090909091,fe47c0d230ea20f24180dfe35474eda122f6b7e4,US,TN,Knoxville,0,auto,hold,Home,false,false,false,Gas
+673.39966273187179,673.00337268128158,673.00337268128158,c72030507731bc2f54c631447a3039c909c3d768,US,TN,Knoxville,0,heat,auto,Home,false,false,false,Gas
+678.34920634920638,673.65079365079362,673.65079365079362,a5077143f2642bb8b79f33d5b00f8440995e35c3,US,TN,Knoxville,0,heat,hold,Home,false,false,true,Electric
+718.14502164502164,720.66450216450221,720.65800865800861,ae499c9aa942619f30cd32d5af64add7fdfe59b8,US,TN,Knoxville,0,heat,auto,Home,false,false,false,Gas
+717.6,788.4,787.5,80166b8b13a2390339ee814dbccca4b46f14bfce,US,TN,Nashville,0,heat,hold,Home,false,false,true,Electric
+685.5,769.80769230769226,690.0,272bf07b8458ce7e036798e22ba8f9943e15928e,US,TN,Nashville,0,auto,auto,Home,true,false,false,Gas
+703.02531645569616,717.21518987341767,667.21518987341767,9acd8071f25d74c9b28601a37175aa5b7e4ad736,US,TN,Germantown,0,auto,hold,Home,false,false,false,Gas
+633.7879377431907,653.15499351491565,629.49675745784691,7cf2149e617a00cb5a2cf2e6f8cda9f97f395e49,US,TN,Mt. Juliet,0,heat,hold,Home,false,false,false,Gas
+641.13300492610836,657.960591133005,634.82266009852219,7cf2149e617a00cb5a2cf2e6f8cda9f97f395e49,US,TN,Mt. Juliet,0,heat,auto,Home,false,false,false,Gas
+682.7538461538461,650.0,600.0,7cf2149e617a00cb5a2cf2e6f8cda9f97f395e49,US,TN,Mt. Juliet,0,off,auto,Home,false,false,false,Gas
+694.25555555555559,730.0,680.0,bf84a3aed9d4c8c65836e1cb4616f0d5e148d285,US,TN,Mt. Juliet,0,heat,hold,Home,false,false,false,Gas
+671.88235294117646,658.07352941176475,656.54411764705878,dd3ddc6cc40eb64218b79276a508adc2c77213ca,US,TN,Chattanooga,0,heat,auto,Home,false,false,false,Gas
+663.52962085308059,706.053317535545,654.1327014218009,55b8bb837df6fdc1ae1065f5545bd05420ef077e,US,TN,Nolensville,0,auto,hold,Home,false,false,false,Gas
+664.51111111111106,730.0,644.0,55b8bb837df6fdc1ae1065f5545bd05420ef077e,US,TN,Nolensville,0,auto,auto,Home,false,false,false,Gas
+693.09375,690.0,678.75,35e7c578200083308fe08e3705c70b90e2c32f91,US,TN,Nolensville,0,off,auto,Home,false,false,false,Gas
+638.5,700.0,700.0,55b8bb837df6fdc1ae1065f5545bd05420ef077e,US,TN,Nolensville,0,cool,hold,Home,false,false,false,Gas
+689.31111111111113,720.0,720.0,27e35c979275bf13aaf8df7d4218c9526bbbea95,US,TN,Collierville,0,cool,hold,Home,true,false,false,Gas
+679.4848484848485,770.0,690.0,61590516a5949879179fe20a66105d8331533b7f,US,TN,Johnson City,0,auto,hold,Home,false,false,false,Gas
+724.8943661971831,727.44835680751169,727.44835680751169,8aeba1a8e63051a719f13b29de0c633f5961a448,US,TN,Mount Juliet,0,heat,auto,Home,false,false,false,Gas
+677.76445578231289,743.92857142857144,675.0,57dc5bd36a0fd64db9272575fb091436c04898a1,US,TN,Thompsons Station,0,auto,hold,Home,false,false,false,Gas
+699.09876543209873,738.75308641975312,688.75308641975312,9478de2c454b58877b8d7220b5648f331daf3b06,US,TN,Thompsons Station,0,auto,auto,Home,false,false,false,Gas
+696.33333333333337,690.0,620.0,c020105806c6d491eeb61b9e4cf8d6473d0374c4,US,TN,Gallatin,0,auto,hold,Home,false,false,false,Gas
+661.125,725.0,675.0,c72030507731bc2f54c631447a3039c909c3d768,US,TN,Knoxville,0,auto,hold,Home,false,false,false,Gas
+661.39583333333337,670.0,670.0,66101b8880805d565d84ec3e0d1f2608cd70af29,US,TN,Chattanooga,0,cool,auto,Home,true,false,true,Electric
+731.89285714285711,751.21428571428567,746.07142857142856,eb6eb075e5a141eb3980d3a000592f477c9a94f5,US,TN,Collierville,0,cool,hold,Home,false,false,false,Gas
+659.5,737.22222222222217,686.22222222222217,d683e15efe36d698881b3471ab6323ebd36fa483,US,TN,Apison,0,heat,hold,Home,true,false,true,Electric
+748.14285714285711,846.07142857142856,605.07142857142856,b90d83767891dcf347bffbb8214e8d5dd76b0be2,US,TN,Nashville,0,cool,auto,Home,false,false,false,Gas
+692.0,690.0,690.0,682a8f91a4e4ddb0ee5473e39ea8f695b560b6d7,US,TN,Germantown,0,cool,hold,Home,false,false,false,Gas
+700.90909090909088,700.0,700.0,9acd8071f25d74c9b28601a37175aa5b7e4ad736,US,TN,Germantown,0,heat,hold,Home,false,false,false,Gas
+603.0,692.0,677.0,c72030507731bc2f54c631447a3039c909c3d768,US,TN,Knoxville,0,auto,auto,Home,false,false,false,Gas
+679.5,701.66666666666663,699.33333333333337,848330a6472abca3a99e46097e13a181b4ef137c,US,TN,Jackson,0,heat,hold,Home,false,false,false,Gas
+734.0,730.0,620.0,55b8bb837df6fdc1ae1065f5545bd05420ef077e,US,TN,Nolensville,0,off,auto,Home,false,false,false,Gas
+751.0,750.0,680.0,6e4f3e2b270724a405d750bfefc29078ee2510de,US,TN,Rockford,0,auto,auto,Home,false,false,true,Electric
+714.0,727.0,628.0,63a9dc4a56fb3f4cd0c910ecec453d9e2440cbd4,US,TN,Memphis,0,off,hold,Home,true,false,false,Gas
+671.89915966386559,650.0,650.0,741f99054ff00ee8c755c07d7db21eac86832d29,US,TN,Jonesborough,0,heat,hold,Home,true,false,true,Electric
+672.843137254902,750.0,650.0,45dac439214203f0151495ecd8c47ec0c52ff16a,US,TN,Lakeland,0,auto,auto,Home,false,false,false,Gas
+718.08333333333337,720.0,670.0,adfd41675271b184d19c5f54424fce202fe9e245,US,TN,Tazewell,0,auto,hold,Home,false,false,true,Electric
+681.18181818181813,680.36363636363637,679.72727272727275,0a4c659470d1b3b151bc25d09634bcb37b09264f,US,TN,Hermitage,0,cool,hold,Home,false,false,true,Electric
+675.45,729.6,679.6,0a4c659470d1b3b151bc25d09634bcb37b09264f,US,TN,Hermitage,0,auto,hold,Home,false,false,true,Electric
+686.76190476190482,688.14285714285711,687.85714285714289,0a4c659470d1b3b151bc25d09634bcb37b09264f,US,TN,Hermitage,0,heat,hold,Home,false,false,true,Electric
+657.5916666666667,660.46111111111111,665.16944444444448,3943cd7b88eb87b1a64f9c9788c52ca20425d80a,US,TN,Cordova,0,off,auto,Home,false,false,false,Gas
+633.37037037037032,680.0,680.0,3943cd7b88eb87b1a64f9c9788c52ca20425d80a,US,TN,Cordova,0,off,hold,Home,false,false,false,Gas
+698.05875152998772,696.49877600979187,696.49877600979187,c2a5241c5ab9ba1f61777e3d0ab73775c1db8c3e,US,TN,Lebanon,0,auxHeatOnly,hold,Home,true,false,true,Electric
+656.27150837988825,773.63687150837984,634.6446927374302,ff5178e166469cb13b976f43b946a6c5f28449c7,US,TN,Memphis,0,auto,auto,Home,false,false,false,Gas
+707.41496598639458,721.36734693877554,719.47619047619048,63a9dc4a56fb3f4cd0c910ecec453d9e2440cbd4,US,TN,Memphis,0,heat,auto,Home,true,false,false,Gas
+668.24444444444441,670.0,620.0,ff5178e166469cb13b976f43b946a6c5f28449c7,US,TN,Memphis,0,auto,hold,Home,false,false,false,Gas
+707.36458333333337,710.0,710.0,3599eb4f517d178de1aec1befed748b5a7c0969f,US,TN,Memphis,0,heat,auto,Home,false,false,false,Gas
+700.195530726257,759.245810055866,709.804469273743,771355e6ad9ea4acfc1e9f525afcca9a230a9b05,US,TN,Franklin,0,auto,hold,Home,false,false,false,Gas
+727.4375,730.875,729.64583333333337,82b2dfb151f9f7536d7d7788b6c9ef2ec0b58c98,US,TN,Franklin,0,heat,hold,Home,false,false,false,Gas
+684.90896646132785,678.24503764544829,678.1663244353183,e16a13807082bad12f5eacbdb6a582671783f912,US,TN,Brentwood,0,heat,hold,Home,false,false,false,Gas
+670.79105839416059,668.32983576642334,667.22354014598545,c72030507731bc2f54c631447a3039c909c3d768,US,TN,Knoxville,0,heat,hold,Home,false,false,false,Gas
+685.989898989899,785.55555555555554,640.36363636363637,fe47c0d230ea20f24180dfe35474eda122f6b7e4,US,TN,Knoxville,0,auto,auto,Home,false,false,false,Gas
+682.28846153846155,682.21153846153845,677.11263736263732,dcfe533a24700bc6b0657240e765cf2169a0f1ca,US,TN,Knoxville,0,heat,hold,Home,true,false,false,Gas
+697.6426701570681,699.07984293193715,699.07984293193715,ae499c9aa942619f30cd32d5af64add7fdfe59b8,US,TN,Knoxville,0,heat,hold,Home,false,false,false,Gas
+647.35185185185185,680.0,680.0,c72030507731bc2f54c631447a3039c909c3d768,US,TN,Knoxville,0,off,auto,Home,false,false,false,Gas
+681.87931034482756,683.84482758620686,683.7844827586207,a5077143f2642bb8b79f33d5b00f8440995e35c3,US,TN,Knoxville,0,heat,auto,Home,false,false,true,Electric
+655.175,650.0,641.4,813fa01fd7644382995c2a1e074fea46428af09b,US,TN,Nashville,0,heat,auto,Home,false,false,false,Gas
+652.63636363636363,660.0,660.0,949dad4de7ee736fcba82f8f30d44ecf496ac4e5,US,TN,Nashville,0,heat,auto,Home,true,false,true,Electric
+711.335403726708,763.84472049689441,695.40372670807449,6bc15dc9eeea00579e91ea03b820b1205920e9be,US,TN,Nashville,0,auto,hold,Home,true,false,true,Electric
+693.1464585834334,698.63145258103236,698.34693877551024,949dad4de7ee736fcba82f8f30d44ecf496ac4e5,US,TN,Nashville,0,heat,hold,Home,true,false,true,Electric
+719.14814814814815,721.0,718.7037037037037,b90d83767891dcf347bffbb8214e8d5dd76b0be2,US,TN,Nashville,0,heat,hold,Home,false,false,false,Gas
+700.49553571428567,673.75,652.14285714285711,55b8bb837df6fdc1ae1065f5545bd05420ef077e,US,TN,Nolensville,0,off,hold,Home,false,false,false,Gas
+672.24084177708494,673.294621979735,669.45518316445828,35e7c578200083308fe08e3705c70b90e2c32f91,US,TN,Nolensville,0,heat,hold,Home,false,false,false,Gas
+684.18110236220468,701.41732283464569,685.12992125984249,35e7c578200083308fe08e3705c70b90e2c32f91,US,TN,Nolensville,0,heat,auto,Home,false,false,false,Gas
+677.21296296296293,684.72222222222217,684.72222222222217,35e7c578200083308fe08e3705c70b90e2c32f91,US,TN,Nolensville,0,cool,hold,Home,false,false,false,Gas
+687.91111111111115,746.66666666666663,620.0,27e35c979275bf13aaf8df7d4218c9526bbbea95,US,TN,Collierville,0,auto,hold,Home,true,false,false,Gas
+665.265306122449,656.88046647230317,656.88046647230317,27e35c979275bf13aaf8df7d4218c9526bbbea95,US,TN,Collierville,0,heat,auto,Home,true,false,false,Gas
+719.31372549019613,730.0,660.0,7920654ea7c7cbc4c4be0fc7d49cfa9073594849,US,TN,Mount Juliet,0,auto,auto,Home,false,false,false,Gas
+703.04901960784309,720.0,670.0,e1586cdc98619b8868b53d73856e022c6ddc30d3,US,TN,Mount Juliet,0,auto,auto,Home,false,false,false,Gas
+726.57585139318883,725.7585139318885,725.7585139318885,f487cc1aaeaa7dfaba009d08297983d1851d779e,US,TN,Mount Juliet,0,heat,auto,Home,false,false,false,Gas
+682.10714285714289,677.73214285714289,673.21428571428567,2da807f5029782a8e7677d02094423c52bd5b297,US,TN,Thompsons Station,0,heat,hold,Home,false,false,false,Gas
+660.30769230769226,799.96153846153845,660.0,da018df787b98b3131e935cfe29bfbfd69a077bc,US,TN,Columbia,0,auto,hold,Home,false,false,true,Electric
+653.22222222222217,700.0,680.0,a5077143f2642bb8b79f33d5b00f8440995e35c3,US,TN,Knoxville,0,cool,auto,Home,false,false,true,Electric
+666.0,670.43103448275861,668.62068965517244,7c0d6dfe7c51b75bfe8c642866b015459a52717e,US,TN,Thompsons Station,0,heat,auto,Home,false,false,false,Gas
+655.0,669.0,660.0,949dad4de7ee736fcba82f8f30d44ecf496ac4e5,US,TN,Nashville,0,off,auto,Home,true,false,true,Electric
+687.33333333333337,700.0,700.0,80166b8b13a2390339ee814dbccca4b46f14bfce,US,TN,Nashville,0,cool,hold,Home,false,false,true,Electric
+649.6521739130435,700.21739130434787,620.60869565217388,7cf2149e617a00cb5a2cf2e6f8cda9f97f395e49,US,TN,Mt. Juliet,0,cool,auto,Home,false,false,false,Gas
+677.11111111111109,680.0,680.0,7c0d6dfe7c51b75bfe8c642866b015459a52717e,US,TN,Thompsons Station,0,heat,hold,Home,false,false,false,Gas
+717.0,720.0,620.0,63a9dc4a56fb3f4cd0c910ecec453d9e2440cbd4,US,TN,Memphis,0,auto,hold,Home,true,false,false,Gas
+642.2,664.8,651.8,dcfe533a24700bc6b0657240e765cf2169a0f1ca,US,TN,Knoxville,0,heat,auto,Home,true,false,false,Gas
+705.0,650.0,600.0,385c28241f2b0ab6f1f85cb171dcd61757901429,US,TN,Nashville,0,heat,auto,Home,false,false,true,Electric
+662.18181818181813,780.0,664.4545454545455,def4d2f546181ca8a77634f8aabb880285adcb5f,US,TN,Johnson City,0,auto,hold,Home,false,false,false,Gas

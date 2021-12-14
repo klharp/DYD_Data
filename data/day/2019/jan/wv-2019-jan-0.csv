@@ -1,0 +1,31 @@
+AvgTempCtrl,AvgCool,AvgHeat,Identifier,Country,ProvinceState,City,Age_of_Home__years_,HvacMode,CalendarEvent,Climate,allowCompWithAux,Has_Electric,Has_a_Heat_Pump,Auxilliary_Heat_Fuel_Type
+619.94444444444446,650.0,595.0,0e4776b12baa2bed797d5c01a14c7c796ccdb3c7,US,WV,Scott Depot,0,heat,hold,Home,true,false,true,Electric
+685.60575719649557,680.75093867334169,677.180225281602,362159cb260bc35da7592691d97629ce9b8889ae,US,WV,Martinsburg,0,heat,hold,Home,false,false,true,Electric
+712.17647058823525,730.0,730.0,3e0b0682ca5afcc829547eafe014dc805330dbbf,US,WV,Huntington,0,heat,hold,Home,true,false,true,Electric
+686.33333333333337,752.22222222222217,696.44444444444446,f710bb7d9a4a4033f351d3fe907edc4564fe1892,US,WV,Morgantown,0,auto,hold,Home,false,false,false,Gas
+779.0,850.0,850.0,3e0b0682ca5afcc829547eafe014dc805330dbbf,US,WV,Huntington,0,heat,auto,Home,true,false,true,Electric
+681.1115396978463,790.0,681.27836708453879,0ba5fcecda158565bcbf42d734064ea47ce7cf88,US,WV,Beckley,0,auto,hold,Home,true,false,false,Gas
+714.79380214541118,719.16924910607861,719.18116805721093,2100e877d252a20482500365ba1f1411d86b0ea0,US,WV,Farmington,0,heat,hold,Home,false,false,false,Gas
+706.77109476417138,711.6339247079186,713.48334054521854,2100e877d252a20482500365ba1f1411d86b0ea0,US,WV,Farmington,0,heat,auto,Home,false,false,false,Gas
+720.46756583172771,724.00032113037889,722.11753371868974,62af02b424db636d21a94dd5e7a568be9f0869a8,US,WV,Bluefield,0,heat,auto,Home,false,false,false,Gas
+687.04953560371519,690.91331269349848,688.65944272445824,ac65ef2ccdc744f50468622f0c28d825246323c9,US,WV,Cedar Grove,0,heat,auto,Home,true,false,false,Gas
+678.42690058479536,681.26315789473688,681.24561403508767,ac65ef2ccdc744f50468622f0c28d825246323c9,US,WV,Cedar Grove,0,heat,hold,Home,true,false,false,Gas
+705.90650406504062,753.77642276422762,702.91869918699183,c5b31dacb5cc3a1c181dbf7a905df96d0dfdc347,US,WV,Morgantown,0,auto,hold,Home,false,false,false,Gas
+652.31818181818187,656.6462450592885,650.67786561264825,2b7a64f36102f76904b82f1b6e96c0a1b41b44b6,US,WV,Wheeling,0,heat,auto,Home,true,false,false,Gas
+683.36129032258066,694.93548387096769,661.516129032258,ca71fafde08a023074581a58259413f3618418fb,US,WV,Morgantown,0,auto,auto,Home,false,false,true,Electric
+424.88888888888891,650.0,650.0,b645888c58654ca77948f9e80c4150b26f86b273,US,WV,Birch River,0,off,hold,Home,false,false,true,Electric
+675.97764449291162,678.88767720828787,678.88767720828787,9fa8be29090a4d2baa24142f0f91ee8ae18845e8,US,WV,Kearneysville,0,heat,hold,Home,true,false,false,Gas
+673.1572580645161,676.47983870967744,676.47983870967744,9fa8be29090a4d2baa24142f0f91ee8ae18845e8,US,WV,Kearneysville,0,heat,auto,Home,true,false,false,Gas
+663.54615384615386,715.0,665.0,7249632b05298378ea9944b850b084262a1c3cf3,US,WV,Maidsville,0,auto,hold,Home,true,false,true,Electric
+562.0,739.0,670.0,0e4776b12baa2bed797d5c01a14c7c796ccdb3c7,US,WV,Scott Depot,0,auto,auto,Home,true,false,true,Electric
+675.4654320987654,740.0,678.59259259259261,7249632b05298378ea9944b850b084262a1c3cf3,US,WV,Maidsville,0,auto,auto,Home,true,false,true,Electric
+681.10569105691059,684.14634146341461,684.14634146341461,7249632b05298378ea9944b850b084262a1c3cf3,US,WV,Maidsville,0,heat,auto,Home,true,false,true,Electric
+682.53674540682414,688.96062992125985,688.96062992125985,7249632b05298378ea9944b850b084262a1c3cf3,US,WV,Maidsville,0,heat,hold,Home,true,false,true,Electric
+683.38129496402883,740.0,690.0,23ea815e8d635bf755b4f45c8594fba04bf97e35,US,WV,Morgantown,0,auto,auto,Home,false,false,false,Gas
+707.11956866476373,709.1106882334285,709.1106882334285,2ed159791a2d463af1b1d453dee321477cf5819f,US,WV,Waverly,0,heat,hold,Home,true,false,false,Gas
+685.71056241426606,757.80246913580243,703.92729766803836,23ea815e8d635bf755b4f45c8594fba04bf97e35,US,WV,Morgantown,0,auto,hold,Home,false,false,false,Gas
+691.25,756.5,689.5,c5b31dacb5cc3a1c181dbf7a905df96d0dfdc347,US,WV,Morgantown,0,auto,auto,Home,false,false,false,Gas
+674.77777777777783,740.0,710.0,ca71fafde08a023074581a58259413f3618418fb,US,WV,Morgantown,0,auto,hold,Home,false,false,true,Electric
+727.06438541197656,730.1521837010356,730.1521837010356,3a38dd3de8441afd6215d6a91bf033c2c646b786,US,WV,Morgantown,0,heat,auto,Home,true,false,true,Electric
+723.70676691729318,730.0,730.0,3a38dd3de8441afd6215d6a91bf033c2c646b786,US,WV,Morgantown,0,heat,hold,Home,true,false,true,Electric
+728.6,740.0,740.0,62af02b424db636d21a94dd5e7a568be9f0869a8,US,WV,Bluefield,0,off,auto,Home,false,false,false,Gas

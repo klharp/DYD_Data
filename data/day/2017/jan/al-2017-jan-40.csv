@@ -1,0 +1,7 @@
+AvgTempCtrl,AvgCool,AvgHeat,Identifier,Country,ProvinceState,City,Age_of_Home__years_,HvacMode,CalendarEvent,Climate,allowCompWithAux,Has_Electric,Has_a_Heat_Pump,Auxilliary_Heat_Fuel_Type
+651.0512820512821,800.0,655.42307692307691,7af5beee56e8c88a8c3df25756e91edf600409e6,US,AL,Daphne,40,auxHeatOnly,auto,Home,true,false,true,Electric
+655.64137931034486,771.92413793103447,645.551724137931,7af5beee56e8c88a8c3df25756e91edf600409e6,US,AL,Daphne,40,auto,auto,Home,true,false,true,Electric
+672.77777777777783,690.0,690.0,c8750d84e3a0d99bdb01ac79446e55ae43387ddf,US,AL,Huntsville,40,heat,hold,Home,true,false,true,Electric
+619.0,673.0,638.0,7af5beee56e8c88a8c3df25756e91edf600409e6,US,AL,Daphne,40,auxHeatOnly,hold,Home,true,false,true,Electric
+637.11111111111109,595.0,594.44444444444446,7af5beee56e8c88a8c3df25756e91edf600409e6,US,AL,Daphne,40,cool,hold,Home,true,false,true,Electric
+631.0,678.0,675.0,7af5beee56e8c88a8c3df25756e91edf600409e6,US,AL,Daphne,40,heat,hold,Home,true,false,true,Electric

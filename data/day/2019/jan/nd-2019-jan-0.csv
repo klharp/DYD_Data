@@ -1,0 +1,17 @@
+AvgTempCtrl,AvgCool,AvgHeat,Identifier,Country,ProvinceState,City,Age_of_Home__years_,HvacMode,CalendarEvent,Climate,allowCompWithAux,Has_Electric,Has_a_Heat_Pump,Auxilliary_Heat_Fuel_Type
+729.91342756183747,732.73056537102468,732.72173144876331,0f282db9c216fb43ec7241fe29cd5c947102a773,US,ND,Grand Forks,0,heat,auto,Home,false,false,false,Gas
+723.189378757515,727.942885771543,727.82464929859725,0f282db9c216fb43ec7241fe29cd5c947102a773,US,ND,Grand Forks,0,heat,hold,Home,false,false,false,Gas
+665.57142857142856,693.668253968254,678.62063492063487,4d17731b1ff0a2df444618f9481aa445cd823197,US,ND,Dickinson,0,heat,hold,Home,false,false,false,Gas
+677.74248366013069,714.01568627450979,676.74117647058824,f0824b3f9c6d20fb3772043d37ed892bb295771f,US,ND,West Fargo,0,heat,auto,Home,false,false,false,Gas
+676.19819819819816,677.27027027027032,677.27027027027032,f0824b3f9c6d20fb3772043d37ed892bb295771f,US,ND,West Fargo,0,heat,hold,Home,false,false,false,Gas
+694.9120654396728,790.0,695.84560327198369,bceaab209f66b6952049619e1e64ab0d4a0314c0,US,ND,West Fargo,0,heat,hold,Home,true,false,false,Gas
+689.5125,790.0,690.0,bceaab209f66b6952049619e1e64ab0d4a0314c0,US,ND,West Fargo,0,heat,auto,Home,true,false,false,Gas
+683.82352941176475,683.20588235294122,682.12352941176471,f739c79ec2a0e3e14e490aac58fac311385e7ec5,US,ND,Fargo,0,heat,hold,Home,false,false,false,Gas
+644.77746212121212,650.0,646.84090909090912,31bab83a250783cc0d48f1509a6fdfeb059990b7,US,ND,Argusville,0,heat,hold,Home,false,false,true,Electric
+708.25927542557838,712.697512003492,712.69707551287649,b142ce399034934ea39835d8b509c98b8187d51e,US,ND,Grand Forks,0,heat,hold,Home,false,false,false,Gas
+685.68197879858656,688.04946996466435,687.68197879858656,8f20c0d306b7503704799f8515d37da8e6892a01,US,ND,Fargo,0,heat,hold,Home,false,false,false,Gas
+700.55555555555554,730.0,730.0,0f282db9c216fb43ec7241fe29cd5c947102a773,US,ND,Grand Forks,0,off,hold,Home,false,false,false,Gas
+742.44444444444446,745.0,745.0,fac4be949f9b030bcaedc0c75666f90d246e942d,US,ND,Bismarck,0,heat,hold,Home,false,false,false,Gas
+677.45714285714291,700.0,696.59285714285716,4d17731b1ff0a2df444618f9481aa445cd823197,US,ND,Dickinson,0,heat,auto,Home,false,false,false,Gas
+708.8482328482329,712.51559251559252,712.51559251559252,b142ce399034934ea39835d8b509c98b8187d51e,US,ND,Grand Forks,0,heat,auto,Home,false,false,false,Gas
+714.28125,715.0,715.0,6c8433aa1db0389cd3a0214904e1c8dbe3513686,US,ND,Dickinson,0,heat,hold,Home,false,false,false,Gas

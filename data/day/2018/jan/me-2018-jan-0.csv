@@ -1,0 +1,11 @@
+AvgTempCtrl,AvgCool,AvgHeat,Identifier,Country,ProvinceState,City,Age_of_Home__years_,HvacMode,CalendarEvent,Climate,allowCompWithAux,Has_Electric,Has_a_Heat_Pump,Auxilliary_Heat_Fuel_Type
+645.679802955665,650.21182266009851,556.14285714285711,7097da619c1d7e8baed859020b18cb5d34d20aa5,US,ME,Embden,0,heat,hold,Home,false,false,false,Gas
+716.565625,699.503125,699.275,9931e4537a3f0c9b6eb4dc811cb00abd4edde7d0,US,ME,Westbrook,0,heat,hold,Home,true,false,false,Gas
+702.04816513761466,705.954128440367,705.38302752293578,0b9bc48af842c50d1c433ab2aebe001d355ba6df,US,ME,Freeport,0,heat,hold,Home,false,false,false,Gas
+655.99155761924862,674.42422963275646,653.9780498100464,6ea13a6a8839c82c41cc8b0da4d0749b2070e49f,US,ME,North Yarmouth,0,heat,hold,Home,false,false,false,Gas
+668.422480620155,674.70155038759685,673.97286821705427,6ea13a6a8839c82c41cc8b0da4d0749b2070e49f,US,ME,North Yarmouth,0,heat,auto,Home,false,false,false,Gas
+737.73039215686276,709.99019607843138,708.93627450980387,af68b7762e6793591d3284dde997c800c9f58566,US,ME,Corinna,0,heat,auto,Home,false,false,false,Gas
+755.31666666666672,726.58333333333337,726.08333333333337,af68b7762e6793591d3284dde997c800c9f58566,US,ME,Corinna,0,heat,hold,Home,false,false,false,Gas
+585.57692307692309,650.0,630.0,7097da619c1d7e8baed859020b18cb5d34d20aa5,US,ME,Embden,0,heat,auto,Home,false,false,false,Gas
+627.36771300448436,730.0,630.0,b7c214e6715b7136e0cf0fbdb5b83337dda9032b,US,ME,Eliot,0,auto,hold,Home,false,false,false,Gas
+689.38095238095241,775.68253968253964,662.53968253968253,0b9bc48af842c50d1c433ab2aebe001d355ba6df,US,ME,Freeport,0,heat,auto,Home,false,false,false,Gas

@@ -1,0 +1,14 @@
+AvgTempCtrl,AvgCool,AvgHeat,Identifier,Country,ProvinceState,City,Age_of_Home__years_,HvacMode,CalendarEvent,Climate,allowCompWithAux,Has_Electric,Has_a_Heat_Pump,Auxilliary_Heat_Fuel_Type
+724.65298507462683,729.30783582089555,729.10820895522386,0294595998430fa9228ff8b203c54f8378f9560c,US,WV,Huntington,0,heat,auto,Home,false,false,false,Gas
+729.70700636942672,746.15923566878985,726.43312101910828,0294595998430fa9228ff8b203c54f8378f9560c,US,WV,Huntington,0,auto,hold,Home,false,false,false,Gas
+726.57798165137615,730.75840978593271,730.62691131498468,0294595998430fa9228ff8b203c54f8378f9560c,US,WV,Huntington,0,heat,hold,Home,false,false,false,Gas
+676.355587808418,678.15384615384619,678.04934687953551,7249632b05298378ea9944b850b084262a1c3cf3,US,WV,Maidsville,0,heat,hold,Home,true,false,true,Electric
+693.99588477366251,728.57475994513027,675.92455418381348,c5b31dacb5cc3a1c181dbf7a905df96d0dfdc347,US,WV,Morgantown,0,auto,auto,Home,false,false,false,Gas
+695.46883988494722,733.21284755512943,677.70278044103543,c5b31dacb5cc3a1c181dbf7a905df96d0dfdc347,US,WV,Morgantown,0,auto,hold,Home,false,false,false,Gas
+723.05134788189991,738.41463414634143,718.56611039794609,0294595998430fa9228ff8b203c54f8378f9560c,US,WV,Huntington,0,auto,auto,Home,false,false,false,Gas
+672.54166666666663,740.0,670.0,23ea815e8d635bf755b4f45c8594fba04bf97e35,US,WV,Morgantown,0,auto,hold,Home,false,false,false,Gas
+680.93803559657215,740.0,680.0,23ea815e8d635bf755b4f45c8594fba04bf97e35,US,WV,Morgantown,0,auto,auto,Home,false,false,false,Gas
+675.75,730.0,680.0,7249632b05298378ea9944b850b084262a1c3cf3,US,WV,Maidsville,0,auto,hold,Home,true,false,true,Electric
+715.20304568527922,724.82233502538077,724.82233502538077,0294595998430fa9228ff8b203c54f8378f9560c,US,WV,Huntington,0,cool,auto,Home,false,false,false,Gas
+722.71875,775.0,725.0,3a38dd3de8441afd6215d6a91bf033c2c646b786,US,WV,Morgantown,0,auto,auto,Home,true,false,true,Electric
+690.0,722.0,672.0,527196dd67df36085c7eb0f7137ef298e0bb60b1,US,WV,Charles Town,0,auto,auto,Home,false,false,false,Gas

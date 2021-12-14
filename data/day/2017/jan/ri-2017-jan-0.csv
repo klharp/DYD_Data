@@ -1,0 +1,14 @@
+AvgTempCtrl,AvgCool,AvgHeat,Identifier,Country,ProvinceState,City,Age_of_Home__years_,HvacMode,CalendarEvent,Climate,allowCompWithAux,Has_Electric,Has_a_Heat_Pump,Auxilliary_Heat_Fuel_Type
+620.21316614420061,613.37931034482756,613.37931034482756,c89cedc1970a3c7c112f0c3ef6b9d44c1580ae21,US,RI,North Providence,0,heat,auto,Home,false,false,false,Gas
+649.61904761904759,650.61904761904759,642.85714285714289,ccb152f7936cd7a84a5a293e77aa5fd29a8f458d,US,RI,Cranston,0,heat,hold,Home,false,false,false,Gas
+636.1592709984152,625.68225039619654,623.99009508716324,c89cedc1970a3c7c112f0c3ef6b9d44c1580ae21,US,RI,North Providence,0,heat,hold,Home,false,false,false,Gas
+633.302578018996,659.19131614654,609.07734056987783,cc03623832bd0f8a3acd19ddf942310c49c71a66,US,RI,little compton,0,heat,hold,Home,false,false,false,Gas
+699.60323886639674,699.71659919028343,699.37651821862346,7357379d344c770382ed31acdade35404877f5bc,US,RI,Saunderstown,0,heat,hold,Home,false,false,false,Gas
+674.76856148491879,681.7546403712297,681.62064965197214,2c11b5af2ad0c6b911929ee17d6435743ab38985,US,RI,Johnston,0,heat,hold,Home,false,false,false,Gas
+610.319511292114,650.07589781562388,555.2810070344317,4a3e6163b5f4598f85a5a45c719f64b26d318ae5,US,RI,Middletown,0,heat,hold,Home,true,false,false,Gas
+626.59569377990431,659.45933014354068,622.42057416267937,0acff50a5a8097d75e4524bdcd367521bda0cf1a,US,RI,Barrington,0,heat,hold,Home,false,false,false,Gas
+632.00093545369509,652.52011225444346,606.75397567820391,0acff50a5a8097d75e4524bdcd367521bda0cf1a,US,RI,Barrington,0,heat,auto,Home,false,false,false,Gas
+624.07252747252744,650.0,618.87472527472528,4a3e6163b5f4598f85a5a45c719f64b26d318ae5,US,RI,Middletown,0,heat,auto,Home,true,false,false,Gas
+686.65714285714284,685.05714285714282,684.54285714285709,630cf50d8463f901f42094a4dce158644e75b639,US,RI,Saunderstown,0,heat,hold,Home,false,false,false,Gas
+668.33730158730157,650.71031746031747,648.48809523809518,69ef2ce8fd7d2353ef8bf43dd8fd27a66d1413fc,US,RI,Tiverton,0,heat,hold,Home,false,false,false,Gas
+698.37128399747,700.0,700.0,0499a1d83aac1e394606c0a1666889a43e88a731,US,RI,Rumford,0,off,hold,Home,true,false,false,Gas

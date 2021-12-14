@@ -1,0 +1,76 @@
+AvgTempCtrl,AvgCool,AvgHeat,Identifier,Country,ProvinceState,City,Age_of_Home__years_,HvacMode,CalendarEvent,Climate,allowCompWithAux,Has_Electric,Has_a_Heat_Pump,Auxilliary_Heat_Fuel_Type
+681.4677419354839,799.88709677419354,680.0,6a69c0430f8af1ed334ecc03fee113d88c7ce3ea,US,KY,Hazard,0,auto,auto,Home,false,false,false,Gas
+691.431654676259,770.0,711.726618705036,262d0028bc676a683863e8d2231c4589e6888dbb,US,KY,Belfry,0,off,auto,Home,false,false,false,Gas
+728.25086505190313,730.0,730.0,2bea50e57def36d1b7d063fcaa22b8e03f0637de,US,KY,Union,0,heat,auto,Home,false,false,false,Gas
+693.35947712418306,696.1650326797386,696.16437908496732,6758b58c3de5d83c1d88ac4f96e9a87b58029bdd,US,KY,Union,0,heat,hold,Home,false,false,false,Gas
+707.18666666666661,700.36491228070179,700.36491228070179,468f7a1aa23eb6589b73b8c33d3c110cf197de2a,US,KY,Corbin,0,heat,hold,Home,false,false,true,Electric
+715.43065693430663,710.0,710.0,468f7a1aa23eb6589b73b8c33d3c110cf197de2a,US,KY,Corbin,0,heat,auto,Home,false,false,true,Electric
+671.62303664921467,673.38219895287955,673.38219895287955,b6a8dfb341db3c2470ba6d6321de9a0dc1f3e3ae,US,KY,Glasgow,0,heat,auto,Home,false,false,true,Electric
+688.6790571169538,690.50317316409792,690.50317316409792,b6a8dfb341db3c2470ba6d6321de9a0dc1f3e3ae,US,KY,Glasgow,0,heat,hold,Home,false,false,true,Electric
+828.6182170542636,799.48062015503876,817.844315245478,3a34eafe3e74cdd2c40debb74cf6ebc0b1035fa7,US,KY,Edgewood,0,heat,hold,Home,true,false,true,Electric
+643.16362916006335,657.63351822503967,645.00198098256737,c4999991137797920f330db32a454e1ef3107279,US,KY,Covington,0,heat,auto,Home,false,false,false,Gas
+697.11987381703466,700.0883280757098,700.02208201892745,5656630a4425f3454e398a5601e6f10539a8bf73,US,KY,Lexington,0,heat,hold,Home,false,false,true,Electric
+707.85162846803382,710.913148371532,710.86248492159223,b0cd8b92b4280d41f63d8a3754da917597fd3bc9,US,KY,Lexington,0,heat,hold,Home,false,false,false,Gas
+662.13523131672594,666.80782918149464,666.74377224199293,927f4b301541074aae4ad85c0c5b439b57aacd31,US,KY,Lexington,0,heat,hold,Home,false,false,true,Electric
+654.41463414634143,660.73170731707319,660.73170731707319,3da3ace74c8c065db397cb8702aec88521bfa2f7,US,KY,Lexington,0,heat,auto,Home,false,false,false,Gas
+675.231884057971,740.0,670.0,0ff91054f43c5fe863b800b1a8949979a93d2363,US,KY,Lexington,0,auto,auto,Home,true,false,true,Electric
+667.21111111111111,660.0,660.0,16f2dbd8ffef1773791d626a1a98ca05c6e59729,US,KY,Lexington,0,heat,auto,Home,false,false,false,Gas
+687.85,740.0,690.0,0ff91054f43c5fe863b800b1a8949979a93d2363,US,KY,Lexington,0,auto,hold,Home,true,false,true,Electric
+693.38461538461536,700.0,700.0,4ce4dee59591d7832e727ff88011104cda2e3660,US,KY,Lexington,0,heat,hold,Home,false,false,false,Gas
+696.6,700.0,700.0,6a17dcf9d7fa80f51eeddb9e4456f1925f961ff3,US,KY,Georgetown,0,heat,hold,Home,true,false,true,Electric
+697.39225857940937,752.84118116520347,699.4289704708699,e132a0d41002621ddc6beee14ed9bc1ada74da87,US,KY,Louisville,0,auto,hold,Home,false,false,false,Gas
+693.56793478260875,754.66168478260875,697.9021739130435,e132a0d41002621ddc6beee14ed9bc1ada74da87,US,KY,Louisville,0,auto,auto,Home,false,false,false,Gas
+667.24134419551933,710.49439918533608,659.53360488798376,1a36e007dd810c47cc0c12c4c2c921e072d653f1,US,KY,Louisville,0,heat,auto,Home,false,false,false,Gas
+674.62285375962108,800.01776198934283,679.95381882770869,9b3deb93d518be266c712e0b8a1d9a74650d5708,US,KY,Louisville,0,heat,auto,Home,false,false,false,Gas
+651.6567164179105,780.0,640.0,e22f65f4027030904011eedce206386558dfd148,US,KY,Louisville,0,auto,auto,Home,false,false,false,Gas
+629.0,680.0,630.0,06949103a84504053d0e29bef4cb3451160997f0,US,KY,Louisville,0,auto,auto,Home,false,false,false,Gas
+695.24607843137255,920.0,694.33333333333337,73bf6e326eb90766e99dab898a95be75541ac17b,US,KY,Winchester,0,auto,hold,Home,false,false,false,Gas
+670.09319371727747,671.6994764397906,671.6994764397906,9ab44d7dee3184ebb1c958796c8030d8f998203b,US,KY,Fisherville,0,heat,hold,Home,false,false,false,Gas
+674.98507462686564,702.179104477612,640.0,efc1940b2661c4ed63d39dad671c41f1502a011e,US,KY,Fisherville,0,auto,hold,Home,false,false,false,Gas
+663.522835394862,668.1921979067555,667.70361560418644,9ab44d7dee3184ebb1c958796c8030d8f998203b,US,KY,Fisherville,0,heat,auto,Home,false,false,false,Gas
+682.6174496644295,677.08473154362412,668.52348993288592,efc1940b2661c4ed63d39dad671c41f1502a011e,US,KY,Fisherville,0,heat,hold,Home,false,false,false,Gas
+697.48,759.52,710.72,410b06cff4ac8ea6f6cc21cbf6ddad2fc1964ba8,US,KY,Central City,0,heat,auto,Home,false,false,false,Gas
+678.419945105215,681.16468435498632,681.16468435498632,46e41e8885e0831007435d533ac90791d97d9e27,US,KY,Bowling Green,0,heat,auto,Home,true,false,false,Gas
+664.03370786516859,669.57865168539331,669.05056179775283,9d6c9620df42468a54871ed22fa4892d66e63c0a,US,KY,Nicholasville,0,heat,hold,Home,true,false,true,Electric
+676.125,759.95833333333337,699.91666666666663,a4daf127ef859d83b673b3fcb47336574b074a3f,US,KY,Nicholasville,0,auto,hold,Home,true,false,true,Electric
+676.2,720.4,719.8,b0cd8b92b4280d41f63d8a3754da917597fd3bc9,US,KY,Lexington,0,heat,auto,Home,false,false,false,Gas
+697.83333333333337,690.0,700.0,41f88f5282ebbec416a7f21ea99c4ffafdeb99b3,US,KY,Louisville,0,off,auto,Home,false,false,false,Gas
+706.7554179566564,771.6888544891641,709.38080495356041,262d0028bc676a683863e8d2231c4589e6888dbb,US,KY,Belfry,0,auto,auto,Home,false,false,false,Gas
+683.9591836734694,760.0,680.0,7523bee21722231360e7d96525f8e3b111f7ff7c,US,KY,Coxs Creek,0,auto,hold,Home,false,false,true,Electric
+662.21405750798726,664.3865814696486,664.28753993610223,90ead454bfd7bf25cfdac48bafe1d7310c6f2ff2,US,KY,Benton,0,heat,auto,Home,false,false,false,Gas
+717.03365384615381,771.51682692307691,719.0625,262d0028bc676a683863e8d2231c4589e6888dbb,US,KY,Belfry,0,auto,hold,Home,false,false,false,Gas
+719.48374760994261,719.40726577437863,719.40726577437863,31119c5dd5503e0bb72e0a6f819398a07caa7929,US,KY,LOUISVILLE,0,heat,auto,Home,false,false,false,Gas
+689.54320987654319,760.0,690.0,7523bee21722231360e7d96525f8e3b111f7ff7c,US,KY,Coxs Creek,0,auto,auto,Home,false,false,true,Electric
+706.73873873873879,710.0,710.0,31119c5dd5503e0bb72e0a6f819398a07caa7929,US,KY,LOUISVILLE,0,heat,hold,Home,false,false,false,Gas
+719.0,766.5,713.0,262d0028bc676a683863e8d2231c4589e6888dbb,US,KY,Belfry,0,off,hold,Home,false,false,false,Gas
+728.58963585434174,732.01820728291318,732.01820728291318,2bea50e57def36d1b7d063fcaa22b8e03f0637de,US,KY,Union,0,heat,hold,Home,false,false,false,Gas
+680.21166306695466,681.91216702663792,681.91216702663792,596e2fe6e435ad99c723aef72392d7aa52de89ae,US,KY,Glasgow,0,heat,auto,Home,true,true,true,Electric
+679.0127450980392,681.87352941176471,681.87352941176471,7a8ddae84daea52e19877484b8591aeb97d0d3d5,US,KY,Glasgow,0,heat,hold,Home,false,false,true,Electric
+687.52619047619044,689.15476190476193,687.56666666666672,f2f4f1870aa3cb48783db607bf18fe7fe835b5c6,US,KY,Glasgow,0,heat,auto,Home,false,false,false,Gas
+657.45833333333337,685.0,685.0,b6a8dfb341db3c2470ba6d6321de9a0dc1f3e3ae,US,KY,Glasgow,0,cool,hold,Home,false,false,true,Electric
+693.10638297872345,700.0,699.91489361702122,e1c322cbd07710aaf1a30bddbb2323fcb8370cfd,US,KY,Florence,0,heat,hold,Home,false,false,false,Gas
+693.08333333333337,700.0,700.0,e1c322cbd07710aaf1a30bddbb2323fcb8370cfd,US,KY,Florence,0,heat,auto,Home,false,false,false,Gas
+660.74162679425842,663.59330143540672,663.59330143540672,c4999991137797920f330db32a454e1ef3107279,US,KY,Covington,0,heat,hold,Home,false,false,false,Gas
+655.79166666666663,660.64583333333337,660.77083333333337,c4999991137797920f330db32a454e1ef3107279,US,KY,Covington,0,cool,auto,Home,false,false,false,Gas
+637.94666666666672,675.6,675.6,c4999991137797920f330db32a454e1ef3107279,US,KY,Covington,0,cool,hold,Home,false,false,false,Gas
+660.13636363636363,650.46875,549.34659090909088,2f2ff6173c999d96bf80bce13a06fb2bc10b461c,US,KY,Crestwood,0,heat,hold,Home,false,false,false,Gas
+696.69224422442244,750.0,700.0,b50d13e16e765945e300f38a26c006c378defd82,US,KY,Frankfort,0,auto,auto,Home,false,false,false,Gas
+699.32424242424247,700.0,700.0,3da3ace74c8c065db397cb8702aec88521bfa2f7,US,KY,Lexington,0,heat,hold,Home,false,false,false,Gas
+657.43137254901956,660.35294117647061,660.23529411764707,16f2dbd8ffef1773791d626a1a98ca05c6e59729,US,KY,Lexington,0,heat,hold,Home,false,false,false,Gas
+707.375,715.875,707.375,8777b2f6488dee11e52ce42ec98df752e78c8b61,US,KY,Lexington,0,auxHeatOnly,hold,Home,true,false,true,Electric
+726.72727272727275,730.0,730.0,c0fd71cd5c2d4908a8a551e3ed8be76fe1ba5da1,US,KY,Lexington,0,auxHeatOnly,hold,Home,true,false,true,Electric
+678.37154416722854,678.2070128118678,677.1807147673635,1a36e007dd810c47cc0c12c4c2c921e072d653f1,US,KY,Louisville,0,heat,hold,Home,false,false,false,Gas
+702.93607843137249,705.01372549019607,705.01372549019607,4f841cee73e0013ef7e3d3271c8442447335cb21,US,KY,Louisville,0,heat,hold,Home,true,false,false,Gas
+678.1975088967971,729.982206405694,679.96619217081854,06949103a84504053d0e29bef4cb3451160997f0,US,KY,Louisville,0,auto,hold,Home,false,false,false,Gas
+657.6870229007634,662.13740458015263,650.0,1a36e007dd810c47cc0c12c4c2c921e072d653f1,US,KY,Louisville,0,cool,auto,Home,false,false,false,Gas
+654.44444444444446,720.0,615.11111111111109,1bdfceaffab8b21f314564181dd36bb899f9595a,US,KY,Louisville,0,heat,hold,Home,false,false,false,Gas
+655.5,778.0,685.25,4e704cd55afa69459d2694275a4980d5923f853e,US,KY,Louisville,0,auto,auto,Home,false,false,false,Gas
+669.59574468085111,728.19148936170211,702.936170212766,41f88f5282ebbec416a7f21ea99c4ffafdeb99b3,US,KY,Louisville,0,heat,auto,Home,false,false,false,Gas
+629.0,687.33333333333337,646.0,1a36e007dd810c47cc0c12c4c2c921e072d653f1,US,KY,Louisville,0,auto,auto,Home,false,false,false,Gas
+698.66666666666663,650.0,645.0,1a36e007dd810c47cc0c12c4c2c921e072d653f1,US,KY,Louisville,0,cool,hold,Home,false,false,false,Gas
+678.76405228758165,666.81568627450986,666.14901960784312,efc1940b2661c4ed63d39dad671c41f1502a011e,US,KY,Fisherville,0,heat,auto,Home,false,false,false,Gas
+706.609756097561,673.829268292683,662.170731707317,410b06cff4ac8ea6f6cc21cbf6ddad2fc1964ba8,US,KY,Central City,0,heat,hold,Home,false,false,false,Gas
+680.74517133956385,683.99190031152648,683.99190031152648,46e41e8885e0831007435d533ac90791d97d9e27,US,KY,Bowling Green,0,heat,hold,Home,true,false,false,Gas
+663.73195876288662,654.84536082474222,654.84536082474222,9d6c9620df42468a54871ed22fa4892d66e63c0a,US,KY,Nicholasville,0,heat,auto,Home,true,false,true,Electric
+685.0,670.0,670.0,c2a32a31cbcf1478691ee64e44e04144271f7ba3,US,KY,Rineyville,0,heat,hold,Home,false,false,true,Electric
+691.5,770.0,691.0,4e704cd55afa69459d2694275a4980d5923f853e,US,KY,Louisville,0,auto,hold,Home,false,false,false,Gas

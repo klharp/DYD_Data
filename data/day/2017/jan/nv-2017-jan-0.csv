@@ -1,0 +1,34 @@
+AvgTempCtrl,AvgCool,AvgHeat,Identifier,Country,ProvinceState,City,Age_of_Home__years_,HvacMode,CalendarEvent,Climate,allowCompWithAux,Has_Electric,Has_a_Heat_Pump,Auxilliary_Heat_Fuel_Type
+713.55714285714282,720.28571428571433,720.28571428571433,7cb24a45bf7f480a07c6dc5e21b921c2a880b0fa,US,NV,Las Vegas,0,auxHeatOnly,hold,Home,false,false,true,Electric
+719.01941747572812,719.64077669902917,672.70388349514565,295aef92974eb7329f2518af3a5d96cbe080af82,US,NV,Las Vegas,0,cool,auto,Home,true,false,false,Gas
+706.80538662033018,706.54126846220674,706.54126846220674,c793db84f797fe779e3fa818db048d880f28bfa5,US,NV,Las Vegas,0,heat,hold,Home,false,false,false,Gas
+690.94936708860757,726.61603375527432,693.19831223628694,6138bb90425490deaebd1ee8962a332a6406043f,US,NV,Sparks,0,heat,auto,Home,false,false,false,Gas
+693.36874648679031,692.86115795390674,692.86115795390674,e07bd4524474f06fcfa2992ff0a97566f4d37fc0,US,NV,Las Vegas,0,heat,hold,Home,false,false,false,Gas
+684.6305732484077,793.88375796178343,684.65127388535029,1b04f8817d9918ee59df52e31bf59002b2b1ac1f,US,NV,Las Vegas,0,auto,hold,Home,false,false,false,Gas
+726.825,734.775,734.775,7cb24a45bf7f480a07c6dc5e21b921c2a880b0fa,US,NV,Las Vegas,0,auxHeatOnly,auto,Home,false,false,true,Electric
+676.94166666666672,780.0,680.0,03554eff92f6007aaa1908c40bb7d336d628465b,US,NV,Henderson,0,auto,hold,Home,true,false,false,Gas
+680.06862745098044,795.68627450980387,679.25490196078431,1b04f8817d9918ee59df52e31bf59002b2b1ac1f,US,NV,Las Vegas,0,auto,auto,Home,false,false,false,Gas
+691.8,694.98461538461538,694.98461538461538,e07bd4524474f06fcfa2992ff0a97566f4d37fc0,US,NV,Las Vegas,0,heat,auto,Home,false,false,false,Gas
+701.45833333333337,698.33333333333337,698.33333333333337,22dcd16ee25c0cf087946e2e61e00ede963808d4,US,NV,Las Vegas,0,heat,hold,Home,false,false,false,Gas
+698.5454545454545,692.81818181818187,690.81818181818187,22dcd16ee25c0cf087946e2e61e00ede963808d4,US,NV,Las Vegas,0,heat,auto,Home,false,false,false,Gas
+729.80575539568349,730.66276978417261,730.60431654676256,5ccf5cfdcf36c4ad71d4d3ce2707502d7d9322f9,US,NV,Las Vegas,0,heat,hold,Home,false,false,false,Gas
+716.67010309278351,714.7216494845361,708.84536082474222,295aef92974eb7329f2518af3a5d96cbe080af82,US,NV,Las Vegas,0,cool,hold,Home,true,false,false,Gas
+717.0,740.33333333333337,735.33333333333337,295aef92974eb7329f2518af3a5d96cbe080af82,US,NV,Las Vegas,0,off,hold,Home,true,false,false,Gas
+819.05555555555554,750.27777777777783,749.27777777777783,7cb24a45bf7f480a07c6dc5e21b921c2a880b0fa,US,NV,Las Vegas,0,heat,auto,Home,false,false,true,Electric
+721.85245901639348,750.0,750.0,7cb24a45bf7f480a07c6dc5e21b921c2a880b0fa,US,NV,Las Vegas,0,heat,hold,Home,false,false,true,Electric
+715.0,740.0,740.0,295aef92974eb7329f2518af3a5d96cbe080af82,US,NV,Las Vegas,0,heat,hold,Home,true,false,false,Gas
+766.28787878787875,770.0,770.0,5ccf5cfdcf36c4ad71d4d3ce2707502d7d9322f9,US,NV,Las Vegas,0,heat,auto,Home,false,false,false,Gas
+684.99784250269693,784.6267529665588,673.84250269687163,b21912b824ba43cc8095e8bef517e1ebf81f052c,US,NV,Las Vegas,0,auto,auto,Home,false,false,false,Gas
+684.61392405063293,780.0,679.57594936708858,b21912b824ba43cc8095e8bef517e1ebf81f052c,US,NV,Las Vegas,0,auto,hold,Home,false,false,false,Gas
+726.6615384615385,756.4153846153846,706.38461538461536,5ccf5cfdcf36c4ad71d4d3ce2707502d7d9322f9,US,NV,Las Vegas,0,auto,hold,Home,false,false,false,Gas
+616.04487179487182,850.0,620.0,91341f8149b071d9b71c5d92b78b500eba2eee60,US,NV,Las Vegas,0,off,auto,Home,false,false,false,Gas
+702.89369369369365,746.4486486486486,709.25765765765766,80baec65016aa53b0e91f4f062952ebaaf47ad7e,US,NV,Verdi,0,auto,hold,Home,false,false,false,Gas
+673.17924528301887,672.83018867924534,672.83018867924534,7a61c6de4f876ce471a01e39ab0af0a1739e6b00,US,NV,North Las Vegas,0,heat,auto,Home,false,false,false,Gas
+709.64038876889845,708.64686825053991,708.40280777537794,11aa801293eac2a1dfabf780b029d17d59457b20,US,NV,Las Vegas,0,heat,hold,Home,false,false,false,Gas
+686.884892086331,689.38848920863313,689.03597122302153,6138bb90425490deaebd1ee8962a332a6406043f,US,NV,Sparks,0,heat,hold,Home,false,false,false,Gas
+673.10869565217388,693.91304347826087,693.91304347826087,e07bd4524474f06fcfa2992ff0a97566f4d37fc0,US,NV,Las Vegas,0,off,hold,Home,false,false,false,Gas
+729.11458333333337,730.0,730.0,66acf93ea1f9e86082e9a4baf32424f527b0b80d,US,NV,Las Vegas,0,heat,hold,Home,false,false,false,Gas
+730.0,730.0,730.0,3b8ad0ba0dd3ad4afbd8e46e9053e9a420355da1,US,NV,Las Vegas,0,heat,auto,Home,false,false,false,Gas
+687.14705882352939,747.76470588235293,747.73529411764707,7cb24a45bf7f480a07c6dc5e21b921c2a880b0fa,US,NV,Las Vegas,0,off,hold,Home,false,false,true,Electric
+719.5,720.0,720.0,3b8ad0ba0dd3ad4afbd8e46e9053e9a420355da1,US,NV,Las Vegas,0,heat,hold,Home,false,false,false,Gas
+685.6,820.0,630.0,11251eb3b6b6c3998c27712b105d85220f9b906e,US,NV,North Las Vegas,0,heat,auto,Home,false,false,false,Gas

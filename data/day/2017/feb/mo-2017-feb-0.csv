@@ -1,0 +1,93 @@
+AvgTempCtrl,AvgCool,AvgHeat,Identifier,Country,ProvinceState,City,Age_of_Home__years_,HvacMode,CalendarEvent,Climate,allowCompWithAux,Has_Electric,Has_a_Heat_Pump,Auxilliary_Heat_Fuel_Type
+683.43439911797134,687.31312017640573,687.30650496141129,8fc236f754a9e60b863da22080ceb60c288c6213,US,MO,Dexter,0,heat,hold,Home,false,false,true,Electric
+677.61386138613864,710.0,650.0,265dfc006e31bb5bbfdee23075de17cf28bfa33e,US,MO,Republic,0,cool,auto,Home,false,false,false,Gas
+680.018018018018,744.62162162162167,676.78378378378375,5e57f6ea3b333d562db1b5fc900a5f271e328416,US,MO,Warrensburg,0,heat,auto,Home,false,false,true,Electric
+694.81085177326463,750.8026674749924,690.83419217944834,06f37d1143d483a0c01db1c5aded53cebdee0a4c,US,MO,KANSAS CITY,0,auto,hold,Home,false,false,false,Gas
+693.797619047619,720.0,689.99603174603169,0e0c18ad370aa3d5acf2278a33d87a59761a3972,US,MO,Sugar Creek,0,off,auto,Home,false,false,false,Gas
+656.11944444444441,690.0,690.0,ffe3dd2ebf461c6fe1085a577daa4fec78c7c48f,US,MO,Kansas city,0,cool,hold,Home,false,false,false,Gas
+738.7,787.8,737.8,556d1829fc7c519a974b19521e557f1bb35a60d1,US,MO,byrnes mill,0,auto,hold,Home,false,false,false,Gas
+674.94166666666672,671.2375,670.89166666666665,e6da641910f01596e32323965b88028dec5e06e4,US,MO,Arnold,0,heat,auto,Home,false,false,false,Gas
+721.26367461430573,758.95231416549791,693.52033660589063,4a380622e202aa80ab0adbb6f7a8809eb562fb1b,US,MO,Ballwin,0,heat,auto,Home,false,false,false,Gas
+692.16510538641683,687.60733801717413,687.60733801717413,0caabb43337af0ac85b9b3051a32a2645177fa3c,US,MO,Columbia,0,heat,hold,Home,false,false,false,Gas
+668.14945652173913,672.19836956521738,669.73641304347825,8538adf9b662745db5f8a03aa7160b781d33555e,US,MO,Columbia,0,heat,hold,Home,false,false,false,Gas
+673.70599920540326,660.0,660.0,56a76d00002ce31836a671405234a7f6fb592e53,US,MO,St. Louis,0,heat,hold,Home,false,false,false,Gas
+709.11964649898027,780.0,709.96872875594829,81b386a5575b0d400c8a07361a86d2eba5937c94,US,MO,St. Louis,0,auto,auto,Home,false,false,false,Gas
+704.175925925926,780.0,710.0,81b386a5575b0d400c8a07361a86d2eba5937c94,US,MO,St. Louis,0,off,auto,Home,false,false,false,Gas
+669.26751592356686,670.452229299363,670.452229299363,cc82178b7e52aa92633db51a6e0a11ccbf22bd2b,US,MO,Ellisville,0,heat,hold,Home,false,false,false,Gas
+692.46017699115043,710.0,710.0,e26ba9ad9329772160fddf115452a985164db70d,US,MO,Ellisville,0,off,hold,Home,false,false,false,Gas
+680.45444444444445,739.0,677.0,1433635b3fd353e7d698f36e35fa486580627d21,US,MO,Wentzville,0,auto,hold,Home,false,false,false,Gas
+662.48148148148152,770.0,660.0,ceaefb4c6275cc3c74e3090c1380b6d6292f26a8,US,MO,Saint Louis,0,auto,hold,Home,false,false,false,Gas
+693.58928571428567,699.0,698.5,3fb35c010cf24c70b38a496bb5b9e93a2382ef34,US,MO,Saint Louis,0,heat,auto,Home,false,false,false,Gas
+706.05555555555554,710.75,709.75,3fb35c010cf24c70b38a496bb5b9e93a2382ef34,US,MO,Saint Louis,0,heat,hold,Home,false,false,false,Gas
+701.09411764705885,725.0,675.0,26bd019a6393e29c48992222012fb209c95b0dc4,US,MO,St. Charles,0,auto,auto,Home,false,false,false,Gas
+671.88888888888891,670.0,670.0,51f08f7e20439324135b8ea5286b8758f947e68b,US,MO,St Louis,0,heat,hold,Home,false,false,false,Gas
+698.09523809523807,700.0,700.0,088463d2908b2a5800fe1009043e72b12ea00d3d,US,MO,St Louis,0,heat,hold,Home,true,false,true,Electric
+743.3478260869565,741.52173913043475,741.52173913043475,0b8f79ddaf356f48ebce0e5064851df9e5a0e692,US,MO,Chesterfield,0,cool,hold,Home,false,false,false,Gas
+698.25,700.75,699.875,bf5d45926b70e02b907b77363aceace0af0b971c,US,MO,Jefferson City,0,heat,hold,Home,false,false,false,Gas
+673.480572597137,668.97750511247443,668.97750511247443,8fc236f754a9e60b863da22080ceb60c288c6213,US,MO,Dexter,0,heat,auto,Home,false,false,true,Electric
+675.91206896551728,669.76896551724133,671.053448275862,0c3c5523ca441eeadd9b3081892579a79c0c05e0,US,MO,arnold,0,heat,auto,Home,false,false,false,Gas
+703.13026819923368,680.53256704980845,668.42528735632186,0c3c5523ca441eeadd9b3081892579a79c0c05e0,US,MO,arnold,0,cool,auto,Home,false,false,false,Gas
+701.24179104477616,716.42388059701489,689.62686567164178,0e0c18ad370aa3d5acf2278a33d87a59761a3972,US,MO,Sugar Creek,0,heat,auto,Home,false,false,false,Gas
+686.99038461538464,690.52884615384619,690.52884615384619,0c3c5523ca441eeadd9b3081892579a79c0c05e0,US,MO,arnold,0,off,hold,Home,false,false,false,Gas
+660.55411255411252,690.22943722943728,690.22943722943728,265dfc006e31bb5bbfdee23075de17cf28bfa33e,US,MO,Republic,0,cool,hold,Home,false,false,false,Gas
+699.60810810810813,703.17567567567562,702.94594594594594,c61742663a02de69a9637c901fe39749dc5f0d35,US,MO,Cedar Hill,0,heat,auto,Home,false,false,false,Gas
+707.5558659217877,695.8324022346369,695.8379888268156,0c3c5523ca441eeadd9b3081892579a79c0c05e0,US,MO,arnold,0,cool,hold,Home,false,false,false,Gas
+725.37209302325584,774.20930232558135,724.0,6a7d38d3a31fd1fc94de9cc1aa2faa6afc0e0ebf,US,MO,st. Louis,0,auto,hold,Home,false,false,false,Gas
+675.5,680.0,680.0,e12ffd55852372f0595469b3ba535f9838d78072,US,MO,Joplin,0,heat,hold,Home,false,false,true,Electric
+696.00847457627117,680.00847457627117,680.00847457627117,f4268efcac9c452ad4a5fd4ecdce6fa8cd3ff655,US,MO,Columbia,0,heat,auto,Home,false,false,false,Gas
+686.0211915233906,674.10515793682532,666.44262295081967,67520692dc5bc29b9de9e93700ecb7d36ceb0ce1,US,MO,O Fallon,0,heat,hold,Home,false,false,false,Gas
+707.92949907235618,720.09740259740261,704.01948051948057,1e5d65747e7f91a9fe04e210038f07b4b687cda5,US,MO,O Fallon,0,heat,auto,Home,false,false,false,Gas
+716.90243902439022,720.0,720.0,274b21c079e7332afd28c6504d0138810c29f17a,US,MO,St Louis,0,heat,hold,Home,false,false,false,Gas
+706.9487179487179,780.0,640.0,81b386a5575b0d400c8a07361a86d2eba5937c94,US,MO,St. Louis,0,auto,hold,Home,false,false,false,Gas
+688.54494382022472,689.8083645443196,689.8083645443196,b25a00d9737dc2de4c0d0880e44ff65c002a7a03,US,MO,St. Louis,0,heat,auto,Home,false,false,false,Gas
+635.72330097087377,653.61650485436894,638.247572815534,38c0b543f514d42ee0cd6d15e96bf91f72fed06a,US,MO,Warrenton,0,heat,auto,Home,false,false,false,Gas
+691.53846153846155,690.0,690.0,cc82178b7e52aa92633db51a6e0a11ccbf22bd2b,US,MO,Ellisville,0,cool,hold,Home,false,false,false,Gas
+706.51724137931035,710.0,710.0,cc82178b7e52aa92633db51a6e0a11ccbf22bd2b,US,MO,Ellisville,0,heat,auto,Home,false,false,false,Gas
+707.74603174603169,710.0,710.0,e26ba9ad9329772160fddf115452a985164db70d,US,MO,Ellisville,0,heat,hold,Home,false,false,false,Gas
+722.13437195715676,684.00973709834466,678.300876338851,06813b22eefba93728d203b79b0b6c59b5f618da,US,MO,Florissant,0,heat,hold,Home,false,false,false,Gas
+698.44027303754262,744.12969283276448,743.57679180887374,4159fe24d5e881b6d118e6bc7ced8d80da70397a,US,MO,Platte City,0,heat,hold,Home,false,false,true,Electric
+699.49295774647885,700.47887323943667,700.47887323943667,4159fe24d5e881b6d118e6bc7ced8d80da70397a,US,MO,Platte City,0,heat,auto,Home,false,false,true,Electric
+663.80672268907563,669.14285714285711,665.49579831932772,d3ce9433680f9567dbf7dd007913d083b581659f,US,MO,Saint Louis,0,heat,hold,Home,false,false,false,Gas
+742.35714285714289,720.0,720.0,0b8f79ddaf356f48ebce0e5064851df9e5a0e692,US,MO,Chesterfield,0,heat,auto,Home,false,false,false,Gas
+753.09784226190482,740.0,740.0,2b9cdacb37fdba36c20f980be301c44138de4fa2,US,MO,Sunrise Beach,0,auxHeatOnly,hold,Home,false,true,true,Electric
+611.91666666666663,673.75,673.75,0e0c18ad370aa3d5acf2278a33d87a59761a3972,US,MO,Sugar Creek,0,off,hold,Home,false,false,false,Gas
+750.5,745.0,695.0,0b8f79ddaf356f48ebce0e5064851df9e5a0e692,US,MO,Chesterfield,0,auto,hold,Home,false,false,false,Gas
+687.0,684.66666666666663,684.66666666666663,ab176fa2faeb5b7ac02f20f5601dbf9f4da8d7b9,US,MO,O Fallon,0,off,hold,Home,false,false,false,Gas
+735.5,680.0,680.0,2d200cc55fd7f0414d925a8ffb41a36d55fe5105,US,MO,Columbia,0,heat,hold,Home,true,false,false,Gas
+675.05882352941171,671.88235294117646,670.94117647058829,26bd019a6393e29c48992222012fb209c95b0dc4,US,MO,St. Charles,0,heat,hold,Home,false,false,false,Gas
+695.0,712.33333333333337,705.0,4a380622e202aa80ab0adbb6f7a8809eb562fb1b,US,MO,Ballwin,0,heat,hold,Home,false,false,false,Gas
+730.0,740.0,690.0,f1b9aca4068b2e2896765a90c35010cf883fa8af,US,MO,St. Louis,0,heat,hold,Home,false,false,false,Gas
+686.0,717.0,681.0,81b8c98d14eddd114bcdb546c7bfed4d039204a6,US,MO,Lee's Summit,0,heat,hold,Home,false,false,true,Electric
+691.29299363057328,691.12611464968154,691.115923566879,265dfc006e31bb5bbfdee23075de17cf28bfa33e,US,MO,Republic,0,heat,hold,Home,false,false,false,Gas
+684.435676392573,693.51458885941645,693.51458885941645,0c3c5523ca441eeadd9b3081892579a79c0c05e0,US,MO,arnold,0,heat,hold,Home,false,false,false,Gas
+679.49119555143648,680.00926784059311,680.00926784059311,ffe3dd2ebf461c6fe1085a577daa4fec78c7c48f,US,MO,Kansas city,0,heat,hold,Home,false,false,false,Gas
+678.11146496815286,679.29299363057328,679.07006369426756,c61742663a02de69a9637c901fe39749dc5f0d35,US,MO,Cedar Hill,0,heat,hold,Home,false,false,false,Gas
+701.00151515151515,696.57575757575762,696.57272727272732,0e0c18ad370aa3d5acf2278a33d87a59761a3972,US,MO,Sugar Creek,0,heat,hold,Home,false,false,false,Gas
+707.44318181818187,690.20075757575762,709.39393939393938,265dfc006e31bb5bbfdee23075de17cf28bfa33e,US,MO,Republic,0,heat,auto,Home,false,false,false,Gas
+721.060606060606,769.60606060606062,719.60606060606062,f27a5dc3ea7465a663ba92cd6e4e09184e3d33eb,US,MO,st. Louis,0,auto,hold,Home,false,false,false,Gas
+722.69253604749792,727.50636132315526,708.47328244274809,9b7a00b2b4d03feae75649d19783b8f9f74138ea,US,MO,Nixa,0,heat,auto,Home,true,false,false,Gas
+743.67777777777781,750.0,710.0,9b7a00b2b4d03feae75649d19783b8f9f74138ea,US,MO,Nixa,0,cool,auto,Home,true,false,false,Gas
+727.92086330935251,729.24460431654677,728.80575539568349,e6da641910f01596e32323965b88028dec5e06e4,US,MO,Arnold,0,heat,hold,Home,false,false,false,Gas
+711.81862745098044,720.0,610.0,f4268efcac9c452ad4a5fd4ecdce6fa8cd3ff655,US,MO,Columbia,0,auto,hold,Home,false,false,false,Gas
+664.24822695035459,665.89219858156025,658.890780141844,8538adf9b662745db5f8a03aa7160b781d33555e,US,MO,Columbia,0,heat,auto,Home,false,false,false,Gas
+715.45146014206784,693.89187056037883,693.307813733228,f4268efcac9c452ad4a5fd4ecdce6fa8cd3ff655,US,MO,Columbia,0,heat,hold,Home,false,false,false,Gas
+683.38888888888891,684.79365079365084,684.79365079365084,0caabb43337af0ac85b9b3051a32a2645177fa3c,US,MO,Columbia,0,heat,auto,Home,false,false,false,Gas
+699.86458333333337,700.0,700.0,8305166890e5d70cd773ae01a703c561f0901f4d,US,MO,Kirkwood,0,heat,hold,Home,false,false,false,Gas
+698.2580037664784,676.90772128060269,673.44695543000626,ab176fa2faeb5b7ac02f20f5601dbf9f4da8d7b9,US,MO,O Fallon,0,heat,hold,Home,false,false,false,Gas
+717.78402777777774,700.0,700.0,1e5d65747e7f91a9fe04e210038f07b4b687cda5,US,MO,O Fallon,0,heat,hold,Home,false,false,false,Gas
+718.06666666666672,720.0,720.0,274b21c079e7332afd28c6504d0138810c29f17a,US,MO,St Louis,0,heat,auto,Home,false,false,false,Gas
+691.38344226579522,681.09150326797385,681.09150326797385,b25a00d9737dc2de4c0d0880e44ff65c002a7a03,US,MO,St. Louis,0,heat,hold,Home,false,false,false,Gas
+644.06944444444446,650.0,645.75,38c0b543f514d42ee0cd6d15e96bf91f72fed06a,US,MO,Warrenton,0,heat,hold,Home,false,false,false,Gas
+688.63333333333333,664.84444444444443,664.84444444444443,c6ff32851d90a4f832c9d9dd806db916ed464014,US,MO,Warrenton,0,heat,auto,Home,false,false,false,Gas
+689.96765498652292,683.85444743935307,683.85444743935307,cc82178b7e52aa92633db51a6e0a11ccbf22bd2b,US,MO,Ellisville,0,off,hold,Home,false,false,false,Gas
+702.67768595041321,702.10743801652893,702.10743801652893,e26ba9ad9329772160fddf115452a985164db70d,US,MO,Ellisville,0,heat,auto,Home,false,false,false,Gas
+706.08904109589037,704.82876712328766,704.82876712328766,06813b22eefba93728d203b79b0b6c59b5f618da,US,MO,Florissant,0,heat,auto,Home,false,false,false,Gas
+692.42253521126759,765.0,694.54929577464793,a71fc6d7f5be3b5f2299fb9e5833490e9316fd83,US,MO,Wentzville,0,auto,hold,Home,false,false,false,Gas
+722.33473684210526,719.0526315789474,719.0526315789474,3d93198eaa6a3a1d4b13713b02ddcabcc8d3dbe4,US,MO,Kansas City,0,auxHeatOnly,hold,Home,false,false,true,Electric
+723.89130434782612,720.5,720.06521739130437,3d93198eaa6a3a1d4b13713b02ddcabcc8d3dbe4,US,MO,Kansas City,0,auxHeatOnly,auto,Home,false,false,true,Electric
+699.42857142857144,770.54945054945051,719.45054945054949,4159fe24d5e881b6d118e6bc7ced8d80da70397a,US,MO,Platte City,0,auto,hold,Home,false,false,true,Electric
+687.45744680851067,700.0,700.0,d3ce9433680f9567dbf7dd007913d083b581659f,US,MO,Saint Louis,0,heat,auto,Home,false,false,false,Gas
+688.57760314341851,725.0,675.0,ec166b2581060cb3aea1459eea53203d4c0572fd,US,MO,St. Charles,0,auto,auto,Home,false,false,false,Gas
+668.89610389610391,671.68831168831173,660.0,0c3c5523ca441eeadd9b3081892579a79c0c05e0,US,MO,arnold,0,off,auto,Home,false,false,false,Gas
+677.71428571428567,745.0,680.10204081632651,bf5d45926b70e02b907b77363aceace0af0b971c,US,MO,Jefferson City,0,auto,hold,Home,false,false,false,Gas
+688.0,797.84615384615381,699.76923076923072,bf5d45926b70e02b907b77363aceace0af0b971c,US,MO,Jefferson City,0,auto,auto,Home,false,false,false,Gas

@@ -1,0 +1,110 @@
+AvgTempCtrl,AvgCool,AvgHeat,Identifier,Country,ProvinceState,City,Age_of_Home__years_,HvacMode,CalendarEvent,Climate,allowCompWithAux,Has_Electric,Has_a_Heat_Pump,Auxilliary_Heat_Fuel_Type
+681.760582010582,685.51455026455028,687.58730158730157,87f46e46b394a4f8f62f67542d5c583f8c1a3bb9,US,CO,Superior,0,heat,auto,Home,true,false,false,Gas
+654.60927152317879,571.34437086092714,917.35099337748341,d30508b1ddaef2cb57380f3bfebb7de33d9d42ab,US,CO,Fort Collins,0,off,auto,Home,false,false,false,Gas
+687.78947368421052,910.21052631578948,910.21052631578948,d30508b1ddaef2cb57380f3bfebb7de33d9d42ab,US,CO,Fort Collins,0,heat,hold,Home,false,false,false,Gas
+705.62318840579712,780.0,700.0,adc1a488c8803e0d954264ea54297c4316046e86,US,CO,Denver,0,heat,auto,Home,false,false,false,Gas
+732.59557774607708,789.23680456490729,725.62125534950076,ae2cd071a6f34fe3d21fceb3640acbdce6829fc6,US,CO,Denver,0,auto,hold,Home,false,false,false,Gas
+692.82608695652175,790.0,670.0,5cc70f07b92ddb809487c763ef59974b08484fdc,US,CO,Aurora,0,auto,auto,Home,false,false,false,Gas
+667.00802139037432,665.055614973262,661.71871657754014,fb09740ff02e5c7b0212d25ba59c54198be282ba,US,CO,Breckenridge,0,heat,hold,Home,false,false,false,Gas
+677.98214285714289,665.10714285714289,662.96428571428567,28b45969abc3910ea189f0e8818071343d3bdc81,US,CO,Boulder,0,heat,hold,Home,false,false,false,Gas
+639.925925925926,650.0,640.0,80fc7817bffe4f469288e73953891e4e89cf5c06,US,CO,Wellington,0,heat,auto,Home,false,false,false,Gas
+649.93333333333328,652.0,652.0,0acb87f2b241269a58e7619f588704b019e07f62,US,CO,Colorado Springs,0,heat,hold,Home,false,false,false,Gas
+656.96482889733841,660.4239543726236,693.89828897338407,87f46e46b394a4f8f62f67542d5c583f8c1a3bb9,US,CO,Superior,0,cool,auto,Home,true,false,false,Gas
+697.25461254612549,692.94464944649451,692.9114391143911,8da3f9fe55ec2a2995adb98eca688817a07c08d3,US,CO,Akron,0,heat,auto,Home,false,false,false,Gas
+686.510067114094,680.40268456375838,680.40268456375838,add725dd3f21e54bf55305a4d6ecf2f115ab8ac8,US,CO,Westminster,0,heat,hold,Home,false,false,false,Gas
+696.64048991354468,690.52593659942363,690.52593659942363,69fbcca1ab34f833df73a423cf4f4b2e9d65fe7d,US,CO,Aurora,0,heat,hold,Home,true,false,false,Gas
+694.3604651162791,692.8604651162791,692.8604651162791,0dbfe34eb4ca18af207724b6ce824a13d93ec453,US,CO,Colorado Springs,0,heat,hold,Home,false,false,false,Gas
+690.10606060606062,692.61742424242425,692.61742424242425,a840734515142091df4c08a87ec0d57c867bc9ad,US,CO,Greenwood Village,0,heat,hold,Home,false,false,false,Gas
+695.82293762575455,697.42756539235415,697.34305835010059,c9aae8bb4b7eb3445b189b12634a589662f99892,US,CO,Denver,0,heat,hold,Home,true,false,false,Gas
+629.87645687645693,685.990675990676,685.990675990676,65aad970a9f2946020d9d015ff31da04086cda71,US,CO,South Fork,0,heat,auto,Home,false,false,false,Gas
+695.51034482758621,690.06896551724139,690.06896551724139,87f46e46b394a4f8f62f67542d5c583f8c1a3bb9,US,CO,Superior,0,heat,hold,Home,true,false,false,Gas
+676.53982300884957,695.39823008849555,695.39823008849555,a840734515142091df4c08a87ec0d57c867bc9ad,US,CO,Greenwood Village,0,off,auto,Home,false,false,false,Gas
+697.255823803473,699.695044472681,699.695044472681,1bbc8c0303be4d71f268dde06c1ef69e85c65e21,US,CO,Denver,0,heat,hold,Home,false,false,false,Gas
+700.56355932203394,704.38135593220341,704.31355932203394,1bbc8c0303be4d71f268dde06c1ef69e85c65e21,US,CO,Denver,0,heat,auto,Home,false,false,false,Gas
+729.15384615384619,700.0,700.0,f0f79456bf28f17f56731949fc796b4201684e9c,US,CO,Littleton,0,heat,auto,Home,false,false,false,Gas
+679.493670886076,700.0,650.0,dad5e9aff877985dff6dad7b0b0a2724d6b95493,US,CO,Colorado Springs,0,auto,hold,Home,true,false,false,Gas
+708.01556776556777,710.0,710.0,a91cfd84c649c350d6da250ba5723288584b2e0f,US,CO,Parker,0,heat,auto,Home,false,false,false,Gas
+717.50076569678413,718.51493108728948,718.51493108728948,f1f438a7259c87f9e85b155b9d687d9c7f77f295,US,CO,Fort Collins,0,heat,hold,Home,false,false,false,Gas
+693.71544715447158,740.0,690.0,1f6608ed907a508346aacb68a8f94576cbf99a65,US,CO,Aurora,0,auto,hold,Home,false,false,false,Gas
+728.890756302521,744.03361344537814,744.03361344537814,16d00b9d31b3506cf750c83a29f022bd67e79686,US,CO,Carbondale,0,off,hold,Home,false,false,false,Gas
+720.304347826087,769.27667984189725,696.92490118577075,16d00b9d31b3506cf750c83a29f022bd67e79686,US,CO,Carbondale,0,auto,hold,Home,false,false,false,Gas
+672.8125,676.28125,674.90625,8d0f11ec37d69bfaaf7d7f205d3627e8697f2eb1,US,CO,Frisco,0,heat,hold,Home,false,false,false,Gas
+634.86666666666667,671.33333333333337,666.86666666666667,0acb87f2b241269a58e7619f588704b019e07f62,US,CO,Colorado Springs,0,heat,auto,Home,false,false,false,Gas
+689.46359447004613,839.10138248847932,665.77511520737323,1fcad194254fc2e9b3bfd8c54857811abe064ea1,US,CO,Highlands Ranch,0,auto,hold,Home,false,false,false,Gas
+636.65454545454543,548.16363636363633,907.72727272727275,d30508b1ddaef2cb57380f3bfebb7de33d9d42ab,US,CO,Fort Collins,0,heat,auto,Home,false,false,false,Gas
+669.644128113879,655.92679206914079,651.63091001525163,264107a816acc1d639a989ea94c2b9fdc3aab210,US,CO,Longmont,0,heat,hold,Home,false,false,false,Gas
+677.71428571428567,923.0,923.0,d30508b1ddaef2cb57380f3bfebb7de33d9d42ab,US,CO,Fort Collins,0,off,hold,Home,false,false,false,Gas
+574.26666666666665,584.33333333333337,587.5333333333333,d30508b1ddaef2cb57380f3bfebb7de33d9d42ab,US,CO,Fort Collins,0,cool,hold,Home,false,false,false,Gas
+733.44415917843389,731.70603337612329,731.70603337612329,16d00b9d31b3506cf750c83a29f022bd67e79686,US,CO,Carbondale,0,heat,auto,Home,false,false,false,Gas
+682.74916387959865,770.56521739130437,668.7123745819398,5cc70f07b92ddb809487c763ef59974b08484fdc,US,CO,Aurora,0,auto,hold,Home,false,false,false,Gas
+710.0,786.89361702127655,703.95744680851067,f0f79456bf28f17f56731949fc796b4201684e9c,US,CO,Littleton,0,auto,auto,Home,false,false,false,Gas
+667.86956521739125,692.17826086956518,676.3065217391304,5cc70f07b92ddb809487c763ef59974b08484fdc,US,CO,Aurora,0,heat,auto,Home,false,false,false,Gas
+680.44186046511629,777.546511627907,641.66666666666663,f2cad4901f6789e1179eef33dbbc0d38e7879acb,US,CO,Windsor,0,heat,auto,Home,false,false,false,Gas
+636.68092105263156,774.516447368421,617.16776315789468,dfa837965baeba9df616c5d47d46d032ded0ef78,US,CO,Grand Junction,0,heat,auto,Home,true,false,false,Gas
+667.45573770491808,654.78688524590166,654.78688524590166,fb09740ff02e5c7b0212d25ba59c54198be282ba,US,CO,Breckenridge,0,heat,auto,Home,false,false,false,Gas
+645.46739647786774,650.0,626.28748215135647,a5f8200de3e7c86860a51993aab8d1cc7c90cf72,US,CO,Longmont,0,heat,hold,Home,false,false,false,Gas
+680.474358974359,650.0,640.0,264107a816acc1d639a989ea94c2b9fdc3aab210,US,CO,Longmont,0,heat,auto,Home,false,false,false,Gas
+670.15068493150682,650.0,635.0,27725cd45eac97391efaabed304e753e47af6a60,US,CO,Peyton,0,heat,auto,Home,false,false,false,Gas
+680.05528846153845,676.39342948717945,676.06891025641028,f3ff3ff8d4d22952cf8af3f3abe17beedb3af597,US,CO,Longmont,0,heat,hold,Home,false,false,false,Gas
+659.67948717948718,650.0,633.43589743589746,f3ff3ff8d4d22952cf8af3f3abe17beedb3af597,US,CO,Longmont,0,off,hold,Home,false,false,false,Gas
+656.75,655.0,655.0,781d0dc5aa9bbcc31349aff65275d973c36431aa,US,CO,Aurora,0,heat,auto,Home,false,false,false,Gas
+661.07142857142856,663.57142857142856,644.28571428571433,b7161cbc0285fc5221f2c3d558df876a16fa8718,US,CO,Denver,0,heat,hold,Home,false,false,false,Gas
+734.28,721.81428571428569,721.78095238095239,bbef2ec2a237f17e107815c92a84ae32f9a15c3b,US,CO,Denver,0,heat,auto,Home,false,false,false,Gas
+686.768115942029,690.6159420289855,690.6159420289855,a840734515142091df4c08a87ec0d57c867bc9ad,US,CO,Greenwood Village,0,heat,auto,Home,false,false,false,Gas
+670.98245614035091,691.84210526315792,691.84210526315792,a840734515142091df4c08a87ec0d57c867bc9ad,US,CO,Greenwood Village,0,off,hold,Home,false,false,false,Gas
+694.37026239067052,686.47230320699714,686.47230320699714,0b784ff61085e277f8e31d66ba66e06d21b60a6e,US,CO,Littleton,0,heat,auto,Home,false,false,false,Gas
+679.76388888888891,680.06944444444446,680.06944444444446,69fbcca1ab34f833df73a423cf4f4b2e9d65fe7d,US,CO,Aurora,0,heat,auto,Home,true,false,false,Gas
+672.85,689.1375,669.1375,4722e375d4d20fb5109c9f4b61f9497acfaaf34e,US,CO,Colorado Springs,0,auto,auto,Home,false,false,false,Gas
+717.0932835820895,715.67164179104475,715.66791044776119,4722e375d4d20fb5109c9f4b61f9497acfaaf34e,US,CO,Colorado Springs,0,heat,hold,Home,false,false,false,Gas
+701.5307239057239,690.0,690.0,4efabf7202f04d5d045283d5ec35f6af528817c5,US,CO,Lafayette,0,heat,hold,Home,false,false,false,Gas
+700.574888779041,693.09243697479,693.0845279288186,fac943f1672a4ac9daee771336e32b4656ad8609,US,CO,Parker,0,heat,hold,Home,false,false,false,Gas
+695.95,700.0,700.0,d9f02a1e341bad91f4bad7d0c0d5c58ec9c88b2a,US,CO,Louisville,0,heat,hold,Home,false,false,false,Gas
+732.0,700.0,680.0,69fbcca1ab34f833df73a423cf4f4b2e9d65fe7d,US,CO,Aurora,0,cool,auto,Home,true,false,false,Gas
+714.0,720.0,720.0,104f742e061dfbca512f6701b3927e03312dcb6d,US,CO,Lafayette,0,heat,hold,Home,false,false,false,Gas
+685.95833333333337,735.0,685.0,0b0bcc2b4905e54855176d60c1c3ed3b30004985,US,CO,Colorado Springs,0,auto,hold,Home,true,false,false,Gas
+704.87349397590367,755.0,705.0,1f6608ed907a508346aacb68a8f94576cbf99a65,US,CO,Aurora,0,heat,auto,Home,false,false,false,Gas
+708.89459211732355,760.0,710.0,6044ead74e1a835df48bbb98368f2d0d51b69b14,US,CO,Colorado Springs,0,auto,hold,Home,false,false,false,Gas
+702.57142857142856,755.0,705.0,1f6608ed907a508346aacb68a8f94576cbf99a65,US,CO,Aurora,0,auto,auto,Home,false,false,false,Gas
+704.92857142857144,840.0,699.0,1fcad194254fc2e9b3bfd8c54857811abe064ea1,US,CO,Highlands Ranch,0,auto,auto,Home,false,false,false,Gas
+685.0,680.0,680.0,b4a652e94121160ab31f1fa1dac0a66b706ab15a,US,CO,placerville,0,heat,hold,Home,false,false,false,Gas
+684.9,660.0,700.0,87f46e46b394a4f8f62f67542d5c583f8c1a3bb9,US,CO,Superior,0,off,auto,Home,true,false,false,Gas
+693.14285714285711,780.0,700.0,adc1a488c8803e0d954264ea54297c4316046e86,US,CO,Denver,0,off,auto,Home,false,false,false,Gas
+679.25,670.0,670.0,93d9fd738b881ec849cde524a45130ad5ca32f0c,US,CO,Windsor,0,heat,hold,Home,false,false,false,Gas
+680.0,695.0,680.0,0b784ff61085e277f8e31d66ba66e06d21b60a6e,US,CO,Littleton,0,off,auto,Home,false,false,false,Gas
+578.28010139416983,563.96958174904944,884.1596958174905,d30508b1ddaef2cb57380f3bfebb7de33d9d42ab,US,CO,Fort Collins,0,cool,auto,Home,false,false,false,Gas
+681.358543417367,679.98132586367876,679.98132586367876,80fc7817bffe4f469288e73953891e4e89cf5c06,US,CO,Wellington,0,heat,hold,Home,false,false,false,Gas
+725.78421052631575,770.36842105263156,720.59473684210525,16d00b9d31b3506cf750c83a29f022bd67e79686,US,CO,Carbondale,0,auto,auto,Home,false,false,false,Gas
+669.53571428571433,775.71428571428567,648.57142857142856,533e0188dcc8bec15b4b5b30e6be86808196dabb,US,CO,Castle Rock,0,heat,auto,Home,false,false,false,Gas
+714.620253164557,779.97468354430384,715.96202531645565,cbc3edc040c6210533e3f65146a3ca091508fdb7,US,CO,Greenwood Village,0,auto,auto,Home,false,false,false,Gas
+732.5271687321258,790.0,730.2097235462345,ae2cd071a6f34fe3d21fceb3640acbdce6829fc6,US,CO,Denver,0,auto,auto,Home,false,false,false,Gas
+595.53383084577115,819.66169154228851,600.0,ca4fa254f45c55c88826b963f0cf0193b150115b,US,CO,Fraser,0,heat,auto,Home,false,false,false,Gas
+660.11842105263156,819.73684210526312,600.26315789473688,93d9fd738b881ec849cde524a45130ad5ca32f0c,US,CO,Windsor,0,heat,auto,Home,false,false,false,Gas
+674.64460784313724,674.76960784313724,674.76960784313724,7707f475be6a021c86f44a52638cf5c2fd0f35ea,US,CO,Littleton,0,heat,auto,Home,false,false,false,Gas
+688.486568986569,690.60805860805863,683.94139194139188,8da3f9fe55ec2a2995adb98eca688817a07c08d3,US,CO,Akron,0,heat,hold,Home,false,false,false,Gas
+635.46153846153845,650.0,620.0,a5f8200de3e7c86860a51993aab8d1cc7c90cf72,US,CO,Longmont,0,heat,auto,Home,false,false,false,Gas
+657.0,667.0,660.0,781d0dc5aa9bbcc31349aff65275d973c36431aa,US,CO,Aurora,0,heat,hold,Home,false,false,false,Gas
+674.32051282051282,677.0038461538461,673.53589743589748,5cc70f07b92ddb809487c763ef59974b08484fdc,US,CO,Aurora,0,heat,hold,Home,false,false,false,Gas
+690.06557377049182,688.26229508196718,686.88524590163934,f0f79456bf28f17f56731949fc796b4201684e9c,US,CO,Littleton,0,heat,hold,Home,false,false,false,Gas
+682.08333333333337,682.41666666666663,680.69444444444446,2dc1f9c846ddd53f22ca33c56e1a10a2b0202677,US,CO,Castle Rock,0,heat,hold,Home,false,false,false,Gas
+687.31829092654823,703.15362457993274,685.96351416226594,0dbfe34eb4ca18af207724b6ce824a13d93ec453,US,CO,Colorado Springs,0,heat,auto,Home,false,false,false,Gas
+709.45457930007444,709.132911392405,709.132911392405,5f5b79c794562eff36c0ce7fd555c9a9416bdba8,US,CO,Fort Collins,0,heat,hold,Home,false,false,false,Gas
+692.22222222222217,697.6358024691358,694.08641975308637,28b45969abc3910ea189f0e8818071343d3bdc81,US,CO,Boulder,0,heat,auto,Home,false,false,false,Gas
+699.40816326530614,700.0,700.0,f53d94983345d1109761ce613cd65738a9e8e074,US,CO,Colorado Springs,0,heat,auto,Home,false,false,false,Gas
+686.8,700.43636363636358,699.9454545454546,587dd9c64de7002bdccf5dd43727920b927d9b5c,US,CO,Hotchkiss,0,heat,auto,Home,false,false,false,Gas
+699.972972972973,703.07567567567571,703.07567567567571,f53d94983345d1109761ce613cd65738a9e8e074,US,CO,Colorado Springs,0,heat,hold,Home,false,false,false,Gas
+692.23376623376623,698.32467532467535,696.7532467532468,828fc579961fc44d963b69ccfed856b0a0de6eaf,US,CO,Loveland,0,heat,hold,Home,false,false,false,Gas
+685.563829787234,716.84042553191489,716.80851063829789,69fbcca1ab34f833df73a423cf4f4b2e9d65fe7d,US,CO,Aurora,0,cool,hold,Home,true,false,false,Gas
+728.56820877817324,728.12455516014234,728.12455516014234,16d00b9d31b3506cf750c83a29f022bd67e79686,US,CO,Carbondale,0,heat,hold,Home,false,false,false,Gas
+718.1121495327103,720.0,720.0,1f6608ed907a508346aacb68a8f94576cbf99a65,US,CO,Aurora,0,heat,hold,Home,false,false,false,Gas
+743.17215189873423,738.48860759493675,738.48860759493675,51070f2c8f9d02834e885112b1722f1bd5bce213,US,CO,Highlands Ranch,0,heat,hold,Home,false,false,false,Gas
+735.98305084745766,736.271186440678,736.271186440678,adc1a488c8803e0d954264ea54297c4316046e86,US,CO,Denver,0,heat,hold,Home,false,false,false,Gas
+699.16666666666663,701.0,700.08333333333337,ca4fa254f45c55c88826b963f0cf0193b150115b,US,CO,Fraser,0,heat,hold,Home,false,false,false,Gas
+671.4,700.0,700.0,87f46e46b394a4f8f62f67542d5c583f8c1a3bb9,US,CO,Superior,0,cool,hold,Home,true,false,false,Gas
+673.5,780.88888888888891,679.11111111111109,0b784ff61085e277f8e31d66ba66e06d21b60a6e,US,CO,Littleton,0,heat,hold,Home,false,false,false,Gas
+672.86301369863008,676.16438356164383,676.16438356164383,7707f475be6a021c86f44a52638cf5c2fd0f35ea,US,CO,Littleton,0,heat,hold,Home,false,false,false,Gas
+636.8,801.9,608.7,dfa837965baeba9df616c5d47d46d032ded0ef78,US,CO,Grand Junction,0,off,auto,Home,true,false,false,Gas
+684.88888888888891,675.6349206349206,673.88888888888891,6a94d8cfd6a3cc67612d059d2452877ded3616d7,US,CO,Colorado Springs,0,heat,hold,Home,false,false,false,Gas
+670.41666666666663,700.0,700.0,8d0f11ec37d69bfaaf7d7f205d3627e8697f2eb1,US,CO,Frisco,0,heat,auto,Home,false,false,false,Gas
+718.29411764705878,740.0,720.0,4722e375d4d20fb5109c9f4b61f9497acfaaf34e,US,CO,Colorado Springs,0,auto,hold,Home,false,false,false,Gas
+714.25,740.0,738.75,4722e375d4d20fb5109c9f4b61f9497acfaaf34e,US,CO,Colorado Springs,0,heat,auto,Home,false,false,false,Gas
+704.66666666666663,780.0,670.0,f0f79456bf28f17f56731949fc796b4201684e9c,US,CO,Littleton,0,auto,hold,Home,false,false,false,Gas

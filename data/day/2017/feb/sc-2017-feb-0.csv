@@ -1,0 +1,116 @@
+AvgTempCtrl,AvgCool,AvgHeat,Identifier,Country,ProvinceState,City,Age_of_Home__years_,HvacMode,CalendarEvent,Climate,allowCompWithAux,Has_Electric,Has_a_Heat_Pump,Auxilliary_Heat_Fuel_Type
+754.40060015003746,753.86496624156041,753.86496624156041,e4200d2744286c84728e35548f8960406cb3a808,US,SC,Hanahan,0,heat,hold,Home,false,false,false,Gas
+739.01329787234044,764.563829787234,707.55053191489367,79570b33244e8d237209f614baf2e5f4b06d1a2f,US,SC,Bluffton,0,auto,auto,Home,false,false,false,Gas
+630.5151515151515,650.0,610.0,4a2bf5053777aa1924d4ab7898ed325dc8b1c085,US,SC,Columbia,0,heat,hold,Home,false,false,false,Gas
+668.19156118143462,711.34092827004224,619.1037974683544,7c7a267cd2550104155e5d7c5e16bdc009d5fc7d,US,SC,Fort Mill,0,auto,auto,Home,false,false,false,Gas
+706.28205128205127,724.15384615384619,672.85897435897436,e02d3dc878b6d07d8ccbdee2f7c4b64ee0c5c9bc,US,SC,Rock Hill,0,auto,hold,Home,false,false,false,Gas
+653.33839835728952,684.03408624229985,635.96550308008216,b1150a7c738bde2aff24794c264ad4691dab1c9a,US,SC,Charleston,0,heat,hold,Home,false,false,false,Gas
+672.14414414414409,778.88288288288288,662.87387387387389,17312b5890e4f6adcffe2d6d6e2a70536f62f781,US,SC,Greenville,0,heat,auto,Home,false,false,true,Electric
+694.08672086720867,736.45528455284557,686.45528455284557,ad9a802cc5900eaeee8013e33a9e8dda2a1c15b1,US,SC,Greenville,0,auto,hold,Home,false,false,false,Gas
+685.47357203751062,723.805200341006,672.9356351236147,ddfce1190f29a8a23ea432f1773d92fdea5178e9,US,SC,Simpsonville,0,auto,hold,Home,false,false,false,Gas
+691.562091503268,702.656862745098,702.656862745098,3b10490a4d2af70a2e7998b1243075b74f2b9271,US,SC,Mount Pleasant,0,cool,hold,Home,false,false,false,Gas
+742.10727969348659,736.639846743295,736.639846743295,e4200d2744286c84728e35548f8960406cb3a808,US,SC,Hanahan,0,heat,auto,Home,false,false,false,Gas
+707.51315789473688,650.0,600.0,37649a5a9d9c81e6c07b036213ad53b7a4839260,US,SC,Columbia,0,heat,hold,Home,false,false,true,Electric
+660.52230971128608,711.09186351706035,620.08661417322833,7c7a267cd2550104155e5d7c5e16bdc009d5fc7d,US,SC,Fort Mill,0,auto,hold,Home,false,false,false,Gas
+702.23148148148152,750.0,620.0,ccded7327c537b26b0a9c204f50dad776c874517,US,SC,Fort Mill,0,auto,auto,Home,false,false,false,Gas
+708.79754601226989,738.46625766871171,687.036809815951,04e03135f1ece7f646e2553fa92b2979ab79c7d3,US,SC,Fort Mill,0,auto,auto,Home,false,false,true,Electric
+638.228028503563,650.01425178147269,630.04513064133016,b1150a7c738bde2aff24794c264ad4691dab1c9a,US,SC,Charleston,0,heat,auto,Home,false,false,false,Gas
+669.69186046511629,680.0,630.0,379854cc17e579dbca43460f1904a385452f3e5f,US,SC,Charleston,0,auto,hold,Home,true,false,true,Electric
+694.33009708737859,768.84466019417471,648.38834951456306,4f4bb2a71dd9ff5e4ba050a00e83005c736690ea,US,SC,Goose creek,0,heat,auto,Home,false,false,false,Gas
+728.05,778.75,641.0,4f4bb2a71dd9ff5e4ba050a00e83005c736690ea,US,SC,Goose creek,0,off,auto,Home,false,false,false,Gas
+694.5795454545455,819.78409090909088,640.14772727272725,f00082b931d00b8405e9fc592f41d9f9a99d6327,US,SC,Goose creek,0,heat,auto,Home,false,false,false,Gas
+725.34693877551024,792.08163265306121,658.81632653061229,f00082b931d00b8405e9fc592f41d9f9a99d6327,US,SC,Goose creek,0,cool,auto,Home,false,false,false,Gas
+670.37894736842111,779.5526315789474,650.88947368421054,360c1c9738b0eb4db09b6540b28c92f179f4efc2,US,SC,Greenville,0,heat,auto,Home,true,false,false,Gas
+687.59722222222217,780.0,640.0,e97e8f75f4202b586e6ef4088775923279b4032a,US,SC,Simpsonville,0,auto,auto,Home,false,false,false,Gas
+728.10238907849828,688.08873720136523,688.08873720136523,da51be34bf07a357f29c2d4ec4a7ee5441db8597,US,SC,Fort Mill,0,heat,hold,Home,false,false,false,Gas
+683.029197080292,740.0,650.0,4ae8c8bba3f23bb62812d82fabeb39dc70564db6,US,SC,Rock Hill,0,auto,auto,Home,false,false,false,Gas
+646.016129032258,650.0,649.93548387096769,606493747dd1fcec23fc14b2bcb66973e53c20f7,US,SC,Charleston,0,heat,hold,Home,false,false,true,Electric
+664.61904761904759,770.0,650.0,c0b32167c391f650d10f2e28ca1123aedafb62d9,US,SC,Charleston,0,heat,auto,Home,false,false,false,Gas
+677.45161290322585,808.70967741935488,661.29032258064512,14ab1e2607805d47f010bb6902763c610f462f11,US,SC,North Charleston,0,auto,auto,Home,false,false,false,Gas
+662.81657501963866,687.21131186174387,661.60251374705422,c69f104127f9ac026700c0414b46c7de35ade959,US,SC,Anderson,0,heat,auto,Home,false,false,false,Gas
+637.5,653.75,653.25,4a2bf5053777aa1924d4ab7898ed325dc8b1c085,US,SC,Columbia,0,heat,auto,Home,false,false,false,Gas
+686.0,715.0835913312693,665.0835913312693,90fd2b1fd5a88cdad0a5332e8afe3f4dbff7e672,US,SC,Rock Hill,0,auto,auto,Home,true,false,true,Electric
+707.7012987012987,772.14812214812218,676.72867672867676,db8aa89292d950fa32580201956307be57df705f,US,SC,Hollywood,0,auto,hold,Home,false,false,true,Electric
+680.871096877502,753.17133706965569,675.38030424339468,7b4003bdcc3632a36d0a9fddc463e53971227dee,US,SC,Sumter,0,auto,hold,Home,false,false,false,Gas
+745.0846153846154,772.32307692307688,723.30769230769226,79570b33244e8d237209f614baf2e5f4b06d1a2f,US,SC,Bluffton,0,auto,hold,Home,false,false,false,Gas
+707.0427135678392,722.2713567839196,697.4346733668342,603745fc43014b300060424c4f476a934482eacb,US,SC,Mount Pleasant,0,auto,hold,Home,false,false,true,Electric
+714.34848484848487,739.63636363636363,689.27272727272725,06d4cf9079d88bba13ed19286d0516bb90130859,US,SC,Fort Mill,0,off,auto,Home,false,false,false,Gas
+704.73084479371312,696.01178781925341,696.01178781925341,4ae8c8bba3f23bb62812d82fabeb39dc70564db6,US,SC,Rock Hill,0,heat,hold,Home,false,false,false,Gas
+688.30769230769226,739.76923076923072,689.76923076923072,ad9a802cc5900eaeee8013e33a9e8dda2a1c15b1,US,SC,Greenville,0,auto,auto,Home,false,false,false,Gas
+690.38235294117646,750.0,690.0,ddfce1190f29a8a23ea432f1773d92fdea5178e9,US,SC,Simpsonville,0,heat,hold,Home,false,false,false,Gas
+699.76923076923072,700.21794871794873,699.89743589743591,2ca642e12708c4c72829b323715d1a1ef9a94560,US,SC,Camden,0,heat,hold,Home,true,false,true,Electric
+700.57995226730316,705.30548926014319,703.72553699284015,1066eb17a92ac6877692789777922f92256c7b32,US,SC,Boiling Springs,0,heat,auto,Home,true,false,true,Electric
+699.048632218845,709.42249240121578,709.42249240121578,4ae8c8bba3f23bb62812d82fabeb39dc70564db6,US,SC,Rock Hill,0,cool,hold,Home,false,false,false,Gas
+698.3436452693993,780.0,700.0,edcd716cca5f1da1b2949d460bd9596764420f7e,US,SC,Simpsonville,0,auto,hold,Home,false,false,false,Gas
+708.76315789473688,715.469298245614,710.53947368421052,a7ac69aba77bba3276cad1ef6b205655fdca68b0,US,SC,Daniel Island,0,cool,hold,Home,false,false,false,Gas
+739.52941176470586,727.46405228758169,727.46405228758169,79570b33244e8d237209f614baf2e5f4b06d1a2f,US,SC,Bluffton,0,heat,hold,Home,false,false,false,Gas
+710.3937007874016,710.0,710.0,e02d3dc878b6d07d8ccbdee2f7c4b64ee0c5c9bc,US,SC,Rock Hill,0,heat,auto,Home,false,false,false,Gas
+684.1725490196078,700.0,720.0,559b30f69d70445aa787044065e5ea75479f74a5,US,SC,Summerville,0,cool,auto,Home,false,false,true,Electric
+713.83333333333337,720.0,720.0,1caefdb3dbf624ece78f811874459ea2e67fef67,US,SC,Daniel Island,0,cool,hold,Home,false,false,false,Gas
+754.05357142857144,760.0,740.0,79570b33244e8d237209f614baf2e5f4b06d1a2f,US,SC,Bluffton,0,cool,auto,Home,false,false,false,Gas
+663.44230769230774,650.0,620.0,37649a5a9d9c81e6c07b036213ad53b7a4839260,US,SC,Columbia,0,heat,auto,Home,false,false,true,Electric
+719.11764705882354,779.26470588235293,640.58823529411768,4f4bb2a71dd9ff5e4ba050a00e83005c736690ea,US,SC,Goose creek,0,cool,auto,Home,false,false,false,Gas
+696.6,779.8,699.3,a80f1d033725c48ffbe3d93c8ad8c9b769ac4e6d,US,SC,Sumter,0,auto,hold,Home,true,false,true,Electric
+686.88636363636363,701.63636363636363,700.0,445da7c6f5ab4bd845bee6aa0ff7ba716a19e572,US,SC,Travelers Rest,0,heat,auto,Home,false,false,true,Electric
+697.5,710.0,710.0,a7ac69aba77bba3276cad1ef6b205655fdca68b0,US,SC,Daniel Island,0,heat,auto,Home,false,false,false,Gas
+700.47222222222217,793.45833333333337,655.16666666666663,17312b5890e4f6adcffe2d6d6e2a70536f62f781,US,SC,Greenville,0,cool,auto,Home,false,false,true,Electric
+759.0,680.0,675.66666666666663,ad9a802cc5900eaeee8013e33a9e8dda2a1c15b1,US,SC,Greenville,0,cool,hold,Home,false,false,false,Gas
+676.66666666666663,667.0,640.0,06d4cf9079d88bba13ed19286d0516bb90130859,US,SC,Fort Mill,0,cool,auto,Home,false,false,false,Gas
+666.0,698.0,678.0,06d4cf9079d88bba13ed19286d0516bb90130859,US,SC,Fort Mill,0,off,hold,Home,false,false,false,Gas
+697.50677506775071,728.83197831978316,728.80487804878044,1066eb17a92ac6877692789777922f92256c7b32,US,SC,Boiling Springs,0,cool,hold,Home,true,false,true,Electric
+752.30869130869132,753.90709290709287,753.90709290709287,e4200d2744286c84728e35548f8960406cb3a808,US,SC,Hanahan,0,off,hold,Home,false,false,false,Gas
+699.2233520336606,695.696002805049,695.696002805049,9321abb3c001d91153c0bb86e0d2c352656d68ad,US,SC,Anderson,0,heat,hold,Home,false,false,true,Electric
+705.46875,740.0,690.0,04e03135f1ece7f646e2553fa92b2979ab79c7d3,US,SC,Fort Mill,0,auto,hold,Home,false,false,true,Electric
+686.5626666666667,707.46933333333334,646.39066666666668,fd37bfe1661e2619cdc9b226179cb037a7b5b15d,US,SC,Lexington,0,auto,hold,Home,false,false,false,Gas
+718.5625,724.84375,645.0,e02d3dc878b6d07d8ccbdee2f7c4b64ee0c5c9bc,US,SC,Rock Hill,0,auto,auto,Home,false,false,false,Gas
+719.53674832962133,707.66815144766144,707.66815144766144,ad9a802cc5900eaeee8013e33a9e8dda2a1c15b1,US,SC,Greenville,0,heat,hold,Home,false,false,false,Gas
+680.13559322033893,653.35593220338978,653.20338983050851,17312b5890e4f6adcffe2d6d6e2a70536f62f781,US,SC,Greenville,0,heat,hold,Home,false,false,true,Electric
+746.919540229885,748.62068965517244,748.62068965517244,e4200d2744286c84728e35548f8960406cb3a808,US,SC,Hanahan,0,off,auto,Home,false,false,false,Gas
+668.08741858073358,680.0,630.0,379854cc17e579dbca43460f1904a385452f3e5f,US,SC,Charleston,0,auto,auto,Home,true,false,true,Electric
+738.9,819.4,640.4,f00082b931d00b8405e9fc592f41d9f9a99d6327,US,SC,Goose creek,0,off,auto,Home,false,false,false,Gas
+649.09595959595958,780.0,640.0,ec6a015a6e7ee207a036e8a5be2cf666663868f2,US,SC,Cayce,0,auto,hold,Home,false,false,true,Electric
+694.47770700636943,672.08280254777071,666.33757961783442,06d4cf9079d88bba13ed19286d0516bb90130859,US,SC,Fort Mill,0,heat,auto,Home,false,false,false,Gas
+674.90484196368527,650.0,640.0,606493747dd1fcec23fc14b2bcb66973e53c20f7,US,SC,Charleston,0,heat,auto,Home,false,false,true,Electric
+698.7964601769911,764.30088495575217,655.68141592920358,360c1c9738b0eb4db09b6540b28c92f179f4efc2,US,SC,Greenville,0,cool,auto,Home,true,false,false,Gas
+690.27488546438985,686.292794668888,686.2915451895044,06d4cf9079d88bba13ed19286d0516bb90130859,US,SC,Fort Mill,0,heat,hold,Home,false,false,false,Gas
+696.66,725.55,669.95,4ae8c8bba3f23bb62812d82fabeb39dc70564db6,US,SC,Rock Hill,0,auto,hold,Home,false,false,false,Gas
+693.9938650306749,760.0,658.83435582822085,50d8495263ceb10c6e312916246cd72ef8a0a7cf,US,SC,Blythewood,0,auto,auto,Home,false,false,false,Gas
+648.29411764705878,652.94117647058829,650.58823529411768,360c1c9738b0eb4db09b6540b28c92f179f4efc2,US,SC,Greenville,0,heat,hold,Home,true,false,false,Gas
+655.06422018348621,780.0,659.82568807339453,fd37bfe1661e2619cdc9b226179cb037a7b5b15d,US,SC,Lexington,0,auto,auto,Home,false,false,false,Gas
+704.23214285714289,712.5,661.0,3b10490a4d2af70a2e7998b1243075b74f2b9271,US,SC,Mount Pleasant,0,off,auto,Home,false,false,false,Gas
+705.940594059406,700.91089108910887,700.0,e02d3dc878b6d07d8ccbdee2f7c4b64ee0c5c9bc,US,SC,Rock Hill,0,heat,hold,Home,false,false,false,Gas
+669.36666666666667,720.0,670.0,2d550fff7e1e11dec8e889858f7b888e6635d015,US,SC,Fort Mill,0,auto,hold,Home,false,false,false,Gas
+675.36363636363637,719.90633608815426,669.90633608815426,379854cc17e579dbca43460f1904a385452f3e5f,US,SC,Charleston,0,heat,hold,Home,true,false,true,Electric
+688.31639194139188,760.0,677.91208791208794,248a4fe9ce58754a114280730b2446271d1e0c1a,US,SC,Mount Pleasant,0,auto,hold,Home,false,false,false,Gas
+685.332,732.068,676.544,3b10490a4d2af70a2e7998b1243075b74f2b9271,US,SC,Mount Pleasant,0,auto,auto,Home,false,false,false,Gas
+691.95652173913038,689.36956521739125,688.195652173913,f00082b931d00b8405e9fc592f41d9f9a99d6327,US,SC,Goose creek,0,heat,hold,Home,false,false,false,Gas
+678.09756097560978,770.0,680.0,a80f1d033725c48ffbe3d93c8ad8c9b769ac4e6d,US,SC,Sumter,0,auto,auto,Home,true,false,true,Electric
+643.00925925925924,680.0,680.0,4a2bf5053777aa1924d4ab7898ed325dc8b1c085,US,SC,Columbia,0,cool,auto,Home,false,false,false,Gas
+714.73766976411719,751.11794138670484,713.27376697641171,7b6813276b898affee5c38b2413d054566e9721d,US,SC,Greenville,0,auto,hold,Home,true,false,false,Gas
+706.19906621392192,719.17147707979632,696.811544991511,603745fc43014b300060424c4f476a934482eacb,US,SC,Mount Pleasant,0,auto,auto,Home,false,false,true,Electric
+682.75,692.5,692.5,ddfce1190f29a8a23ea432f1773d92fdea5178e9,US,SC,Simpsonville,0,cool,hold,Home,false,false,false,Gas
+704.32558139534888,698.06976744186045,696.0,4f4bb2a71dd9ff5e4ba050a00e83005c736690ea,US,SC,Goose creek,0,heat,hold,Home,false,false,false,Gas
+655.16993464052291,690.0,690.0,c69f104127f9ac026700c0414b46c7de35ade959,US,SC,Anderson,0,cool,hold,Home,false,false,false,Gas
+694.17948717948718,691.07692307692309,689.82051282051282,a7aa683a0bf0115d6cd7137244a110f3e94716bf,US,SC,Columbia,0,heat,hold,Home,false,false,true,Electric
+712.44,700.44,690.64,1caefdb3dbf624ece78f811874459ea2e67fef67,US,SC,Daniel Island,0,cool,auto,Home,false,false,false,Gas
+703.88461538461536,701.0,691.0,a7ac69aba77bba3276cad1ef6b205655fdca68b0,US,SC,Daniel Island,0,cool,auto,Home,false,false,false,Gas
+697.70005299417062,745.0,695.0,90fd2b1fd5a88cdad0a5332e8afe3f4dbff7e672,US,SC,Rock Hill,0,heat,auto,Home,true,false,true,Electric
+708.23102310231025,705.31749174917491,705.31749174917491,1066eb17a92ac6877692789777922f92256c7b32,US,SC,Boiling Springs,0,heat,hold,Home,true,false,true,Electric
+693.3376906318083,702.22222222222217,702.22222222222217,606493747dd1fcec23fc14b2bcb66973e53c20f7,US,SC,Charleston,0,cool,hold,Home,false,false,true,Electric
+648.8131868131868,780.0,700.0,edcd716cca5f1da1b2949d460bd9596764420f7e,US,SC,Simpsonville,0,off,hold,Home,false,false,false,Gas
+692.07017543859649,701.82456140350882,700.0,445da7c6f5ab4bd845bee6aa0ff7ba716a19e572,US,SC,Travelers Rest,0,heat,hold,Home,false,false,true,Electric
+707.35714285714289,710.0,710.0,f216b6e4415262ac549978a7301ba7d683503d27,US,SC,Fort Mill,0,heat,auto,Home,false,false,false,Gas
+721.30007002801119,717.56407563025209,717.56407563025209,ce5c7ab3fd2500925d2d4a20347d938cabc9e2ec,US,SC,Mauldin,0,heat,hold,Home,false,false,false,Gas
+745.0688956433637,738.11854103343467,737.97365754812563,79570b33244e8d237209f614baf2e5f4b06d1a2f,US,SC,Bluffton,0,heat,auto,Home,false,false,false,Gas
+707.90147783251234,720.0,720.0,559b30f69d70445aa787044065e5ea75479f74a5,US,SC,Summerville,0,cool,hold,Home,false,false,true,Electric
+712.31914893617022,720.0,720.0,a7ac69aba77bba3276cad1ef6b205655fdca68b0,US,SC,Daniel Island,0,heat,hold,Home,false,false,false,Gas
+683.60952380952381,740.152380952381,739.71428571428567,1066eb17a92ac6877692789777922f92256c7b32,US,SC,Boiling Springs,0,off,hold,Home,true,false,true,Electric
+726.44230769230774,740.05769230769226,740.0,79570b33244e8d237209f614baf2e5f4b06d1a2f,US,SC,Bluffton,0,cool,hold,Home,false,false,false,Gas
+737.547619047619,739.19047619047615,739.19047619047615,da51be34bf07a357f29c2d4ec4a7ee5441db8597,US,SC,Fort Mill,0,heat,auto,Home,false,false,false,Gas
+668.36,670.4,670.0,c0b32167c391f650d10f2e28ca1123aedafb62d9,US,SC,Charleston,0,heat,hold,Home,false,false,false,Gas
+752.74285714285713,753.8,706.17142857142858,1066eb17a92ac6877692789777922f92256c7b32,US,SC,Boiling Springs,0,auto,hold,Home,true,false,true,Electric
+712.2,710.0,710.0,4f4bb2a71dd9ff5e4ba050a00e83005c736690ea,US,SC,Goose creek,0,cool,hold,Home,false,false,false,Gas
+658.66666666666663,737.66666666666663,718.61904761904759,1066eb17a92ac6877692789777922f92256c7b32,US,SC,Boiling Springs,0,cool,auto,Home,true,false,true,Electric
+746.82352941176475,778.58823529411768,776.70588235294122,d349265edb205042490a89e85086a37e7a730d75,US,SC,Lexington,0,heat,hold,Home,false,false,false,Gas
+758.66666666666663,710.0,680.0,ad9a802cc5900eaeee8013e33a9e8dda2a1c15b1,US,SC,Greenville,0,cool,auto,Home,false,false,false,Gas
+738.0,720.0,720.0,2ca642e12708c4c72829b323715d1a1ef9a94560,US,SC,Camden,0,cool,hold,Home,true,false,true,Electric

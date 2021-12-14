@@ -1,0 +1,39 @@
+AvgTempCtrl,AvgCool,AvgHeat,Identifier,Country,ProvinceState,City,Age_of_Home__years_,HvacMode,CalendarEvent,Climate,allowCompWithAux,Has_Electric,Has_a_Heat_Pump,Auxilliary_Heat_Fuel_Type
+608.4065934065934,619.64102564102564,619.27472527472526,391ce45fc7cfc40830dacf22153a6741d30cce71,US,DE,Wilmington,0,heat,auto,Home,false,false,false,Gas
+668.94988066825772,675.94033412887825,675.3198090692124,657103d68361e7b714a3c66ad663a2bd137b246e,US,DE,Wilmington,0,heat,hold,Home,false,false,true,Electric
+665.0,644.0,636.48571428571427,657103d68361e7b714a3c66ad663a2bd137b246e,US,DE,Wilmington,0,heat,auto,Home,false,false,true,Electric
+636.21009174311928,840.0,632.36422018348628,163fa500b687c9e0a3f1f0d620c9406653690f9c,US,DE,Long Neck,0,auto,auto,Home,false,false,false,Gas
+681.63326848249028,683.62208171206225,683.62208171206225,3565d7bb056bf002f140d29767967102159b869c,US,DE,Middletown,0,heat,auto,Home,false,false,false,Gas
+675.76923076923072,671.15384615384619,662.53846153846155,369031a5f936602e3708bd570c23c589f8f2e40b,US,DE,Rehoboth Beach,0,heat,hold,Home,true,false,true,Electric
+685.79166666666663,685.25194704049841,685.25194704049841,5e7ccce35cfa7d15e25e46b921bcc05492299e78,US,DE,Middletown,0,heat,hold,Home,false,false,false,Gas
+695.69702276707528,697.45359019264447,697.45359019264447,5e7ccce35cfa7d15e25e46b921bcc05492299e78,US,DE,Middletown,0,heat,auto,Home,false,false,false,Gas
+613.0867430441898,667.81996726677573,603.57937806873974,68ab52c245c7bbff261f5a0b0b89be6d69a20091,US,DE,Bear,0,auto,auto,Home,false,false,false,Gas
+628.90673575129529,661.45077720207257,629.53886010362692,72ff12a07aed73887f69aef408e7505933de8378,US,DE,Wilmington,0,heat,auto,Home,false,false,false,Gas
+676.115569823435,676.7158908507223,673.056179775281,72ff12a07aed73887f69aef408e7505933de8378,US,DE,Wilmington,0,heat,hold,Home,false,false,false,Gas
+670.35175879396979,670.56281407035181,669.70016750418756,7b382f97d6ed8f50c881992217f24ace3989dd43,US,DE,Wilmington,0,heat,auto,Home,false,false,false,Gas
+714.694214876033,785.0,716.02352193261288,d90de80fbfc586b72b80946294a9f3c88e052572,US,DE,Newark,0,auto,hold,Home,false,false,false,Gas
+719.12777053455022,720.99739243807039,720.99739243807039,f49240dafda274e7f13b917540d2e63d86e50903,US,DE,Bear,0,heat,auto,Home,true,false,false,Gas
+720.21760694358341,719.46311221326721,719.46311221326721,f49240dafda274e7f13b917540d2e63d86e50903,US,DE,Bear,0,heat,hold,Home,true,false,false,Gas
+605.36363636363637,646.81818181818187,622.0,657103d68361e7b714a3c66ad663a2bd137b246e,US,DE,Wilmington,0,off,auto,Home,false,false,true,Electric
+662.87531172069828,664.23316708229424,662.33416458852867,7b382f97d6ed8f50c881992217f24ace3989dd43,US,DE,Wilmington,0,heat,hold,Home,false,false,false,Gas
+697.431506849315,720.67123287671234,693.5,369031a5f936602e3708bd570c23c589f8f2e40b,US,DE,Rehoboth Beach,0,heat,auto,Home,true,false,true,Electric
+703.35318275154009,755.55030800821351,705.39014373716634,55dc4912fdf192a8b8b0dd42fbd1f9838a34a599,US,DE,Bear,0,auto,hold,Home,false,false,false,Gas
+704.10379241516966,758.40119760479047,707.89820359281441,55dc4912fdf192a8b8b0dd42fbd1f9838a34a599,US,DE,Bear,0,auto,auto,Home,false,false,false,Gas
+687.49609375,771.51171875,686.359375,ab5a9b61c056b033400697326a4873f0dc659052,US,DE,Camden,0,auto,hold,Home,false,false,false,Gas
+624.6,630.0,630.0,391ce45fc7cfc40830dacf22153a6741d30cce71,US,DE,Wilmington,0,heat,hold,Home,false,false,false,Gas
+662.879177377892,687.60925449871468,662.81491002570692,767c39a2b6e8e206ab5b3c1e54f72149c315707c,US,DE,Middletown,0,heat,auto,Home,false,false,false,Gas
+668.59090909090912,670.0,670.0,539cb33b1c4d20c350c88a3a1384c538743bdebe,US,DE,Laurel,0,cool,hold,Home,false,false,true,Electric
+662.85079093629759,790.0,670.0,5c971a576758150f696629c40c4c0a0c9c6f4394,US,DE,Millville,0,auto,auto,Home,false,false,false,Gas
+674.09523809523807,680.0,680.0,5b0f5677a464f21e6eb347bbf35f7d1b70a678eb,US,DE,Townsend,0,heat,hold,Home,false,false,false,Gas
+682.93847566574834,683.49494949494954,683.49494949494954,3565d7bb056bf002f140d29767967102159b869c,US,DE,Middletown,0,heat,hold,Home,false,false,false,Gas
+680.25777777777773,680.05333333333328,680.03111111111116,767c39a2b6e8e206ab5b3c1e54f72149c315707c,US,DE,Middletown,0,heat,hold,Home,false,false,false,Gas
+671.5,690.1,679.7,767c39a2b6e8e206ab5b3c1e54f72149c315707c,US,DE,Middletown,0,off,auto,Home,false,false,false,Gas
+699.03703703703707,690.0,690.0,104114e5ae7f9080668d70b6b16a992e4cb6b0e9,US,DE,Laurel,0,cool,hold,Home,true,false,true,Electric
+689.0526315789474,780.0,690.421052631579,ab5a9b61c056b033400697326a4873f0dc659052,US,DE,Camden,0,auto,auto,Home,false,false,false,Gas
+720.0,730.0,730.0,5268a0854a82ac8f68a2c4476a2a0448d0cbbc1a,US,DE,Middletown,0,heat,hold,Home,false,false,false,Gas
+721.02626641651034,850.0,730.0,f1c31e2900d9c0cadbba9552cffcdeca139f6d71,US,DE,Claymont ,0,auto,auto,Home,false,false,true,Electric
+696.95081967213116,690.0,700.0,104114e5ae7f9080668d70b6b16a992e4cb6b0e9,US,DE,Laurel,0,heat,auto,Home,true,false,true,Electric
+696.62903225806451,690.0,700.0,539cb33b1c4d20c350c88a3a1384c538743bdebe,US,DE,Laurel,0,heat,auto,Home,false,false,true,Electric
+653.3,690.0,690.0,767c39a2b6e8e206ab5b3c1e54f72149c315707c,US,DE,Middletown,0,off,hold,Home,false,false,false,Gas
+706.83582089552237,710.0,710.0,c013cbd4f41c910e546323996ff7a8ca7a364eb0,US,DE,Middletown,0,heat,hold,Home,false,false,false,Gas
+699.36338028169018,720.0,700.0,c013cbd4f41c910e546323996ff7a8ca7a364eb0,US,DE,Middletown,0,heat,auto,Home,false,false,false,Gas

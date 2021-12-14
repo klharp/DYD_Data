@@ -1,0 +1,38 @@
+AvgTempCtrl,AvgCool,AvgHeat,Identifier,Country,ProvinceState,City,Age_of_Home__years_,HvacMode,CalendarEvent,Climate,allowCompWithAux,Has_Electric,Has_a_Heat_Pump,Auxilliary_Heat_Fuel_Type
+628.03125,650.0,633.9375,847c3541c0ffabb075ad4af42185af777b996c2f,US,VT,Woodbury,0,heat,auto,Home,false,false,false,Gas
+620.206627218935,650.09136094674557,622.75502958579887,13edd5c8c32b0444d731dd6b335c9096190df531,US,VT,Marshfield,0,heat,auto,Home,false,false,false,Gas
+734.22627737226276,734.32909280500519,734.32909280500519,3875b039ce4a59e5ed0e01c0b77f90623e0963cd,US,VT,Concord,0,heat,hold,Home,false,false,false,Gas
+663.58520179372192,687.30044843049325,646.79596412556054,5b7f5dbb625ed5102fc3e91ac27731652483eafd,US,VT,Newfane,0,heat,hold,Home,false,false,false,Gas
+663.95554288971221,668.43516671416353,663.9689370190938,662953f85593ffcb52ca9d8569604ec908481b51,US,VT,South Burlington,0,heat,hold,Home,false,false,false,Gas
+678.28789323164915,676.29170638703522,676.29170638703522,678fcbe27a947b8f0caf0c655f2c4b5246a87c04,US,VT,Chittenden,0,heat,hold,Home,false,false,false,Gas
+721.52361319340332,723.43215892053968,723.43215892053968,6f61787f517726a2f49e4b8fc65b4eda0ae311a2,US,VT,Colchester,0,heat,auto,Home,false,false,false,Gas
+717.60425531914893,720.00638297872342,720.00638297872342,6f61787f517726a2f49e4b8fc65b4eda0ae311a2,US,VT,Colchester,0,heat,hold,Home,false,false,false,Gas
+644.30637915543571,671.49955076370168,624.633423180593,6f76dee396823efaa4928dd76539ab3f46489ee6,US,VT,Bethel,0,heat,auto,Home,false,false,false,Gas
+616.662109375,650.61572265625,618.97705078125,c90086fdb0edc01a97384c1d1b6a0024f576cc6d,US,VT,Lyndonville,0,heat,hold,Home,false,false,false,Gas
+603.08153078203,650.04215196894063,604.10427066001114,c90086fdb0edc01a97384c1d1b6a0024f576cc6d,US,VT,Lyndonville,0,heat,auto,Home,false,false,false,Gas
+651.62298025134646,650.0,649.967684021544,f0da960a3fa374f1f719439150052e38c531d274,US,VT,Hartland,0,heat,auto,Home,false,false,false,Gas
+683.85732061385318,677.1845707175446,674.22148486105345,f23a83d45499bc989a9f6bf289c0ae1606b4f60c,US,VT,Hartford,0,heat,hold,Home,true,false,false,Gas
+683.73837209302326,690.89147286821708,685.265503875969,f23a83d45499bc989a9f6bf289c0ae1606b4f60c,US,VT,Hartford,0,heat,auto,Home,true,false,false,Gas
+620.42857142857144,651.85714285714289,611.0,fae2077e3bd726479b0d4f7381810a11ddfd6945,US,VT,Concord,0,heat,auto,Home,false,false,false,Gas
+635.86666666666667,650.0,600.0,db090834e8098d07f2165742fe1d7257eede7a48,US,VT,Westford,0,heat,auto,Home,false,false,false,Gas
+605.38690476190482,650.0,600.0,05baf6c0241b635d98e2d73b929c8e0f81a0e025,US,VT,Hartland,0,heat,auto,Home,false,false,false,Gas
+610.06756756756761,650.0,600.0,05baf6c0241b635d98e2d73b929c8e0f81a0e025,US,VT,Hartland,0,heat,hold,Home,false,false,false,Gas
+637.32687651331719,650.0,642.5302663438257,13edd5c8c32b0444d731dd6b335c9096190df531,US,VT,Marshfield,0,heat,hold,Home,false,false,false,Gas
+660.65154867256638,671.16371681415933,662.48008849557527,662953f85593ffcb52ca9d8569604ec908481b51,US,VT,South Burlington,0,heat,auto,Home,false,false,false,Gas
+668.16021126760563,692.112676056338,630.0,7fa021bd983c34f07a6ab6cb5cf89b2a51fdc387,US,VT,Bethel,0,heat,auto,Home,false,false,false,Gas
+661.49911660777389,696.90547703180209,630.00176678445234,b8499dce4ad0e8b7441e7f16bed32acb435d233c,US,VT,Bethel,0,heat,auto,Home,false,false,false,Gas
+652.10222457627117,650.0,649.417372881356,f0da960a3fa374f1f719439150052e38c531d274,US,VT,Hartland,0,heat,hold,Home,false,false,false,Gas
+635.76470588235293,650.0,640.0,dbfc0699e02fe09382f1b785e1cf2f0fd3662875,US,VT,Westford,0,heat,auto,Home,false,false,false,Gas
+680.19860017497808,702.42957130358707,644.79877515310591,08e5ea6a99f568b84b88969934ce6fd54f4a8359,US,VT,Bethel,0,heat,auto,Home,false,false,false,Gas
+659.14584323040378,694.6793349168646,694.664133016627,fae2077e3bd726479b0d4f7381810a11ddfd6945,US,VT,Concord,0,heat,hold,Home,false,false,false,Gas
+664.58974358974353,660.30769230769226,660.0,4f7d7f14539fe7d1ff26a99d07fef2e70771d0d1,US,VT,brownington,0,heat,hold,Home,false,false,false,Gas
+652.0,670.0,670.0,dbfc0699e02fe09382f1b785e1cf2f0fd3662875,US,VT,Westford,0,heat,hold,Home,false,false,false,Gas
+667.40559440559446,670.0,670.0,1cc2b77c1f9dd8971c8050cb5604220405ec8404,US,VT,Colchester,0,heat,hold,Home,true,false,false,Gas
+631.5,680.625,680.0,b8499dce4ad0e8b7441e7f16bed32acb435d233c,US,VT,Bethel,0,heat,hold,Home,false,false,false,Gas
+685.937069813176,826.99115044247787,686.10521140609637,d63cb3788a6b312df8b48a557b86090dd629263e,US,VT,South Burlington,0,auto,hold,Home,false,false,false,Gas
+689.2,700.0,700.0,3fb978a395755bea127e36e296b647afd2e9e8c5,US,VT,Essex Junction,0,heat,hold,Home,false,false,false,Gas
+671.0,800.0,700.0,5a23cdc2dba46a7d22776bafa88160bbd0939939,US,VT,North Springfield,0,heat,auto,Home,false,false,false,Gas
+698.02,844.0,700.0,d63cb3788a6b312df8b48a557b86090dd629263e,US,VT,South Burlington,0,auto,auto,Home,false,false,false,Gas
+703.36585365853659,710.0,710.0,3fb978a395755bea127e36e296b647afd2e9e8c5,US,VT,Essex Junction,0,heat,auto,Home,false,false,false,Gas
+646.5,720.0,720.0,5b7f5dbb625ed5102fc3e91ac27731652483eafd,US,VT,Newfane,0,heat,auto,Home,false,false,false,Gas
+740.40789473684208,730.06578947368416,730.06578947368416,8de572f3c0cd0e9fbadaff3165dc844a1ef72f5a,US,VT,South Burlington,0,heat,hold,Home,false,false,false,Gas

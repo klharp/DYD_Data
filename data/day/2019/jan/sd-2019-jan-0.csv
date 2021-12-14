@@ -1,0 +1,21 @@
+AvgTempCtrl,AvgCool,AvgHeat,Identifier,Country,ProvinceState,City,Age_of_Home__years_,HvacMode,CalendarEvent,Climate,allowCompWithAux,Has_Electric,Has_a_Heat_Pump,Auxilliary_Heat_Fuel_Type
+700.53361344537814,700.07731092436973,700.06386554621849,4a2f71c8dace61eeb7806b1c4aabd4f7980dc760,US,SD,Rapid City,0,heat,hold,Home,false,false,false,Gas
+712.90008539709652,716.3048676345004,716.3048676345004,8056f7851f2860fec55c8ffaf094efff7a46ada7,US,SD,Sioux Falls,0,heat,hold,Home,false,false,false,Gas
+705.86568322981361,804.18711180124228,699.21933229813669,a1f9fc2ee5e0e56c921ad37de05c6e0c59a5d835,US,SD,Sioux Falls,0,auto,hold,Home,false,false,false,Gas
+687.44856348470807,690.58109360519,690.57924003707137,a4960d80fa71c4fadc8258999d41b6aa68e878f8,US,SD,Rapid City,0,heat,hold,Home,false,false,false,Gas
+693.8478260869565,769.82608695652175,700.04347826086962,aa8c27c5be7a5261298e19887aa06a314b0c1308,US,SD,Aberdeen,0,auto,auto,Home,false,false,false,Gas
+665.12380952380954,700.0,700.0,880406a81fa4bf281a21e6e7788c6d32b611ec04,US,SD,Sioux Falls,0,heat,auto,Home,false,false,false,Gas
+677.08421052631581,746.66315789473686,682.37894736842111,aa8c27c5be7a5261298e19887aa06a314b0c1308,US,SD,Aberdeen,0,auto,hold,Home,false,false,false,Gas
+694.13714285714286,815.8,695.73142857142852,0968b16b919c5e8b72ff8de3bda124068f7f322d,US,SD,Sioux Falls,0,auto,auto,Home,false,false,false,Gas
+677.42833052276558,793.79426644182126,678.20067453625632,0968b16b919c5e8b72ff8de3bda124068f7f322d,US,SD,Sioux Falls,0,auto,hold,Home,false,false,false,Gas
+684.01052631578943,686.0526315789474,685.98245614035091,1e2c9cf3efb7cfef2a5beabdc964a31e7fd51fc1,US,SD,Sioux Falls,0,heat,auto,Home,true,false,false,Gas
+684.67318435754191,696.27094972067039,675.62290502793292,1e2c9cf3efb7cfef2a5beabdc964a31e7fd51fc1,US,SD,Sioux Falls,0,heat,hold,Home,true,false,false,Gas
+698.0423059042306,692.12273361227335,692.12273361227335,3a6d34c0a5f6664f14043d1ec1f90525eb6a72aa,US,SD,Rapid City,0,heat,hold,Home,false,false,false,Gas
+698.15934065934061,730.0,700.32967032967031,a0db9453e1a1a0eef8e3834b31824fe06a3dc487,US,SD,Hartford,0,heat,auto,Home,false,false,false,Gas
+709.515306122449,798.90306122448976,695.12755102040819,a1f9fc2ee5e0e56c921ad37de05c6e0c59a5d835,US,SD,Sioux Falls,0,auto,auto,Home,false,false,false,Gas
+696.94210526315794,719.993984962406,700.012030075188,a4960d80fa71c4fadc8258999d41b6aa68e878f8,US,SD,Rapid City,0,heat,auto,Home,false,false,false,Gas
+713.50337078651683,716.22471910112358,716.22471910112358,a0db9453e1a1a0eef8e3834b31824fe06a3dc487,US,SD,Hartford,0,heat,hold,Home,false,false,false,Gas
+668.58426966292132,740.0,660.0,ba6e220a85539b203580b1486b6e183220f6488c,US,SD,Sioux Falls,0,auto,auto,Home,false,false,false,Gas
+683.74429223744289,720.89726027397262,720.89726027397262,8056f7851f2860fec55c8ffaf094efff7a46ada7,US,SD,Sioux Falls,0,off,hold,Home,false,false,false,Gas
+726.76303317535542,727.77798031352529,727.79110462996721,b71168e8b8e81bd538dd6cc70ab898bc25b42e13,US,SD,Sioux Falls,0,heat,hold,Home,true,false,false,Gas
+785.42760942760947,767.77777777777783,790.0,b71168e8b8e81bd538dd6cc70ab898bc25b42e13,US,SD,Sioux Falls,0,heat,auto,Home,true,false,false,Gas

@@ -1,0 +1,12 @@
+AvgTempCtrl,AvgCool,AvgHeat,Identifier,Country,ProvinceState,City,Age_of_Home__years_,HvacMode,CalendarEvent,Climate,allowCompWithAux,Has_Electric,Has_a_Heat_Pump,Auxilliary_Heat_Fuel_Type
+711.80152671755729,713.78625954198469,713.70992366412213,6cfeb8284cb1ccacf64d9f649eccc813c1296d27,US,MT,Billings,0,heat,hold,Home,false,false,false,Gas
+663.89830508474574,651.38983050847457,635.76271186440681,9274d1eaaa59f7ca3dcfb77523d59bfe3ff2bb2e,US,MT,Bozeman,0,heat,hold,Home,true,false,false,Gas
+716.78176382660683,737.73991031390131,717.72944693572492,fec2ec7ae8c5ee7ae93fe16b022bc4c1fc6f2931,US,MT,Kalispell,0,auto,auto,Home,true,false,false,Gas
+694.038247566064,741.682892906815,691.682892906815,047670db85b0aa2dc5c8703f118e89ae19ad552a,US,MT,Helena,0,auto,hold,Home,false,false,false,Gas
+715.84027777777783,783.92708333333337,717.67708333333337,96857e1f251a78123070d8639ac0838e7be97649,US,MT,Billings,0,auto,hold,Home,false,false,true,Electric
+722.20903954802259,720.86252354048963,720.86252354048963,a5843cc963fec301306a65ed47b1063f1370c9c7,US,MT,Billings,0,heat,auto,Home,false,false,false,Gas
+717.14774281805751,746.75649794801643,719.15047879616964,fec2ec7ae8c5ee7ae93fe16b022bc4c1fc6f2931,US,MT,Kalispell,0,auto,hold,Home,true,false,false,Gas
+702.11363636363637,780.0,699.81818181818187,b9a976f581bd8ee81013df76fbd5b52f926136dc,US,MT,Belgrade,0,heat,auto,Home,false,false,false,Gas
+697.16666666666663,700.0,700.0,b9a976f581bd8ee81013df76fbd5b52f926136dc,US,MT,Belgrade,0,heat,hold,Home,false,false,false,Gas
+710.40099009900985,710.19801980198019,710.19801980198019,a5843cc963fec301306a65ed47b1063f1370c9c7,US,MT,Billings,0,heat,hold,Home,false,false,false,Gas
+723.79220779220782,780.0,730.0,96857e1f251a78123070d8639ac0838e7be97649,US,MT,Billings,0,auto,auto,Home,false,false,true,Electric

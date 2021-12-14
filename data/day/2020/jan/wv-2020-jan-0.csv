@@ -1,0 +1,31 @@
+AvgTempCtrl,AvgCool,AvgHeat,Identifier,Country,ProvinceState,City,Age_of_Home__years_,HvacMode,CalendarEvent,Climate,allowCompWithAux,Has_Electric,Has_a_Heat_Pump,Auxilliary_Heat_Fuel_Type
+677.24274406332449,725.10026385224273,671.59102902374673,a171c25bbd2535b4f8ae71c49e51da2108b0915c,US,WV,Charleston,0,auto,hold,Home,false,false,true,Electric
+714.060606060606,714.81818181818187,684.60606060606062,ca71fafde08a023074581a58259413f3618418fb,US,WV,Morgantown,0,auto,hold,Home,false,false,true,Electric
+655.63468634686342,841.62361623616232,635.93603936039358,72795723da86f1de852fd9e9e511c73b95fa7eab,US,WV,Harpers Ferry,0,auto,auto,Home,true,false,true,Electric
+671.76170212765953,726.99574468085109,665.17021276595744,a171c25bbd2535b4f8ae71c49e51da2108b0915c,US,WV,Charleston,0,auto,auto,Home,false,false,true,Electric
+679.20588235294122,674.08823529411768,623.97058823529414,f710bb7d9a4a4033f351d3fe907edc4564fe1892,US,WV,Morgantown,0,auto,hold,Home,false,false,false,Gas
+692.49278350515465,696.39037800687288,696.39037800687288,2100e877d252a20482500365ba1f1411d86b0ea0,US,WV,Farmington,0,heat,auto,Home,false,false,false,Gas
+693.81113084665481,697.55950266429841,697.55950266429841,2100e877d252a20482500365ba1f1411d86b0ea0,US,WV,Farmington,0,heat,hold,Home,false,false,false,Gas
+728.66727272727269,733.04681818181814,733.04681818181814,3a38dd3de8441afd6215d6a91bf033c2c646b786,US,WV,Morgantown,0,heat,auto,Home,true,false,true,Electric
+718.943095599393,717.78945371775421,717.78414264036417,686b895f3e8a103a1598112b27b7b7ee0f146c63,US,WV,,0,heat,auto,Home,true,false,true,Electric
+725.6521739130435,731.11956521739125,731.11956521739125,686b895f3e8a103a1598112b27b7b7ee0f146c63,US,WV,,0,heat,hold,Home,true,false,true,Electric
+649.264367816092,695.047619047619,645.047619047619,7249632b05298378ea9944b850b084262a1c3cf3,US,WV,Maidsville,0,auto,hold,Home,true,false,true,Electric
+677.83253588516743,695.34210526315792,682.61483253588517,ac65ef2ccdc744f50468622f0c28d825246323c9,US,WV,Cedar Grove,0,heat,auto,Home,true,false,false,Gas
+697.57556675062972,735.52644836272043,681.26196473551636,c5b31dacb5cc3a1c181dbf7a905df96d0dfdc347,US,WV,Morgantown,0,auto,hold,Home,false,false,false,Gas
+672.43333333333328,790.73333333333335,775.4,72795723da86f1de852fd9e9e511c73b95fa7eab,US,WV,Harpers Ferry,0,heat,auto,Home,true,false,true,Electric
+659.5333333333333,730.0,650.0,832fd90239c257420bd46827ec27cdfd471db526,US,WV,Scott Depot,0,auto,auto,Home,true,false,true,Electric
+648.37114395886886,650.0,650.0,9fa8be29090a4d2baa24142f0f91ee8ae18845e8,US,WV,Kearneysville,0,heat,auto,Home,true,false,false,Gas
+705.38235294117646,723.73529411764707,688.82352941176475,ca71fafde08a023074581a58259413f3618418fb,US,WV,Morgantown,0,auto,auto,Home,false,false,true,Electric
+656.66105769230774,730.0,660.96153846153845,7249632b05298378ea9944b850b084262a1c3cf3,US,WV,Maidsville,0,auto,auto,Home,true,false,true,Electric
+693.88162544169609,750.0,698.77915194346292,23ea815e8d635bf755b4f45c8594fba04bf97e35,US,WV,Morgantown,0,auto,hold,Home,false,false,false,Gas
+698.575224416517,697.90628366247756,700.83626570915624,62af02b424db636d21a94dd5e7a568be9f0869a8,US,WV,Bluefield,0,heat,auto,Home,false,false,false,Gas
+703.5601659751037,693.1742738589212,693.1742738589212,62af02b424db636d21a94dd5e7a568be9f0869a8,US,WV,Bluefield,0,heat,hold,Home,false,false,false,Gas
+710.36842105263156,680.0,680.0,62af02b424db636d21a94dd5e7a568be9f0869a8,US,WV,Bluefield,0,off,hold,Home,false,false,false,Gas
+682.27777777777783,687.75555555555559,687.75555555555559,ac65ef2ccdc744f50468622f0c28d825246323c9,US,WV,Cedar Grove,0,heat,hold,Home,true,false,false,Gas
+687.0,750.0,689.99522673031026,23ea815e8d635bf755b4f45c8594fba04bf97e35,US,WV,Morgantown,0,auto,auto,Home,false,false,false,Gas
+722.32,750.0,690.0,23ea815e8d635bf755b4f45c8594fba04bf97e35,US,WV,Morgantown,0,off,auto,Home,false,false,false,Gas
+679.3,690.0,690.0,ac65ef2ccdc744f50468622f0c28d825246323c9,US,WV,Cedar Grove,0,off,hold,Home,true,false,false,Gas
+688.38888888888891,740.0,690.0,c5b31dacb5cc3a1c181dbf7a905df96d0dfdc347,US,WV,Morgantown,0,auto,auto,Home,false,false,false,Gas
+696.56078431372543,700.0,700.0,f4fb6e08d6ada03b266cf5956cc240fe75fa6aa8,US,WV,Scott Depot,0,heat,auto,Home,true,false,true,Electric
+628.0322580645161,737.83870967741939,737.741935483871,72795723da86f1de852fd9e9e511c73b95fa7eab,US,WV,Harpers Ferry,0,heat,hold,Home,true,false,true,Electric
+731.87965921192756,737.81682641107557,737.81682641107557,3a38dd3de8441afd6215d6a91bf033c2c646b786,US,WV,Morgantown,0,heat,hold,Home,true,false,true,Electric

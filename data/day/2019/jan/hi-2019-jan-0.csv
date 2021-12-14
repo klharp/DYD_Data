@@ -1,0 +1,3 @@
+AvgTempCtrl,AvgCool,AvgHeat,Identifier,Country,ProvinceState,City,Age_of_Home__years_,HvacMode,CalendarEvent,Climate,allowCompWithAux,Has_Electric,Has_a_Heat_Pump,Auxilliary_Heat_Fuel_Type
+764.85394796896389,752.0,752.0,8cae7a3896eb4a1fa353dc08272e798ae90ae6d5,US,HI,Honolulu,0,off,hold,Home,false,false,false,Gas
+759.33333333333337,752.0,752.0,8cae7a3896eb4a1fa353dc08272e798ae90ae6d5,US,HI,Honolulu,0,cool,hold,Home,false,false,false,Gas

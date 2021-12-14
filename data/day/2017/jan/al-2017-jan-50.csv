@@ -1,0 +1,18 @@
+AvgTempCtrl,AvgCool,AvgHeat,Identifier,Country,ProvinceState,City,Age_of_Home__years_,HvacMode,CalendarEvent,Climate,allowCompWithAux,Has_Electric,Has_a_Heat_Pump,Auxilliary_Heat_Fuel_Type
+685.440251572327,758.47169811320759,694.32075471698113,6b3a5cfb6ca076b7dc6abe5b5f143e1b26f70238,US,AL,Valley,46,auto,hold,Home,false,false,false,Gas
+689.84496124031011,762.22480620155034,698.65891472868213,6b3a5cfb6ca076b7dc6abe5b5f143e1b26f70238,US,AL,Valley,46,auto,auto,Home,false,false,false,Gas
+662.00847457627117,659.87288135593224,655.76271186440681,59ed04f4028f547d9a62ddb4faf3886dcd0e5f87,US,AL,Birmingham,46,heat,auto,Home,false,false,true,Electric
+646.21468298109,650.0,650.0,59ed04f4028f547d9a62ddb4faf3886dcd0e5f87,US,AL,Birmingham,46,cool,hold,Home,false,false,true,Electric
+636.64222222222224,681.0,631.0,59ed04f4028f547d9a62ddb4faf3886dcd0e5f87,US,AL,Birmingham,46,auto,auto,Home,false,false,true,Electric
+643.55555555555554,651.42857142857144,645.71428571428567,59ed04f4028f547d9a62ddb4faf3886dcd0e5f87,US,AL,Birmingham,46,heat,hold,Home,false,false,true,Electric
+632.83333333333337,685.0,635.0,59ed04f4028f547d9a62ddb4faf3886dcd0e5f87,US,AL,Birmingham,46,auto,hold,Home,false,false,true,Electric
+665.03252032520322,663.82113821138216,660.73170731707319,59ed04f4028f547d9a62ddb4faf3886dcd0e5f87,US,AL,Birmingham,46,cool,auto,Home,false,false,true,Electric
+655.06666666666672,662.56666666666672,657.22222222222217,d37fac2a56228c106f3a8a2e40af703dfe2dc9d5,US,AL,Vestavia Hills,46,auxHeatOnly,hold,Home,false,false,true,Electric
+719.94615384615383,723.15769230769229,723.09230769230771,afeafed9c7e6e2c9586416b9565d4d287fc1607f,US,AL,Birmingham,50,heat,hold,Home,false,false,false,Gas
+660.63579188107485,818.264722698685,621.17895940537448,ac98d6e20abef188cca7de1c69fff5193aaed5f9,US,AL,Birmingham,50,heat,auto,Home,false,false,false,Gas
+694.92198581560285,741.613475177305,693.20921985815608,afeafed9c7e6e2c9586416b9565d4d287fc1607f,US,AL,Birmingham,50,heat,auto,Home,false,false,false,Gas
+699.14285714285711,745.1,695.04285714285709,afeafed9c7e6e2c9586416b9565d4d287fc1607f,US,AL,Birmingham,50,auto,hold,Home,false,false,false,Gas
+702.13888888888891,755.0,705.0,afeafed9c7e6e2c9586416b9565d4d287fc1607f,US,AL,Birmingham,50,auto,auto,Home,false,false,false,Gas
+646.71428571428567,651.5,650.0,0b16f455f504cab29bf3ac7e6578aa975e237f0d,US,AL,Vestavia Hills,46,heat,hold,Home,false,false,true,Electric
+670.25,690.25,642.75,ac98d6e20abef188cca7de1c69fff5193aaed5f9,US,AL,Birmingham,50,heat,hold,Home,false,false,false,Gas
+718.0,756.0,756.0,10e5fb3302cdb12762f8c753812155dcedd7623a,US,AL,Alabaster,50,cool,hold,Home,true,false,true,Electric

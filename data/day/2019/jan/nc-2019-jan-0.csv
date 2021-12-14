@@ -1,0 +1,858 @@
+AvgTempCtrl,AvgCool,AvgHeat,Identifier,Country,ProvinceState,City,Age_of_Home__years_,HvacMode,CalendarEvent,Climate,allowCompWithAux,Has_Electric,Has_a_Heat_Pump,Auxilliary_Heat_Fuel_Type
+672.0539867109635,771.07641196013287,683.66029900332228,1177c947d59003dcd9efd167a880a0c1f88c88c0,US,NC,Wendell,0,auto,hold,Home,true,false,true,Electric
+695.0,717.41935483870964,623.22580645161293,0e14716902139fb4143df3336d079c80b1e3f907,US,NC,Stallings,0,auto,hold,Home,false,false,false,Gas
+626.63809523809527,690.0,632.38809523809527,f9a11108c1e58345e172721aaf93c74f328fb864,US,NC,Frisco,0,heat,auto,Home,false,false,true,Electric
+702.17287014061208,708.590570719603,705.01736972704714,431f5a1564b9c5cfe074bc8f499386b74d23ba46,US,NC,Newland,0,heat,auto,Home,false,false,false,Gas
+677.96771523178813,686.4246688741722,679.09437086092714,40379567a6ded963ebeef5eaf6492ecbe6638fda,US,NC,Davidson,0,heat,auto,Home,false,false,false,Gas
+664.57341269841265,656.66666666666663,656.66666666666663,f0800a98cec11d256b4bd7c3524db1289b10551e,US,NC,Newport,0,heat,hold,Home,true,false,true,Electric
+664.7133757961783,669.58174097664539,668.71974522293,1e4e8ed207839cb1c216c6d6c145d9b2f895ae2f,US,NC,Iron Station,0,heat,auto,Home,true,false,true,Electric
+696.24571428571426,716.05714285714282,660.0,2dd0cb0935137f197226f316cd2d3116c793ae59,US,NC,Goldsboro,0,auto,hold,Home,false,false,true,Electric
+687.99336283185846,668.90044247787614,668.90044247787614,7ce5aa6160c998b98a93f8c490c117db0bf53c31,US,NC,CHARLOTTE,0,heat,hold,Home,false,false,false,Gas
+657.06493506493507,694.67532467532465,660.0,263470c6bf8827b117355942b1e8691ff15a9034,US,NC,Timberlake,0,heat,hold,Home,false,false,true,Electric
+692.12299465240642,693.60962566844921,692.70053475935833,f62c4c0e19f0b7e0f3f56cbca7997b39ecd90353,US,NC,Denver,0,heat,auto,Home,true,false,false,Gas
+677.09302325581393,748.46511627906978,686.12790697674416,416f8433e180a3650a2f0cae42bfb29e77c24fef,US,NC,Franklinton,0,auto,auto,Home,false,false,true,Electric
+684.30909090909086,740.0,665.6,88c0fd2898b4f50a834c6daf8c0b2cb2ef103726,US,NC,Belmont,0,auto,auto,Home,false,false,false,Gas
+671.019801980198,665.24752475247521,665.24752475247521,56f21575e9d5f018a8b9bd391f9d512944a0ce81,US,NC,Mineral Springs,0,heat,hold,Home,false,false,false,Gas
+673.71568627450984,725.0,675.0,c0d4e8dd123a8a80901b1ba9d92274898e69928f,US,NC,Shallotte,0,auto,auto,Home,true,false,true,Electric
+681.342644320298,676.756052141527,676.69087523277472,679fce38ae0616b373a0f4d4ec4bc94b6b64ec16,US,NC,Greenville,0,heat,hold,Home,true,false,true,Electric
+694.59455128205127,705.0,675.0,d1a7fb4f6a3d874e8f493ef7793b7ee70187891e,US,NC,Lincolnton,0,auto,auto,Home,true,false,true,Electric
+683.91871921182269,740.83743842364527,682.384236453202,ad4cfb4e73f4272a4ca69c634c5ac83387848fd0,US,NC,Harrisburg ,0,auto,auto,Home,false,false,false,Gas
+679.2209856915739,780.0,680.0,47d4d12349927a7088ccc7a6cd76c81bead72475,US,NC,Franklinton,0,auto,hold,Home,true,false,true,Electric
+677.46153846153845,680.0,680.0,e10123fad0343c0f5cb665e1fe67cba4f56a20d7,US,NC,fuquay varina,0,off,auto,Home,true,false,true,Electric
+666.48021108179421,681.96569920844331,681.96569920844331,56f21575e9d5f018a8b9bd391f9d512944a0ce81,US,NC,Mineral Springs,0,cool,hold,Home,false,false,false,Gas
+685.70518266779948,742.54035683942232,688.19796091758712,ef537ac4544a1361d72693ae319af4c110c69a47,US,NC,Greenville,0,auto,auto,Home,true,false,true,Electric
+690.22385321100921,740.0,686.30825688073389,88c0fd2898b4f50a834c6daf8c0b2cb2ef103726,US,NC,Belmont,0,auto,hold,Home,false,false,false,Gas
+701.81585788561529,760.05805892547664,704.311958405546,8d3087686891d5b0ca178a94f418a3978aa47484,US,NC,Midland,0,heat,auto,Home,true,false,true,Electric
+691.947219604147,698.65127238454284,698.707822808671,739dc661e88a35d8885f9dd5f6e220ccf280d93f,US,NC,Morganton,0,heat,auto,Home,true,false,true,Electric
+685.20792079207922,689.12871287128712,688.45544554455444,56f0c78f397229373d7ed9447792f9bf4661862f,US,NC,Indian Trail,0,heat,hold,Home,false,false,false,Gas
+745.0,690.0,690.0,60afbd2a7a0f35ef945c7aac6218450a189282ac,US,NC,Como,0,heat,auto,Home,false,false,true,Electric
+681.20833333333337,690.0,690.0,e10123fad0343c0f5cb665e1fe67cba4f56a20d7,US,NC,fuquay varina,0,auxHeatOnly,hold,Home,true,false,true,Electric
+698.10564010743065,698.59892569382271,698.59892569382271,d1a7fb4f6a3d874e8f493ef7793b7ee70187891e,US,NC,Lincolnton,0,heat,hold,Home,true,false,true,Electric
+702.29403475810238,700.0,700.0,df262f57fbf2f15c528e3504bb5737bc33f1c401,US,NC,Denver,0,heat,hold,Home,false,false,true,Electric
+717.14335887611753,716.02745849297571,715.999680715198,f75b1ee99db55056c9c5726c814897c56fe48b5b,US,NC,CHARLOTTE,0,heat,hold,Home,true,false,true,Electric
+712.9007395873881,768.86804203970416,709.43402101985214,31e864a282eea5243339482ba0296c4c6396bc41,US,NC,Summerfield,0,auto,auto,Home,false,false,false,Gas
+723.97117794486212,723.281954887218,722.99749373433588,4ce041a5f9fca97ca0ec5b590f32bbd4dc2c2a6e,US,NC,Midland,0,heat,hold,Home,false,false,true,Electric
+699.49358974358972,710.0,710.0,b142de1fc805b1b07af26a38925a85f9aae9257b,US,NC,Saluda,0,heat,hold,Home,true,false,true,Electric
+720.04280155642027,772.2373540856031,722.11284046692606,52698c78309d5390a98882bfd211ab28f43ca264,US,NC,Pineville,0,auto,auto,Home,false,false,false,Gas
+741.16513761467888,804.73394495412845,739.11926605504584,377de51444c02381e69ac664b095e71ff80cc9bd,US,NC,Statesville,0,auto,auto,Home,false,false,false,Gas
+746.64788732394368,837.169014084507,750.02816901408448,73793ea5e1d91fd5d63941e420271f50d185ab94,US,NC,Windsor,0,auto,auto,Home,false,false,true,Electric
+720.09517112048752,723.22081575246136,723.22081575246136,b1e25c2dc713c5ed91967c98fa922bef3ff9be09,US,NC,Apex,0,heat,auto,Home,false,false,false,Gas
+674.4545454545455,790.09090909090912,651.90909090909088,543cf22cb953f6ff8a0025a6d171b56514cca921,US,NC,Cary,0,heat,auto,Home,false,false,false,Gas
+706.94444444444446,740.0,710.0,77af542f4d8666e96504375f9a5a0152e296d781,US,NC,Cary,0,heat,auto,Home,true,false,true,Electric
+719.49238964992389,720.0,720.0,d5181883a040a7fb4507f150553c401a2da110ff,US,NC,Cary,0,heat,hold,Home,false,false,false,Gas
+686.73197492163013,729.96081504702192,687.75235109717869,adc01ca5408d5656af2e3aa0101d6ded5f7ac702,US,NC,Durham,0,heat,auto,Home,false,false,false,Gas
+672.39226519337012,728.67955801104972,672.69613259668506,82b236372e7787e7397e32cd1c5940c76e83db4b,US,NC,Durham,0,auto,auto,Home,true,false,true,Electric
+656.38235294117646,714.30882352941171,659.68627450980387,0bc26f0cb91c997fb24b1aace63db8b579e1bb73,US,NC,Durham,0,auto,auto,Home,false,false,false,Gas
+699.42857142857144,680.57142857142856,680.57142857142856,dfc286e57a374b6eec16db81cb474c4e6f188f55,US,NC,Durham,0,cool,auto,Home,false,false,false,Gas
+695.93827160493822,693.33333333333337,693.33333333333337,8d93696be8a84823764e0b786807266ee4ca47f6,US,NC,Durham,0,heat,hold,Home,false,false,false,Gas
+484.91007308547825,780.55100095328885,780.55100095328885,702478fa2e5d6846733fe94a9116d0a1704acb66,US,NC,Garner,0,heat,auto,Home,false,false,false,Gas
+693.54838709677415,732.37903225806451,701.491935483871,7fda2c15e2cfe1533186145fb9c7459c4b34c659,US,NC,Garner,0,auto,auto,Home,true,false,true,Electric
+630.311320754717,709.51886792452831,621.28301886792451,d6a4ef60c7bd4edb7f383da3429cb85a0a5e6af7,US,NC,Leland,0,heat,auto,Home,true,false,false,Gas
+720.42647058823525,720.0,720.0,659126b3c675c10cb921fdfb82fadcf79a45bce8,US,NC,Waxhaw,0,heat,hold,Home,false,false,false,Gas
+697.07380738073812,770.0,699.045904590459,9c8f57df428b87b862cd00c40a65452398d3a2f2,US,NC,Clayton,0,auto,hold,Home,false,false,false,Gas
+652.61904761904759,799.90476190476193,650.047619047619,b34aebb2556096992b2c7087a825f082fccd2745,US,NC,Concord,0,auto,hold,Home,true,false,false,Gas
+694.02723004694838,713.29248826291075,692.77417840375585,09ff2adf59bf6b8c750be9f574fd55266e7d6410,US,NC,Raleigh,0,auto,hold,Home,true,false,false,Gas
+633.02480916030538,780.0,624.47264631043254,b17c0e6eb2619236505189793a5bd454cd960a4d,US,NC,Raleigh,0,auto,hold,Home,false,false,true,Electric
+654.38249286393909,650.0,640.0,b2eb81de8f78c8afac9597480e56522826cbf1ff,US,NC,Raleigh,0,heat,hold,Home,false,false,true,Electric
+632.80952380952385,780.0,640.0,2507dfa7593456fb5335c999cbb0ef541a4e05a2,US,NC,Raleigh,0,auto,auto,Home,false,false,false,Gas
+657.17297979797979,650.0,650.0,ce9ee8ddc2a13acfc912ad717f88a05f63c15fcf,US,NC,Raleigh,0,heat,hold,Home,false,false,false,Gas
+682.0,750.0,650.0,b7c84c0a742466709b826f941d9e3d6dce4dd7c3,US,NC,Raleigh,0,heat,auto,Home,true,false,true,Electric
+668.918490326673,764.08594988899461,668.10149064383131,58da78ef5af83624c8dfcde7dcb3d13c23c6c962,US,NC,Raleigh,0,heat,auto,Home,true,false,true,Electric
+669.56862745098044,669.54901960784309,669.54901960784309,306f3d9c104ff1a73bcdc225c0730a24410cb8da,US,NC,Raleigh,0,cool,hold,Home,true,false,true,Electric
+692.06610407876235,680.0,680.0,a4ae5405bbbabdb62d26489dc63dd2c251f315b2,US,NC,Raleigh,0,heat,auto,Home,true,false,false,Gas
+715.2086956521739,735.47826086956525,680.0,9eae11ce69525aa31dc421060f83627efac64ee6,US,NC,Raleigh,0,auto,hold,Home,true,false,true,Electric
+712.0,740.0,700.0,ec97e3333efce64b51fa476983ae02576ae7c4d6,US,NC,Raleigh,0,auto,hold,Home,false,false,true,Electric
+713.14655172413791,705.51724137931035,705.51724137931035,d7f2ce8eb21f7bba35713594c2610ae83d323124,US,NC,Raleigh,0,heat,hold,Home,true,false,true,Electric
+650.95962479608488,750.0,651.56688417618273,225b82c86189252061c12543ed34fe81df50f0e9,US,NC,Asheville,0,auto,hold,Home,false,false,true,Electric
+675.56779661016947,820.0,640.0,5279cbc1ba9af203d6ab5da2141acffd8c722bed,US,NC,Charlotte,0,heat,auto,Home,false,false,false,Gas
+676.80281690140851,750.0,670.70422535211264,b8c4c30f9fd211f667185809c82f07634175fc22,US,NC,Charlotte,0,auto,hold,Home,false,false,false,Gas
+685.04375,710.00625,660.00625,2482196025156929dff29de14ed15389745402be,US,NC,Charlotte,0,auto,hold,Home,false,false,false,Gas
+687.18589743589746,688.14102564102564,688.14102564102564,5e4b613510c883fe33ff02daece1f7a805b3087e,US,NC,Charlotte,0,heat,hold,Home,false,false,false,Gas
+686.15625,750.0,685.0,64d8c98835614b73a12e9ab5e431bc0c95952c65,US,NC,Charlotte,0,auto,auto,Home,false,false,false,Gas
+694.136,688.3,688.318,03258b6f32bb89fc0f8ae00ef05eeaa32cdbaf19,US,NC,Charlotte,0,heat,hold,Home,false,false,false,Gas
+703.00970873786412,705.63106796116506,704.70873786407765,554faa7936ffb97d50504f2720ccaa35cf808597,US,NC,Charlotte,0,heat,hold,Home,true,false,false,Gas
+702.38709677419354,716.0,712.61290322580646,2e9ff9ded3237a6fe9d73b9ca1e0bdb582e62dda,US,NC,Charlotte,0,heat,hold,Home,true,false,true,Electric
+683.78787878787875,775.0,725.0,1a7174d13bc5b84fc583a368a0c63334f367225d,US,NC,Charlotte,0,auto,hold,Home,true,false,false,Gas
+738.08472803347286,740.0,740.0,1809de769933a44b13c7948ba1250ae7fae41bc5,US,NC,Charlotte,0,heat,auto,Home,false,false,false,Gas
+703.95555555555552,750.0,750.0,1a7174d13bc5b84fc583a368a0c63334f367225d,US,NC,Charlotte,0,off,hold,Home,true,false,false,Gas
+704.5,774.7,774.7,7754ea3fe50fce5208d60b5b3d26be5e6612d3fc,US,NC,Greensboro,0,auxHeatOnly,auto,Home,true,false,true,Electric
+586.18151815181523,677.29372937293726,677.29372937293726,cc0594f7117eca06a61bfe49f5fb42ff544d3670,US,NC,Greensboro,0,off,auto,Home,false,false,false,Gas
+674.83333333333337,681.45833333333337,678.75,f4cde08a0f7fd5ef6fb5f2f0ab920288e2208cdb,US,NC,Greensboro,0,heat,hold,Home,false,false,false,Gas
+730.59574468085111,745.40425531914889,745.40425531914889,bf5b78da9df0570b2bff0c67dd9a861c2ed42ada,US,NC,Greensboro,0,cool,auto,Home,true,false,true,Electric
+678.88720538720543,733.13131313131316,733.13131313131316,6cc7ecc900af78d6d012a98137e3b72f491244c5,US,NC,Wilmington,0,cool,hold,Home,true,false,true,Electric
+725.65380249716236,723.78357926598562,723.78357926598562,600ed36d2f3adce252cc6329c9d439c200bb2a9e,US,NC,Chapel Hill,0,heat,hold,Home,true,false,true,Electric
+661.26053442959915,650.0,640.0,83d02477824b1eaec148868ff1b6d21ffec8068e,US,NC,Chapel Hill,0,heat,auto,Home,true,false,true,Electric
+684.8125,687.625,687.625,879e40c26b4fdb8199029ecd3e5cf71694dacd4d,US,NC,Chapel Hill,0,heat,hold,Home,true,false,false,Gas
+698.19672131147536,780.0,700.0,b5fd2c0ce2cafa63100c6d4c2effb56275e71185,US,NC,Chapel Hill,0,auto,auto,Home,true,false,true,Electric
+667.64980544747084,724.16731517509731,669.63813229571986,bea5aa689df03f15d5aed11f5021e8379f717d45,US,NC,Mooresville,0,auto,hold,Home,true,false,true,Electric
+713.32567678424937,700.0,700.0,eb16ff558e20490db74a53cd1e96fcb2fcf247db,US,NC,Morrisville,0,heat,auto,Home,true,false,true,Electric
+683.58446144791048,682.01118304885222,682.01118304885222,f5615a5e32cc3ff75ef3877f7e9a6e648f355dac,US,NC,Fayetteville,0,heat,auto,Home,false,false,true,Electric
+678.46428571428567,682.0,682.0,f5615a5e32cc3ff75ef3877f7e9a6e648f355dac,US,NC,Fayetteville,0,auxHeatOnly,hold,Home,false,false,true,Electric
+693.22852512155589,703.4619124797407,690.60129659643439,c3d301f7621f793cf60892658053f83ae6e0af6e,US,NC,Holly Springs,0,heat,hold,Home,true,false,false,Gas
+668.56629076501065,669.01280097531242,669.01280097531242,d1a0e415f4fe7b340557f8dabb92e7f9ff9ae486,US,NC,Holly Springs,0,heat,hold,Home,true,false,false,Gas
+706.95652173913038,710.0,660.0,ef4d4a4b450b439ee7b2571524529fad415670bf,US,NC,Holly Springs,0,auto,hold,Home,false,false,false,Gas
+677.0,700.14772727272725,700.22727272727275,f74ea8f6183abe0a5c87399bb5011b7515b25c7c,US,NC,Holly Springs,0,off,hold,Home,false,false,false,Gas
+644.5,705.0,705.0,fac913009054b1a14eda561e0cd864cd82591465,US,NC,Cameron,0,off,hold,Home,true,false,true,Electric
+708.40476190476193,764.83333333333337,714.83333333333337,e73c06293a7c894f66ed8c2deb826bfbc6d7aded,US,NC,Apex,0,auto,hold,Home,true,false,false,Gas
+662.875,742.28125,667.8125,95d22ce3ebcd7ac204bceca1eb9dae1900102cda,US,NC,Durham,0,auto,hold,Home,true,false,true,Electric
+689.47761194029852,694.776119402985,694.776119402985,00d55263cfcd8313afc4be48fe6de4397b7f437c,US,NC,Durham,0,heat,hold,Home,true,false,false,Gas
+666.52380952380952,780.0,660.0,b34aebb2556096992b2c7087a825f082fccd2745,US,NC,Concord,0,auto,auto,Home,true,false,false,Gas
+684.71428571428567,725.0,685.0,1c693b10da7dc9702c23d465b8338e2e1177508c,US,NC,Asheville,0,heat,auto,Home,false,false,false,Gas
+751.32323232323233,750.0,750.0,b8884f7c78c202eb91366dd9c26099f7300bdb86,US,NC,Charlotte,0,heat,hold,Home,true,false,false,Gas
+671.09716599190278,665.89473684210532,664.84210526315792,3de41cd365bbb47c6c807b54fef0fd125bf285a2,US,NC,Holly Springs,0,heat,hold,Home,true,false,false,Gas
+646.56451612903231,676.77419354838707,676.77419354838707,56f21575e9d5f018a8b9bd391f9d512944a0ce81,US,NC,Mineral Springs,0,cool,auto,Home,false,false,false,Gas
+641.75,676.25,642.0,e02df24b714688ca8b69cbcd56445a5b2fc0e085,US,NC,Matthews,0,heat,auto,Home,true,false,false,Gas
+734.21875,737.125,680.0,4ce041a5f9fca97ca0ec5b590f32bbd4dc2c2a6e,US,NC,Midland,0,cool,auto,Home,false,false,true,Electric
+751.66666666666663,770.0,770.0,7754ea3fe50fce5208d60b5b3d26be5e6612d3fc,US,NC,Greensboro,0,auxHeatOnly,hold,Home,true,false,true,Electric
+703.1875,748.125,698.125,8d3087686891d5b0ca178a94f418a3978aa47484,US,NC,Midland,0,off,auto,Home,true,false,true,Electric
+704.0,760.0,710.0,e73c06293a7c894f66ed8c2deb826bfbc6d7aded,US,NC,Apex,0,auto,auto,Home,true,false,false,Gas
+661.25,820.0,640.0,462e801aaf8410798f6b021912c458852a95926a,US,NC,Charlotte,0,auto,auto,Home,false,false,false,Gas
+453.5,650.0,485.0,882505eb2123b9ee4188f0a366ec84574d3137ed,US,NC,Lewiston,0,off,hold,Home,false,false,true,Electric
+754.0,708.0,679.0,2d8faca6caeb692a9bbc541b46b3cedacea1ac8d,US,NC,Charlotte,0,cool,hold,Home,false,false,true,Electric
+476.5,720.0,660.0,dfc286e57a374b6eec16db81cb474c4e6f188f55,US,NC,Durham,0,off,auto,Home,false,false,false,Gas
+687.5,669.75,669.75,2d30dea2e2bea6e05abe1209557199a7a5e18727,US,NC,Matthews,0,heat,auto,Home,true,false,false,Gas
+677.0,720.0,720.0,93dea090911bfd42cf5f897d590a2b0775a86ff7,US,NC,Apex,0,heat,hold,Home,false,false,false,Gas
+742.0,730.0,680.0,b8778d31703df2feede26c1d37cb27591026466e,US,NC,Fayetteville,0,auto,hold,Home,false,false,true,Electric
+652.79950289975147,680.50207125103566,654.74565037282514,100bf87348bb0963cc57139763ba76b6943438a3,US,NC,Fairview,0,heat,auto,Home,false,false,true,Electric
+589.63369175627236,650.13763440860214,558.594982078853,882505eb2123b9ee4188f0a366ec84574d3137ed,US,NC,Lewiston,0,heat,hold,Home,false,false,true,Electric
+667.94470667565747,667.254214430209,666.55630478759269,6b4ca5ca03dd7d47438911f590b08e7d63f5e0c3,US,NC,Angier,0,heat,hold,Home,true,false,true,Electric
+767.4340782122905,790.813407821229,769.64245810055866,788369e6a13855797ace59f45d3b9471a1c6afc7,US,NC,Hope Mills,0,heat,auto,Home,true,false,true,Electric
+725.525849858357,724.68519830028333,724.67988668555245,724fa33f992f6a7b8ae05a14042a361cc19e33db,US,NC,Murfreesboro,0,heat,hold,Home,true,false,true,Electric
+678.445246690734,677.52747693541914,677.52747693541914,1bcea5d1a7c126ad402ce34d613f97683afcaccd,US,NC,Mount Holly,0,heat,auto,Home,false,false,false,Gas
+632.25303643724692,663.4797570850202,628.168016194332,882505eb2123b9ee4188f0a366ec84574d3137ed,US,NC,Lewiston,0,heat,auto,Home,false,false,true,Electric
+655.45833333333337,650.0,636.84375,9496fcb6e27857354070cddb59c36a3fc0df0a3f,US,NC,asheville,0,heat,hold,Home,true,false,true,Electric
+623.51459494916367,650.0,617.94358806165951,58575a2e72979b96b675c9b2a78a2e3527dca203,US,NC,asheville,0,heat,hold,Home,true,false,true,Electric
+694.53637245392827,694.683478823149,694.67280956999673,5be498e8ef9f0deacbdb83ffda49a12a33453cc7,US,NC,Holden Beach,0,heat,hold,Home,false,false,false,Gas
+681.0,660.0,660.0,ceeb5c7cfa8f291dc34028d1e9f670fe4742cbbb,US,NC,Robbinsville,0,off,hold,Home,true,false,true,Electric
+685.42848081192517,687.825562955915,687.825562955915,ea0fce861400af429aa9d5d34977227ea445b2b7,US,NC,Belmont,0,heat,hold,Home,false,false,true,Electric
+680.37730061349691,680.96932515337426,680.90797546012266,1bcea5d1a7c126ad402ce34d613f97683afcaccd,US,NC,Mount Holly,0,heat,hold,Home,false,false,false,Gas
+659.97058823529414,680.0,679.67320261437908,6b4ca5ca03dd7d47438911f590b08e7d63f5e0c3,US,NC,Angier,0,off,auto,Home,true,false,true,Electric
+672.58683473389351,800.0,680.0,f0f541a6b59c2f4fe01319f6191fed345c42bfbf,US,NC,St. James,0,auto,auto,Home,true,false,true,Electric
+677.78081321473951,780.0,680.0,ee563884f85facbfa5d34f9a1af9d6ef385127cc,US,NC,Franklinton,0,auto,hold,Home,true,false,true,Electric
+689.54250559284117,683.15436241610735,683.15436241610735,c95ea551d5467443b6ad0c4dd344015ac57c4f5a,US,NC,Wrightsville Beach,0,heat,hold,Home,true,false,true,Electric
+642.75086505190313,750.0,680.0,5931d1ddc962ebc14230b2dc30874b539d6988f6,US,NC,Dobson,0,auto,auto,Home,true,false,true,Electric
+694.58522727272725,776.86363636363637,701.25,d0089324b3392db1aace27d63135822f04bc1c69,US,NC,State Road,0,auto,auto,Home,true,false,false,Gas
+691.0,750.0,690.11650485436894,11b32fa700eeb80bfe223ae782b99c416b1b9260,US,NC,Pikeville,0,auto,auto,Home,false,false,true,Electric
+685.59807073954983,742.07395498392282,692.05948553054657,416f8433e180a3650a2f0cae42bfb29e77c24fef,US,NC,Franklinton,0,auto,hold,Home,false,false,true,Electric
+702.89814814814815,690.0,690.0,04dd518bf8f1884f9f669346b66a3f68af1b423f,US,NC,Wallace,0,cool,hold,Home,false,false,true,Electric
+705.19838709677424,704.2822580645161,704.22096774193551,dee2c41bea7d71c9baa7c200f912eff9229220a8,US,NC,Kure Beach,0,heat,hold,Home,true,false,true,Electric
+701.95840554592723,704.91161178509537,704.91074523396878,ae18e1618b535201782f7fb5d54a6b3cda5bd882,US,NC,Ahoskie,0,heat,hold,Home,true,false,true,Electric
+700.75968992248067,758.2945736434109,707.36434108527135,23e42f643e764a38eeba3ea783e52dfb51dc6b2f,US,NC,North Wilkesboro,0,auto,hold,Home,true,false,true,Electric
+719.44660537482321,720.41407355021215,720.41407355021215,2423efeeef2585876a2883c8601b764404a7eee7,US,NC,Tarboro,0,heat,hold,Home,true,false,true,Electric
+705.60215053763443,710.0,710.0,af1dfad58a9a2cbf464fce017b5d816d642cb725,US,NC,Advance,0,heat,hold,Home,true,false,true,Electric
+729.07440811724916,731.836527621195,731.836527621195,452a31b4a2e661b2b9ba9f840f50adec0ab0a3af,US,NC,Raeford,0,heat,auto,Home,false,false,true,Electric
+724.43686868686871,810.0,722.31902356902356,377de51444c02381e69ac664b095e71ff80cc9bd,US,NC,Statesville,0,auto,hold,Home,false,false,false,Gas
+727.29885057471267,730.0,720.0,2423efeeef2585876a2883c8601b764404a7eee7,US,NC,Tarboro,0,heat,auto,Home,true,false,true,Electric
+724.43598382749326,730.57142857142856,730.561320754717,4c7f9535b54c36473c1d025a68b6d6ff7415d8b4,US,NC,FAYETTEVILLE,0,heat,hold,Home,true,false,true,Electric
+731.94405594405589,730.0,730.0,24aadbbd65aa6cfde235f48acda995afabd4fca6,US,NC,Saluda,0,heat,hold,Home,true,false,true,Electric
+709.32456140350882,727.89473684210532,727.89473684210532,82f5f5424be6a8cc4453828e476b3a9f235c2d8a,US,NC,Raeford,0,cool,hold,Home,false,false,true,Electric
+707.17647058823525,780.0,650.0,0537912b7a55c18b3202992565c177c6ff6bb5da,US,NC,Apex,0,heat,auto,Home,false,false,false,Gas
+728.3485714285714,710.51428571428573,710.51428571428573,33455588800ad42efc1a04d51cf30e6f639dcc07,US,NC,Apex,0,heat,auto,Home,false,false,true,Electric
+696.37037037037032,750.0,700.0,1ce4142f644cd239c8d43d86930d08eaaf44a469,US,NC,Apex,0,auto,hold,Home,false,false,false,Gas
+728.11363636363637,819.61363636363637,724.0454545454545,62ef4fc8f9bff0e2f41a70b67b8b0f2ce2724ef8,US,NC,Apex,0,auto,hold,Home,false,false,false,Gas
+710.44671781756176,711.32367149758454,711.08127308894575,e2b9cd3b084df9a84bfb8054d7d41b4c0c8709bc,US,NC,Cary,0,heat,hold,Home,false,false,false,Gas
+663.69868995633192,738.296943231441,675.08296943231437,d9872f9bb4de09707398a70cfd5e7ff87507e994,US,NC,Cary,0,auto,hold,Home,true,false,true,Electric
+687.2658227848101,690.91139240506334,690.0,543cf22cb953f6ff8a0025a6d171b56514cca921,US,NC,Cary,0,heat,hold,Home,false,false,false,Gas
+660.67586206896556,665.72413793103453,665.72413793103453,937270799b26e7667e8ac77b40b4f3055e6f7f1e,US,NC,Durham,0,off,auto,Home,false,false,true,Electric
+672.6420454545455,675.49715909090912,675.46022727272725,937270799b26e7667e8ac77b40b4f3055e6f7f1e,US,NC,Durham,0,heat,auto,Home,false,false,true,Electric
+643.64236588720769,665.8266850068776,650.55708390646487,f5d13b8e572904cd93bc91b44557febc9c44ab6a,US,NC,Durham,0,heat,auto,Home,true,false,false,Gas
+673.9800796812749,798.72509960159357,655.0199203187251,37e0c85352a934b6ad11905a3a5e53523a2f95b0,US,NC,Durham,0,auto,auto,Home,true,false,true,Electric
+682.47619047619048,725.0767195767196,675.0502645502645,72cc2a3b7e03b321e7001168231e28464ffbbf14,US,NC,Durham,0,auto,auto,Home,false,false,false,Gas
+679.88617886178861,751.52845528455282,681.45528455284557,7017de9fd09557248f250504c08e756105d105ae,US,NC,Durham,0,auto,auto,Home,false,false,false,Gas
+689.860696517413,740.0,690.0,f40155342035f2c7cda58bc269348cc683198892,US,NC,Durham,0,auto,auto,Home,true,false,false,Gas
+637.66972477064223,650.16513761467888,628.45871559633031,bcb4c4251c7b5a0a1dd895a0adbfefc6a9dea053,US,NC,Garner,0,heat,auto,Home,false,false,true,Electric
+646.15733736762479,656.29046898638421,632.13918305597576,bcb4c4251c7b5a0a1dd895a0adbfefc6a9dea053,US,NC,Garner,0,heat,hold,Home,false,false,true,Electric
+675.1699957501063,674.57968550786234,674.41138971525709,68fe2f08d55231b7fda2c5f397393102afc858a0,US,NC,Garner,0,heat,hold,Home,true,false,false,Gas
+675.71653543307082,723.25196850393706,679.40157480314963,80df1881031e679045534c71a4e427e9377b9646,US,NC,Leland,0,auto,auto,Home,true,false,true,Electric
+678.50392156862745,710.0,660.0,fe13b3059ed1fc61ee614edce3a582cb9f08fa8d,US,NC,Leland,0,auto,auto,Home,true,false,true,Electric
+698.65109573241057,770.0,700.0,f74006b0995d34637a0631162c8935cb520a6d50,US,NC,Monroe,0,auto,hold,Home,false,false,false,Gas
+678.67093060441323,677.945314998401,677.945314998401,b9d934f5a0b6b09d80a641505d16992ce5b8c11b,US,NC,Concord,0,heat,auto,Home,false,false,false,Gas
+690.24991979467438,682.39525184472245,682.39525184472245,bd2f820b28071946f56348b7404f5239db77dbbc,US,NC,Concord,0,heat,auto,Home,false,false,false,Gas
+643.7861557478368,678.73053152039552,647.18294190358472,9d150f130d719458b199277c685d0f0e36c19645,US,NC,Raleigh,0,heat,hold,Home,false,false,false,Gas
+658.36524822695037,670.0,670.0,a8d90e0e0d542555bd6736fc2108d1436ac6e4e9,US,NC,Raleigh,0,heat,auto,Home,false,false,true,Electric
+710.534056660639,712.64074743821584,712.0874020494274,9eae11ce69525aa31dc421060f83627efac64ee6,US,NC,Raleigh,0,heat,hold,Home,true,false,true,Electric
+685.79220779220782,700.0,700.0,cc4814249d5126fcbc866b0768ecaf73481e0fc1,US,NC,Raleigh,0,off,hold,Home,true,false,false,Gas
+729.21071428571429,750.0,750.0,05a55d1615ff252bbb2827ca5ece8aec34f5204b,US,NC,Raleigh,0,off,hold,Home,false,false,true,Electric
+655.00266869996187,654.5688143347312,643.64658787647727,446f1771b538690d9f1d5a2b6228deb8d24ad94e,US,NC,Matthews,0,heat,hold,Home,false,false,false,Gas
+603.34664246823957,651.66243194192373,589.66606170598914,e02df24b714688ca8b69cbcd56445a5b2fc0e085,US,NC,Matthews,0,heat,hold,Home,true,false,false,Gas
+750.5795454545455,650.0,640.0,2d8faca6caeb692a9bbc541b46b3cedacea1ac8d,US,NC,Charlotte,0,off,hold,Home,false,false,true,Electric
+705.1015625,710.0,710.0,80026719bd34737c730511146dcee075792ab020,US,NC,Charlotte,0,heat,auto,Home,false,false,false,Gas
+646.71563682219426,780.0,660.0,2d8faca6caeb692a9bbc541b46b3cedacea1ac8d,US,NC,Charlotte,0,off,auto,Home,false,false,true,Electric
+677.90566037735846,750.0,675.84905660377353,b8c4c30f9fd211f667185809c82f07634175fc22,US,NC,Charlotte,0,auto,auto,Home,false,false,false,Gas
+699.86845761926816,704.34830940250117,704.34830940250117,46100957fca40705adb6729b1600b7c8a3c2bdcd,US,NC,Charlotte,0,heat,auto,Home,true,false,true,Electric
+717.09918699186994,713.14308943089429,713.14308943089429,c5e56a7d42097250760817d73f35860007aedbfa,US,NC,Charlotte,0,heat,hold,Home,false,false,false,Gas
+696.08955223880594,697.01492537313436,696.79104477611941,8d39f156bbf2a269a75a0ccaddd42fd852ae0cd6,US,NC,Charlotte,0,heat,hold,Home,true,false,false,Gas
+686.425790754258,700.0,700.0,2e4cef2380cf787a2264ad7bd937c58b25d0b8eb,US,NC,Charlotte,0,cool,auto,Home,false,false,false,Gas
+698.75820379965455,730.0,700.0,464b39fcd88c9fb1c3a773f7031fdaee72422830,US,NC,Charlotte,0,auto,hold,Home,true,false,true,Electric
+699.78823529411761,717.01176470588234,717.01176470588234,46100957fca40705adb6729b1600b7c8a3c2bdcd,US,NC,Charlotte,0,cool,auto,Home,true,false,true,Electric
+727.08583106267031,730.04087193460487,730.0,703906055e205902b2f6db0fc960c9dc5da353ea,US,NC,Charlotte,0,heat,auto,Home,true,false,false,Gas
+727.85401459854018,730.0,730.0,703906055e205902b2f6db0fc960c9dc5da353ea,US,NC,Charlotte,0,heat,hold,Home,true,false,false,Gas
+665.47222222222217,799.83333333333337,669.83333333333337,063248201c13d5f91101b0bb4ec6d04100f7d621,US,NC,Cornelius,0,heat,auto,Home,true,false,false,Gas
+720.00810185185185,775.0,725.0,0567d372dd7fcbcaa599df9e9793ac7c8b62a342,US,NC,Lexington,0,auto,hold,Home,true,false,true,Electric
+727.78645833333337,780.0,730.0,05bbeb1e82fe2caf9e68562a3d773c50ba138326,US,NC,Lexington,0,auto,hold,Home,false,false,true,Electric
+693.3805309734513,746.0,696.0,1c0aba5d81a3923946fa516d3e333da72471aa19,US,NC,Greensboro,0,auto,hold,Home,false,false,false,Gas
+676.48367346938778,750.0,664.80612244897964,3bc78b0031cea739468b4ef25a1fda36b75d4779,US,NC,Greensboro,0,heat,hold,Home,false,false,false,Gas
+617.3681592039801,650.0,610.0,027a2a5e27bf45e6c7a24f1e9ea31bd216655f0b,US,NC,Greensboro,0,heat,hold,Home,false,false,false,Gas
+702.65482625482628,737.21235521235519,707.71583011583016,72be5f89fb54ca8a81775936edf517d0bc410ee7,US,NC,Greensboro,0,heat,auto,Home,true,false,true,Electric
+685.74736842105267,680.0,680.0,b8118846d75b7b938d8e9b7e805b5fec87d5a1c4,US,NC,Greensboro,0,heat,hold,Home,false,false,false,Gas
+708.13187162376869,710.73435017476959,710.73371464887191,4449cb7943e1d648171e270c8e255af4c33d0d3d,US,NC,Greensboro,0,heat,auto,Home,false,false,false,Gas
+716.96913580246917,720.0,720.0,5668cc03f0937f0574cbf1620a88ba021b4155ee,US,NC,Greensboro,0,heat,auto,Home,false,false,false,Gas
+732.57377049180332,737.844262295082,737.37704918032784,641aee9f6ca441f829975ca6e16d1e10b97aaba6,US,NC,Greensboro,0,heat,auto,Home,false,false,false,Gas
+706.4545454545455,740.0,710.0,7c78718be50ad89c78a6ae43f343114a4f7ec809,US,NC,Harrisburg,0,heat,auto,Home,false,false,false,Gas
+661.75706940874034,765.50771208226217,642.92287917737792,e1b933034634dbeadc7a4790aed0624946802f10,US,NC,High Point,0,heat,auto,Home,true,false,false,Gas
+699.0,780.0,704.22422680412376,31606f611110b56eff7d130d520378af68a87970,US,NC,Knightdale,0,auto,hold,Home,false,false,false,Gas
+765.58558558558559,829.918918918919,769.927927927928,188ce77b573574fa2042d490ebd63a3c6c50168b,US,NC,Rolesville,0,auto,auto,Home,false,false,true,Electric
+714.3737142857143,713.54133333333334,713.54133333333334,4518c0e39fcbfcdafedfd895fd078eff0d8b67bd,US,NC,Chapel Hill,0,heat,hold,Home,true,false,true,Electric
+614.327380952381,820.0,600.0,ed09df8453262528f9795b86fc9383cda01b2b7e,US,NC,Chapel Hill,0,heat,auto,Home,true,false,true,Electric
+722.11428571428576,690.2285714285714,690.2285714285714,879e40c26b4fdb8199029ecd3e5cf71694dacd4d,US,NC,Chapel Hill,0,cool,hold,Home,true,false,false,Gas
+693.955223880597,790.0,690.0,600ed36d2f3adce252cc6329c9d439c200bb2a9e,US,NC,Chapel Hill,0,auto,hold,Home,true,false,true,Electric
+722.36581096849477,724.71353558926489,724.71353558926489,6fc187527f28d624896d86b37dd7a959818857ce,US,NC,Morrisville,0,heat,hold,Home,false,false,false,Gas
+733.56385205861829,730.26099092812285,730.26099092812285,6393d87298a7a1091bd21c93672df01f031a73a7,US,NC,Morrisville,0,heat,hold,Home,false,false,false,Gas
+741.72347266881025,740.0,740.0,6393d87298a7a1091bd21c93672df01f031a73a7,US,NC,Morrisville,0,heat,auto,Home,false,false,false,Gas
+592.35308641975314,650.0,585.99176954732513,2e9066a83077bed2cd721583855f6862568f0320,US,NC,Wake Forest,0,heat,hold,Home,false,false,true,Electric
+683.87931034482756,729.87931034482756,677.27586206896547,daf6280f9bd639c4686f59c190c8143272c18755,US,NC,Fayetteville,0,auto,hold,Home,true,false,true,Electric
+698.59595959595958,700.0,700.0,a4b6d44836d1e37013c75887951b938121680a6d,US,NC,Huntersville,0,heat,auto,Home,false,false,false,Gas
+712.8,710.0,710.0,a4b6d44836d1e37013c75887951b938121680a6d,US,NC,Huntersville,0,off,hold,Home,false,false,false,Gas
+718.25925925925924,716.33333333333337,716.33333333333337,feabebfe6370877e7c62203ee78d24c1e38f6610,US,NC,Huntersville,0,cool,auto,Home,false,false,false,Gas
+664.53457446808511,719.34042553191489,653.74734042553189,5ca2e4c5ba10841de5e7a6174b82a6880ee7b92d,US,NC,Fuquay Varina,0,heat,auto,Home,true,false,true,Electric
+669.96111111111111,730.0,665.67777777777781,53aff6f49c91e237f87882189d7ff9a292b742e6,US,NC,Fuquay-Varina,0,auto,hold,Home,true,false,true,Electric
+667.04982561036377,663.51469855505729,659.08570004982562,310fda738e63c515b0fd4d1513d03659d807661b,US,NC,Holly Springs,0,heat,hold,Home,true,false,false,Gas
+675.38954248366008,760.01307189542479,676.4588235294118,699dc4fc78eceec73d4369d6187a3590102c192c,US,NC,Holly Springs,0,auto,auto,Home,false,false,false,Gas
+686.33684210526314,678.58947368421047,678.58947368421047,f74ea8f6183abe0a5c87399bb5011b7515b25c7c,US,NC,Holly Springs,0,heat,auto,Home,false,false,false,Gas
+721.2284263959391,768.32741116751265,718.19543147208117,e7f90a1fb61b957257972fc7b243a0bba280e325,US,NC,Holly Springs,0,auto,hold,Home,false,false,false,Gas
+686.18518518518522,747.11111111111109,689.74074074074076,8156d650a8664b2700bb3c611f6d4049defa7597,US,NC,Winston-Salem,0,auto,hold,Home,true,false,true,Electric
+612.421052631579,651.09055727554176,617.90866873065011,9bb244d27dccfc4f34bc4aaa7bf8844eafe7698d,US,NC,Winston-Salem,0,heat,auto,Home,false,false,true,Electric
+595.75555555555559,654.22222222222217,622.66666666666663,9bb244d27dccfc4f34bc4aaa7bf8844eafe7698d,US,NC,Winston-Salem,0,heat,hold,Home,false,false,true,Electric
+676.862640615749,680.0,680.0,f058bd16a61da990f38ca4b58c34ec65239fccb9,US,NC,Winston-Salem,0,heat,auto,Home,true,false,true,Electric
+669.77251732101615,652.74653579676669,644.11951501154738,43999a6fc6c24361d81931a316cf5a96ce14b2b5,US,NC,Ocean Isle Beach,0,heat,hold,Home,true,false,true,Electric
+686.07317073170736,695.92682926829264,695.92682926829264,ef537ac4544a1361d72693ae319af4c110c69a47,US,NC,Greenville,0,heat,hold,Home,true,false,true,Electric
+693.4666666666667,700.26666666666665,700.0,e10123fad0343c0f5cb665e1fe67cba4f56a20d7,US,NC,fuquay varina,0,auxHeatOnly,auto,Home,true,false,true,Electric
+693.38709677419354,729.88709677419354,700.22580645161293,ba6208b4ee59e75586422c7babf584f2966ff5b0,US,NC,Aulander,0,heat,auto,Home,true,false,true,Electric
+712.66233766233768,720.0,720.0,a72e51c65687f7f86b1f9e77cf8a7a550fdda9c8,US,NC,Wendell,0,heat,auto,Home,true,false,true,Electric
+710.13636363636363,807.0,716.68181818181813,339555c0c49588dcf0ca47eec7b14b5011c1e560,US,NC,Hickory,0,auto,hold,Home,false,false,false,Gas
+625.010752688172,651.67741935483866,583.06451612903231,cecee1f47f9f045d0af0ed019b42df59c8fb31cf,US,NC,Bolivia,0,heat,hold,Home,false,false,false,Gas
+699.0,690.0,680.0,47de2194f84d169171aecb30c848574c382a2b74,US,NC,Wilmington,0,off,auto,Home,true,false,true,Electric
+707.38888888888891,710.0,710.0,e8dbb7b6d756318f20c84b3d48d334f2e5a33a8f,US,NC,Raleigh,0,heat,hold,Home,false,false,false,Gas
+689.07692307692309,712.69230769230774,710.58974358974353,1c693b10da7dc9702c23d465b8338e2e1177508c,US,NC,Asheville,0,heat,hold,Home,false,false,false,Gas
+727.69230769230774,740.0,740.0,481fe4c4e5f4f6b577bc7291fa22e2fc4011b7ff,US,NC,Weaverville,0,heat,auto,Home,false,false,true,Electric
+596.55555555555554,760.0,600.0,1773a2a40a6d999e0d9956d0df1bc2eed2f30f96,US,NC,Aulander,0,auto,auto,Home,false,false,false,Gas
+679.16176470588232,680.0,680.0,dd60e4347fe189042cbf25314461465d2c3f283d,US,NC,Apex,0,heat,auto,Home,false,false,true,Electric
+671.86111111111109,680.25,680.05555555555554,d9872f9bb4de09707398a70cfd5e7ff87507e994,US,NC,Cary,0,off,hold,Home,true,false,true,Electric
+677.83333333333337,710.0,710.0,1a7174d13bc5b84fc583a368a0c63334f367225d,US,NC,Charlotte,0,off,auto,Home,true,false,false,Gas
+707.69230769230774,705.0,655.0,f75b1ee99db55056c9c5726c814897c56fe48b5b,US,NC,CHARLOTTE,0,auto,hold,Home,true,false,true,Electric
+679.52941176470586,686.29411764705878,683.64705882352939,c846da8bcbb126db9839e7447e14cff572fb5e50,US,NC,Farmville,0,heat,hold,Home,false,false,false,Gas
+716.5,736.875,736.875,f6f9b639a193051a7b77a275c851ae70f3501aae,US,NC,holly springs,0,heat,hold,Home,true,false,true,Electric
+670.9545454545455,672.86363636363637,670.0,273af785692e768b859cdf134a378f3f2b8f65c5,US,NC,Clayton,0,heat,auto,Home,true,false,true,Electric
+688.66666666666663,700.0,700.0,739dc661e88a35d8885f9dd5f6e220ccf280d93f,US,NC,Morganton,0,off,auto,Home,true,false,true,Electric
+769.0,768.75,768.75,a98d0c73bb512b8d4106ac1134a720c09e482b92,US,NC,Shallotte,0,heat,auto,Home,true,false,true,Electric
+704.0526315789474,700.0,700.0,4518c0e39fcbfcdafedfd895fd078eff0d8b67bd,US,NC,Chapel Hill,0,heat,auto,Home,true,false,true,Electric
+665.5454545454545,680.0,680.0,70e80a8dff539e324e121c53ac0ac7247d4bc563,US,NC,Charlotte,0,cool,auto,Home,false,false,false,Gas
+654.0,740.0,680.0,ef537ac4544a1361d72693ae319af4c110c69a47,US,NC,Greenville,0,off,auto,Home,true,false,true,Electric
+652.0,775.0,689.0,08b161bd0e17664285ae5b0242a3a3d46ed34b10,US,NC,Cary,0,heat,hold,Home,false,false,false,Gas
+651.0,709.2,666.2,7c51cabe3222cc3e1f9a7cfa7724197601c58416,US,NC,Durham,0,auto,auto,Home,false,false,true,Electric
+694.5,710.0,660.0,c846da8bcbb126db9839e7447e14cff572fb5e50,US,NC,Farmville,0,heat,auto,Home,false,false,false,Gas
+695.66666666666663,760.0,680.0,f6f9b639a193051a7b77a275c851ae70f3501aae,US,NC,holly springs,0,auto,hold,Home,true,false,true,Electric
+674.5,693.5,670.0,679fce38ae0616b373a0f4d4ec4bc94b6b64ec16,US,NC,Greenville,0,off,auto,Home,true,false,true,Electric
+700.0,690.0,696.0,47de2194f84d169171aecb30c848574c382a2b74,US,NC,Wilmington,0,off,hold,Home,true,false,true,Electric
+709.0,690.0,690.0,1ce4142f644cd239c8d43d86930d08eaaf44a469,US,NC,Apex,0,cool,hold,Home,false,false,false,Gas
+691.7479674796748,697.24034552845524,697.24186991869919,739dc661e88a35d8885f9dd5f6e220ccf280d93f,US,NC,Morganton,0,heat,hold,Home,true,false,true,Electric
+677.98226164079824,666.9223946784922,666.92682926829264,3f966c361f3a0a49c63188b18223ff4d3819b726,US,NC,CHARLOTTE,0,heat,hold,Home,false,false,false,Gas
+732.59868421052636,733.68421052631584,733.68421052631584,2d6ceac6219d1c8c0c0141f036a3d6867b15169a,US,NC,Saluda,0,heat,hold,Home,true,false,true,Electric
+674.22556390977445,677.46115288220551,677.46115288220551,ceeb5c7cfa8f291dc34028d1e9f670fe4742cbbb,US,NC,Robbinsville,0,heat,hold,Home,true,false,true,Electric
+670.258883248731,668.043654822335,667.68121827411164,6b4ca5ca03dd7d47438911f590b08e7d63f5e0c3,US,NC,Angier,0,heat,auto,Home,true,false,true,Electric
+708.07643312101914,713.98216560509559,713.76815286624208,8d3087686891d5b0ca178a94f418a3978aa47484,US,NC,Midland,0,heat,hold,Home,true,false,true,Electric
+691.47058823529414,678.41262975778545,670.30276816609,a3ce33d4bbe49b59ba2a52e9544a3273d1163fbc,US,NC,Debver,0,heat,hold,Home,false,false,false,Gas
+602.75,650.0,600.0,1773a2a40a6d999e0d9956d0df1bc2eed2f30f96,US,NC,Aulander,0,off,hold,Home,false,false,false,Gas
+638.35452322738388,680.16299918500408,625.34637326813368,24aadbbd65aa6cfde235f48acda995afabd4fca6,US,NC,Saluda,0,heat,auto,Home,true,false,true,Electric
+712.2692939244663,650.0,620.0,9496fcb6e27857354070cddb59c36a3fc0df0a3f,US,NC,asheville,0,heat,auto,Home,true,false,true,Electric
+659.30542299349236,680.1123644251627,653.69848156182218,100bf87348bb0963cc57139763ba76b6943438a3,US,NC,Fairview,0,heat,hold,Home,false,false,true,Electric
+709.68823786620021,707.95802361171843,706.1740271097508,51883d77609c594796ec377e82b3b34a0cb6d2b6,US,NC,Cameron,0,heat,hold,Home,true,false,true,Electric
+652.89473684210532,730.01754385964909,650.17543859649118,096a69d86e06e7b03f2853d670c63b5713d86611,US,NC,Wilson's Mills,0,auto,auto,Home,true,false,true,Electric
+674.71140939597319,780.0,673.66442953020135,50d5ba9cba5ccf672abad8196bcada5b9e6b6dec,US,NC,raleigh,0,auto,hold,Home,false,false,false,Gas
+682.05805084745759,684.41906779661019,684.418220338983,04dd518bf8f1884f9f669346b66a3f68af1b423f,US,NC,Wallace,0,auxHeatOnly,hold,Home,false,false,true,Electric
+672.674486803519,691.16129032258061,671.1348973607038,c9b29e3e3aae5dec24c41bb8a8410bdc2b9f3922,US,NC,Fuquay varina,0,heat,auto,Home,true,false,true,Electric
+702.9731800766283,747.32183908045977,697.32183908045977,5a6bec1cbb2beb3a8db7389ffe2c9d92c8b43045,US,NC,Archer Lodge,0,auto,auto,Home,false,false,true,Electric
+681.567619047619,738.42095238095237,676.51428571428573,5ad48751a3dcbe6d3791d141534ffbe102f79b99,US,NC,Archer Lodge,0,auto,auto,Home,true,false,true,Electric
+688.75129533678762,715.08808290155446,664.93264248704668,a8e175a01cbb9084c6c90f07e9b5b6b1d90ef3d1,US,NC,Burnsville,0,heat,auto,Home,false,false,true,Electric
+668.27908745247146,700.0,670.0,1c1036cc3bdd153da9e1e29575ea334c58c413fc,US,NC,Kill Devil Hills,0,heat,auto,Home,false,false,true,Electric
+699.11130587204207,700.55652936021033,700.532865907099,e10123fad0343c0f5cb665e1fe67cba4f56a20d7,US,NC,fuquay varina,0,heat,auto,Home,true,false,true,Electric
+679.50883392226149,670.2402826855124,669.9434628975265,56f21575e9d5f018a8b9bd391f9d512944a0ce81,US,NC,Mineral Springs,0,heat,auto,Home,false,false,false,Gas
+672.79481132075466,726.72169811320759,674.316037735849,c0d4e8dd123a8a80901b1ba9d92274898e69928f,US,NC,Shallotte,0,auto,hold,Home,true,false,true,Electric
+686.16253207869977,684.51069289991449,683.9315654405475,f62c4c0e19f0b7e0f3f56cbca7997b39ecd90353,US,NC,Denver,0,heat,hold,Home,true,false,false,Gas
+671.93216783216781,780.00034965034968,679.99930069930065,9a6bf0321a3c79285b78c99fa0a47e5ef43ae464,US,NC,Shallotte,0,auto,hold,Home,false,false,true,Electric
+682.95147756293329,720.0,680.0,5a96bfe0a2d16db803f0009b684e7e8754e44e18,US,NC,Denver,0,heat,auto,Home,false,false,true,Electric
+703.5330465389128,706.18068048494331,706.18068048494331,d1a7fb4f6a3d874e8f493ef7793b7ee70187891e,US,NC,Lincolnton,0,heat,auto,Home,true,false,true,Electric
+717.33173076923072,763.7342657342657,711.67875874125878,4ce041a5f9fca97ca0ec5b590f32bbd4dc2c2a6e,US,NC,Midland,0,heat,auto,Home,false,false,true,Electric
+691.35623159960744,700.0,690.0,df262f57fbf2f15c528e3504bb5737bc33f1c401,US,NC,Denver,0,heat,auto,Home,false,false,true,Electric
+667.4391143911439,689.99446494464939,689.96678966789671,04dd518bf8f1884f9f669346b66a3f68af1b423f,US,NC,Wallace,0,off,hold,Home,false,false,true,Electric
+680.43137254901956,680.0,690.0,6b4ca5ca03dd7d47438911f590b08e7d63f5e0c3,US,NC,Angier,0,cool,auto,Home,true,false,true,Electric
+702.8039215686274,703.02745098039213,702.971568627451,ae18e1618b535201782f7fb5d54a6b3cda5bd882,US,NC,Ahoskie,0,heat,auto,Home,true,false,true,Electric
+688.18983050847453,770.0,699.04745762711866,1177c947d59003dcd9efd167a880a0c1f88c88c0,US,NC,Wendell,0,auxHeatOnly,hold,Home,true,false,true,Electric
+717.98778296802016,720.0783327344592,720.07509881422925,ba6208b4ee59e75586422c7babf584f2966ff5b0,US,NC,Aulander,0,heat,hold,Home,true,false,true,Electric
+698.69230769230774,702.69230769230774,702.43589743589746,e3e36f1e9f2f8fb5d2245b3a4dbcb25e156e24e2,US,NC,Davidson,0,heat,hold,Home,false,false,false,Gas
+703.16666666666663,770.0,705.0,867909cde770c5247a96996fce3e3649c1cbbbd4,US,NC,Franklin,0,heat,auto,Home,true,false,true,Electric
+727.92044517724651,727.51112943116243,727.51112943116243,82f5f5424be6a8cc4453828e476b3a9f235c2d8a,US,NC,Raeford,0,heat,hold,Home,false,false,true,Electric
+707.321554770318,790.0,710.89399293286215,5401e57d0486a3c18d233c374bd62ea56f44bb51,US,NC,Eden,0,auto,hold,Home,true,false,true,Electric
+707.95789473684215,759.87368421052633,709.87368421052633,4938c3d6a9900170b382d484802744f380ac14f5,US,NC,Ruffin,0,auto,auto,Home,false,false,true,Electric
+721.90832553788584,725.53086997193634,725.53086997193634,41ed7dff403925e5e3c1c3ca15c728fb3dd79bd8,US,NC,Lincolnton,0,heat,hold,Home,true,false,true,Electric
+710.47058823529414,710.0,710.0,7730a9e2ee7e27dada996d3b633473509f462a82,US,NC,Cameron,0,off,hold,Home,true,false,true,Electric
+707.10526315789468,710.0,710.0,e1db0053cc9103016528d35269b006d2417b2912,US,NC,WINSTON SALEM,0,heat,auto,Home,false,false,false,Gas
+720.64639091646393,765.0,715.0,90a59924e89fa534e04747e463fd24a598bf9f66,US,NC,apex,0,auto,hold,Home,true,false,true,Electric
+719.17104527669085,790.0,720.0,988006a8a695d2ec5a56807986f6bcdd0ce3573b,US,NC,Hickory,0,auto,hold,Home,false,false,true,Electric
+735.44783306581064,734.95184590690212,734.95184590690212,7730a9e2ee7e27dada996d3b633473509f462a82,US,NC,Cameron,0,heat,hold,Home,true,false,true,Electric
+737.77668308702789,740.0,740.0,90a59924e89fa534e04747e463fd24a598bf9f66,US,NC,apex,0,heat,auto,Home,true,false,true,Electric
+674.94284064665123,672.18879907621249,669.54503464203231,1ad92d084990cca3a1a179784aeb5601a2e93f02,US,NC,Apex,0,heat,auto,Home,true,false,false,Gas
+670.91525423728808,740.0,670.0,aefd68232c54f02d17210dc257aba823f45b3c5a,US,NC,Apex,0,auto,hold,Home,true,false,true,Electric
+739.17741935483866,750.0,670.0,8b1a0f7c9207f91fc18d7cf937b374689e9f79f0,US,NC,Apex,0,auto,auto,Home,true,false,true,Electric
+718.40525409130055,719.11584840654609,719.11584840654609,c3ac3ca8cf6b0c7ab989e28018080b2fb391dbfd,US,NC,Apex,0,heat,hold,Home,true,false,false,Gas
+714.55223880597021,711.81592039800989,711.81592039800989,c7527aeb3411af6a31325cb464897df2ec2b6a57,US,NC,Apex,0,heat,auto,Home,true,false,false,Gas
+737.476821192053,790.0,740.0,8b1a0f7c9207f91fc18d7cf937b374689e9f79f0,US,NC,Apex,0,auto,hold,Home,true,false,true,Electric
+611.19375,799.81875,610.35625,6b7a998d585bceeef269a79a69c2337276c94dac,US,NC,Cary,0,heat,auto,Home,false,false,false,Gas
+675.41472868217056,720.0,670.0,77af542f4d8666e96504375f9a5a0152e296d781,US,NC,Cary,0,auto,auto,Home,true,false,true,Electric
+617.80437424058323,654.86998784933166,607.93681652490886,f5d13b8e572904cd93bc91b44557febc9c44ab6a,US,NC,Durham,0,heat,hold,Home,true,false,false,Gas
+639.04470079307862,673.37058399423211,671.03893294881038,127cd2cdc3ab6bda25d1abbc1d1bbda0c6e4bf99,US,NC,Durham,0,off,hold,Home,false,false,false,Gas
+713.45787139689583,708.64855875831483,708.61197339246121,cacbbe2c6b6e6cb0860749aebc55c012d626fe12,US,NC,Durham,0,heat,hold,Home,false,false,false,Gas
+626.35335195530729,658.28491620111731,646.59776536312847,9385178e8cd3fa206bd364459681cba23fb796e9,US,NC,Durham,0,heat,auto,Home,false,false,false,Gas
+679.12962962962968,680.0,620.0,95d22ce3ebcd7ac204bceca1eb9dae1900102cda,US,NC,Durham,0,cool,auto,Home,true,false,true,Electric
+667.26871657754009,720.0,662.60695187165777,bcf7c2d9dd5bff293f0cd761c94bdfdc2e2fb86c,US,NC,Durham,0,auto,hold,Home,false,false,true,Electric
+675.86029411764707,675.0,675.0,43cd850b6641bdea827ae33c8e76624661776e63,US,NC,Durham,0,heat,hold,Home,false,false,true,Electric
+727.55,716.4,715.15,7f6c0ce85a5aa458320181ab1dc460e351075cbd,US,NC,Garner,0,heat,hold,Home,false,false,true,Electric
+678.18333333333328,715.9083333333333,675.93333333333328,80df1881031e679045534c71a4e427e9377b9646,US,NC,Leland,0,auto,hold,Home,true,false,true,Electric
+701.15939086294418,770.0,702.28257191201351,c64fb1bb9e8bd7548dac509a219b2883e12e7447,US,NC,Monroe,0,auto,auto,Home,true,false,true,Electric
+678.96251673360109,800.0,680.0,2bbec7775ba4f8852cf808ef2e7774513947b2cd,US,NC,Waxhaw,0,auto,auto,Home,false,false,false,Gas
+695.8360655737705,768.360655737705,701.639344262295,fc16d8136ce8474d3a5d8949995ef5241f4b4d1f,US,NC,Clayton,0,auto,hold,Home,false,false,true,Electric
+698.94117647058829,701.82352941176475,701.82352941176475,b9d934f5a0b6b09d80a641505d16992ce5b8c11b,US,NC,Concord,0,heat,hold,Home,false,false,false,Gas
+725.70588235294122,702.17647058823525,702.17647058823525,bd2f820b28071946f56348b7404f5239db77dbbc,US,NC,Concord,0,heat,hold,Home,false,false,false,Gas
+691.55394990366085,752.58381502890177,694.02215799614646,0d07fad011a0150bd15d4dfd292a8552dbd1483d,US,NC,Raleigh,0,auto,hold,Home,false,false,false,Gas
+665.24006359300472,763.320826709062,668.49093799682032,a51f3548cb4d384c1247891993662cc018a80ffb,US,NC,Raleigh,0,heat,auto,Home,true,false,true,Electric
+701.70343137254906,780.70098039215691,614.12009803921569,af3561e74cbf64606463e3efd7bced98522fc30e,US,NC,Raleigh,0,auto,hold,Home,false,false,true,Electric
+691.0513911620294,694.67332242225859,693.59116202946,0a71273fadd358f641543a3ad045be52c841e1ee,US,NC,Raleigh,0,heat,hold,Home,true,false,false,Gas
+692.36666666666667,804.60666666666668,693.16,7316f5707304380513e0013533b15fe19be36ac6,US,NC,Raleigh,0,auto,auto,Home,true,false,false,Gas
+679.80225080385856,713.475884244373,699.35048231511257,9a36fe041a5d5383bd46566cd32963690fdb7b7f,US,NC,Raleigh,0,heat,auto,Home,true,false,true,Electric
+664.42857142857144,658.57142857142856,650.0,b7c84c0a742466709b826f941d9e3d6dce4dd7c3,US,NC,Raleigh,0,heat,hold,Home,true,false,true,Electric
+661.10056925996207,720.03036053130927,661.09677419354841,74418f128dd379f7b304bb5dc83ac25528ab0f9e,US,NC,Raleigh,0,auto,hold,Home,false,false,false,Gas
+688.967112024666,679.75745118191162,679.75745118191162,cc4814249d5126fcbc866b0768ecaf73481e0fc1,US,NC,Raleigh,0,heat,hold,Home,true,false,false,Gas
+678.70297029702965,730.74257425742576,663.71287128712868,306f3d9c104ff1a73bcdc225c0730a24410cb8da,US,NC,Raleigh,0,auto,hold,Home,true,false,true,Electric
+673.2110625909753,678.45560407569144,678.45269286754,306f3d9c104ff1a73bcdc225c0730a24410cb8da,US,NC,Raleigh,0,auxHeatOnly,auto,Home,true,false,true,Electric
+689.42790697674423,708.47441860465119,686.57674418604654,09ff2adf59bf6b8c750be9f574fd55266e7d6410,US,NC,Raleigh,0,auto,auto,Home,true,false,false,Gas
+688.99064449064451,749.19646569646568,687.475051975052,97bdf301cdb4477d62acfdb0fe197bfbffbf1ba6,US,NC,Raleigh,0,auto,hold,Home,false,false,false,Gas
+669.37168141592917,750.0,680.0,01f2cdbaac7362a290e7c1ef329644013dfaeff6,US,NC,Raleigh,0,off,auto,Home,false,false,false,Gas
+705.19444444444446,750.0,700.0,1aa944df7875cb9a13416046c747607f5a5980ca,US,NC,Raleigh,0,auto,auto,Home,false,false,false,Gas
+696.02544910179643,767.41017964071852,693.06886227544908,9db03f5a37bc52503f0c27c558f8cb4e753bde53,US,NC,Matthews,0,auto,auto,Home,false,false,false,Gas
+701.0088531187123,764.27847082494975,700.64346076458753,9db03f5a37bc52503f0c27c558f8cb4e753bde53,US,NC,Matthews,0,auto,hold,Home,false,false,false,Gas
+684.61788990825687,674.28348623853208,674.22844036697245,70e80a8dff539e324e121c53ac0ac7247d4bc563,US,NC,Charlotte,0,heat,auto,Home,false,false,false,Gas
+664.3646723646724,652.78347578347575,647.70085470085473,0ad146e64d9e28994743a8e064682d4956a3ae96,US,NC,Charlotte,0,heat,hold,Home,false,false,false,Gas
+687.02953586497893,754.04641350210966,650.88607594936707,1762442b052a4991e87b0868adc03cccd9dca7ba,US,NC,Charlotte,0,auto,auto,Home,false,false,false,Gas
+685.561122244489,731.96421414257088,680.91182364729457,657d4166c53e1702cd43f6495a1a99f300c7cd63,US,NC,Charlotte,0,auto,hold,Home,false,false,true,Electric
+662.67878787878783,650.0,628.78787878787875,2482196025156929dff29de14ed15389745402be,US,NC,Charlotte,0,heat,hold,Home,false,false,false,Gas
+662.22807017543857,820.0,640.0,462e801aaf8410798f6b021912c458852a95926a,US,NC,Charlotte,0,heat,auto,Home,false,false,false,Gas
+653.53435114503816,780.0,650.26717557251914,2d8faca6caeb692a9bbc541b46b3cedacea1ac8d,US,NC,Charlotte,0,auto,auto,Home,false,false,true,Electric
+670.8671875,675.0,675.0,8f64e459d51bccc8a3a26516cf98866c6173f62a,US,NC,Charlotte,0,heat,auto,Home,false,false,false,Gas
+676.9,750.0,670.0,d001da69dd04a62871fae261014073904b1f62fd,US,NC,Charlotte,0,auto,auto,Home,false,false,false,Gas
+710.5,670.33333333333337,670.04166666666663,554faa7936ffb97d50504f2720ccaa35cf808597,US,NC,Charlotte,0,heat,auto,Home,true,false,false,Gas
+688.234126984127,695.53571428571433,693.69047619047615,03258b6f32bb89fc0f8ae00ef05eeaa32cdbaf19,US,NC,Charlotte,0,cool,auto,Home,false,false,false,Gas
+698.8178654292343,693.29466357308581,693.29466357308581,b68060ac676005fedda5b02e35cc5973a1bfd2fd,US,NC,Charlotte,0,heat,hold,Home,false,false,false,Gas
+680.86538461538464,690.29807692307691,690.57692307692309,03258b6f32bb89fc0f8ae00ef05eeaa32cdbaf19,US,NC,Charlotte,0,cool,hold,Home,false,false,false,Gas
+718.56410256410254,779.0512820512821,700.07692307692309,510ffff1de3f0ef2cee21151c950645e2a265db7,US,NC,Charlotte,0,auto,auto,Home,false,false,false,Gas
+658.85849056603774,700.0,700.0,84e8b02940d3f39daee24dccc1a50102fb254aaa,US,NC,Charlotte,0,off,hold,Home,false,false,true,Electric
+693.989898989899,730.0,730.0,703906055e205902b2f6db0fc960c9dc5da353ea,US,NC,Charlotte,0,off,hold,Home,true,false,false,Gas
+737.09789473684214,740.0,740.0,60db7f6bdfa57e3b69f43ae3b166f45daee46f88,US,NC,Charlotte,0,heat,hold,Home,false,false,false,Gas
+681.25368139223565,677.553547523427,677.553547523427,4b261954fe6af2589197a6e5bd5cb2f22001a444,US,NC,Cornelius,0,heat,hold,Home,false,false,false,Gas
+663.19771241830063,643.61111111111109,643.3839869281046,cc0594f7117eca06a61bfe49f5fb42ff544d3670,US,NC,Greensboro,0,heat,auto,Home,false,false,false,Gas
+654.29487179487182,763.9316239316239,654.27350427350427,a053dd25784c094d0409dd78ea727427b9b37f01,US,NC,Greensboro,0,auto,hold,Home,true,false,true,Electric
+706.80247608328648,710.9409116488464,710.86043894203715,72be5f89fb54ca8a81775936edf517d0bc410ee7,US,NC,Greensboro,0,heat,hold,Home,true,false,true,Electric
+746.36616454229431,747.53997682502893,747.53997682502893,7754ea3fe50fce5208d60b5b3d26be5e6612d3fc,US,NC,Greensboro,0,heat,hold,Home,true,false,true,Electric
+652.23066666666671,753.104,644.456,4701a84c767ca3e57720053a386adfb0116f08e5,US,NC,High Point,0,heat,auto,Home,false,false,false,Gas
+706.98321678321679,760.3020979020979,710.306993006993,6cc7ecc900af78d6d012a98137e3b72f491244c5,US,NC,Wilmington,0,auto,hold,Home,true,false,true,Electric
+708.98039215686276,758.91666666666663,706.75490196078431,47de2194f84d169171aecb30c848574c382a2b74,US,NC,Wilmington,0,auto,hold,Home,true,false,true,Electric
+654.19622905027938,658.70879888268155,653.35055865921788,a75e69f71c382cfb8821e2fcd843e0e6ed41052f,US,NC,Chapel Hill,0,heat,auto,Home,false,false,false,Gas
+685.07451820128483,678.71520342612416,678.71520342612416,f04aab5a0c2e35613fbe98dc279e69725e6a9998,US,NC,Morrisville,0,heat,hold,Home,false,false,false,Gas
+693.62962962962968,716.97530864197529,716.97530864197529,6fc187527f28d624896d86b37dd7a959818857ce,US,NC,Morrisville,0,cool,hold,Home,false,false,false,Gas
+722.00910273081922,723.737321196359,723.737321196359,6fc187527f28d624896d86b37dd7a959818857ce,US,NC,Morrisville,0,heat,auto,Home,false,false,false,Gas
+726.27544910179643,729.85029940119762,729.85029940119762,481fe4c4e5f4f6b577bc7291fa22e2fc4011b7ff,US,NC,Weaverville,0,heat,hold,Home,false,false,true,Electric
+692.65889570552145,703.58282208588957,703.58282208588957,d3d9d848584109764d55de3f51c65b33c5663579,US,NC,Weaverville,0,heat,hold,Home,false,false,true,Electric
+684.195652173913,690.0,690.0,38ccd42fd728df8d4e35d1844766af59db3d2fe0,US,NC,Fayetteville,0,cool,hold,Home,true,false,true,Electric
+690.32835820895525,747.01492537313436,697.01492537313436,daf6280f9bd639c4686f59c190c8143272c18755,US,NC,Fayetteville,0,auto,auto,Home,true,false,true,Electric
+712.94444444444446,712.50222222222226,712.50222222222226,66ad263581f4ec46c33933a3612bc27f8c7040ff,US,NC,Huntersville,0,heat,auto,Home,false,false,false,Gas
+689.47743467933492,759.6793349168646,686.82304038004747,ead3bf0a3cac3ab4e66024b9d6e7b4d52bc35af9,US,NC,Holly Springs,0,auto,hold,Home,false,false,false,Gas
+660.79141494435612,660.0,660.0,49bc133c94f5c7ef22adb28a7b699e5f7cf02d81,US,NC,Holly Springs,0,heat,hold,Home,true,false,false,Gas
+694.62527716186253,748.529933481153,698.52771618625275,8156d650a8664b2700bb3c611f6d4049defa7597,US,NC,Winston-Salem,0,auto,auto,Home,true,false,true,Electric
+663.70588235294122,780.0,660.0,15f0107ec0a2b5b4cb5f6e93f3fc013166ac33f8,US,NC,Hope Mills,0,heat,auto,Home,true,false,true,Electric
+718.90476190476193,760.0,710.0,91c44fb8470a3c871f5746a40efadfd69b5c6cda,US,NC,Apex,0,auto,auto,Home,false,false,false,Gas
+622.0,651.44444444444446,629.44444444444446,cecee1f47f9f045d0af0ed019b42df59c8fb31cf,US,NC,Bolivia,0,heat,auto,Home,false,false,false,Gas
+687.38095238095241,780.0,690.0,447dd89fccdb7e0d631c441331f962c8ca925e5a,US,NC,Raleigh,0,auto,hold,Home,false,false,false,Gas
+725.8625,818.625,726.4125,a1045af8db512adca850283183abdd5a4d063403,US,NC,Matthews,0,heat,auto,Home,true,false,false,Gas
+704.0,749.3,749.3,84e8b02940d3f39daee24dccc1a50102fb254aaa,US,NC,Charlotte,0,heat,auto,Home,false,false,true,Electric
+682.64383561643831,660.13698630136992,657.2602739726027,f5958d3bbce5794ee11b8243c6d4412a12f8991b,US,NC,Charlotte,0,heat,hold,Home,true,false,true,Electric
+637.74666666666667,796.64,645.89333333333332,fb3b839efbfe162873fe6dee0baa52a68cafac74,US,NC,Greensboro,0,heat,auto,Home,true,false,false,Gas
+700.48717948717945,703.84615384615381,703.84615384615381,8e14be2eaf1ea6a1782f0486109b9d5cf9f6a44c,US,NC,Mooresville,0,heat,hold,Home,false,false,false,Gas
+669.55,670.0,670.0,679fce38ae0616b373a0f4d4ec4bc94b6b64ec16,US,NC,Greenville,0,cool,auto,Home,true,false,true,Electric
+712.90526315789475,710.0,710.0,79fd110bb08aacc5f99eb0090fe8c1e93a8b7d86,US,NC,Como,0,heat,hold,Home,true,false,true,Electric
+739.04,750.06666666666672,749.89333333333332,8b1a0f7c9207f91fc18d7cf937b374689e9f79f0,US,NC,Apex,0,heat,auto,Home,true,false,true,Electric
+685.23529411764707,712.52941176470586,660.64705882352939,dfc286e57a374b6eec16db81cb474c4e6f188f55,US,NC,Durham,0,auto,hold,Home,false,false,false,Gas
+663.76470588235293,725.88235294117646,671.76470588235293,74418f128dd379f7b304bb5dc83ac25528ab0f9e,US,NC,Raleigh,0,auto,auto,Home,false,false,false,Gas
+683.40909090909088,690.0,690.0,679fce38ae0616b373a0f4d4ec4bc94b6b64ec16,US,NC,Greenville,0,cool,hold,Home,true,false,true,Electric
+685.7037037037037,748.88888888888891,668.88888888888891,daa3da51eaceb9cf257fba70def03ce37ec40571,US,NC,Kure Beach,0,heat,auto,Home,true,false,true,Electric
+690.06034482758616,722.48275862068965,656.25862068965512,43f603621b75427a0564698ce770e6c143fff046,US,NC,Charlotte,0,auto,hold,Home,false,false,true,Electric
+720.78688524590166,775.0,725.0,4238c94859a57db85df08c598af6f492d55bce3d,US,NC,Charlotte,0,auto,hold,Home,false,false,false,Gas
+721.0,730.0,730.0,703906055e205902b2f6db0fc960c9dc5da353ea,US,NC,Charlotte,0,off,auto,Home,true,false,false,Gas
+673.5,730.0,730.0,77af542f4d8666e96504375f9a5a0152e296d781,US,NC,Cary,0,cool,hold,Home,true,false,true,Electric
+713.90909090909088,710.72727272727275,707.36363636363637,8d3087686891d5b0ca178a94f418a3978aa47484,US,NC,Midland,0,cool,hold,Home,true,false,true,Electric
+707.78723404255322,658.51063829787233,658.51063829787233,1ad92d084990cca3a1a179784aeb5601a2e93f02,US,NC,Apex,0,off,auto,Home,true,false,false,Gas
+651.6,650.0,650.0,61edac4b57f0f9dcf34a05c52536c7a62d63c40d,US,NC,Asheville,0,heat,auto,Home,false,false,true,Electric
+682.4,751.4,679.6,5b9f58195270572a4ec26440caf195f4eb82fd2e,US,NC,Raleigh,0,auto,hold,Home,false,false,false,Gas
+738.16666666666663,650.0,650.0,6601e50dc342a28ff57c67ac5addcbad5e7a0562,US,NC,Hope Mills,0,heat,hold,Home,true,false,true,Electric
+636.0,773.42857142857144,659.14285714285711,2e9ff9ded3237a6fe9d73b9ca1e0bdb582e62dda,US,NC,Charlotte,0,heat,auto,Home,true,false,true,Electric
+744.0,772.0,772.0,4ce041a5f9fca97ca0ec5b590f32bbd4dc2c2a6e,US,NC,Midland,0,auxHeatOnly,hold,Home,false,false,true,Electric
+588.75,740.0,642.5,ac8d273d024ca1804ce5cbdde34945fec00b7413,US,NC,Durham,0,heat,hold,Home,true,false,true,Electric
+708.33333333333337,695.0,695.0,52698c78309d5390a98882bfd211ab28f43ca264,US,NC,Pineville,0,cool,hold,Home,false,false,false,Gas
+654.5,698.75,683.0,d903f37776e20d56facf61aacb661dbd6159f112,US,NC,Wake Forest,0,heat,auto,Home,false,false,false,Gas
+634.25,710.0,710.0,77af542f4d8666e96504375f9a5a0152e296d781,US,NC,Cary,0,heat,hold,Home,true,false,true,Electric
+698.25,732.0,732.0,4c37368e989735a72a48760d0cc94384ff7a6aba,US,NC,Cary,0,heat,hold,Home,true,false,true,Electric
+590.64680851063827,650.0,580.0,ca7e3eb3aeca616947ceba8fd4949dec6bb3416c,US,NC,Banner Elk,0,heat,hold,Home,true,false,true,Electric
+707.32692307692309,764.04423076923081,704.95576923076919,a98d0c73bb512b8d4106ac1134a720c09e482b92,US,NC,Shallotte,0,auto,hold,Home,true,false,true,Electric
+671.63129584352077,672.57750611246945,665.84694376528114,56cd405bf961438774bd8da19bed19fe2a2535c1,US,NC,Holden Beach,0,heat,hold,Home,false,false,false,Gas
+731.24459320288361,736.24098867147268,736.2224510813594,edcd62e074f41a49f7fea7e64335d0a87665b02a,US,NC,Murfreesboro,0,heat,hold,Home,false,false,true,Electric
+672.99458972046887,802.751127141569,659.46618575293053,d0089324b3392db1aace27d63135822f04bc1c69,US,NC,State Road,0,auto,hold,Home,true,false,false,Gas
+641.48137108792844,644.99254843517133,644.99254843517133,1429b2636b66e007832a5d3443be1b731cd1d383,US,NC,Murphy,0,heat,hold,Home,true,true,true,Electric
+657.9742765273312,673.18327974276531,659.80707395498393,b142de1fc805b1b07af26a38925a85f9aae9257b,US,NC,Saluda,0,heat,auto,Home,true,false,true,Electric
+686.82075471698113,722.54716981132071,670.86320754716985,ef537ac4544a1361d72693ae319af4c110c69a47,US,NC,Greenville,0,auto,hold,Home,true,false,true,Electric
+668.1875,770.0,669.20432692307691,604f4ab243d738898426976639b1a3fca78081ed,US,NC,Cedar Point,0,auto,hold,Home,true,false,true,Electric
+654.82758620689651,750.0,654.13793103448279,6601e50dc342a28ff57c67ac5addcbad5e7a0562,US,NC,Hope Mills,0,auto,hold,Home,true,false,true,Electric
+663.03891977760122,819.99126290706909,660.01310563939637,319bac74cf6b2c751cd0a51e704d6b08a02d35ed,US,NC,St. James,0,heat,auto,Home,false,false,true,Electric
+656.95406360424033,680.0,660.0,263470c6bf8827b117355942b1e8691ff15a9034,US,NC,Timberlake,0,heat,auto,Home,false,false,true,Electric
+674.12222222222226,750.0,660.0,cc2505936fc75d8d9d0a9744941997ec8479aca8,US,NC,Whispering Pines,0,auto,auto,Home,true,false,true,Electric
+688.01176470588234,697.8117647058823,683.2705882352941,11b32fa700eeb80bfe223ae782b99c416b1b9260,US,NC,Pikeville,0,heat,auto,Home,false,false,true,Electric
+655.66315789473686,660.421052631579,660.421052631579,ceeb5c7cfa8f291dc34028d1e9f670fe4742cbbb,US,NC,Robbinsville,0,cool,hold,Home,true,false,true,Electric
+686.34554973821992,681.54581151832463,681.5346858638743,679fce38ae0616b373a0f4d4ec4bc94b6b64ec16,US,NC,Greenville,0,heat,auto,Home,true,false,true,Electric
+666.35294117647061,670.38235294117646,670.38235294117646,5be498e8ef9f0deacbdb83ffda49a12a33453cc7,US,NC,Holden Beach,0,heat,auto,Home,false,false,false,Gas
+660.4473684210526,671.12781954887214,671.12781954887214,6b4ca5ca03dd7d47438911f590b08e7d63f5e0c3,US,NC,Angier,0,off,hold,Home,true,false,true,Electric
+703.59042984590428,764.184103811841,701.44282238442827,fa1d4cc70a35f1e570f174555539cbe435c9210d,US,NC,Black Mountain,0,auto,hold,Home,true,false,true,Electric
+684.38914027149326,681.57239819004531,678.88009049773757,a8e175a01cbb9084c6c90f07e9b5b6b1d90ef3d1,US,NC,Burnsville,0,heat,hold,Home,false,false,true,Electric
+673.91707317073167,692.16585365853655,683.60487804878051,ef537ac4544a1361d72693ae319af4c110c69a47,US,NC,Greenville,0,heat,auto,Home,true,false,true,Electric
+683.280701754386,680.0,680.0,e3e36f1e9f2f8fb5d2245b3a4dbcb25e156e24e2,US,NC,Davidson,0,cool,hold,Home,false,false,false,Gas
+707.07419354838714,709.04301075268813,709.03978494623652,e10123fad0343c0f5cb665e1fe67cba4f56a20d7,US,NC,fuquay varina,0,heat,hold,Home,true,false,true,Electric
+698.4666666666667,760.33333333333337,688.5333333333333,074f9d7c60fee9def87d1422674a7d1cf0c0a3ea,US,NC,Villa Heights,0,auto,hold,Home,true,false,true,Electric
+683.606,691.488,691.488,ef537ac4544a1361d72693ae319af4c110c69a47,US,NC,Greenville,0,auxHeatOnly,auto,Home,true,false,true,Electric
+699.12135922330094,703.04854368932035,698.80582524271847,c9646006b6f1320b62cd0a489b98d724c8b3afff,US,NC,Tarboro,0,heat,auto,Home,false,false,false,Gas
+716.22639780018335,790.0,720.06416131989,6d4f00ed8c6174409249d314825cbbc022db161e,US,NC,New Bern,0,auto,hold,Home,false,false,true,Electric
+724.10154525386315,777.02428256070641,722.5342163355408,80d68cab94f943efd00a09f568e7cde5529ea869,US,NC,Pineville,0,auto,auto,Home,false,false,false,Gas
+708.37128712871288,711.71782178217825,710.37623762376234,a3ce33d4bbe49b59ba2a52e9544a3273d1163fbc,US,NC,Debver,0,heat,auto,Home,false,false,false,Gas
+729.43725868725869,731.72779922779921,731.72779922779921,edcd62e074f41a49f7fea7e64335d0a87665b02a,US,NC,Murfreesboro,0,heat,auto,Home,false,false,true,Electric
+729.18367346938771,732.94897959183675,731.32653061224494,857d955752215a7fe43c8673ed2d652c5e3cbaca,US,NC,holly springs,0,heat,auto,Home,false,false,false,Gas
+739.38108882521487,809.971346704871,742.48424068767906,339555c0c49588dcf0ca47eec7b14b5011c1e560,US,NC,Hickory,0,auto,auto,Home,false,false,false,Gas
+671.59244689221089,674.795436664044,669.993705743509,1ad92d084990cca3a1a179784aeb5601a2e93f02,US,NC,Apex,0,heat,hold,Home,true,false,false,Gas
+675.43809523809523,666.6,664.74285714285713,3819bddb049831085cc62edfd50c14c6f21ea276,US,NC,Apex,0,heat,hold,Home,true,false,false,Gas
+707.1711177052423,705.93273986152326,705.93273986152326,b1e25c2dc713c5ed91967c98fa922bef3ff9be09,US,NC,Apex,0,heat,hold,Home,false,false,false,Gas
+683.974396848843,675.39931068439193,675.39931068439193,bb22ffb52e9369c5c8581936a3655e30807fafd3,US,NC,Cary,0,heat,hold,Home,false,false,true,Electric
+686.29430789133244,686.18693402328586,686.17076326002586,d9872f9bb4de09707398a70cfd5e7ff87507e994,US,NC,Cary,0,heat,hold,Home,true,false,true,Electric
+709.9497455470738,710.0,710.0,565d2f1f9fb26e745456032f7624f18c51fc74bb,US,NC,Cary,0,heat,hold,Home,false,false,false,Gas
+662.687242798354,651.80246913580243,622.633744855967,127cd2cdc3ab6bda25d1abbc1d1bbda0c6e4bf99,US,NC,Durham,0,heat,hold,Home,false,false,false,Gas
+687.11111111111109,694.936507936508,694.69841269841265,dfc286e57a374b6eec16db81cb474c4e6f188f55,US,NC,Durham,0,cool,hold,Home,false,false,false,Gas
+685.94117647058829,650.0,640.0,e6b6fb6416ff72bdde53528ffe57e63266c7bfa2,US,NC,Durham,0,heat,auto,Home,true,false,true,Electric
+679.4433185560481,675.538315389487,675.137428752375,adc01ca5408d5656af2e3aa0101d6ded5f7ac702,US,NC,Durham,0,heat,hold,Home,false,false,false,Gas
+645.9,651.59,645.78,3c465be0e0cca2841eeae673c4f4876c0301c7bd,US,NC,Durham,0,heat,hold,Home,true,false,true,Electric
+619.82988817350054,776.97729583192142,776.97729583192142,80584edc565de872d6e1008ad219522d0625c3da,US,NC,Garner,0,heat,auto,Home,false,false,false,Gas
+674.2641509433962,730.0,677.86792452830184,b4500e386ef18d76dbbb0acff11da8e5c3a8a4a0,US,NC,Garner,0,auto,auto,Home,false,false,false,Gas
+722.0135344160866,778.37587006960553,723.50348027842233,799f93149a3afee28b009f1d0b9495b72918df28,US,NC,Garner,0,auto,hold,Home,false,false,false,Gas
+704.30810810810806,767.6,767.6,80584edc565de872d6e1008ad219522d0625c3da,US,NC,Garner,0,heat,hold,Home,false,false,false,Gas
+650.83050847457628,662.723163841808,659.15254237288138,d6a4ef60c7bd4edb7f383da3429cb85a0a5e6af7,US,NC,Leland,0,heat,hold,Home,true,false,false,Gas
+704.18571428571431,711.55714285714282,710.14285714285711,14cc874cfe21dbbf1e0597530dd5050a38c80e5d,US,NC,Mebane,0,heat,hold,Home,true,false,false,Gas
+681.40356394129981,781.60237596086654,674.31201956673658,daf4852e85dd6d78df1faed27cf0d8898a52850a,US,NC,Waxhaw,0,auto,hold,Home,false,false,false,Gas
+678.63148216255979,743.85803604266277,673.15189407870537,87fb9c0cbfadf8306e8a0fbdd3f6dfeeb1d7d895,US,NC,Waxhaw,0,auto,hold,Home,false,false,false,Gas
+663.34252265861028,770.0,631.61631419939579,ec6f00e73c1d00f4a4d9d94c16cd97354ae0da2d,US,NC,Waxhaw,0,auto,auto,Home,false,false,false,Gas
+671.94666666666672,735.6,667.17333333333329,4a2457b46e7c0d09f79583ff6df13166a6107e34,US,NC,Waxhaw,0,auto,auto,Home,false,false,false,Gas
+681.81506196377507,771.59199237368921,674.4518589132507,370aa3c6a9169a818389ce1b805eddfb53141b54,US,NC,Clayton,0,auto,hold,Home,false,false,true,Electric
+723.375,760.0,710.0,6fd30da363e950e9980dba45b9f4903e0006635a,US,NC,Clayton,0,auto,auto,Home,true,false,true,Electric
+642.99534550662372,652.39240959541712,636.31006086645186,45f8332d2ef137eff94623da5e622a1f1cac0fb1,US,NC,Concord,0,heat,auto,Home,true,false,true,Electric
+679.88888888888891,725.0,675.0,013708850f6d20343f635dc3c0130399b66b0578,US,NC,Concord,0,auto,hold,Home,false,false,false,Gas
+707.77518248175181,710.3445255474453,710.3445255474453,9eae11ce69525aa31dc421060f83627efac64ee6,US,NC,Raleigh,0,heat,auto,Home,true,false,true,Electric
+671.34199134199139,674.19913419913416,673.80952380952385,306f3d9c104ff1a73bcdc225c0730a24410cb8da,US,NC,Raleigh,0,heat,auto,Home,true,false,true,Electric
+672.75478927203062,675.095785440613,675.095785440613,306f3d9c104ff1a73bcdc225c0730a24410cb8da,US,NC,Raleigh,0,heat,hold,Home,true,false,true,Electric
+676.94962216624685,732.24433249370281,680.52141057934512,306f3d9c104ff1a73bcdc225c0730a24410cb8da,US,NC,Raleigh,0,auto,auto,Home,true,false,true,Electric
+675.06777645659929,683.82401902497031,680.129607609988,306f3d9c104ff1a73bcdc225c0730a24410cb8da,US,NC,Raleigh,0,auxHeatOnly,hold,Home,true,false,true,Electric
+679.8645598194131,780.9029345372461,681.252821670429,9d150f130d719458b199277c685d0f0e36c19645,US,NC,Raleigh,0,auto,hold,Home,false,false,false,Gas
+683.94207317073176,730.54496951219517,680.03963414634143,01f2cdbaac7362a290e7c1ef329644013dfaeff6,US,NC,Raleigh,0,heat,auto,Home,false,false,false,Gas
+674.68627450980387,688.35294117647061,688.35294117647061,f4394e841634bb29011aa08d4a33b7cde6bf9536,US,NC,Raleigh,0,cool,hold,Home,true,false,false,Gas
+734.43246592317223,718.43246592317223,718.43246592317223,05a55d1615ff252bbb2827ca5ece8aec34f5204b,US,NC,Raleigh,0,off,auto,Home,false,false,true,Electric
+699.18279569892468,703.741935483871,703.741935483871,b9f557d7a2f45235b4cb62b4a5b37b99c23cc836,US,NC,Raleigh,0,heat,hold,Home,false,false,true,Electric
+694.41884816753929,740.0,699.9738219895288,6af48ad11a5dad9d524abd54a8e4c8905a50f7e0,US,NC,Raleigh,0,auto,hold,Home,true,false,true,Electric
+697.04861111111109,710.22916666666663,709.89930555555554,ea2e80fd9eb1aa9bf67ed6593b2a9bc03c8a326f,US,NC,Raleigh,0,heat,hold,Home,false,false,false,Gas
+667.38819320214668,660.73255813953483,639.47763864042929,2d30dea2e2bea6e05abe1209557199a7a5e18727,US,NC,Matthews,0,heat,hold,Home,true,false,false,Gas
+666.08131067961165,677.69660194174753,677.627427184466,446f1771b538690d9f1d5a2b6228deb8d24ad94e,US,NC,Matthews,0,heat,auto,Home,false,false,false,Gas
+658.56279069767447,650.0,635.677519379845,a1045af8db512adca850283183abdd5a4d063403,US,NC,Matthews,0,heat,hold,Home,true,false,false,Gas
+725.95111386138615,733.762995049505,676.53650990099015,655bff746c3362e671a08cd662188269946aa747,US,NC,Matthews,0,auto,auto,Home,false,false,false,Gas
+679.56944444444446,680.0,680.0,5e78e27cf6ecfac43a1b9d1cdb9dd7c3fe47b349,US,NC,Asheville,0,heat,auto,Home,false,false,false,Gas
+679.92413793103447,779.10344827586209,621.551724137931,45e49000280e8f90bc3ae63fc7fe734fdf59fea8,US,NC,Charlotte,0,auto,auto,Home,false,false,false,Gas
+713.62737642585546,722.22686945500629,722.24968314321927,1a7174d13bc5b84fc583a368a0c63334f367225d,US,NC,Charlotte,0,heat,hold,Home,true,false,false,Gas
+697.87083333333328,670.0,658.4,1aaaaf5d18d9a98da39604c3bd68c153cd4d320c,US,NC,Charlotte,0,heat,auto,Home,false,false,false,Gas
+712.17975970425141,715.37939001848429,715.36645101663589,1a7174d13bc5b84fc583a368a0c63334f367225d,US,NC,Charlotte,0,heat,auto,Home,true,false,false,Gas
+662.64106844741241,754.59488035614913,659.18363939899837,0e704d59c91109266f6995c81e2e03260ead7457,US,NC,Charlotte,0,auto,hold,Home,false,false,false,Gas
+674.0736434108527,746.2354651162791,653.92441860465112,5e4b613510c883fe33ff02daece1f7a805b3087e,US,NC,Charlotte,0,heat,auto,Home,false,false,false,Gas
+687.22222222222217,700.0,650.0,70e80a8dff539e324e121c53ac0ac7247d4bc563,US,NC,Charlotte,0,auto,auto,Home,false,false,false,Gas
+672.43967828418226,667.99285075960677,667.99285075960677,a055134c5c1e8426ddcec6c1b6ab032d4a39a364,US,NC,Charlotte,0,heat,hold,Home,true,false,false,Gas
+676.32941176470592,780.0,677.7660899653979,a5181ddc36c2d27668594f39b02423865f742e69,US,NC,Charlotte,0,auto,hold,Home,true,false,true,Electric
+669.2448812448813,668.35053235053238,668.35053235053238,140b8406b6cbed5f65849307baf6e8986c195e8a,US,NC,Charlotte,0,heat,hold,Home,false,false,false,Gas
+710.31225806451607,699.32774193548391,699.32774193548391,45a4e688c2469a1c90e709a15ffa2ea01b6aa220,US,NC,Charlotte,0,heat,hold,Home,true,false,true,Electric
+689.8224414303329,692.11159062885326,692.11159062885326,661f3b1405383592961dadd95d8d27e96780193f,US,NC,Charlotte,0,heat,auto,Home,false,false,false,Gas
+699.58747203579424,699.82505592841164,699.82505592841164,9d04cca0efec40d1b730cd474a44f9a193af3286,US,NC,Charlotte,0,heat,hold,Home,false,false,false,Gas
+701.64720812182736,695.31928934010148,698.41624365482232,03258b6f32bb89fc0f8ae00ef05eeaa32cdbaf19,US,NC,Charlotte,0,heat,auto,Home,false,false,false,Gas
+701.29702970297035,702.52406964834415,702.52406964834415,84e8b02940d3f39daee24dccc1a50102fb254aaa,US,NC,Charlotte,0,heat,hold,Home,false,false,true,Electric
+699.31372549019613,730.0,700.0,8f02ccdb7edcea2ee57c706aab53000de6b9d81b,US,NC,Charlotte,0,auto,auto,Home,true,false,true,Electric
+756.79797979797979,761.68484848484843,761.68484848484843,bf5b78da9df0570b2bff0c67dd9a861c2ed42ada,US,NC,Greensboro,0,auxHeatOnly,auto,Home,true,false,true,Electric
+669.77018633540376,680.0,680.0,b8118846d75b7b938d8e9b7e805b5fec87d5a1c4,US,NC,Greensboro,0,off,hold,Home,false,false,false,Gas
+705.21276595744678,704.22553191489362,703.63829787234044,1bba0f60cf197933ca979ecaef7876f8ae5f135d,US,NC,Greensboro,0,heat,auto,Home,false,false,false,Gas
+695.74853801169593,691.60818713450294,684.59064327485385,1bba0f60cf197933ca979ecaef7876f8ae5f135d,US,NC,Greensboro,0,heat,hold,Home,false,false,false,Gas
+712.32242990654208,711.09579439252332,711.09579439252332,2501923cd42a26d4bfd49f18df51804cca898dc5,US,NC,Greensboro,0,heat,hold,Home,false,false,false,Gas
+739.66666666666663,736.952380952381,736.952380952381,7754ea3fe50fce5208d60b5b3d26be5e6612d3fc,US,NC,Greensboro,0,cool,hold,Home,true,false,true,Electric
+670.17791411042947,680.04294478527606,676.43558282208585,4701a84c767ca3e57720053a386adfb0116f08e5,US,NC,High Point,0,heat,hold,Home,false,false,false,Gas
+724.21794871794873,720.0,720.0,a139302ba83951afc6de2106262365570970ef15,US,NC,High Point,0,heat,auto,Home,false,false,false,Gas
+701.59016393442619,706.21311475409834,689.11475409836066,47de2194f84d169171aecb30c848574c382a2b74,US,NC,Wilmington,0,heat,auto,Home,true,false,true,Electric
+705.66247379454921,701.11320754716985,701.10272536687626,47de2194f84d169171aecb30c848574c382a2b74,US,NC,Wilmington,0,heat,hold,Home,true,false,true,Electric
+714.15968289920727,716.94790486976217,716.89127972819927,6cc7ecc900af78d6d012a98137e3b72f491244c5,US,NC,Wilmington,0,heat,hold,Home,true,false,true,Electric
+692.24200913242009,697.31506849315065,697.1232876712329,879e40c26b4fdb8199029ecd3e5cf71694dacd4d,US,NC,Chapel Hill,0,heat,auto,Home,true,false,false,Gas
+684.61597938144325,684.84536082474222,684.84536082474222,d311b87d2c5b00b39ada12f3927c41b807115db5,US,NC,Morrisville,0,heat,hold,Home,false,false,false,Gas
+701.08023483365946,699.08806262230917,699.08806262230917,d311b87d2c5b00b39ada12f3927c41b807115db5,US,NC,Morrisville,0,heat,auto,Home,false,false,false,Gas
+684.283082077052,691.3065326633166,691.3065326633166,d3d9d848584109764d55de3f51c65b33c5663579,US,NC,Weaverville,0,heat,auto,Home,false,false,true,Electric
+688.88939606741576,688.40660112359546,688.39325842696633,38ccd42fd728df8d4e35d1844766af59db3d2fe0,US,NC,Fayetteville,0,heat,hold,Home,true,false,true,Electric
+690.66666666666663,770.0,681.82905982905982,34b48462ccc25b26410dd189cca031899c12f886,US,NC,Fayetteville,0,auto,hold,Home,false,false,false,Gas
+713.35709526982009,712.97901399067291,712.97901399067291,a4b6d44836d1e37013c75887951b938121680a6d,US,NC,Huntersville,0,heat,hold,Home,false,false,false,Gas
+710.65248226950359,707.65770810003733,707.65770810003733,66ad263581f4ec46c33933a3612bc27f8c7040ff,US,NC,Huntersville,0,heat,hold,Home,false,false,false,Gas
+701.60105230578768,703.55400804704425,703.55400804704425,10868447cc69b0e1b1545d755b2f913aa57f5e31,US,NC,Huntersville,0,heat,auto,Home,false,false,false,Gas
+709.67307692307691,717.15384615384619,717.15384615384619,10868447cc69b0e1b1545d755b2f913aa57f5e31,US,NC,Huntersville,0,cool,auto,Home,false,false,false,Gas
+715.85294117647061,720.0,720.0,42d2cc30edbcaecbdc72c59c23926aca6d33d5a7,US,NC,Fuquay-Varina,0,auxHeatOnly,hold,Home,true,false,true,Electric
+657.67605633802816,692.6056338028169,642.04225352112678,3de41cd365bbb47c6c807b54fef0fd125bf285a2,US,NC,Holly Springs,0,auto,hold,Home,true,false,false,Gas
+686.9473684210526,670.0,670.0,f74ea8f6183abe0a5c87399bb5011b7515b25c7c,US,NC,Holly Springs,0,cool,hold,Home,false,false,false,Gas
+687.11698717948718,761.10576923076928,688.76923076923072,ead3bf0a3cac3ab4e66024b9d6e7b4d52bc35af9,US,NC,Holly Springs,0,auto,auto,Home,false,false,false,Gas
+696.44360902255642,698.875939849624,698.86654135338347,c3d301f7621f793cf60892658053f83ae6e0af6e,US,NC,Holly Springs,0,heat,auto,Home,true,false,false,Gas
+527.70784313725494,650.07352941176475,550.74901960784314,9bb244d27dccfc4f34bc4aaa7bf8844eafe7698d,US,NC,Winston-Salem,0,off,hold,Home,false,false,true,Electric
+622.79220085470081,650.01495726495727,619.98450854700855,f8a3e22841b445f9a34ed934a9b4f0cfc7fe62e8,US,NC,Ocean Isle Beach,0,heat,hold,Home,false,false,true,Electric
+659.03898305084749,650.0,639.98644067796613,f8a3e22841b445f9a34ed934a9b4f0cfc7fe62e8,US,NC,Ocean Isle Beach,0,heat,auto,Home,false,false,true,Electric
+700.875,695.625,695.625,dee2c41bea7d71c9baa7c200f912eff9229220a8,US,NC,Kure Beach,0,heat,auto,Home,true,false,true,Electric
+687.921052631579,698.73684210526312,696.84210526315792,81edc43353bc2be40ffb6244c9b080db20b2a944,US,NC,Sneads Ferry,0,heat,hold,Home,true,false,true,Electric
+716.54166666666663,694.29166666666663,694.83333333333337,a98d0c73bb512b8d4106ac1134a720c09e482b92,US,NC,Shallotte,0,cool,hold,Home,true,false,true,Electric
+677.13888888888891,720.0,720.0,2423efeeef2585876a2883c8601b764404a7eee7,US,NC,Tarboro,0,cool,hold,Home,true,false,true,Electric
+648.921875,749.328125,644.671875,95d22ce3ebcd7ac204bceca1eb9dae1900102cda,US,NC,Durham,0,auto,auto,Home,true,false,true,Electric
+660.47619047619048,690.0,690.0,adc01ca5408d5656af2e3aa0101d6ded5f7ac702,US,NC,Durham,0,off,hold,Home,false,false,false,Gas
+695.64285714285711,830.0,697.0,7316f5707304380513e0013533b15fe19be36ac6,US,NC,Raleigh,0,auto,hold,Home,true,false,false,Gas
+679.015873015873,675.79365079365084,675.79365079365084,5e78e27cf6ecfac43a1b9d1cdb9dd7c3fe47b349,US,NC,Asheville,0,heat,hold,Home,false,false,false,Gas
+698.47826086956525,700.0,700.0,5eb64c2d8f3aca8987daa8b1c22b6cd14efb3a9c,US,NC,Charlotte,0,auxHeatOnly,auto,Home,true,false,false,Gas
+698.61490683229817,707.07453416149065,707.07453416149065,45a4e688c2469a1c90e709a15ffa2ea01b6aa220,US,NC,Charlotte,0,cool,auto,Home,true,false,true,Electric
+679.09259259259261,715.72222222222217,662.38888888888891,c3d301f7621f793cf60892658053f83ae6e0af6e,US,NC,Holly Springs,0,auto,auto,Home,true,false,false,Gas
+642.325,660.0,660.0,ceeb5c7cfa8f291dc34028d1e9f670fe4742cbbb,US,NC,Robbinsville,0,off,auto,Home,true,false,true,Electric
+681.6,694.4,687.4,679fce38ae0616b373a0f4d4ec4bc94b6b64ec16,US,NC,Greenville,0,off,hold,Home,true,false,true,Electric
+695.22580645161293,704.35483870967744,704.35483870967744,ef537ac4544a1361d72693ae319af4c110c69a47,US,NC,Greenville,0,auxHeatOnly,hold,Home,true,false,true,Electric
+652.0,700.0,700.0,04dd518bf8f1884f9f669346b66a3f68af1b423f,US,NC,Wallace,0,heat,hold,Home,false,false,true,Electric
+643.96428571428567,649.10714285714289,579.78571428571433,0bc26f0cb91c997fb24b1aace63db8b579e1bb73,US,NC,Durham,0,auto,hold,Home,false,false,false,Gas
+661.52830188679241,650.0,620.0,2482196025156929dff29de14ed15389745402be,US,NC,Charlotte,0,heat,auto,Home,false,false,false,Gas
+676.90909090909088,686.27272727272725,686.27272727272725,ffba1710a1e9900a164c51fe9cf3b2017bca2c43,US,NC,Charlotte,0,cool,hold,Home,true,false,true,Electric
+688.82608695652175,700.0,700.0,ebc728101b2997608413baa54c4c8d53bda7bdd5,US,NC,Hendersonville,0,heat,auto,Home,false,false,false,Gas
+745.16666666666663,746.75,746.75,bf5b78da9df0570b2bff0c67dd9a861c2ed42ada,US,NC,Greensboro,0,cool,hold,Home,true,false,true,Electric
+658.14285714285711,655.57142857142856,620.0,dd55753d4cd8338a5a8e7f5670eed9888b874868,US,NC,Apex,0,heat,auto,Home,true,false,false,Gas
+668.21428571428567,743.14285714285711,668.0,09e6e3d6e0c34d60ffb7cb7996ed835efd1a5426,US,NC,Asheville,0,heat,auto,Home,false,false,true,Electric
+718.07142857142856,721.5,720.0,641aee9f6ca441f829975ca6e16d1e10b97aaba6,US,NC,Greensboro,0,heat,hold,Home,false,false,false,Gas
+624.20833333333337,655.66666666666663,600.66666666666663,91f9da0cad3508f8cce033ccc464ee56acfe4d98,US,NC,Cary,0,heat,auto,Home,false,false,false,Gas
+710.5,681.2,680.2,2bd30df8a2dbbb141b406bcaebf5e3efe0fece0f,US,NC,Charlotte,0,heat,auto,Home,true,false,false,Gas
+668.9,789.6,648.0,1d2ac14625fb54cdfc69700a8ea1707f0eb2a39d,US,NC,Cary,0,heat,auto,Home,false,false,false,Gas
+703.0,684.0,667.0,daf4852e85dd6d78df1faed27cf0d8898a52850a,US,NC,Waxhaw,0,auto,auto,Home,false,false,false,Gas
+711.0,704.0,702.0,2e4cef2380cf787a2264ad7bd937c58b25d0b8eb,US,NC,Charlotte,0,off,auto,Home,false,false,false,Gas
+672.94117647058829,679.88235294117646,679.88235294117646,a053dd25784c094d0409dd78ea727427b9b37f01,US,NC,Greensboro,0,heat,hold,Home,true,false,true,Electric
+741.0,700.0,700.0,79fd110bb08aacc5f99eb0090fe8c1e93a8b7d86,US,NC,Como,0,heat,auto,Home,true,false,true,Electric
+715.66666666666663,720.0,720.0,6393d87298a7a1091bd21c93672df01f031a73a7,US,NC,Morrisville,0,cool,hold,Home,false,false,false,Gas
+752.33333333333337,727.66666666666663,720.0,2423efeeef2585876a2883c8601b764404a7eee7,US,NC,Tarboro,0,cool,auto,Home,true,false,true,Electric
+731.4,700.0,700.0,84e8b02940d3f39daee24dccc1a50102fb254aaa,US,NC,Charlotte,0,cool,hold,Home,false,false,true,Electric
+662.0,748.0,688.0,d708ff9dbae3132a72cde628968ae5ec57671fe0,US,NC,Winston-Salem,0,auto,hold,Home,true,false,true,Electric
+687.0,740.0,670.0,e1b933034634dbeadc7a4790aed0624946802f10,US,NC,High Point,0,heat,hold,Home,true,false,false,Gas
+695.2,700.0,650.0,c846da8bcbb126db9839e7447e14cff572fb5e50,US,NC,Farmville,0,auto,auto,Home,false,false,false,Gas
+632.33333333333337,701.33333333333337,699.66666666666663,a38d9fc9d82eb1ba67fa98be264ff070c240ad88,US,NC,Cary,0,heat,hold,Home,false,false,false,Gas
+723.0,697.5,697.5,10868447cc69b0e1b1545d755b2f913aa57f5e31,US,NC,Huntersville,0,cool,hold,Home,false,false,false,Gas
+715.0,776.0,720.0,4956ed63f648eebe99d7886d7089b060b4f091af,US,NC,Raleigh,0,auto,auto,Home,true,false,false,Gas
+699.10498960498956,696.5,696.5,70e93e613a2e69c50a13137e42306aab0666b25c,US,NC,Burlington,0,heat,hold,Home,false,false,false,Gas
+734.07404580152672,737.49618320610682,733.98473282442751,90a59924e89fa534e04747e463fd24a598bf9f66,US,NC,apex,0,heat,hold,Home,true,false,true,Electric
+712.35046880051732,724.49401875202068,724.49401875202068,fac913009054b1a14eda561e0cd864cd82591465,US,NC,Cameron,0,heat,hold,Home,true,false,true,Electric
+687.448275862069,713.29655172413788,645.23448275862074,5a6bec1cbb2beb3a8db7389ffe2c9d92c8b43045,US,NC,Archer Lodge,0,auto,hold,Home,false,false,true,Electric
+751.89443535188218,865.56464811783962,752.64729950900164,73793ea5e1d91fd5d63941e420271f50d185ab94,US,NC,Windsor,0,auto,hold,Home,false,false,true,Electric
+648.88542825361515,652.95328142380424,652.01890989988874,d0089324b3392db1aace27d63135822f04bc1c69,US,NC,State Road,0,heat,auto,Home,true,false,false,Gas
+663.78582202111613,668.54826546003017,667.29864253393669,1e4e8ed207839cb1c216c6d6c145d9b2f895ae2f,US,NC,Iron Station,0,heat,hold,Home,true,false,true,Electric
+675.9741028486867,728.81428042915275,671.44432112467632,8aa23567aa33ca87b3616936a0862395fe49e552,US,NC,Hope Mills,0,auto,hold,Home,false,false,true,Electric
+673.1388190954774,670.74811557788939,670.7456030150754,9ea980db970426a400501e395079024f1dbce316,US,NC,Winston salem,0,heat,hold,Home,false,false,false,Gas
+702.0,699.25786163522014,699.23427672955972,c9646006b6f1320b62cd0a489b98d724c8b3afff,US,NC,Tarboro,0,heat,hold,Home,false,false,false,Gas
+710.58139534883719,677.15116279069764,676.88372093023258,a98d0c73bb512b8d4106ac1134a720c09e482b92,US,NC,Shallotte,0,heat,hold,Home,true,false,true,Electric
+689.26245847176085,660.29900332225918,660.29900332225918,ec629087cdf846f61e9df580bd1eda56f6816862,US,NC,Greenville,0,heat,auto,Home,false,false,true,Electric
+693.15881261595553,732.40816326530614,666.913172541744,7ce5aa6160c998b98a93f8c490c117db0bf53c31,US,NC,CHARLOTTE,0,heat,auto,Home,false,false,false,Gas
+687.57843137254906,660.0,660.0,c0d4e8dd123a8a80901b1ba9d92274898e69928f,US,NC,Shallotte,0,cool,hold,Home,true,false,true,Electric
+642.43874172185429,660.0,660.0,ceeb5c7cfa8f291dc34028d1e9f670fe4742cbbb,US,NC,Robbinsville,0,cool,auto,Home,true,false,true,Electric
+680.99528301886789,736.15566037735846,663.55660377358492,beee408f18fe33aa1af8dde434b0cc5ea55539e1,US,NC,Davidson,0,heat,auto,Home,false,false,false,Gas
+651.95953757225436,667.06936416184976,665.13872832369941,58e69a238b4dc061c92091ae0251502d7e6d01e7,US,NC,clemmons,0,heat,auto,Home,true,false,true,Electric
+680.28742514970065,674.74593669803255,669.52010265183912,3f966c361f3a0a49c63188b18223ff4d3819b726,US,NC,CHARLOTTE,0,heat,auto,Home,false,false,false,Gas
+668.37521815008722,720.0,670.0,1d2876be807fdca8f9860ff646f2ceb3c5ad8951,US,NC,New Bern,0,heat,auto,Home,false,false,true,Electric
+651.93846153846152,720.0,670.0,c0d4e8dd123a8a80901b1ba9d92274898e69928f,US,NC,Shallotte,0,off,hold,Home,true,false,true,Electric
+681.91890348372362,800.0,680.0,f0f541a6b59c2f4fe01319f6191fed345c42bfbf,US,NC,St. James,0,heat,auto,Home,true,false,true,Electric
+695.14743589743591,710.0,680.0,d1a7fb4f6a3d874e8f493ef7793b7ee70187891e,US,NC,Lincolnton,0,auto,hold,Home,true,false,true,Electric
+685.67013888888891,689.30034722222217,689.30034722222217,985b7114a0779d980232a07a835367578b8258e9,US,NC,Rockwell,0,heat,hold,Home,false,false,true,Electric
+707.54452926208648,730.0,700.0,41ed7dff403925e5e3c1c3ca15c728fb3dd79bd8,US,NC,Lincolnton,0,auto,auto,Home,true,false,true,Electric
+699.61956521739125,702.1521739130435,702.1521739130435,cbd13bd95669c325ac30e055930ebff44b57c8f1,US,NC,Murphy,0,heat,hold,Home,false,false,true,Electric
+725.05336426914153,727.71229698375873,727.71229698375873,82f5f5424be6a8cc4453828e476b3a9f235c2d8a,US,NC,Raeford,0,heat,auto,Home,false,false,true,Electric
+728.82789783889984,733.57721021611007,733.57721021611007,452a31b4a2e661b2b9ba9f840f50adec0ab0a3af,US,NC,Raeford,0,heat,hold,Home,false,false,true,Electric
+723.95258620689651,724.9655172413793,724.9655172413793,724fa33f992f6a7b8ae05a14042a361cc19e33db,US,NC,Murfreesboro,0,heat,auto,Home,true,false,true,Electric
+690.85393258426961,719.48314606741576,718.97752808988764,ca7e3eb3aeca616947ceba8fd4949dec6bb3416c,US,NC,Banner Elk,0,heat,auto,Home,true,false,true,Electric
+726.5408163265306,800.0,750.0,788369e6a13855797ace59f45d3b9471a1c6afc7,US,NC,Hope Mills,0,off,auto,Home,true,false,true,Electric
+718.29804482594182,719.65808297567958,719.65808297567958,c7527aeb3411af6a31325cb464897df2ec2b6a57,US,NC,Apex,0,heat,hold,Home,true,false,false,Gas
+713.76150627615061,799.91631799163179,710.0,91c44fb8470a3c871f5746a40efadfd69b5c6cda,US,NC,Apex,0,auto,hold,Home,false,false,false,Gas
+718.5,688.33333333333337,688.33333333333337,eeaf2837744ef781e893e47d929225f3f0c09e54,US,NC,Cary,0,heat,hold,Home,true,false,true,Electric
+721.33823529411768,721.11111111111109,721.11111111111109,d5181883a040a7fb4507f150553c401a2da110ff,US,NC,Cary,0,heat,auto,Home,false,false,false,Gas
+672.8,726.0,696.0,0cbddd92658a1b1af0fa2584947a4820e7c6b381,US,NC,Durham,0,heat,auto,Home,true,false,true,Electric
+635.59780219780225,652.723076923077,637.87912087912093,3c465be0e0cca2841eeae673c4f4876c0301c7bd,US,NC,Durham,0,heat,auto,Home,true,false,true,Electric
+638.04436860068256,659.19453924914671,639.34129692832767,9385178e8cd3fa206bd364459681cba23fb796e9,US,NC,Durham,0,heat,hold,Home,false,false,false,Gas
+643.862831858407,799.46902654867256,632.44247787610618,ac8d273d024ca1804ce5cbdde34945fec00b7413,US,NC,Durham,0,auto,auto,Home,true,false,true,Electric
+694.75,702.89444444444439,698.08472222222224,c6f176cf54ba77d66c10849c573f937cb9740e22,US,NC,Durham,0,auxHeatOnly,hold,Home,false,false,true,Electric
+685.021978021978,673.06959706959708,673.06959706959708,cacbbe2c6b6e6cb0860749aebc55c012d626fe12,US,NC,Durham,0,heat,auto,Home,false,false,false,Gas
+676.83441981747069,758.35071707953068,675.8396349413299,7017de9fd09557248f250504c08e756105d105ae,US,NC,Durham,0,auto,hold,Home,false,false,false,Gas
+679.3274167987322,740.0,680.0,3b65962335fb976bffe326f931779448702ac3a4,US,NC,Durham,0,auto,hold,Home,true,false,true,Electric
+686.933908045977,750.0,680.00670498084287,877e7a1a6e284cb6af24d838917bfbef49b44b30,US,NC,Durham,0,auto,auto,Home,false,false,true,Electric
+697.67243867243872,698.40644540644541,698.40644540644541,2382bfcbe7dac08fb60f22e8018eed2de89a1800,US,NC,Durham,0,heat,hold,Home,true,false,true,Electric
+693.85393258426961,745.0,695.0,d09bc6bc109617fc67d955fc64f124127a36c7bb,US,NC,Durham,0,auto,hold,Home,true,false,false,Gas
+686.5,697.06,697.06,2382bfcbe7dac08fb60f22e8018eed2de89a1800,US,NC,Durham,0,cool,hold,Home,true,false,true,Electric
+677.98307952622679,681.00676818950933,681.00676818950933,68fe2f08d55231b7fda2c5f397393102afc858a0,US,NC,Garner,0,heat,auto,Home,true,false,false,Gas
+678.421052631579,678.23421052631579,678.23421052631579,6341f3d8ab3e81f5e1fbf9e73a0ed9a5b87d54ce,US,NC,Mebane,0,heat,hold,Home,false,false,false,Gas
+707.35714285714289,710.0,710.0,fb6e7b8026ea725864b4ce98be2df27e3627d56d,US,NC,Monroe,0,heat,hold,Home,false,false,false,Gas
+701.42404442992483,748.609604704345,697.93825547206791,59961ca568c926494d359a04b57b571968c74754,US,NC,Supply,0,auto,hold,Home,true,false,true,Electric
+704.12465483234712,720.17633136094673,699.72465483234714,e12bdd444519269da7b6784a0ebf7ef5e2508d54,US,NC,Supply,0,auto,auto,Home,true,false,true,Electric
+676.22352941176473,750.0,675.22689075630251,cc5733b291f44c75d2b91cc0ea98a9f0d78a736f,US,NC,Waxhaw,0,auto,auto,Home,false,false,false,Gas
+672.88135593220341,665.93220338983053,665.93220338983053,273af785692e768b859cdf134a378f3f2b8f65c5,US,NC,Clayton,0,heat,hold,Home,true,false,true,Electric
+634.0280112044818,790.0,640.0,1b8e84390b1fe83eb743de7948a18733215d2246,US,NC,Concord,0,auto,auto,Home,false,false,false,Gas
+689.97339901477835,671.032512315271,671.032512315271,a4ae5405bbbabdb62d26489dc63dd2c251f315b2,US,NC,Raleigh,0,heat,hold,Home,true,false,false,Gas
+672.4,712.8,712.8,9a36fe041a5d5383bd46566cd32963690fdb7b7f,US,NC,Raleigh,0,heat,hold,Home,true,false,true,Electric
+674.162293488824,672.678814382896,672.678814382896,f4394e841634bb29011aa08d4a33b7cde6bf9536,US,NC,Raleigh,0,heat,hold,Home,true,false,false,Gas
+675.18324022346371,686.68603351955312,686.663687150838,ea2e80fd9eb1aa9bf67ed6593b2a9bc03c8a326f,US,NC,Raleigh,0,heat,auto,Home,false,false,false,Gas
+682.48529411764707,680.01696832579182,680.01696832579182,f4394e841634bb29011aa08d4a33b7cde6bf9536,US,NC,Raleigh,0,heat,auto,Home,true,false,false,Gas
+694.05122494432067,697.24053452115811,697.24053452115811,32f4252203388973a7fd886a73b8aedbcf16cd5d,US,NC,Raleigh,0,heat,hold,Home,true,false,true,Electric
+691.20689655172418,695.34482758620686,695.34482758620686,0a71273fadd358f641543a3ad045be52c841e1ee,US,NC,Raleigh,0,heat,auto,Home,true,false,false,Gas
+688.55925925925931,750.67037037037039,689.98148148148152,97bdf301cdb4477d62acfdb0fe197bfbffbf1ba6,US,NC,Raleigh,0,auto,auto,Home,false,false,false,Gas
+703.07575757575762,707.070707070707,707.05808080808083,01f2cdbaac7362a290e7c1ef329644013dfaeff6,US,NC,Raleigh,0,heat,hold,Home,false,false,false,Gas
+704.0,700.0,700.0,4956ed63f648eebe99d7886d7089b060b4f091af,US,NC,Raleigh,0,heat,hold,Home,true,false,false,Gas
+705.03763440860212,694.42473118279565,693.97849462365593,d7f2ce8eb21f7bba35713594c2610ae83d323124,US,NC,Raleigh,0,heat,auto,Home,true,false,true,Electric
+714.88172043010752,741.38709677419354,716.21505376344089,ec97e3333efce64b51fa476983ae02576ae7c4d6,US,NC,Raleigh,0,auto,auto,Home,false,false,true,Electric
+678.52973977695171,668.957249070632,668.70631970260229,61edac4b57f0f9dcf34a05c52536c7a62d63c40d,US,NC,Asheville,0,heat,hold,Home,false,false,true,Electric
+669.41623036649219,770.0,668.458115183246,d001da69dd04a62871fae261014073904b1f62fd,US,NC,Charlotte,0,auto,hold,Home,false,false,false,Gas
+711.52083333333337,756.38541666666663,693.83680555555554,510ffff1de3f0ef2cee21151c950645e2a265db7,US,NC,Charlotte,0,auto,hold,Home,false,false,false,Gas
+705.96120884077584,689.71447902571038,689.71447902571038,45a4e688c2469a1c90e709a15ffa2ea01b6aa220,US,NC,Charlotte,0,heat,auto,Home,true,false,true,Electric
+675.33884688090734,675.68052930056706,675.68052930056706,1aa2f79f93a5ab257cdb13fe3493df46c34c9da5,US,NC,Charlotte,0,heat,hold,Home,false,false,false,Gas
+677.37796373779634,750.0,678.40864714086467,c6a8a0168df9e3dc7880ff9503c85f05a28d1ee1,US,NC,Charlotte,0,auto,auto,Home,false,false,false,Gas
+675.138671875,750.0,674.072265625,c6a8a0168df9e3dc7880ff9503c85f05a28d1ee1,US,NC,Charlotte,0,auto,hold,Home,false,false,false,Gas
+680.198538754765,675.30114358322749,675.30114358322749,57dca5f18396e0b5af8f0f0c2075a987e1c03835,US,NC,Charlotte,0,auxHeatOnly,hold,Home,true,false,false,Gas
+686.06770833333337,690.0,690.0,8f64e459d51bccc8a3a26516cf98866c6173f62a,US,NC,Charlotte,0,heat,hold,Home,false,false,false,Gas
+710.95914396887156,711.99805447470817,711.99766536964978,64b6e1d681ab0cf0779f114efc8d8172547cb3ae,US,NC,Charlotte,0,heat,hold,Home,false,false,false,Gas
+704.60614035087724,739.47982456140346,709.47982456140346,464b39fcd88c9fb1c3a773f7031fdaee72422830,US,NC,Charlotte,0,auto,auto,Home,true,false,true,Electric
+747.82573529411764,754.2705882352941,754.2705882352941,bf5b78da9df0570b2bff0c67dd9a861c2ed42ada,US,NC,Greensboro,0,heat,auto,Home,true,false,true,Electric
+745.82142857142856,750.936507936508,750.936507936508,bf5b78da9df0570b2bff0c67dd9a861c2ed42ada,US,NC,Greensboro,0,heat,hold,Home,true,false,true,Electric
+762.57312252964425,767.74308300395262,767.74308300395262,bf5b78da9df0570b2bff0c67dd9a861c2ed42ada,US,NC,Greensboro,0,auxHeatOnly,hold,Home,true,false,true,Electric
+629.58571428571429,600.0,600.0,cc0594f7117eca06a61bfe49f5fb42ff544d3670,US,NC,Greensboro,0,heat,hold,Home,false,false,false,Gas
+653.72185741088185,752.937148217636,653.11632270168855,a053dd25784c094d0409dd78ea727427b9b37f01,US,NC,Greensboro,0,auto,auto,Home,true,false,true,Electric
+663.31994981179423,750.75282308657461,665.18067754077788,3bc78b0031cea739468b4ef25a1fda36b75d4779,US,NC,Greensboro,0,heat,auto,Home,false,false,false,Gas
+738.61224489795916,745.38775510204084,745.38775510204084,7754ea3fe50fce5208d60b5b3d26be5e6612d3fc,US,NC,Greensboro,0,cool,auto,Home,true,false,true,Electric
+703.97630331753555,725.31279620853081,723.23696682464458,22e64217572590f7cfa2d41a8a9cbc81665eae97,US,NC,High Point,0,heat,hold,Home,false,false,false,Gas
+715.68686868686871,715.9757575757576,715.959595959596,a139302ba83951afc6de2106262365570970ef15,US,NC,High Point,0,heat,hold,Home,false,false,false,Gas
+655.87755102040819,702.10204081632651,647.0204081632653,6cc7ecc900af78d6d012a98137e3b72f491244c5,US,NC,Wilmington,0,auto,auto,Home,true,false,true,Electric
+680.341696535245,730.0,680.0,d4bba99198ff0d00d3a9776a302a450d483d0bfb,US,NC,Wilmington,0,auto,hold,Home,true,false,true,Electric
+668.52238805970148,800.0,640.0,83d02477824b1eaec148868ff1b6d21ffec8068e,US,NC,Chapel Hill,0,auto,hold,Home,true,false,true,Electric
+712.39491077329808,780.0,710.22174487772634,b5fd2c0ce2cafa63100c6d4c2effb56275e71185,US,NC,Chapel Hill,0,auto,hold,Home,true,false,true,Electric
+667.15057915057912,691.07722007722009,690.89961389961388,ed09df8453262528f9795b86fc9383cda01b2b7e,US,NC,Chapel Hill,0,heat,hold,Home,true,false,true,Electric
+693.7611940298508,780.0,690.0,4518c0e39fcbfcdafedfd895fd078eff0d8b67bd,US,NC,Chapel Hill,0,auto,hold,Home,true,false,true,Electric
+709.9728260869565,709.0271739130435,708.98369565217388,83d02477824b1eaec148868ff1b6d21ffec8068e,US,NC,Chapel Hill,0,heat,hold,Home,true,false,true,Electric
+683.074074074074,690.0,690.0,bea5aa689df03f15d5aed11f5021e8379f717d45,US,NC,Mooresville,0,heat,hold,Home,true,false,true,Electric
+676.60784313725492,670.0,670.0,f04aab5a0c2e35613fbe98dc279e69725e6a9998,US,NC,Morrisville,0,heat,auto,Home,false,false,false,Gas
+730.52607709750566,730.41269841269843,730.41269841269843,eb16ff558e20490db74a53cd1e96fcb2fcf247db,US,NC,Morrisville,0,heat,hold,Home,true,false,true,Electric
+672.3125,672.61328125,672.24609375,5692fdd87b7be26b153dde3814b03e6133dc4bad,US,NC,Wake Forest,0,heat,hold,Home,false,false,false,Gas
+681.98717034925164,680.471846044191,680.471846044191,f5615a5e32cc3ff75ef3877f7e9a6e648f355dac,US,NC,Fayetteville,0,heat,hold,Home,false,false,true,Electric
+701.83376623376626,701.03376623376619,701.03376623376619,10868447cc69b0e1b1545d755b2f913aa57f5e31,US,NC,Huntersville,0,heat,hold,Home,false,false,false,Gas
+675.13670886075954,660.9367088607595,656.55696202531647,5ca2e4c5ba10841de5e7a6174b82a6880ee7b92d,US,NC,Fuquay Varina,0,heat,hold,Home,true,false,true,Electric
+667.35294117647061,730.0,670.0,53aff6f49c91e237f87882189d7ff9a292b742e6,US,NC,Fuquay-Varina,0,auto,auto,Home,true,false,true,Electric
+710.96153846153845,719.91880341880346,719.75641025641028,42d2cc30edbcaecbdc72c59c23926aca6d33d5a7,US,NC,Fuquay-Varina,0,auxHeatOnly,auto,Home,true,false,true,Electric
+714.4727272727273,780.0,720.0,6485a21aba2210e4259240b5460934c9aff9ab08,US,NC,Fuquay-Varina,0,auto,auto,Home,false,false,false,Gas
+639.09259259259261,650.0,630.0,310fda738e63c515b0fd4d1513d03659d807661b,US,NC,Holly Springs,0,heat,auto,Home,true,false,false,Gas
+706.28393072895688,708.652436568667,708.652436568667,f74ea8f6183abe0a5c87399bb5011b7515b25c7c,US,NC,Holly Springs,0,heat,hold,Home,false,false,false,Gas
+661.34947049924358,650.00529500756431,639.99394856278366,43999a6fc6c24361d81931a316cf5a96ce14b2b5,US,NC,Ocean Isle Beach,0,heat,auto,Home,true,false,true,Electric
+650.48684210526312,750.0,650.0,6b45d8d227c0a1d1b7f9cd39817885c7cbc3e699,US,NC,Youngsville,0,auto,auto,Home,false,false,false,Gas
+688.25,760.0,685.46428571428567,0e14716902139fb4143df3336d079c80b1e3f907,US,NC,Stallings,0,auto,auto,Home,false,false,false,Gas
+681.723076923077,691.56923076923078,689.16923076923081,dd60e4347fe189042cbf25314461465d2c3f283d,US,NC,Apex,0,heat,hold,Home,false,false,true,Electric
+675.56862745098044,680.0,677.01960784313724,6b7a998d585bceeef269a79a69c2337276c94dac,US,NC,Cary,0,heat,hold,Home,false,false,false,Gas
+671.51111111111106,743.925925925926,671.7037037037037,37e0c85352a934b6ad11905a3a5e53523a2f95b0,US,NC,Durham,0,auto,hold,Home,true,false,true,Electric
+740.44776119402979,743.38805970149258,742.50746268656712,7f6c0ce85a5aa458320181ab1dc460e351075cbd,US,NC,Garner,0,heat,auto,Home,false,false,true,Electric
+636.91666666666663,750.0,645.0,38714ac0c8f9373229c16fbca1c2c5d2263c26cc,US,NC,Mebane,0,auto,hold,Home,true,false,false,Gas
+689.60273972602738,758.56164383561645,679.71232876712327,bdd30516fc3198497836501a1fa102136bb36498,US,NC,Clayton,0,heat,hold,Home,true,false,false,Gas
+694.58064516129036,746.16129032258061,694.22580645161293,6fd30da363e950e9980dba45b9f4903e0006635a,US,NC,Clayton,0,auto,hold,Home,true,false,true,Electric
+666.027027027027,675.0,675.0,5a5198beaddc0cfebd7fa9e3cd6a8b9d0437deec,US,NC,Charlotte,0,cool,hold,Home,true,false,true,Electric
+703.6875,691.375,689.6875,f83f05c8bf50c94a5223c857735098b1fe2adfa0,US,NC,Charlotte,0,heat,auto,Home,false,false,false,Gas
+671.02941176470586,708.76470588235293,708.76470588235293,2482196025156929dff29de14ed15389745402be,US,NC,Charlotte,0,cool,hold,Home,false,false,false,Gas
+683.72580645161293,720.0,720.0,6cc7ecc900af78d6d012a98137e3b72f491244c5,US,NC,Wilmington,0,heat,auto,Home,true,false,true,Electric
+697.80769230769226,690.0,690.0,79e40c49187b15afaff008b55f89fbdb8ac4bd79,US,NC,Wake Forest,0,heat,hold,Home,false,false,true,Electric
+692.48039215686276,690.0,690.0,38ccd42fd728df8d4e35d1844766af59db3d2fe0,US,NC,Fayetteville,0,off,hold,Home,true,false,true,Electric
+717.72972972972968,757.0,707.0,4938c3d6a9900170b382d484802744f380ac14f5,US,NC,Ruffin,0,auto,hold,Home,false,false,true,Electric
+659.7358490566038,720.0,640.0,7b935f0a9d6ea4eca42348c51766ba4f03938ee8,US,NC,Goldsboro,0,heat,auto,Home,true,false,false,Gas
+689.80769230769226,700.0,700.0,1ad92d084990cca3a1a179784aeb5601a2e93f02,US,NC,Apex,0,off,hold,Home,true,false,false,Gas
+640.625,651.25,623.125,2482196025156929dff29de14ed15389745402be,US,NC,Charlotte,0,cool,auto,Home,false,false,false,Gas
+662.02439024390242,664.69512195121956,661.70731707317077,5a5198beaddc0cfebd7fa9e3cd6a8b9d0437deec,US,NC,Charlotte,0,heat,hold,Home,true,false,true,Electric
+716.32758620689651,710.0,710.0,72be5f89fb54ca8a81775936edf517d0bc410ee7,US,NC,Greensboro,0,off,hold,Home,true,false,true,Electric
+675.780487804878,779.90243902439022,660.07317073170736,422ed3efa71ce7d1993f5fdc9ce4926a50702192,US,NC,Durham,0,heat,auto,Home,false,false,false,Gas
+691.73333333333335,710.6,709.6,2bd30df8a2dbbb141b406bcaebf5e3efe0fece0f,US,NC,Charlotte,0,heat,hold,Home,true,false,false,Gas
+700.23076923076928,746.15384615384619,674.61538461538464,335a358877c9e6782dca854f58a9f76c379bf35a,US,NC,Wilmington,0,auto,hold,Home,true,false,true,Electric
+694.30927835051546,770.0,693.19587628865975,7f2dcac9d907ef06864853cc5fb45f009c40778f,US,NC,Charlotte,0,auto,hold,Home,false,false,false,Gas
+709.33333333333337,730.0,702.0,096a69d86e06e7b03f2853d670c63b5713d86611,US,NC,Wilson's Mills,0,off,hold,Home,true,false,true,Electric
+646.0,700.0,700.0,306f3d9c104ff1a73bcdc225c0730a24410cb8da,US,NC,Raleigh,0,cool,auto,Home,true,false,true,Electric
+688.9375,681.875,681.875,a98d0c73bb512b8d4106ac1134a720c09e482b92,US,NC,Shallotte,0,off,hold,Home,true,false,true,Electric
+671.65384615384619,800.0,679.07692307692309,4d901a5edcc335b8af0f44da02adae98d737cdc9,US,NC,Flat Rock,0,auto,auto,Home,false,false,false,Gas
+657.5,650.0,640.0,e49cbacd7188ece81af62ae5b9e5e1333580609c,US,NC,Cary,0,heat,hold,Home,false,false,false,Gas
+633.5,710.0,698.5,a38d9fc9d82eb1ba67fa98be264ff070c240ad88,US,NC,Cary,0,auto,hold,Home,false,false,false,Gas
+730.5,718.5,717.5,6fc187527f28d624896d86b37dd7a959818857ce,US,NC,Morrisville,0,cool,auto,Home,false,false,false,Gas
+722.66666666666663,736.0,700.0,a98d0c73bb512b8d4106ac1134a720c09e482b92,US,NC,Shallotte,0,cool,auto,Home,true,false,true,Electric
+665.5,725.0,670.0,bea5aa689df03f15d5aed11f5021e8379f717d45,US,NC,Mooresville,0,off,hold,Home,true,false,true,Electric
+648.0,702.0,702.0,40379567a6ded963ebeef5eaf6492ecbe6638fda,US,NC,Davidson,0,cool,hold,Home,false,false,false,Gas
+563.19293384135779,652.39729823346033,530.24939383443018,0df1840ca5c53f3f5fe293dad4ded7c7e3aa89df,US,NC,Franklin,0,heat,hold,Home,false,false,true,Electric
+696.453869047619,698.52976190476193,698.52976190476193,b9c5d40cff29c01df32aedae997fa8612ac932ce,US,NC,Wesley Chapel,0,heat,hold,Home,false,false,false,Gas
+762.400641025641,780.0,780.0,788369e6a13855797ace59f45d3b9471a1c6afc7,US,NC,Hope Mills,0,off,hold,Home,true,false,true,Electric
+676.54581358609789,678.78120063191159,678.71090047393363,40379567a6ded963ebeef5eaf6492ecbe6638fda,US,NC,Davidson,0,heat,hold,Home,false,false,false,Gas
+725.34743202416917,722.04531722054378,721.95468277945622,60afbd2a7a0f35ef945c7aac6218450a189282ac,US,NC,Como,0,heat,hold,Home,false,false,true,Electric
+636.30232558139539,653.937984496124,645.40310077519382,7b935f0a9d6ea4eca42348c51766ba4f03938ee8,US,NC,Goldsboro,0,heat,hold,Home,true,false,false,Gas
+644.36217948717945,656.05448717948718,639.62820512820508,d0089324b3392db1aace27d63135822f04bc1c69,US,NC,State Road,0,heat,hold,Home,true,false,false,Gas
+777.80198019801981,780.10682647212093,780.0265763418447,788369e6a13855797ace59f45d3b9471a1c6afc7,US,NC,Hope Mills,0,heat,hold,Home,true,false,true,Electric
+623.77272727272725,666.875,652.25,0df1840ca5c53f3f5fe293dad4ded7c7e3aa89df,US,NC,Franklin,0,heat,auto,Home,false,false,true,Electric
+675.34784622510426,652.77860120426124,639.5104214914312,ec629087cdf846f61e9df580bd1eda56f6816862,US,NC,Greenville,0,heat,hold,Home,false,false,true,Electric
+708.46519383076281,692.271363067945,670.22259274697785,f9a11108c1e58345e172721aaf93c74f328fb864,US,NC,Frisco,0,heat,hold,Home,false,false,true,Electric
+637.95751633986924,650.0,630.0,2d6ceac6219d1c8c0c0141f036a3d6867b15169a,US,NC,Saluda,0,heat,auto,Home,true,false,true,Electric
+669.66958495460437,778.50940337224381,678.15791180285339,bf6bbf1aa5e0e28a5770fe1e246e7ae42e08f6ca,US,NC,Thomasville,0,auto,auto,Home,true,false,true,Electric
+648.78846153846155,700.0,650.0,263470c6bf8827b117355942b1e8691ff15a9034,US,NC,Timberlake,0,auto,auto,Home,false,false,true,Electric
+696.61721068249255,789.99332344213644,698.86201780415433,5401e57d0486a3c18d233c374bd62ea56f44bb51,US,NC,Eden,0,auto,auto,Home,true,false,true,Electric
+672.07800205268563,740.65856996236744,669.04481696886762,ad4cfb4e73f4272a4ca69c634c5ac83387848fd0,US,NC,Harrisburg ,0,auto,hold,Home,false,false,false,Gas
+677.39130434782612,725.33180778032033,671.00686498855839,8aa23567aa33ca87b3616936a0862395fe49e552,US,NC,Hope Mills,0,auto,auto,Home,false,false,true,Electric
+679.02905405405409,676.58851351351348,676.51554054054054,9ea980db970426a400501e395079024f1dbce316,US,NC,Winston salem,0,heat,auto,Home,false,false,false,Gas
+662.21332616872644,665.335303600215,665.335303600215,ceeb5c7cfa8f291dc34028d1e9f670fe4742cbbb,US,NC,Robbinsville,0,heat,auto,Home,true,false,true,Electric
+676.51425438596493,678.75328947368416,678.73282163742692,c9b29e3e3aae5dec24c41bb8a8410bdc2b9f3922,US,NC,Fuquay varina,0,heat,hold,Home,true,false,true,Electric
+667.14460784313724,755.0,665.0,53ddd99562ebc3d5afa0c4e9836b247caf3ec925,US,NC,Hampstead,0,auto,hold,Home,true,false,true,Electric
+608.09111880046135,690.70357554786619,690.70357554786619,51883d77609c594796ec377e82b3b34a0cb6d2b6,US,NC,Cameron,0,off,hold,Home,true,false,true,Electric
+672.920859538784,674.7641509433962,674.7641509433962,5c9250f19f9dac7e44323e9cc38e08d6b300eafd,US,NC,Calabash,0,heat,hold,Home,true,false,true,Electric
+690.234394124847,684.58384332925334,684.58384332925334,ea0fce861400af429aa9d5d34977227ea445b2b7,US,NC,Belmont,0,heat,auto,Home,false,false,true,Electric
+715.969696969697,720.939393939394,671.39393939393938,8d3087686891d5b0ca178a94f418a3978aa47484,US,NC,Midland,0,cool,auto,Home,true,false,true,Electric
+674.17326732673268,696.11386138613864,670.86633663366342,04dd518bf8f1884f9f669346b66a3f68af1b423f,US,NC,Wallace,0,auxHeatOnly,auto,Home,false,false,true,Electric
+687.47676767676762,689.39528619528619,682.75353535353531,c95ea551d5467443b6ad0c4dd344015ac57c4f5a,US,NC,Wrightsville Beach,0,heat,auto,Home,true,false,true,Electric
+706.04202020202024,729.36,704.22787878787881,096a69d86e06e7b03f2853d670c63b5713d86611,US,NC,Wilson's Mills,0,auto,hold,Home,true,false,true,Electric
+671.20833333333337,800.0,679.83333333333337,4d901a5edcc335b8af0f44da02adae98d737cdc9,US,NC,Flat Rock,0,auto,hold,Home,false,false,false,Gas
+691.46511627906978,774.98837209302326,694.29069767441865,23e42f643e764a38eeba3ea783e52dfb51dc6b2f,US,NC,North Wilkesboro,0,auto,auto,Home,true,false,true,Electric
+684.61458333333337,686.125,686.125,8a8e57049948ffe57e84d4e2619cbcaa81b79e55,US,NC,Mount Airy,0,heat,hold,Home,true,true,true,Electric
+683.20164348925414,715.00189633375476,685.00189633375476,df4d66b83f5614c52089d466a8bea4e1112ef430,US,NC,Willow Spring,0,auto,hold,Home,false,false,true,Electric
+685.59740259740261,753.49350649350652,649.68831168831173,ada51c76838640e9d2cefa6b0c15f89493b455da,US,NC,Black Mountain,0,auto,hold,Home,true,false,true,Electric
+701.97926895799242,701.11292962356788,701.11292962356788,1c1036cc3bdd153da9e1e29575ea334c58c413fc,US,NC,Kill Devil Hills,0,heat,hold,Home,false,false,true,Electric
+712.53634085213037,721.07518796992485,721.07518796992485,5be498e8ef9f0deacbdb83ffda49a12a33453cc7,US,NC,Holden Beach,0,cool,hold,Home,false,false,false,Gas
+707.86274509803923,770.0,700.0,f0ff18668c6ac5918a85421d82dba7d81cedb9ea,US,NC,Pikeville,0,auto,hold,Home,false,false,true,Electric
+695.25433526011557,700.90173410404623,700.90173410404623,11b32fa700eeb80bfe223ae782b99c416b1b9260,US,NC,Pikeville,0,heat,hold,Home,false,false,true,Electric
+698.31794871794875,713.67179487179487,710.21025641025642,81edc43353bc2be40ffb6244c9b080db20b2a944,US,NC,Sneads Ferry,0,heat,auto,Home,true,false,true,Electric
+714.37681159420288,717.63285024154584,717.63285024154584,431f5a1564b9c5cfe074bc8f499386b74d23ba46,US,NC,Newland,0,heat,hold,Home,false,false,false,Gas
+711.14583333333337,763.75,713.54166666666663,fa1d4cc70a35f1e570f174555539cbe435c9210d,US,NC,Black Mountain,0,auto,auto,Home,true,false,true,Electric
+716.8648648648649,719.73552123552122,719.72200772200767,41ed7dff403925e5e3c1c3ca15c728fb3dd79bd8,US,NC,Lincolnton,0,heat,auto,Home,true,false,true,Electric
+700.51497005988028,758.65269461077844,701.92814371257487,a98d0c73bb512b8d4106ac1134a720c09e482b92,US,NC,Shallotte,0,auto,auto,Home,true,false,true,Electric
+732.53819444444446,758.75,732.5,4c7f9535b54c36473c1d025a68b6d6ff7415d8b4,US,NC,FAYETTEVILLE,0,heat,auto,Home,true,false,true,Electric
+727.42586750788644,740.65615141955834,740.429022082019,857d955752215a7fe43c8673ed2d652c5e3cbaca,US,NC,holly springs,0,heat,hold,Home,false,false,false,Gas
+721.0,759.7954545454545,759.65909090909088,f0f541a6b59c2f4fe01319f6191fed345c42bfbf,US,NC,St. James,0,heat,hold,Home,true,false,true,Electric
+642.19540229885058,650.13793103448279,620.27586206896547,3819bddb049831085cc62edfd50c14c6f21ea276,US,NC,Apex,0,heat,auto,Home,true,false,false,Gas
+716.80845771144277,714.92537313432831,714.92537313432831,c3ac3ca8cf6b0c7ab989e28018080b2fb391dbfd,US,NC,Apex,0,heat,auto,Home,true,false,false,Gas
+718.2855333966445,720.0,720.0,4da22ff9c4161ac778b3bb643ccecde3530e0777,US,NC,Cary,0,heat,hold,Home,false,false,false,Gas
+648.87124931805783,663.94817239498093,642.328968903437,937270799b26e7667e8ac77b40b4f3055e6f7f1e,US,NC,Durham,0,heat,hold,Home,false,false,true,Electric
+668.50162337662334,681.586038961039,681.586038961039,937270799b26e7667e8ac77b40b4f3055e6f7f1e,US,NC,Durham,0,off,hold,Home,false,false,true,Electric
+675.43525179856113,697.02517985611507,674.24460431654677,c6f176cf54ba77d66c10849c573f937cb9740e22,US,NC,Durham,0,auxHeatOnly,auto,Home,false,false,true,Electric
+654.40636297903109,662.8893709327549,649.42516268980478,1fe259a0236a8f8043cdaf5049b8fc56fff000a2,US,NC,Durham,0,heat,hold,Home,true,false,true,Electric
+652.79833926453148,663.22241992882562,652.54270462633451,1fe259a0236a8f8043cdaf5049b8fc56fff000a2,US,NC,Durham,0,heat,auto,Home,true,false,true,Electric
+683.99705882352941,740.0,670.0,2382bfcbe7dac08fb60f22e8018eed2de89a1800,US,NC,Durham,0,heat,auto,Home,true,false,true,Electric
+652.02985074626861,740.83582089552237,663.71641791044772,ac8d273d024ca1804ce5cbdde34945fec00b7413,US,NC,Durham,0,auto,hold,Home,true,false,true,Electric
+670.98148148148152,715.0,675.0,7c51cabe3222cc3e1f9a7cfa7724197601c58416,US,NC,Durham,0,auto,hold,Home,false,false,true,Electric
+695.73192239858906,750.0,696.31746031746036,877e7a1a6e284cb6af24d838917bfbef49b44b30,US,NC,Durham,0,auto,hold,Home,false,false,true,Electric
+711.8406349206349,770.0,711.94285714285718,182728ad7e077c2e61ced2f5c6c40c988679803d,US,NC,Durham,0,auto,hold,Home,false,false,true,Electric
+700.16666666666663,760.0,700.0,d09bc6bc109617fc67d955fc64f124127a36c7bb,US,NC,Durham,0,auto,auto,Home,true,false,false,Gas
+674.71857923497271,713.827868852459,713.57650273224044,dfc286e57a374b6eec16db81cb474c4e6f188f55,US,NC,Durham,0,heat,hold,Home,false,false,false,Gas
+693.939393939394,720.0,714.5454545454545,dfc286e57a374b6eec16db81cb474c4e6f188f55,US,NC,Durham,0,heat,auto,Home,false,false,false,Gas
+690.10465116279067,731.44186046511629,695.1395348837209,7fda2c15e2cfe1533186145fb9c7459c4b34c659,US,NC,Garner,0,auto,hold,Home,true,false,true,Electric
+681.67750257997932,750.84210526315792,685.749742002064,fe13b3059ed1fc61ee614edce3a582cb9f08fa8d,US,NC,Leland,0,auto,hold,Home,true,false,true,Electric
+676.23214285714289,817.21428571428567,642.41071428571433,14cc874cfe21dbbf1e0597530dd5050a38c80e5d,US,NC,Mebane,0,heat,auto,Home,true,false,false,Gas
+718.19819819819816,770.0,720.0,f74006b0995d34637a0631162c8935cb520a6d50,US,NC,Monroe,0,auto,auto,Home,false,false,false,Gas
+670.77519379844966,704.58914728682169,655.40310077519382,87fb9c0cbfadf8306e8a0fbdd3f6dfeeb1d7d895,US,NC,Waxhaw,0,auto,auto,Home,false,false,false,Gas
+668.47619047619048,750.0,670.0,4a2457b46e7c0d09f79583ff6df13166a6107e34,US,NC,Waxhaw,0,auto,hold,Home,false,false,false,Gas
+681.56272401433694,680.0,680.0,daf4852e85dd6d78df1faed27cf0d8898a52850a,US,NC,Waxhaw,0,heat,auto,Home,false,false,false,Gas
+679.34050179211465,680.0,680.0,87fb9c0cbfadf8306e8a0fbdd3f6dfeeb1d7d895,US,NC,Waxhaw,0,heat,auto,Home,false,false,false,Gas
+643.41519823788542,732.38986784140968,636.75440528634363,9b1b7bd2c377b666415529acee4a6c044944be75,US,NC,Concord,0,auto,hold,Home,true,false,true,Electric
+639.156626506024,650.0,630.0,45f8332d2ef137eff94623da5e622a1f1cac0fb1,US,NC,Concord,0,off,auto,Home,true,false,true,Electric
+648.258064516129,651.27419354838707,648.258064516129,45f8332d2ef137eff94623da5e622a1f1cac0fb1,US,NC,Concord,0,heat,hold,Home,true,false,true,Electric
+675.7479674796748,757.07317073170736,676.77235772357722,e8dbb7b6d756318f20c84b3d48d334f2e5a33a8f,US,NC,Raleigh,0,auto,hold,Home,false,false,false,Gas
+724.66518847006648,813.80487804878044,721.57427937915747,4956ed63f648eebe99d7886d7089b060b4f091af,US,NC,Raleigh,0,auto,hold,Home,true,false,false,Gas
+688.443793911007,780.0,686.615925058548,cefc20367c50903c30eb123e0f3be27545115a85,US,NC,Raleigh,0,auto,hold,Home,false,false,false,Gas
+670.81753812636168,683.33333333333337,683.33333333333337,a8d90e0e0d542555bd6736fc2108d1436ac6e4e9,US,NC,Raleigh,0,heat,hold,Home,false,false,true,Electric
+680.28819444444446,750.0,680.0,8d15f77cf47b7f088a9da984924205862d258ca6,US,NC,Raleigh,0,auto,hold,Home,false,false,false,Gas
+692.66666666666663,680.0,680.0,a51f3548cb4d384c1247891993662cc018a80ffb,US,NC,Raleigh,0,heat,hold,Home,true,false,true,Electric
+685.745437079731,739.998078770413,690.75600384245922,a02c75ea5951a786404f862087a1ee9a83e0a6ea,US,NC,Raleigh,0,auto,hold,Home,true,false,true,Electric
+687.31099656357389,740.0,690.0,b6c7f62d25d516a9fdeba71da2a1c540988b19c6,US,NC,Raleigh,0,auto,auto,Home,true,false,true,Electric
+704.13824057450631,710.89228007181327,710.89228007181327,1863a4e37119852caa18fc97828f117c82f369d5,US,NC,Raleigh,0,heat,hold,Home,true,false,true,Electric
+688.92,700.3,699.04,5669650b8ed712db89c184be1af6ac60b5ced19e,US,NC,Raleigh,0,heat,auto,Home,false,false,true,Electric
+699.5151515151515,700.0,700.0,4956ed63f648eebe99d7886d7089b060b4f091af,US,NC,Raleigh,0,cool,hold,Home,true,false,false,Gas
+689.54,710.0,710.0,a4ae5405bbbabdb62d26489dc63dd2c251f315b2,US,NC,Raleigh,0,off,hold,Home,true,false,false,Gas
+736.67702702702707,716.918918918919,716.918918918919,05a55d1615ff252bbb2827ca5ece8aec34f5204b,US,NC,Raleigh,0,heat,hold,Home,false,false,true,Electric
+746.911196911197,744.26640926640925,744.26640926640925,05a55d1615ff252bbb2827ca5ece8aec34f5204b,US,NC,Raleigh,0,heat,auto,Home,false,false,true,Electric
+730.3783431180691,764.39530332681022,646.59034572733208,655bff746c3362e671a08cd662188269946aa747,US,NC,Matthews,0,auto,hold,Home,false,false,false,Gas
+647.18222222222221,728.96888888888884,636.36,61edac4b57f0f9dcf34a05c52536c7a62d63c40d,US,NC,Asheville,0,auto,hold,Home,false,false,true,Electric
+723.956834532374,723.07913669064749,723.07913669064749,8b9517396f3bb4f4c46021c521a53919b37864e3,US,NC,Charlotte,0,heat,hold,Home,true,false,false,Gas
+679.31034482758616,723.86206896551721,673.86206896551721,657d4166c53e1702cd43f6495a1a99f300c7cd63,US,NC,Charlotte,0,auto,auto,Home,false,false,true,Electric
+683.89268947015421,676.32461435278333,676.32461435278333,70e80a8dff539e324e121c53ac0ac7247d4bc563,US,NC,Charlotte,0,heat,hold,Home,false,false,false,Gas
+669.921052631579,670.0,670.0,f5958d3bbce5794ee11b8243c6d4412a12f8991b,US,NC,Charlotte,0,cool,hold,Home,true,false,true,Electric
+705.740170940171,714.83076923076919,707.191452991453,64b6e1d681ab0cf0779f114efc8d8172547cb3ae,US,NC,Charlotte,0,heat,auto,Home,false,false,false,Gas
+669.47826086956525,670.0,670.0,8d39f156bbf2a269a75a0ccaddd42fd852ae0cd6,US,NC,Charlotte,0,heat,auto,Home,true,false,false,Gas
+676.34757834757829,770.0,679.45299145299145,313032b4ea4aaa14a6731709d0b4ea3c3743bffb,US,NC,Charlotte,0,auto,hold,Home,false,false,false,Gas
+687.78184193337688,688.88830829523192,688.88830829523192,661f3b1405383592961dadd95d8d27e96780193f,US,NC,Charlotte,0,heat,hold,Home,false,false,false,Gas
+677.25326797385617,730.0,680.0,8f02ccdb7edcea2ee57c706aab53000de6b9d81b,US,NC,Charlotte,0,auto,hold,Home,true,false,true,Electric
+716.62548262548262,716.284942084942,711.918918918919,c5e56a7d42097250760817d73f35860007aedbfa,US,NC,Charlotte,0,heat,auto,Home,false,false,false,Gas
+701.97710843373488,710.52650602409642,710.52650602409642,46100957fca40705adb6729b1600b7c8a3c2bdcd,US,NC,Charlotte,0,heat,hold,Home,true,false,true,Electric
+698.9655172413793,700.72413793103453,700.72413793103453,1a7174d13bc5b84fc583a368a0c63334f367225d,US,NC,Charlotte,0,cool,auto,Home,true,false,false,Gas
+682.85983009708741,677.15169902912623,677.15169902912623,4b261954fe6af2589197a6e5bd5cb2f22001a444,US,NC,Cornelius,0,heat,auto,Home,false,false,false,Gas
+663.02272727272725,667.65909090909088,664.11363636363637,063248201c13d5f91101b0bb4ec6d04100f7d621,US,NC,Cornelius,0,heat,hold,Home,true,false,false,Gas
+675.14732142857144,680.0,630.0,fc003f9df3e4743fe2a890a45bc95bbf14710179,US,NC,Lexington,0,auto,auto,Home,false,false,true,Electric
+709.92939814814815,760.0,710.0,d9d9ba65850bde547b6b22c2ee57b444673b614e,US,NC,Lexington,0,auto,hold,Home,false,false,true,Electric
+666.53658536585363,666.7560975609756,666.7560975609756,fb3b839efbfe162873fe6dee0baa52a68cafac74,US,NC,Greensboro,0,heat,hold,Home,true,false,false,Gas
+687.0,690.0,690.0,3d302a88d750ac63c4dca4493dc830c39657da41,US,NC,Greensboro,0,heat,hold,Home,false,false,false,Gas
+697.480198019802,696.9207920792079,689.12376237623766,2501923cd42a26d4bfd49f18df51804cca898dc5,US,NC,Greensboro,0,heat,auto,Home,false,false,false,Gas
+748.73609706774516,750.38372093023258,750.38372093023258,7754ea3fe50fce5208d60b5b3d26be5e6612d3fc,US,NC,Greensboro,0,heat,auto,Home,true,false,true,Electric
+656.40757575757573,780.0,640.0,170be3d5b6cd42a1a4b193dd45968d255f6ac2cb,US,NC,Harrisburg,0,heat,auto,Home,false,false,false,Gas
+650.54458598726114,655.02292993630579,646.3191082802548,a75e69f71c382cfb8821e2fcd843e0e6ed41052f,US,NC,Chapel Hill,0,heat,hold,Home,false,false,false,Gas
+704.9795918367347,700.0,700.0,879e40c26b4fdb8199029ecd3e5cf71694dacd4d,US,NC,Chapel Hill,0,cool,auto,Home,true,false,false,Gas
+666.43438914027149,725.0067873303168,669.99095022624431,bea5aa689df03f15d5aed11f5021e8379f717d45,US,NC,Mooresville,0,auto,auto,Home,true,false,true,Electric
+728.59299191374669,736.0,730.0,b64cd692bc8176ee99011be1d3b973a12a098cb3,US,NC,Morrisville,0,heat,hold,Home,false,false,false,Gas
+689.40506329113919,770.0,690.01265822784808,34b48462ccc25b26410dd189cca031899c12f886,US,NC,Fayetteville,0,auto,auto,Home,false,false,false,Gas
+677.92857142857144,690.0,690.0,f5615a5e32cc3ff75ef3877f7e9a6e648f355dac,US,NC,Fayetteville,0,off,auto,Home,false,false,true,Electric
+695.41763341067281,691.54988399071931,691.54988399071931,feabebfe6370877e7c62203ee78d24c1e38f6610,US,NC,Huntersville,0,heat,hold,Home,false,false,false,Gas
+683.8478260869565,734.82608695652175,684.82608695652175,341317949303e4f654a0df550a2b23ea791f7dba,US,NC,Huntersville,0,auto,hold,Home,false,false,false,Gas
+703.12985781990517,702.57819905213273,702.57819905213273,feabebfe6370877e7c62203ee78d24c1e38f6610,US,NC,Huntersville,0,heat,auto,Home,false,false,false,Gas
+686.18379446640313,750.0,689.57114624505925,c16ca427e888fb736fdf1fce4781b348ad6d2d56,US,NC,Fuquay Varina,0,auto,auto,Home,false,false,true,Electric
+682.81034482758616,750.0,690.0,c16ca427e888fb736fdf1fce4781b348ad6d2d56,US,NC,Fuquay Varina,0,auto,hold,Home,false,false,true,Electric
+701.21428571428567,712.38095238095241,711.047619047619,32332678a8beb8b430e41a672244862b28b04423,US,NC,Fuquay Varina,0,heat,hold,Home,true,false,true,Electric
+688.388978930308,693.55267423014584,693.5040518638574,42d2cc30edbcaecbdc72c59c23926aca6d33d5a7,US,NC,Fuquay-Varina,0,heat,auto,Home,true,false,true,Electric
+718.63909774436092,728.922305764411,728.922305764411,42d2cc30edbcaecbdc72c59c23926aca6d33d5a7,US,NC,Fuquay-Varina,0,heat,hold,Home,true,false,true,Electric
+680.73886462882092,760.52576419213972,677.05327510917027,699dc4fc78eceec73d4369d6187a3590102c192c,US,NC,Holly Springs,0,auto,hold,Home,false,false,false,Gas
+679.93548387096769,732.258064516129,682.258064516129,3de41cd365bbb47c6c807b54fef0fd125bf285a2,US,NC,Holly Springs,0,auto,auto,Home,true,false,false,Gas
+688.09150326797385,690.0,690.0,f058bd16a61da990f38ca4b58c34ec65239fccb9,US,NC,Winston-Salem,0,heat,hold,Home,true,false,true,Electric
+686.1877256317689,749.73285198555959,699.73285198555959,d708ff9dbae3132a72cde628968ae5ec57671fe0,US,NC,Winston-Salem,0,auto,auto,Home,true,false,true,Electric
+694.10909090909092,740.0,700.0,9bb1e2076bb55e0b829e7f1ee8ee6662488e2f28,US,NC,Granite Quarry,0,auto,hold,Home,false,false,true,Electric
+679.4666666666667,656.0,644.0,e49cbacd7188ece81af62ae5b9e5e1333580609c,US,NC,Cary,0,heat,auto,Home,false,false,false,Gas
+758.6,786.8,731.6,6fac7e49ff6b2b873def18a1e4f3225b96f6b3f8,US,NC,Durham,0,auto,hold,Home,false,false,false,Gas
+660.89130434782612,686.52173913043475,676.02173913043475,37e0c85352a934b6ad11905a3a5e53523a2f95b0,US,NC,Durham,0,heat,hold,Home,true,false,true,Electric
+665.074074074074,667.77777777777783,667.77777777777783,61edac4b57f0f9dcf34a05c52536c7a62d63c40d,US,NC,Asheville,0,off,hold,Home,false,false,true,Electric
+689.9473684210526,720.0,720.0,46100957fca40705adb6729b1600b7c8a3c2bdcd,US,NC,Charlotte,0,cool,hold,Home,true,false,true,Electric
+682.44444444444446,725.0,725.0,5eb64c2d8f3aca8987daa8b1c22b6cd14efb3a9c,US,NC,Charlotte,0,off,hold,Home,true,false,false,Gas
+694.9375,830.625,700.0,bcf1209fd4f12dbec14f30ce5465c63da1165407,US,NC,High Point,0,auto,auto,Home,false,false,false,Gas
+712.73913043478262,766.0,716.0,52698c78309d5390a98882bfd211ab28f43ca264,US,NC,Pineville,0,auto,hold,Home,false,false,false,Gas
+697.71739130434787,692.17391304347825,692.17391304347825,7d35f1c40d6f9bf76eb831ce1dfd6cfa3e9b6c04,US,NC,Warsaw,0,heat,hold,Home,true,false,true,Electric
+689.15384615384619,740.92307692307691,690.92307692307691,8c9dce0c6fe0e3fc91d85c2158db8809c81bc3cc,US,NC,Belmont,0,auto,hold,Home,true,false,false,Gas
+737.55555555555554,820.0,720.0,62ef4fc8f9bff0e2f41a70b67b8b0f2ce2724ef8,US,NC,Apex,0,auto,auto,Home,false,false,false,Gas
+673.42857142857144,752.5,668.92857142857144,b3e6a6dded20e78462e5e78be082231ece7fe981,US,NC,Raleigh,0,auto,hold,Home,false,false,false,Gas
+737.25,729.0,728.16666666666663,4ce041a5f9fca97ca0ec5b590f32bbd4dc2c2a6e,US,NC,Midland,0,cool,hold,Home,false,false,true,Electric
+683.33333333333337,691.0,689.75,b5b65cca01a4d2c7a7165dc229827e23779fe92b,US,NC,Asheville,0,heat,hold,Home,false,false,false,Gas
+706.66666666666663,719.33333333333337,707.33333333333337,e1db0053cc9103016528d35269b006d2417b2912,US,NC,WINSTON SALEM,0,auto,auto,Home,false,false,false,Gas
+696.53846153846155,760.0,710.0,bcf1209fd4f12dbec14f30ce5465c63da1165407,US,NC,High Point,0,auto,hold,Home,false,false,false,Gas
+678.75,697.5,697.5,0a71273fadd358f641543a3ad045be52c841e1ee,US,NC,Raleigh,0,off,hold,Home,true,false,false,Gas
+670.0,726.0,696.0,0cbddd92658a1b1af0fa2584947a4820e7c6b381,US,NC,Durham,0,off,auto,Home,true,false,true,Electric
+647.0,725.0,670.0,bea5aa689df03f15d5aed11f5021e8379f717d45,US,NC,Mooresville,0,off,auto,Home,true,false,true,Electric
+684.0,738.0,687.0,5ca2e4c5ba10841de5e7a6174b82a6880ee7b92d,US,NC,Fuquay Varina,0,auto,auto,Home,true,false,true,Electric

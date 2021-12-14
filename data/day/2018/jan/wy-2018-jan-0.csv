@@ -1,0 +1,18 @@
+AvgTempCtrl,AvgCool,AvgHeat,Identifier,Country,ProvinceState,City,Age_of_Home__years_,HvacMode,CalendarEvent,Climate,allowCompWithAux,Has_Electric,Has_a_Heat_Pump,Auxilliary_Heat_Fuel_Type
+654.72093023255809,672.67441860465112,653.37209302325584,74345f495365ac5a65c267f410df97fac944a148,US,WY,Casper,0,heat,hold,Home,false,false,false,Gas
+698.66666666666663,733.2166666666667,666.9666666666667,338d0307f8579900d1f54af0c7475fd0e3a6af35,US,WY,Green River,0,heat,auto,Home,false,false,false,Gas
+453.85596529284163,650.00390455531453,452.95379609544466,1d00854c03d26e989b137715f96f49c087b12e6b,US,WY,Casper,0,heat,hold,Home,false,false,false,Gas
+558.38983050847457,651.16949152542372,643.76271186440681,1d00854c03d26e989b137715f96f49c087b12e6b,US,WY,Casper,0,heat,auto,Home,false,false,false,Gas
+711.60427206295674,735.94210230466558,736.25688589095,336df4fa2ebfb1b7a1bc23dd117037a5955effa8,US,WY,Evanston,0,heat,auto,Home,false,false,false,Gas
+726.21413721413717,749.38253638253639,749.37214137214141,336df4fa2ebfb1b7a1bc23dd117037a5955effa8,US,WY,Evanston,0,heat,hold,Home,false,false,false,Gas
+743.0,759.0,749.0,336df4fa2ebfb1b7a1bc23dd117037a5955effa8,US,WY,Evanston,0,off,hold,Home,false,false,false,Gas
+680.5915492957746,667.09859154929575,654.07042253521126,759b41e328c1a31c0c37d8ee8ac5f45fdd644a17,US,WY,Casper,0,heat,hold,Home,false,false,false,Gas
+664.35294117647061,674.82352941176475,669.52941176470586,8c1fdbfee5c6446be71c7789a3eb56b05093aac1,US,WY,Rawlins,0,heat,hold,Home,false,false,false,Gas
+650.61538461538464,707.15384615384619,665.69230769230774,8c1fdbfee5c6446be71c7789a3eb56b05093aac1,US,WY,Rawlins,0,heat,auto,Home,false,false,false,Gas
+737.83121019108285,810.18152866242042,739.92675159235671,a3a3fd48e1b69634ca3859998f7684d1593abcda,US,WY,Cheyenne,0,heat,auto,Home,false,false,false,Gas
+687.19444444444446,689.0,689.0,a9149145810c584aacd22f8c977f235117275828,US,WY,Cheyenne,0,heat,hold,Home,false,false,false,Gas
+675.57534246575347,820.0,620.0,1526f2d264a2dbabb980283ffd50f085dd156393,US,WY,Green River,0,heat,auto,Home,false,false,false,Gas
+612.39682539682542,820.0,620.0,759b41e328c1a31c0c37d8ee8ac5f45fdd644a17,US,WY,Casper,0,heat,auto,Home,false,false,false,Gas
+632.36666666666667,820.0,640.0,74345f495365ac5a65c267f410df97fac944a148,US,WY,Casper,0,heat,auto,Home,false,false,false,Gas
+667.55681818181813,740.0,670.0,9d6a98350302417c9b2f10ae3c235d52a3bf7097,US,WY,Sheridan,0,auto,auto,Home,false,false,false,Gas
+737.4,740.0,740.0,a3a3fd48e1b69634ca3859998f7684d1593abcda,US,WY,Cheyenne,0,heat,hold,Home,false,false,false,Gas

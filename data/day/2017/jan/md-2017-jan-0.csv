@@ -1,0 +1,60 @@
+AvgTempCtrl,AvgCool,AvgHeat,Identifier,Country,ProvinceState,City,Age_of_Home__years_,HvacMode,CalendarEvent,Climate,allowCompWithAux,Has_Electric,Has_a_Heat_Pump,Auxilliary_Heat_Fuel_Type
+676.80813953488371,708.91162790697672,702.51744186046517,429836f941611094fd148fc72591db65a6d5890f,US,MD,Accokeek,0,cool,hold,Home,false,false,false,Gas
+662.6626865671642,759.9940298507463,664.74626865671644,59dee8f23a53286289b1ff4c5d10fe255f6e8cc0,US,MD,Grasonville,0,auto,hold,Home,false,false,true,Electric
+670.65403422982888,740.60635696821521,665.08435207823959,41b671126ba91a14e84955e841cc0849dce34a36,US,MD,Crofton,0,auto,hold,Home,false,false,false,Gas
+689.75217391304352,687.15962732919252,687.15962732919252,1f534115e9642a044329a3e6354b508328cf10e8,US,MD,Burtonsville,0,heat,auto,Home,true,false,true,Electric
+711.02985074626861,717.11194029850742,716.820895522388,c896777047f48fb84f7dd716d47c5eb22081eda1,US,MD,Fort Washington,0,heat,hold,Home,false,false,false,Gas
+689.41304347826087,689.13043478260875,688.054347826087,67e4b525e8b070705d003a10ab69acce1ec68f04,US,MD,Elkton,0,heat,hold,Home,false,false,false,Gas
+644.83157894736837,650.0,640.0,0cbe19a80a6f730de730605f54143bd6d253580e,US,MD,Monkton,0,heat,hold,Home,false,false,false,Gas
+697.0269461077844,698.43113772455092,698.43113772455092,0b587e1244d7d343f08446889f31768878b59789,US,MD,Bethesda,0,heat,auto,Home,false,false,false,Gas
+763.05,777.0,777.0,5dc6d3ee633b48299305b7ef98582ced417b67e2,US,MD,Baltimore,0,heat,hold,Home,false,false,false,Gas
+678.48224852071007,680.0,680.0,3a52651d9d248063c943bb90acc6650f498aa73a,US,MD,Perry Hall,0,heat,hold,Home,false,false,false,Gas
+673.95,650.0,650.0,a83a3505d2eaa559b5a6b005f01d8f607a10af98,US,MD,Bowie,0,heat,hold,Home,false,false,false,Gas
+646.58139534883719,798.60465116279067,637.62790697674416,fa19a5e6216274d8522cc5073db5fa38f9a6e1aa,US,MD,Poolesville,0,heat,auto,Home,false,false,false,Gas
+639.77407407407406,690.0,640.0,353bd7ca685519be32b085fbebab102f393eeee6,US,MD,Middletown,0,auto,auto,Home,false,false,true,Electric
+649.169014084507,779.556338028169,651.07042253521126,353bd7ca685519be32b085fbebab102f393eeee6,US,MD,Middletown,0,auto,hold,Home,false,false,true,Electric
+681.47473867595818,809.991724738676,656.05226480836234,429836f941611094fd148fc72591db65a6d5890f,US,MD,Accokeek,0,auto,hold,Home,false,false,false,Gas
+720.0416197975253,721.28008998875146,721.25084364454449,8f36029bd0c538c14cee37fb7bee9e858e5c246e,US,MD,Accokeek,0,heat,hold,Home,false,false,false,Gas
+691.43636363636358,676.45,675.90454545454543,6aca16dcd944c38ed618af9ac4903a96abe01082,US,MD,Silver Spring,0,heat,hold,Home,false,false,false,Gas
+720.55555555555554,726.97222222222217,720.83333333333337,1bf4630cccf97260032ed5c6dc3e4c65b381d6ce,US,MD,Silver Spring,0,heat,auto,Home,false,false,false,Gas
+669.62068965517244,681.75862068965512,677.87931034482756,51e2f5d32a66852219af7d3a6ee80514934c8a27,US,MD,Jarrettsville,0,heat,hold,Home,false,false,false,Gas
+694.40476190476193,698.90476190476193,698.047619047619,67e4b525e8b070705d003a10ab69acce1ec68f04,US,MD,Elkton,0,heat,auto,Home,false,false,false,Gas
+741.2,849.7,740.0,1ad7642a95a9cad985407eabc0f9ca7b6dde5059,US,MD,BALTIMORE,0,auto,hold,Home,false,false,false,Gas
+685.0,740.0,692.0,6aca16dcd944c38ed618af9ac4903a96abe01082,US,MD,Silver Spring,0,off,hold,Home,false,false,false,Gas
+681.0,805.0,618.0,ffceb92e7d91925adb0905cdb576c31fa579cceb,US,MD,Bethesda,0,heat,hold,Home,false,false,false,Gas
+678.74803149606294,677.74803149606294,677.74803149606294,7c8cefbd5abd48edf48a00d4ee4f5e94eabaf819,US,MD,bowie,0,heat,hold,Home,false,false,false,Gas
+693.20711111111109,694.96,694.96,1f534115e9642a044329a3e6354b508328cf10e8,US,MD,Burtonsville,0,heat,hold,Home,true,false,true,Electric
+693.77192982456143,775.78947368421052,685.4473684210526,e349bc07013c8d185f2a280aee6a7cc5c2382fd0,US,MD,Silver spring,0,auto,auto,Home,false,false,false,Gas
+720.0,704.75,704.75,1ad7642a95a9cad985407eabc0f9ca7b6dde5059,US,MD,BALTIMORE,0,heat,auto,Home,false,false,false,Gas
+727.96880131362889,650.0,635.0,05a704d5ee0af9c53e5cdc0d6718d99fa3738a6d,US,MD,Baltimore,0,heat,hold,Home,false,false,false,Gas
+693.10734463276833,678.11299435028252,677.31638418079092,12ad57fbad384a692dedf3f552f7277f46902b7b,US,MD,Frederick,0,heat,hold,Home,false,false,false,Gas
+665.92783505154637,673.54226804123709,666.18350515463919,290d20e679876b5c037f0ee6c6364229636a5cd6,US,MD,Rockville,0,heat,hold,Home,true,false,true,Electric
+721.24,773.5333333333333,723.4133333333333,2f5e01d13fb75a803f284e0af80b589986ae7b7a,US,MD,Gaithersburg,0,auto,auto,Home,true,false,true,Electric
+702.47368421052636,708.21052631578948,703.10526315789468,1bf4630cccf97260032ed5c6dc3e4c65b381d6ce,US,MD,Silver Spring,0,heat,hold,Home,false,false,false,Gas
+661.38884120171679,735.63519313304721,658.33905579399141,59dee8f23a53286289b1ff4c5d10fe255f6e8cc0,US,MD,Grasonville,0,auto,auto,Home,false,false,true,Electric
+666.037753222836,742.66574585635362,667.36187845303868,41b671126ba91a14e84955e841cc0849dce34a36,US,MD,Crofton,0,auto,auto,Home,false,false,false,Gas
+656.67528735632186,678.60919540229884,654.34482758620686,b790cafe8be8e0246f069c0d095bcefc1a7bed72,US,MD,Aberdeen,0,heat,auto,Home,false,false,true,Electric
+674.7035175879397,677.3618090452261,677.070351758794,51e2f5d32a66852219af7d3a6ee80514934c8a27,US,MD,Jarrettsville,0,heat,auto,Home,false,false,false,Gas
+709.68428890543555,711.0037230081906,711.0037230081906,90bccad6b48ca2ed731e2a5bcf27da230ca18e03,US,MD,Rising Sun,0,heat,hold,Home,false,false,false,Gas
+651.98914149983034,650.07702748557858,650.07431286053611,0cbe19a80a6f730de730605f54143bd6d253580e,US,MD,Monkton,0,heat,auto,Home,false,false,false,Gas
+695.04,697.40421052631575,697.40421052631575,bc47ea625b23fdbddea1478b70b102daae1bf93f,US,MD,Bethesda,0,heat,hold,Home,false,false,false,Gas
+669.5,650.0,650.0,28dc208d40cc32c9451b244d250200e32e72fe6e,US,MD,Baltimore,0,heat,auto,Home,false,false,false,Gas
+710.95067264573993,712.70403587443946,711.95515695067263,f67313407dacd5eade169536ccbe2b3d88c4eaa6,US,MD,Baltimore,0,heat,hold,Home,true,false,true,Electric
+700.936974789916,696.92436974789916,696.31512605042019,12ad57fbad384a692dedf3f552f7277f46902b7b,US,MD,Frederick,0,heat,auto,Home,false,false,false,Gas
+656.64141414141409,791.67255892255889,638.547138047138,25980c134a6a00cab7cd5ae51351f183314998dd,US,MD,Frederick,0,heat,auto,Home,false,false,false,Gas
+733.50608081600626,785.80031384856807,735.80031384856807,5c360954a3813f14906a8f031c016e011e755223,US,MD,Glen Burnie,0,auto,auto,Home,false,false,false,Gas
+705.562091503268,705.95424836601308,703.875816993464,6aca16dcd944c38ed618af9ac4903a96abe01082,US,MD,Silver Spring,0,heat,auto,Home,false,false,false,Gas
+650.28,740.0,639.76,3b5dbc8bec369d890895f2e5765825cb2d7bbeab,US,MD,St Inigoes,0,auto,hold,Home,true,false,true,Electric
+641.60416666666663,740.54166666666663,630.27083333333337,3b5dbc8bec369d890895f2e5765825cb2d7bbeab,US,MD,St Inigoes,0,auto,auto,Home,true,false,true,Electric
+731.1,828.0,730.0,1ad7642a95a9cad985407eabc0f9ca7b6dde5059,US,MD,BALTIMORE,0,auto,auto,Home,false,false,false,Gas
+706.13759431868618,808.05370616955167,703.00488237905017,8f36029bd0c538c14cee37fb7bee9e858e5c246e,US,MD,Accokeek,0,auto,hold,Home,false,false,false,Gas
+656.4875,658.375,656.75,b790cafe8be8e0246f069c0d095bcefc1a7bed72,US,MD,Aberdeen,0,heat,hold,Home,false,false,true,Electric
+675.57515337423308,680.19478527607362,679.22392638036808,fa19a5e6216274d8522cc5073db5fa38f9a6e1aa,US,MD,Poolesville,0,heat,hold,Home,false,false,false,Gas
+711.86091258933482,713.81528312259479,713.51896646509067,90bccad6b48ca2ed731e2a5bcf27da230ca18e03,US,MD,Rising Sun,0,heat,auto,Home,false,false,false,Gas
+687.17058823529408,689.87132352941171,689.87132352941171,bc47ea625b23fdbddea1478b70b102daae1bf93f,US,MD,Bethesda,0,heat,auto,Home,false,false,false,Gas
+686.5771428571428,683.16,683.16,0b587e1244d7d343f08446889f31768878b59789,US,MD,Bethesda,0,heat,hold,Home,false,false,false,Gas
+717.32608695652175,684.04347826086962,682.36956521739125,f67313407dacd5eade169536ccbe2b3d88c4eaa6,US,MD,Baltimore,0,heat,auto,Home,true,false,true,Electric
+752.75,741.25,741.25,5dc6d3ee633b48299305b7ef98582ced417b67e2,US,MD,Baltimore,0,heat,auto,Home,false,false,false,Gas
+724.03125,777.67708333333337,727.43229166666663,2f5e01d13fb75a803f284e0af80b589986ae7b7a,US,MD,Gaithersburg,0,auto,hold,Home,true,false,true,Electric
+679.84615384615381,810.0,729.46153846153845,8f36029bd0c538c14cee37fb7bee9e858e5c246e,US,MD,Accokeek,0,auto,auto,Home,false,false,false,Gas
+622.5333333333333,663.33333333333337,673.33333333333337,41b671126ba91a14e84955e841cc0849dce34a36,US,MD,Crofton,0,cool,auto,Home,false,false,false,Gas

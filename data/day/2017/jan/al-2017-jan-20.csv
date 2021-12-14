@@ -1,0 +1,34 @@
+AvgTempCtrl,AvgCool,AvgHeat,Identifier,Country,ProvinceState,City,Age_of_Home__years_,HvacMode,CalendarEvent,Climate,allowCompWithAux,Has_Electric,Has_a_Heat_Pump,Auxilliary_Heat_Fuel_Type
+753.97333333333336,761.6,735.6,22edef709b8323242bfe57995a662d458c13e8fc,US,AL,Huntsville  AL,20,auto,auto,Home,true,false,true,Electric
+751.47826086956525,768.32880434782612,744.50543478260875,22edef709b8323242bfe57995a662d458c13e8fc,US,AL,Huntsville  AL,20,auto,hold,Home,true,false,true,Electric
+715.75,725.0,675.0,20f9344e218cb0063ddbc81913c1a05aafd34287,US,AL,Sterrett,20,auto,hold,Home,false,false,false,Gas
+746.625,742.58333333333337,740.70833333333337,22edef709b8323242bfe57995a662d458c13e8fc,US,AL,Huntsville  AL,20,cool,hold,Home,true,false,true,Electric
+689.58249158249157,740.34848484848487,690.34848484848487,bb24b2d7353ad6d7d66ecb096ff277c5f6913986,US,AL,Daphne,20,auto,auto,Home,false,false,true,Electric
+681.67054263565888,729.15116279069764,679.15116279069764,bb24b2d7353ad6d7d66ecb096ff277c5f6913986,US,AL,Daphne,20,auto,hold,Home,false,false,true,Electric
+703.76923076923072,760.0,710.0,bb24b2d7353ad6d7d66ecb096ff277c5f6913986,US,AL,Daphne,20,heat,auto,Home,false,false,true,Electric
+716.86666666666667,705.0,655.0,bb24b2d7353ad6d7d66ecb096ff277c5f6913986,US,AL,Daphne,20,off,hold,Home,false,false,true,Electric
+660.62441314554,709.00938967136153,654.74178403755866,fb93bbdba0906d7cd5fad33c3070541e11d58368,US,AL,Harvest,20,auto,hold,Home,true,false,true,Electric
+699.02083333333337,700.0,680.0,b9404c7ccae0be94e1eb896f34a007f327e56810,US,AL,Madison,20,cool,auto,Home,false,false,false,Gas
+668.47619047619048,668.09523809523807,667.33333333333337,9a0e23e3e108551289ec01a773b8029fb6d1965b,US,AL,Madison,20,cool,hold,Home,false,false,true,Electric
+711.57142857142856,711.922077922078,710.9480519480519,0f15fabfb17a41a85aa67689b80cca585511e6c6,US,AL,Madison,20,heat,hold,Home,false,false,true,Electric
+677.8,682.4,679.8,9a0e23e3e108551289ec01a773b8029fb6d1965b,US,AL,Madison,20,cool,auto,Home,false,false,true,Electric
+666.9,669.3,668.55,9a0e23e3e108551289ec01a773b8029fb6d1965b,US,AL,Madison,20,heat,hold,Home,false,false,true,Electric
+712.16666666666663,680.0,671.0,ac39181af958c06343fc4a5f4451a09a47e1af49,US,AL,Madison,20,heat,hold,Home,false,false,true,Electric
+671.14444444444439,682.98333333333335,682.98333333333335,e1ba24169f0e5e23681cd6e7e1535d757ec6180d,US,AL,Bessemer,20,auxHeatOnly,hold,Home,false,false,true,Electric
+664.93888888888887,684.43888888888887,690.48888888888894,e1ba24169f0e5e23681cd6e7e1535d757ec6180d,US,AL,Bessemer,20,cool,hold,Home,false,false,true,Electric
+685.88888888888891,676.84444444444443,676.84444444444443,e1ba24169f0e5e23681cd6e7e1535d757ec6180d,US,AL,Bessemer,20,heat,hold,Home,false,false,true,Electric
+658.98347107438019,739.74380165289256,658.4545454545455,2d181439398470ad8c345da70039f12d9b2ba682,US,AL,Birmingham,20,auto,auto,Home,true,false,false,Gas
+670.83194278903454,725.30393325387365,646.16328963051251,2d181439398470ad8c345da70039f12d9b2ba682,US,AL,Birmingham,20,auto,hold,Home,true,false,false,Gas
+681.82151898734173,658.88607594936707,658.40379746835447,2d181439398470ad8c345da70039f12d9b2ba682,US,AL,Birmingham,20,heat,hold,Home,true,false,false,Gas
+660.047703180212,662.43816254416959,661.69964664310953,2d181439398470ad8c345da70039f12d9b2ba682,US,AL,Birmingham,20,heat,auto,Home,true,false,false,Gas
+688.44642857142856,710.0,680.0,2d181439398470ad8c345da70039f12d9b2ba682,US,AL,Birmingham,20,cool,auto,Home,true,false,false,Gas
+696.96,780.0,670.0,fc8ca68e06db1e45cd1879fb6aa4cac4308d78b6,US,AL,Gulf Shores,20,off,auto,Home,true,false,true,Electric
+670.841726618705,768.48681055155873,671.28297362110311,fc8ca68e06db1e45cd1879fb6aa4cac4308d78b6,US,AL,Gulf Shores,20,auto,hold,Home,true,false,true,Electric
+706.170431211499,770.13449691991786,672.69096509240251,fc8ca68e06db1e45cd1879fb6aa4cac4308d78b6,US,AL,Gulf Shores,20,off,hold,Home,true,false,true,Electric
+703.91666666666663,754.70833333333337,714.41666666666663,a4f4183ad7e53a97d7a6fe8d8c26aad72a468950,US,AL,Huntsville,16,auto,hold,Home,false,false,true,Electric
+624.82352941176475,658.70588235294122,618.29411764705878,a4f4183ad7e53a97d7a6fe8d8c26aad72a468950,US,AL,Huntsville,16,auto,auto,Home,false,false,true,Electric
+716.5,688.0,638.0,bb24b2d7353ad6d7d66ecb096ff277c5f6913986,US,AL,Daphne,20,off,auto,Home,false,false,true,Electric
+663.08695652173913,670.13043478260875,668.304347826087,9a0e23e3e108551289ec01a773b8029fb6d1965b,US,AL,Madison,20,heat,auto,Home,false,false,true,Electric
+697.91666666666663,730.0,680.0,24a57df7025da3b103f3bfbdb06864c77b604c40,US,AL,Maylene,20,auto,hold,Home,false,false,false,Gas
+709.1351351351351,740.918918918919,710.918918918919,3027d9f936a488e0072434d03b475665a4dbcd6c,US,AL,Huntsville,20,auto,hold,Home,false,false,false,Gas
+700.66666666666663,730.0,700.0,3027d9f936a488e0072434d03b475665a4dbcd6c,US,AL,Huntsville,20,auto,auto,Home,false,false,false,Gas

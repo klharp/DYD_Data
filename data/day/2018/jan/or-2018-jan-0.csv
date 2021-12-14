@@ -1,0 +1,85 @@
+AvgTempCtrl,AvgCool,AvgHeat,Identifier,Country,ProvinceState,City,Age_of_Home__years_,HvacMode,CalendarEvent,Climate,allowCompWithAux,Has_Electric,Has_a_Heat_Pump,Auxilliary_Heat_Fuel_Type
+699.659281894576,703.22230710466,703.22230710466,8ac842ac44a60148a971c7f5222a38cffa087c2b,US,OR,Portland,0,heat,hold,Home,false,false,false,Gas
+690.67912488605282,693.22333637192344,693.22333637192344,c4e8bc6d48946705f4e78512dece9cfcdbcddb76,US,OR,Wilsonville,0,heat,hold,Home,false,false,false,Gas
+707.61462882096066,706.31331877729258,706.29912663755454,960e4ab78805ef0d17bc9b659d0c97e46a45d5c2,US,OR,Beaverton,0,heat,hold,Home,true,false,false,Gas
+690.00194931773876,716.82456140350882,716.82456140350882,960e4ab78805ef0d17bc9b659d0c97e46a45d5c2,US,OR,Beaverton,0,off,hold,Home,true,false,false,Gas
+690.76595744680856,694.04255319148933,693.54255319148933,d8cd8de1b6f4eddca46dcd82c7c2742026a2ec80,US,OR,Portland,0,heat,auto,Home,false,false,false,Gas
+705.09137769447045,761.42033739456417,705.98687910028116,d19d317f050e1803ca97580b3116bcbd0656ea29,US,OR,Portland,0,auto,hold,Home,false,false,false,Gas
+650.06666666666672,651.62962962962968,650.26666666666665,1c927546884d866d0498c730035be2e4464967b2,US,OR,Lincoln City,0,heat,auto,Home,false,false,false,Gas
+694.97604790419166,720.622754491018,695.67664670658678,319ce9a85ee45cc0c69cb42840682ee2a20896b2,US,OR,Keizer,0,heat,auto,Home,false,false,false,Gas
+738.28571428571433,779.0,752.0,6c112fdef3cc591bfc328e7b5f040668e08165ca,US,OR,North Plains,0,off,auto,Home,true,false,false,Gas
+663.46351931330469,665.14592274678114,657.39270386266094,a6c9df0eb0fa81661baef9d1a67507a9837690a5,US,OR,forest grove,0,heat,auto,Home,false,false,false,Gas
+640.38659320477507,650.93296602387511,631.44444444444446,950d3dbc9d5102732faf576e6bb042c9bcc18730,US,OR,Beaverton,0,heat,auto,Home,false,false,false,Gas
+658.234375,770.0,770.0,0624dc8fec23932f314f9e0f97a6c7fb059446b2,US,OR,Portland,0,heat,auto,Home,false,false,false,Gas
+673.79166666666663,770.0,660.25,ba146cc99ba926a0dd8a9d6ef59c8d83fc04659b,US,OR,Talent,0,auto,hold,Home,false,false,false,Gas
+699.40151515151513,757.5,702.5,0624dc8fec23932f314f9e0f97a6c7fb059446b2,US,OR,Portland,0,auto,hold,Home,false,false,false,Gas
+684.25714285714287,780.0,690.0,c5567c0d0c9be9e517d79d0a1fe19591ee8fb741,US,OR,Portland,0,auto,hold,Home,false,false,false,Gas
+673.53696498054478,791.828793774319,618.80933852140083,0aff37a2091e1b903eba5064498f5a0217d233d7,US,OR,tigard,0,auto,hold,Home,false,false,true,Electric
+623.18672199170123,800.24896265560164,609.06224066390041,0aff37a2091e1b903eba5064498f5a0217d233d7,US,OR,tigard,0,auto,auto,Home,false,false,true,Electric
+659.65902738960312,655.50307434320848,653.16266070430413,ddf638f56941212b6790b2d0f8ea3e77aae14852,US,OR,North Bend,0,heat,auto,Home,false,false,false,Gas
+635.2659176029963,650.7893258426966,626.21161048689135,950d3dbc9d5102732faf576e6bb042c9bcc18730,US,OR,Beaverton,0,heat,hold,Home,false,false,false,Gas
+665.34636871508383,675.31843575419,671.7206703910615,bbb75b8ad2bf294ad69e1d6681ba5a7e886ca68a,US,OR,Gresham,0,heat,hold,Home,false,false,true,Electric
+631.9848484848485,650.0,610.0,eedf68d3cea40f625a3675fc0245fb34301f7fdb,US,OR,Beaverton,0,off,hold,Home,false,false,false,Gas
+702.4263565891473,657.75193798449618,638.37209302325584,5ae0ab886988592e9e925ee1d9da89d3a8988b43,US,OR,Hillsboro,0,heat,auto,Home,false,false,false,Gas
+672.45539906103284,671.20187793427226,667.80751173708916,28585a7287dad287ed20088215010629080543c5,US,OR,Portland,0,heat,hold,Home,false,false,false,Gas
+610.4202898550725,650.0,613.36231884057975,3110da55a4c04dfc21f7bc6ca391a952a31e2ed5,US,OR,Bonanza,0,heat,hold,Home,false,false,false,Gas
+682.06108202443284,683.14310645724254,683.09598603839447,e6e511a4c9938420af14e522b4f5cca125309a55,US,OR,Portland,0,heat,hold,Home,false,false,false,Gas
+682.68253968253964,670.0,670.0,30f6935ec7cfc76dc9a48cc50be950ed198dd8bb,US,OR,Portland,0,heat,hold,Home,false,false,false,Gas
+672.69892473118284,672.88172043010752,669.11827956989248,9efd3b5b0d7b0798bb5b7f329c86ce4869f7aea9,US,OR,Portland,0,heat,hold,Home,false,false,false,Gas
+684.64393939393938,680.0,680.0,1b8c1c7f63f7719098cc5b6bebb712dc97454713,US,OR,Portland,0,heat,hold,Home,false,false,false,Gas
+688.33015656909458,718.360108917631,666.15350578624918,9cb49b4fe92ba449e1ac6b2f1876ed354809cd90,US,OR,Portland,0,auto,hold,Home,true,false,false,Gas
+700.17868338557992,693.32601880877746,693.22570532915358,a0fc7b3deab39b15b9a9ef91f3ebce7e7c383beb,US,OR,Portland,0,heat,auto,Home,false,false,false,Gas
+694.8266779949023,694.63891248937978,694.5097706032285,a0fc7b3deab39b15b9a9ef91f3ebce7e7c383beb,US,OR,Portland,0,heat,hold,Home,false,false,false,Gas
+694.487012987013,696.32900432900431,696.0454545454545,ddf638f56941212b6790b2d0f8ea3e77aae14852,US,OR,North Bend,0,heat,hold,Home,false,false,false,Gas
+685.36363636363637,690.0,690.0,d89ac1552a09c5d4e397cbc3f4fe1b475413a204,US,OR,Sherwood,0,heat,hold,Home,false,false,false,Gas
+730.0585585585585,732.37387387387389,729.96846846846847,960e4ab78805ef0d17bc9b659d0c97e46a45d5c2,US,OR,Beaverton,0,heat,auto,Home,true,false,false,Gas
+707.78606060606057,710.4,710.4,0624dc8fec23932f314f9e0f97a6c7fb059446b2,US,OR,Portland,0,heat,hold,Home,false,false,false,Gas
+719.77287581699352,720.0,720.0,7aeaf79090fd1d5f85fdcbbe427ce5e04e3e8bd9,US,OR,Dallas,0,heat,hold,Home,false,false,false,Gas
+728.53781512605042,730.0,729.93277310924373,5ac39a7da1703a951791ee4a5819d6a7da7014d3,US,OR,Portland,0,heat,hold,Home,false,false,false,Gas
+598.53888888888889,750.0,600.0,d89ac1552a09c5d4e397cbc3f4fe1b475413a204,US,OR,Sherwood,0,heat,auto,Home,false,false,false,Gas
+706.75903614457832,760.0,710.0,c4e8bc6d48946705f4e78512dece9cfcdbcddb76,US,OR,Wilsonville,0,auto,auto,Home,false,false,false,Gas
+696.0,727.85714285714289,727.85714285714289,8ac842ac44a60148a971c7f5222a38cffa087c2b,US,OR,Portland,0,off,hold,Home,false,false,false,Gas
+694.0,719.0,680.0,c4e8bc6d48946705f4e78512dece9cfcdbcddb76,US,OR,Wilsonville,0,off,auto,Home,false,false,false,Gas
+685.0,760.0,710.0,15ce169da6a35cce3583d281c7a693d182f6501d,US,OR,Portland,0,auto,hold,Home,false,false,false,Gas
+660.61005878510775,661.99934683213587,654.99281515349446,a6c9df0eb0fa81661baef9d1a67507a9837690a5,US,OR,forest grove,0,heat,hold,Home,false,false,false,Gas
+684.47580645161293,688.266129032258,687.986559139785,d8cd8de1b6f4eddca46dcd82c7c2742026a2ec80,US,OR,Portland,0,heat,hold,Home,false,false,false,Gas
+691.33333333333337,691.0,691.0,efc3b73717b6970b006f9bfa9f5e1720bab904a6,US,OR,Portland,0,heat,hold,Home,false,false,false,Gas
+692.9706916764361,810.97538100820634,644.46893317702222,204c13510e7e05ed251aa66c3056a89bb54ef716,US,OR,Portland,0,heat,auto,Home,false,false,false,Gas
+634.8575,655.625,628.345,eedf68d3cea40f625a3675fc0245fb34301f7fdb,US,OR,Beaverton,0,heat,hold,Home,false,false,false,Gas
+740.74137931034488,740.0,738.60344827586209,45736f20b890334acf6d16535111b9b48a7ed8c2,US,OR,Hillsboro,0,heat,hold,Home,false,false,false,Gas
+658.56521739130437,691.33043478260868,642.92173913043473,dc462408624c5f44e41d050ae70ca0bd895f78d0,US,OR,Redmond,0,heat,auto,Home,false,false,false,Gas
+627.61849442379184,820.0,630.0,7b5102c7b7b324f8fdbcf4741d07d2111c1d3d1d,US,OR,Hillsboro,0,auto,hold,Home,false,false,false,Gas
+636.18654434250766,653.02140672782878,623.17125382263,496ffe9c5a3e72211209eec492e7b553e2ab45f6,US,OR,Portland,0,heat,auto,Home,false,false,false,Gas
+636.45967741935488,650.0,649.77016129032256,3110da55a4c04dfc21f7bc6ca391a952a31e2ed5,US,OR,Bonanza,0,heat,auto,Home,false,false,false,Gas
+644.21052631578948,654.75438596491233,632.54385964912285,496ffe9c5a3e72211209eec492e7b553e2ab45f6,US,OR,Portland,0,heat,hold,Home,false,false,false,Gas
+624.0625,651.125,615.03125,eedf68d3cea40f625a3675fc0245fb34301f7fdb,US,OR,Beaverton,0,heat,auto,Home,false,false,false,Gas
+637.8,652.6,641.5,bbb75b8ad2bf294ad69e1d6681ba5a7e886ca68a,US,OR,Gresham,0,heat,auto,Home,false,false,true,Electric
+650.225,650.0,650.0,3110da55a4c04dfc21f7bc6ca391a952a31e2ed5,US,OR,Bonanza,0,off,auto,Home,false,false,false,Gas
+674.65714285714284,652.34285714285716,602.14285714285711,e6e511a4c9938420af14e522b4f5cca125309a55,US,OR,Portland,0,heat,auto,Home,false,false,false,Gas
+692.0,654.625,652.625,567bf5cd404c1409d2e1bcd606f947332e2c0272,US,OR,Lake Oswego,0,heat,auto,Home,false,false,false,Gas
+677.28018575851388,677.67027863777093,677.67027863777093,552055f6f18b821b771d851c711f1f8dcdf2dd25,US,OR,Bend,0,heat,auto,Home,false,false,false,Gas
+711.47294448348555,710.04005621925512,710.03443429374556,5397b978387477d22ce797e24808b8f1aa0037c6,US,OR,Beaverton,0,heat,hold,Home,false,false,false,Gas
+680.65313653136536,680.0,680.0,552055f6f18b821b771d851c711f1f8dcdf2dd25,US,OR,Bend,0,heat,hold,Home,false,false,false,Gas
+682.65333333333331,684.8,684.8,89a2371acab4b12b4fecb45d830fddb7655bb2f0,US,OR,Hillsboro,0,heat,auto,Home,false,false,false,Gas
+677.45679012345681,680.0,680.0,f27ff069be7ed61e45b14fe4a2122a080c3b5ed1,US,OR,Portland,0,heat,auto,Home,false,false,false,Gas
+677.54938271604942,680.0,680.0,89a2371acab4b12b4fecb45d830fddb7655bb2f0,US,OR,Hillsboro,0,heat,hold,Home,false,false,false,Gas
+707.27619047619044,718.68571428571431,716.51428571428573,a2dc874c0846a67245c39a6c5e00fef3cd36f7d5,US,OR,Portland,0,heat,hold,Home,true,false,false,Gas
+676.66666666666663,679.63333333333333,679.4,40182a503a0da24c6ba6d0d30982c4cfa0acf100,US,OR,Wilsonville,0,heat,hold,Home,false,false,false,Gas
+693.40701754385964,693.98245614035091,693.98245614035091,efc3b73717b6970b006f9bfa9f5e1720bab904a6,US,OR,Portland,0,heat,auto,Home,false,false,false,Gas
+687.19597069597069,690.0,690.0,f27ff069be7ed61e45b14fe4a2122a080c3b5ed1,US,OR,Portland,0,heat,hold,Home,false,false,false,Gas
+700.8301587301587,703.54603174603176,703.54603174603176,c4e8bc6d48946705f4e78512dece9cfcdbcddb76,US,OR,Wilsonville,0,heat,auto,Home,false,false,false,Gas
+699.64055299539166,703.19815668202762,702.97235023041469,3794299ff3058d4be7ab94b0d6c72380ee303dd0,US,OR,Portland,0,heat,hold,Home,false,false,false,Gas
+710.89253187613838,714.31693989071039,714.31693989071039,3794299ff3058d4be7ab94b0d6c72380ee303dd0,US,OR,Portland,0,heat,auto,Home,false,false,false,Gas
+661.5567010309278,725.882179675994,659.67010309278351,592dfc1c442a4232f711cc508ccfd2189a73da4f,US,OR,Beaverton,0,auto,hold,Home,false,false,false,Gas
+729.15023474178406,726.73708920187789,726.73708920187789,5ac39a7da1703a951791ee4a5819d6a7da7014d3,US,OR,Portland,0,heat,auto,Home,false,false,false,Gas
+672.68322981366464,725.0,675.0,592dfc1c442a4232f711cc508ccfd2189a73da4f,US,OR,Beaverton,0,auto,auto,Home,false,false,false,Gas
+727.83487654320993,730.0,730.0,95e85c8db79d00da74510b5eaca3dd99e1fb8932,US,OR,Clackamas,0,heat,hold,Home,false,false,true,Electric
+651.19548872180451,729.90977443609017,650.03007518796994,9efd3b5b0d7b0798bb5b7f329c86ce4869f7aea9,US,OR,Portland,0,heat,auto,Home,false,false,false,Gas
+736.92,730.48,729.8,45736f20b890334acf6d16535111b9b48a7ed8c2,US,OR,Hillsboro,0,heat,auto,Home,false,false,false,Gas
+697.70512820512818,740.15384615384619,738.62820512820508,960e4ab78805ef0d17bc9b659d0c97e46a45d5c2,US,OR,Beaverton,0,off,auto,Home,true,false,false,Gas
+695.13690476190482,751.66666666666663,698.33333333333337,c4e8bc6d48946705f4e78512dece9cfcdbcddb76,US,OR,Wilsonville,0,auto,hold,Home,false,false,false,Gas
+749.57142857142856,668.42857142857144,752.0,6c112fdef3cc591bfc328e7b5f040668e08165ca,US,OR,North Plains,0,heat,auto,Home,true,false,false,Gas
+680.22222222222217,651.48148148148152,650.81481481481478,567bf5cd404c1409d2e1bcd606f947332e2c0272,US,OR,Lake Oswego,0,heat,hold,Home,false,false,false,Gas
+685.0,680.0,680.0,9a6f02c532051a4273ba18e8009858ad5b07d713,US,OR,Portland,0,heat,hold,Home,false,false,false,Gas
+769.5,771.75,770.0,45736f20b890334acf6d16535111b9b48a7ed8c2,US,OR,Hillsboro,0,off,hold,Home,false,false,false,Gas
+719.0,651.0,610.0,5ae0ab886988592e9e925ee1d9da89d3a8988b43,US,OR,Hillsboro,0,heat,hold,Home,false,false,false,Gas

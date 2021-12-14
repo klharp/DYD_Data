@@ -1,0 +1,14 @@
+AvgTempCtrl,AvgCool,AvgHeat,Identifier,Country,ProvinceState,City,Age_of_Home__years_,HvacMode,CalendarEvent,Climate,allowCompWithAux,Has_Electric,Has_a_Heat_Pump,Auxilliary_Heat_Fuel_Type
+698.41071428571433,706.22619047619048,696.10416666666663,3c9c1ba78fbd1fe4bdfca41245a7ca8703708096,US,AL,Mobile,35,heat,auto,Home,false,false,false,Gas
+706.83468834688347,711.06504065040656,656.550135501355,b330e50e703ba816ffb110680979bfb5db997ef2,US,AL,Mobile,35,cool,auto,Home,false,false,false,Gas
+691.54323308270682,697.73684210526312,697.5,b330e50e703ba816ffb110680979bfb5db997ef2,US,AL,Mobile,35,cool,hold,Home,false,false,false,Gas
+690.5,705.21839080459768,705.22988505747128,3c9c1ba78fbd1fe4bdfca41245a7ca8703708096,US,AL,Mobile,35,cool,hold,Home,false,false,false,Gas
+700.61254612546122,702.86346863468634,702.86346863468634,3c9c1ba78fbd1fe4bdfca41245a7ca8703708096,US,AL,Mobile,35,heat,hold,Home,false,false,false,Gas
+686.2566844919786,707.05347593582883,696.19786096256689,3c9c1ba78fbd1fe4bdfca41245a7ca8703708096,US,AL,Mobile,35,cool,auto,Home,false,false,false,Gas
+708.56069364161851,700.80924855491332,700.80924855491332,b330e50e703ba816ffb110680979bfb5db997ef2,US,AL,Mobile,35,heat,hold,Home,false,false,false,Gas
+700.82352941176475,720.0,690.0,954851b5e2abc5b0bf0836b8b3723cc8343470d7,US,AL,Pelham,35,auto,hold,Home,false,false,true,Electric
+679.9,653.1,651.8,954851b5e2abc5b0bf0836b8b3723cc8343470d7,US,AL,Pelham,35,heat,auto,Home,false,false,true,Electric
+692.42857142857144,760.0,680.0,9955c45a7de390e4fa61e7e2f9b35540b80402a3,US,AL,Northport,35,auto,hold,Home,true,false,true,Electric
+677.639344262295,695.59016393442619,691.827868852459,25b7862fb98af4ec34006bb0ba3456c51f5884fb,US,AL,Huntsville,35,heat,auto,Home,true,false,true,Electric
+681.030303030303,690.0,690.0,25b7862fb98af4ec34006bb0ba3456c51f5884fb,US,AL,Huntsville,35,heat,hold,Home,true,false,true,Electric
+732.85714285714289,751.42857142857144,681.28571428571433,9955c45a7de390e4fa61e7e2f9b35540b80402a3,US,AL,Northport,35,auto,auto,Home,true,false,true,Electric

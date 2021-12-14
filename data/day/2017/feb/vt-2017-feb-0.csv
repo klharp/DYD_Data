@@ -1,0 +1,16 @@
+AvgTempCtrl,AvgCool,AvgHeat,Identifier,Country,ProvinceState,City,Age_of_Home__years_,HvacMode,CalendarEvent,Climate,allowCompWithAux,Has_Electric,Has_a_Heat_Pump,Auxilliary_Heat_Fuel_Type
+714.000515995872,661.01857585139317,661.01857585139317,08e5ea6a99f568b84b88969934ce6fd54f4a8359,US,VT,Bethel,0,heat,hold,Home,false,false,false,Gas
+587.33333333333337,766.33333333333337,660.0,5b7f5dbb625ed5102fc3e91ac27731652483eafd,US,VT,Newfane,0,heat,auto,Home,false,false,false,Gas
+666.84745762711862,670.05084745762713,670.05084745762713,662953f85593ffcb52ca9d8569604ec908481b51,US,VT,South Burlington,0,heat,auto,Home,false,false,false,Gas
+674.40717220769523,674.5356742622339,674.44863653343293,662953f85593ffcb52ca9d8569604ec908481b51,US,VT,South Burlington,0,heat,hold,Home,false,false,false,Gas
+709.27100271002712,685.48102981029808,685.45663956639567,8de572f3c0cd0e9fbadaff3165dc844a1ef72f5a,US,VT,South Burlington,0,heat,hold,Home,false,false,false,Gas
+713.90445859872614,672.46602972399148,672.46602972399148,b8499dce4ad0e8b7441e7f16bed32acb435d233c,US,VT,Bethel,0,heat,hold,Home,false,false,false,Gas
+667.796992481203,673.15789473684208,655.13784461152886,5b7f5dbb625ed5102fc3e91ac27731652483eafd,US,VT,Newfane,0,heat,hold,Home,false,false,false,Gas
+675.77777777777783,661.0,587.11111111111109,dbfc0699e02fe09382f1b785e1cf2f0fd3662875,US,VT,Westford,0,heat,hold,Home,false,false,false,Gas
+703.13585434173672,800.0,638.57142857142856,08e5ea6a99f568b84b88969934ce6fd54f4a8359,US,VT,Bethel,0,heat,auto,Home,false,false,false,Gas
+709.8376906318083,680.0,632.59259259259261,6f76dee396823efaa4928dd76539ab3f46489ee6,US,VT,Bethel,0,heat,auto,Home,false,false,false,Gas
+697.45,800.0,650.0,5a23cdc2dba46a7d22776bafa88160bbd0939939,US,VT,North Springfield,0,heat,auto,Home,false,false,false,Gas
+703.31764705882358,687.0,671.0,7fa021bd983c34f07a6ab6cb5cf89b2a51fdc387,US,VT,Bethel,0,heat,auto,Home,false,false,false,Gas
+689.74024024024027,730.972972972973,650.039039039039,b8499dce4ad0e8b7441e7f16bed32acb435d233c,US,VT,Bethel,0,heat,auto,Home,false,false,false,Gas
+736.270697167756,676.11111111111109,676.11111111111109,7fa021bd983c34f07a6ab6cb5cf89b2a51fdc387,US,VT,Bethel,0,heat,hold,Home,false,false,false,Gas
+697.989010989011,670.0,670.0,6f76dee396823efaa4928dd76539ab3f46489ee6,US,VT,Bethel,0,heat,hold,Home,false,false,false,Gas

@@ -1,0 +1,12 @@
+AvgTempCtrl,AvgCool,AvgHeat,Identifier,Country,ProvinceState,City,Age_of_Home__years_,HvacMode,CalendarEvent,Climate,allowCompWithAux,Has_Electric,Has_a_Heat_Pump,Auxilliary_Heat_Fuel_Type
+723.42358078602615,727.58515283842792,727.39737991266372,0294595998430fa9228ff8b203c54f8378f9560c,US,WV,Huntington,0,heat,hold,Home,false,false,false,Gas
+714.89102564102564,736.82692307692309,717.05769230769226,0294595998430fa9228ff8b203c54f8378f9560c,US,WV,Huntington,0,auto,hold,Home,false,false,false,Gas
+729.38696939782824,732.17176702862787,733.15301085883516,0294595998430fa9228ff8b203c54f8378f9560c,US,WV,Huntington,0,heat,auto,Home,false,false,false,Gas
+715.69473684210527,712.7578947368421,702.37894736842111,0294595998430fa9228ff8b203c54f8378f9560c,US,WV,Huntington,0,cool,auto,Home,false,false,false,Gas
+700.11028315946351,734.69150521609538,683.97615499254846,c5b31dacb5cc3a1c181dbf7a905df96d0dfdc347,US,WV,Morgantown,0,auto,hold,Home,false,false,false,Gas
+686.1458831568159,740.0,676.56098394260334,23ea815e8d635bf755b4f45c8594fba04bf97e35,US,WV,Morgantown,0,auto,hold,Home,false,false,false,Gas
+681.3,736.0,686.0,c5b31dacb5cc3a1c181dbf7a905df96d0dfdc347,US,WV,Morgantown,0,auto,auto,Home,false,false,false,Gas
+719.59329140461216,727.25995807127879,707.2976939203354,0294595998430fa9228ff8b203c54f8378f9560c,US,WV,Huntington,0,auto,auto,Home,false,false,false,Gas
+729.89409722222217,776.66666666666663,726.66666666666663,3a38dd3de8441afd6215d6a91bf033c2c646b786,US,WV,Morgantown,0,auto,hold,Home,true,false,true,Electric
+705.14545454545453,775.0,725.0,3a38dd3de8441afd6215d6a91bf033c2c646b786,US,WV,Morgantown,0,auto,auto,Home,true,false,true,Electric
+741.20833333333337,738.5,738.5,0294595998430fa9228ff8b203c54f8378f9560c,US,WV,Huntington,0,cool,hold,Home,false,false,false,Gas

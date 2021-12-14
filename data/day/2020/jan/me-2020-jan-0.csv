@@ -1,0 +1,19 @@
+AvgTempCtrl,AvgCool,AvgHeat,Identifier,Country,ProvinceState,City,Age_of_Home__years_,HvacMode,CalendarEvent,Climate,allowCompWithAux,Has_Electric,Has_a_Heat_Pump,Auxilliary_Heat_Fuel_Type
+701.93577981651379,708.36697247706422,708.36697247706422,eb3eccd199425d9cde1444492ebe176a77fca82d,US,ME,Westbrook,0,heat,hold,Home,false,false,false,Gas
+675.60826594788864,676.77897574124,663.97574123989216,0b9bc48af842c50d1c433ab2aebe001d355ba6df,US,ME,Freeport,0,heat,hold,Home,false,false,false,Gas
+676.17085179714422,683.5937961595273,678.17872968980794,6ea13a6a8839c82c41cc8b0da4d0749b2070e49f,US,ME,North Yarmouth,0,heat,hold,Home,false,false,false,Gas
+660.38554216867465,691.1204819277109,691.1204819277109,6ea13a6a8839c82c41cc8b0da4d0749b2070e49f,US,ME,North Yarmouth,0,heat,auto,Home,false,false,false,Gas
+763.2782608695652,720.45217391304345,761.03478260869565,af68b7762e6793591d3284dde997c800c9f58566,US,ME,Corinna,0,heat,auto,Home,false,false,false,Gas
+697.76963350785343,672.8952879581152,633.12041884816756,af68b7762e6793591d3284dde997c800c9f58566,US,ME,Corinna,0,heat,hold,Home,false,false,false,Gas
+553.076200993926,645.67531750414139,555.5593594699061,d103d7c927baf49b25a1ed7d30e0e0c795359a45,US,ME,Sanford,0,heat,hold,Home,true,false,false,Gas
+656.37007874015751,665.38582677165357,658.0787401574803,d103d7c927baf49b25a1ed7d30e0e0c795359a45,US,ME,Sanford,0,heat,auto,Home,true,false,false,Gas
+691.30025940337225,672.44163424124508,662.166018158236,d20ccf5b4cc587cf0271ef0e24b9906469f17d26,US,ME,Winthrop,0,heat,hold,Home,false,false,false,Gas
+684.815625,656.25,560.0,2861748ef77224c6b1bfa8d51e3c176c0e32e5d7,US,ME,Bangor,0,off,hold,Home,false,false,false,Gas
+636.67777777777781,650.0,640.0,e002570d883bdc948f492a07fe24a29380bfd71d,US,ME,Saco,0,heat,hold,Home,false,false,false,Gas
+648.66666666666663,820.0,620.0,e002570d883bdc948f492a07fe24a29380bfd71d,US,ME,Saco,0,heat,auto,Home,false,false,false,Gas
+632.57357357357353,654.039039039039,635.65465465465468,b7c214e6715b7136e0cf0fbdb5b83337dda9032b,US,ME,Eliot,0,heat,hold,Home,false,false,false,Gas
+681.588061465721,705.01359338061468,684.887706855792,d20ccf5b4cc587cf0271ef0e24b9906469f17d26,US,ME,Winthrop,0,heat,auto,Home,false,false,false,Gas
+673.71428571428567,690.0,690.0,6ea13a6a8839c82c41cc8b0da4d0749b2070e49f,US,ME,North Yarmouth,0,off,hold,Home,false,false,false,Gas
+716.36363636363637,700.0,700.0,2861748ef77224c6b1bfa8d51e3c176c0e32e5d7,US,ME,Bangor,0,heat,hold,Home,false,false,false,Gas
+658.87037037037032,710.0,710.0,9931e4537a3f0c9b6eb4dc811cb00abd4edde7d0,US,ME,Westbrook,0,heat,hold,Home,true,false,false,Gas
+679.49027137736812,680.0,680.0,58c080b408d6f006eea5f7d383bf8175cfaa89b5,US,ME,Sabattus,0,heat,hold,Home,true,false,false,Gas

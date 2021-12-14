@@ -1,0 +1,7 @@
+AvgTempCtrl,AvgCool,AvgHeat,Identifier,Country,ProvinceState,City,Age_of_Home__years_,HvacMode,CalendarEvent,Climate,allowCompWithAux,Has_Electric,Has_a_Heat_Pump,Auxilliary_Heat_Fuel_Type
+671.58836206896547,674.79094827586209,674.7155172413793,0f282db9c216fb43ec7241fe29cd5c947102a773,US,ND,Grand Forks,0,heat,hold,Home,false,false,false,Gas
+717.62105263157889,723.11578947368423,715.8,4d17731b1ff0a2df444618f9481aa445cd823197,US,ND,Dickinson,0,heat,hold,Home,false,false,false,Gas
+651.05365853658532,654.13292682926829,654.13292682926829,31bab83a250783cc0d48f1509a6fdfeb059990b7,US,ND,Argusville,0,auxHeatOnly,auto,Home,false,false,true,Electric
+661.01330494944125,665.21021820117085,665.21021820117085,31bab83a250783cc0d48f1509a6fdfeb059990b7,US,ND,Argusville,0,auxHeatOnly,hold,Home,false,false,true,Electric
+720.32258064516134,720.0,720.0,4d17731b1ff0a2df444618f9481aa445cd823197,US,ND,Dickinson,0,heat,auto,Home,false,false,false,Gas
+708.0,720.0,720.0,0f282db9c216fb43ec7241fe29cd5c947102a773,US,ND,Grand Forks,0,heat,auto,Home,false,false,false,Gas

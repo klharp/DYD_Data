@@ -1,0 +1,4 @@
+AvgTempCtrl,AvgCool,AvgHeat,Identifier,Country,ProvinceState,City,Age_of_Home__years_,HvacMode,CalendarEvent,Climate,allowCompWithAux,Has_Electric,Has_a_Heat_Pump,Auxilliary_Heat_Fuel_Type
+693.75,750.2,690.2,35d604c942142c96319d64c612472451837ce4cb,US,AL,Florence,45,auto,auto,Home,false,false,false,Gas
+671.35606060606062,675.939393939394,625.78787878787875,1c23e52ba88dd1bc3150195a77f6558c345fd70b,US,AL,Alabaster,45,auto,auto,Home,true,false,true,Electric
+665.80645161290317,730.0,650.38709677419354,1c23e52ba88dd1bc3150195a77f6558c345fd70b,US,AL,Alabaster,45,auto,hold,Home,true,false,true,Electric

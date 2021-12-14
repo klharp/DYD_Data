@@ -1,0 +1,55 @@
+AvgTempCtrl,AvgCool,AvgHeat,Identifier,Country,ProvinceState,City,Age_of_Home__years_,HvacMode,CalendarEvent,Climate,allowCompWithAux,Has_Electric,Has_a_Heat_Pump,Auxilliary_Heat_Fuel_Type
+731.89619252873558,725.5,725.5,58dcf3dd6713832c2998eb0f944371fe4de8be69,US,WI,Milwaukee,0,heat,hold,Home,false,false,false,Gas
+635.07580751483192,650.00593276203028,633.00065919578117,fa47beec1c271b8685520f82db16ec3fe6aa8b85,US,WI,Brookfield,0,heat,auto,Home,false,false,false,Gas
+679.65094339622647,678.22169811320759,676.80660377358492,cda9f7ca498baa0d5d2c0510993274cbe5126adb,US,WI,Menomonee Falls,0,heat,hold,Home,false,false,false,Gas
+685.0828848223897,683.64585575888054,681.189451022605,0bdc4cd0c3ec37a2c7cecfd1cb2679490eed2809,US,WI,Elkhorn,0,heat,hold,Home,false,false,false,Gas
+660.7265625,650.0,640.0,75f6af7216a3d3ad073714f0025c19b88fc0ff39,US,WI,Waunakee,0,heat,auto,Home,false,false,false,Gas
+657.45360824742272,650.0,649.96391752577324,75f6af7216a3d3ad073714f0025c19b88fc0ff39,US,WI,Waunakee,0,heat,hold,Home,false,false,false,Gas
+668.68773234200739,670.0,670.0,99447fe091266fcfd733a310ba58e8a9213d5bb6,US,WI,Rib Mountain,0,heat,hold,Home,false,false,false,Gas
+687.54788657035851,689.79935794542541,689.79935794542541,d0d0b34b6b2377858bc6c43a6d776299d889772c,US,WI,Wisconsin Rapids,0,heat,hold,Home,false,false,false,Gas
+718.21542857142856,673.68857142857144,673.68857142857144,8195029971882e4da63074ed193cb418d6fe4d7a,US,WI,Marshall,0,heat,hold,Home,false,false,false,Gas
+679.9733520336606,680.79382889200565,680.79382889200565,4d995c3903fbc01c34bbd717c34ae86854de9033,US,WI,Caledonia,0,heat,auto,Home,false,false,false,Gas
+698.002567394095,692.02011125374406,692.02011125374406,ab9cda078482c13b29a47a7570f4732961b68169,US,WI,Shorewood,0,heat,hold,Home,false,false,false,Gas
+643.36947791164664,740.26506024096386,679.68674698795178,348866525f1096bead04b3086270ea518d816181,US,WI,Whitewater town,0,auto,auto,Home,false,false,false,Gas
+710.4083333333333,700.0,700.0,e596c3f6a96adc176ed359318cde60de3edd8276,US,WI,Richfield,0,heat,hold,Home,false,false,false,Gas
+680.390625,780.0,700.0,fc353781cbae1e162a70aac76bb9fc9c1da56521,US,WI,Matteson,0,off,hold,Home,false,false,false,Gas
+697.13793103448279,700.02298850574709,699.9885057471264,38719f3202af543224400145c61c3d341d7a28c1,US,WI,Waukesha,0,heat,hold,Home,false,false,false,Gas
+716.01333333333332,719.30666666666662,719.30666666666662,bd4ff43101fec160bd89002639985f1e23765e58,US,WI,Whitefish bay,0,heat,hold,Home,false,false,false,Gas
+719.80952380952385,720.76190476190482,719.61904761904759,e482bfc435240c5e7886b3ea31d2f81fa6f29d3f,US,WI,Racine,0,heat,hold,Home,false,false,false,Gas
+657.45833333333337,780.0,640.0,b1bc4cd5e20b17b549c8672582018296c69aac72,US,WI,Greenfield,0,heat,auto,Home,false,false,false,Gas
+680.5,666.32575757575762,666.32575757575762,7c72694666943133cfb1b138f1194e3148e964fe,US,WI,Madison,0,heat,hold,Home,false,false,false,Gas
+701.025,680.0,680.0,4cc3167d6dbd162dca90bcdfaa5a92b6b13ef553,US,WI,Wausau,0,heat,hold,Home,true,false,false,Gas
+639.5,657.25,643.25,38719f3202af543224400145c61c3d341d7a28c1,US,WI,Waukesha,0,heat,auto,Home,false,false,false,Gas
+654.69298245614038,660.985380116959,650.24269005847952,fc35fca2c2eab702acfb1770a945f8d878e9a587,US,WI,West Allis,0,heat,hold,Home,false,false,false,Gas
+644.8611388611389,650.3236763236763,618.66433566433568,fa47beec1c271b8685520f82db16ec3fe6aa8b85,US,WI,Brookfield,0,heat,hold,Home,false,false,false,Gas
+682.41671278361923,682.31820697288322,682.283895960155,4d995c3903fbc01c34bbd717c34ae86854de9033,US,WI,Caledonia,0,heat,hold,Home,false,false,false,Gas
+682.14285714285711,678.75630252100837,678.563025210084,13e37b8d209b1f2ad5533de1740e78843d0f0e22,US,WI,De Pere,0,heat,auto,Home,false,false,false,Gas
+666.48068006182382,664.91190108191654,663.68006182380213,d928ec0601888f69149a3f29e21b2a4f6a7541a2,US,WI,Kenosha,0,heat,hold,Home,false,false,false,Gas
+638.01041666666663,760.0,640.0,c05bb88284e09e5b64ad359d7164a66d1afcd22e,US,WI,Richfield,0,auto,hold,Home,false,false,false,Gas
+652.79144385026734,683.14973262032083,655.83422459893052,fc35fca2c2eab702acfb1770a945f8d878e9a587,US,WI,West Allis,0,heat,auto,Home,false,false,false,Gas
+675.1932367149758,686.36714975845416,678.04347826086962,ce40ce2d13a07697c9ae2e2e6a85c5cc8433ba66,US,WI,Rhinelander,0,heat,hold,Home,false,false,false,Gas
+653.78651685393254,650.76404494382018,650.76404494382018,a54ff8e6b544f73284d0f3c8c8f4faf762f5376c,US,WI,Madison,0,heat,hold,Home,false,false,false,Gas
+690.52298850574709,770.5459770114943,691.5344827586207,fc353781cbae1e162a70aac76bb9fc9c1da56521,US,WI,Matteson,0,heat,auto,Home,false,false,false,Gas
+673.104033970276,674.56900212314224,674.56900212314224,d0d0b34b6b2377858bc6c43a6d776299d889772c,US,WI,Wisconsin Rapids,0,heat,auto,Home,false,false,false,Gas
+678.11111111111109,660.0,660.0,ab9cda078482c13b29a47a7570f4732961b68169,US,WI,Shorewood,0,heat,auto,Home,false,false,false,Gas
+674.70159453302961,672.07061503416855,671.95671981776763,13e37b8d209b1f2ad5533de1740e78843d0f0e22,US,WI,De Pere,0,heat,hold,Home,false,false,false,Gas
+679.46984924623121,683.9824120603015,683.9824120603015,d928ec0601888f69149a3f29e21b2a4f6a7541a2,US,WI,Kenosha,0,heat,auto,Home,false,false,false,Gas
+677.61904761904759,675.0,675.0,79c029445735e80f515f5427310c88b948be276b,US,WI,Greenville,0,heat,hold,Home,false,false,false,Gas
+662.64705882352939,662.64705882352939,660.44117647058829,b250caf665204ff7ac15bb84ae9b256b0b11bdff,US,WI,River Hills,0,heat,hold,Home,false,false,false,Gas
+672.02654867256638,700.08849557522126,676.01769911504425,ce40ce2d13a07697c9ae2e2e6a85c5cc8433ba66,US,WI,Rhinelander,0,heat,auto,Home,false,false,false,Gas
+681.098445595855,765.31088082901556,669.50777202072538,348866525f1096bead04b3086270ea518d816181,US,WI,Whitewater town,0,auto,hold,Home,false,false,false,Gas
+713.87303664921467,679.99476439790578,679.99476439790578,8195029971882e4da63074ed193cb418d6fe4d7a,US,WI,Marshall,0,heat,auto,Home,false,false,false,Gas
+709.625,713.6875,712.7375,55c51a411c644933560dde01efc25280edc513d0,US,WI,Wauwatosa,0,heat,hold,Home,false,false,false,Gas
+689.55251141552515,690.0,690.0,f771e6ef60817be578b9690c6e986e1e074ae2d4,US,WI,Sussex,0,heat,auto,Home,false,false,false,Gas
+697.0224284609435,780.0,700.0,fc353781cbae1e162a70aac76bb9fc9c1da56521,US,WI,Matteson,0,heat,hold,Home,false,false,false,Gas
+702.63971462544589,700.00951248513672,700.00951248513672,f2b77cbb2c466e709d11ab6a9b1be9f451e49d1a,US,WI,Richfield,0,heat,hold,Home,false,false,false,Gas
+697.28431372549016,700.0,700.0,290565ad309fa78b61d186aa6d086ee015edaa36,US,WI,milwaukee,0,heat,hold,Home,false,false,false,Gas
+712.844362745098,740.0,710.0,e482bfc435240c5e7886b3ea31d2f81fa6f29d3f,US,WI,Racine,0,heat,auto,Home,false,false,false,Gas
+718.30740740740737,718.89629629629633,719.14814814814815,65f4335966320246da98426a5e559e911c16e9d6,US,WI,New London,0,heat,hold,Home,false,false,false,Gas
+726.58695652173913,730.0,730.0,ee5a090c7e6f070a47d655bb7cb362f7ac5d9da6,US,WI,Janesville,0,heat,auto,Home,true,false,false,Gas
+706.25,683.75,671.75,13e37b8d209b1f2ad5533de1740e78843d0f0e22,US,WI,De Pere,0,off,hold,Home,false,false,false,Gas
+671.19230769230774,673.46153846153845,672.0,cbb82bb91b0c93d5083a93607ea1d67beeaeff96,US,WI,Lodi,0,heat,auto,Home,false,false,false,Gas
+589.90322580645159,780.0,600.0,71e25089f2d4d5417c30c38faebddf50bb7782d6,US,WI,Milwaukee,0,heat,auto,Home,false,false,false,Gas
+698.2,700.0,700.0,55c51a411c644933560dde01efc25280edc513d0,US,WI,Wauwatosa,0,heat,auto,Home,false,false,false,Gas
+682.0,740.0,680.0,a06677a9f9e5ea54b0e45cfaad2ec79658fd198c,US,WI,Madison,0,auto,hold,Home,false,false,false,Gas
+682.0,655.0,652.0,7c72694666943133cfb1b138f1194e3148e964fe,US,WI,Madison,0,off,hold,Home,false,false,false,Gas

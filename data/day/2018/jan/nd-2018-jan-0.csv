@@ -1,0 +1,10 @@
+AvgTempCtrl,AvgCool,AvgHeat,Identifier,Country,ProvinceState,City,Age_of_Home__years_,HvacMode,CalendarEvent,Climate,allowCompWithAux,Has_Electric,Has_a_Heat_Pump,Auxilliary_Heat_Fuel_Type
+717.40283400809722,720.328947368421,720.27732793522262,0f282db9c216fb43ec7241fe29cd5c947102a773,US,ND,Grand Forks,0,heat,hold,Home,false,false,false,Gas
+727.047227926078,732.69609856262832,732.68172484599586,0f282db9c216fb43ec7241fe29cd5c947102a773,US,ND,Grand Forks,0,heat,auto,Home,false,false,false,Gas
+657.81520467836253,660.38947368421054,660.38947368421054,31bab83a250783cc0d48f1509a6fdfeb059990b7,US,ND,Argusville,0,heat,hold,Home,false,false,true,Electric
+711.99122807017545,713.76315789473688,711.50877192982455,4d17731b1ff0a2df444618f9481aa445cd823197,US,ND,Dickinson,0,heat,auto,Home,false,false,false,Gas
+697.93744855967077,757.86502057613166,699.67983539094655,bceaab209f66b6952049619e1e64ab0d4a0314c0,US,ND,West Fargo,0,auto,hold,Home,true,false,false,Gas
+655.02459016393448,659.344262295082,656.06557377049182,31bab83a250783cc0d48f1509a6fdfeb059990b7,US,ND,Argusville,0,heat,auto,Home,false,false,true,Electric
+736.16666666666663,730.71428571428567,730.71428571428567,6c8433aa1db0389cd3a0214904e1c8dbe3513686,US,ND,Dickinson,0,heat,hold,Home,false,false,false,Gas
+693.33632286995521,705.24887892376682,692.54708520179372,4d17731b1ff0a2df444618f9481aa445cd823197,US,ND,Dickinson,0,heat,hold,Home,false,false,false,Gas
+687.937037037037,750.0,690.0,bceaab209f66b6952049619e1e64ab0d4a0314c0,US,ND,West Fargo,0,auto,auto,Home,true,false,false,Gas

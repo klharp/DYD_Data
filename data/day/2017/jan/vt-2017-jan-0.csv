@@ -1,0 +1,14 @@
+AvgTempCtrl,AvgCool,AvgHeat,Identifier,Country,ProvinceState,City,Age_of_Home__years_,HvacMode,CalendarEvent,Climate,allowCompWithAux,Has_Electric,Has_a_Heat_Pump,Auxilliary_Heat_Fuel_Type
+677.48575949367091,659.46202531645565,638.92405063291142,6f76dee396823efaa4928dd76539ab3f46489ee6,US,VT,Bethel,0,heat,auto,Home,false,false,false,Gas
+700.17906786590356,674.99591169255928,673.32788225674574,6f76dee396823efaa4928dd76539ab3f46489ee6,US,VT,Bethel,0,heat,hold,Home,false,false,false,Gas
+661.144385026738,680.21925133689842,668.00534759358288,5b7f5dbb625ed5102fc3e91ac27731652483eafd,US,VT,Newfane,0,heat,auto,Home,false,false,false,Gas
+668.08727272727276,684.4545454545455,668.27636363636361,5b7f5dbb625ed5102fc3e91ac27731652483eafd,US,VT,Newfane,0,heat,hold,Home,false,false,false,Gas
+649.4134007585335,650.0353982300885,650.0353982300885,202b20f2fdcb124df820af1fd71955548fab26ff,US,VT,South Burlington,0,heat,auto,Home,true,false,false,Gas
+649.4840072420036,650.98672299336147,650.98672299336147,202b20f2fdcb124df820af1fd71955548fab26ff,US,VT,South Burlington,0,heat,hold,Home,true,false,false,Gas
+662.73240329740008,664.02758402029167,664.02441344324666,662953f85593ffcb52ca9d8569604ec908481b51,US,VT,South Burlington,0,heat,hold,Home,false,false,false,Gas
+713.69333333333338,714.34666666666669,713.65333333333331,8de572f3c0cd0e9fbadaff3165dc844a1ef72f5a,US,VT,South Burlington,0,heat,hold,Home,false,false,false,Gas
+604.57142857142856,850.0,600.0,3d647a2eaad7adb69982d6c563a32013203b9803,US,VT,brownington,0,heat,auto,Home,false,false,false,Gas
+795.3039215686274,690.0,690.0,7fa021bd983c34f07a6ab6cb5cf89b2a51fdc387,US,VT,Bethel,0,heat,auto,Home,false,false,false,Gas
+695.88585434173672,682.16946778711485,682.16946778711485,b8499dce4ad0e8b7441e7f16bed32acb435d233c,US,VT,Bethel,0,heat,hold,Home,false,false,false,Gas
+694.30791962174942,690.0,670.0,b8499dce4ad0e8b7441e7f16bed32acb435d233c,US,VT,Bethel,0,heat,auto,Home,false,false,false,Gas
+709.76802924559649,680.0,680.0,7fa021bd983c34f07a6ab6cb5cf89b2a51fdc387,US,VT,Bethel,0,heat,hold,Home,false,false,false,Gas

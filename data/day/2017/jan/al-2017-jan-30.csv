@@ -1,0 +1,18 @@
+AvgTempCtrl,AvgCool,AvgHeat,Identifier,Country,ProvinceState,City,Age_of_Home__years_,HvacMode,CalendarEvent,Climate,allowCompWithAux,Has_Electric,Has_a_Heat_Pump,Auxilliary_Heat_Fuel_Type
+694.48191214470285,725.0,675.0,5bc410e5c504c5632a6f916720c0ec96f6bfb650,US,AL,Enterprise,30,auto,hold,Home,true,false,true,Electric
+673.395061728395,725.0,675.0,5bc410e5c504c5632a6f916720c0ec96f6bfb650,US,AL,Enterprise,30,auto,auto,Home,true,false,true,Electric
+684.35897435897436,820.0,689.9487179487179,648acd6d2c0ba7c88b15c576b62378289e39c636,US,AL,mount olive,30,auto,hold,Home,true,false,true,Electric
+681.97752126366947,721.43560145808021,642.50668286755774,451f79448680deadfa0e8ecab51ff989fc0c88ce,US,AL,Mobile,30,auto,hold,Home,false,false,false,Gas
+663.76824817518252,698.40510948905114,629.051094890511,451f79448680deadfa0e8ecab51ff989fc0c88ce,US,AL,Mobile,30,auto,auto,Home,false,false,false,Gas
+661.75974025974028,693.61038961038957,691.91558441558436,451f79448680deadfa0e8ecab51ff989fc0c88ce,US,AL,Mobile,30,cool,hold,Home,false,false,false,Gas
+622.76902887139113,690.02467191601045,550.00314960629919,0ceb0a77f1b2a357356b091a94cf39c4c4a5106e,US,AL,Pelham,30,heat,hold,Home,false,false,false,Gas
+654.29649122807018,620.0,620.0,c53c65e3ad1a032e3ae197ac0440ae11782202bd,US,AL,Northport,30,off,hold,Home,false,false,false,Gas
+613.75868055555554,626.25,620.0,c53c65e3ad1a032e3ae197ac0440ae11782202bd,US,AL,Northport,30,off,auto,Home,false,false,false,Gas
+642.586274509804,645.00980392156862,645.00980392156862,c53c65e3ad1a032e3ae197ac0440ae11782202bd,US,AL,Northport,30,heat,auto,Home,false,false,false,Gas
+646.22916666666663,646.25,620.0,c53c65e3ad1a032e3ae197ac0440ae11782202bd,US,AL,Northport,30,cool,auto,Home,false,false,false,Gas
+663.42857142857144,805.06753246753249,635.41818181818178,1b1404ed5ea701578f3e9c8c68a19e9ee47ba914,US,AL,Birmingham,30,auto,auto,Home,false,false,false,Gas
+726.23529411764707,730.35294117647061,729.88235294117646,2a669ba45f8aee651c32d540d9e077f11979c6b9,US,AL,Phenix City,30,heat,hold,Home,true,false,true,Electric
+723.78571428571433,734.21428571428567,731.07142857142856,2a669ba45f8aee651c32d540d9e077f11979c6b9,US,AL,Phenix City,30,heat,auto,Home,true,false,true,Electric
+738.38888888888891,721.66666666666663,721.66666666666663,2a669ba45f8aee651c32d540d9e077f11979c6b9,US,AL,Phenix City,30,cool,auto,Home,true,false,true,Electric
+692.25,695.83333333333337,600.0,451f79448680deadfa0e8ecab51ff989fc0c88ce,US,AL,Mobile,30,off,hold,Home,false,false,false,Gas
+686.5,680.0,700.0,451f79448680deadfa0e8ecab51ff989fc0c88ce,US,AL,Mobile,30,cool,auto,Home,false,false,false,Gas

@@ -1,0 +1,58 @@
+AvgTempCtrl,AvgCool,AvgHeat,Identifier,Country,ProvinceState,City,Age_of_Home__years_,HvacMode,CalendarEvent,Climate,allowCompWithAux,Has_Electric,Has_a_Heat_Pump,Auxilliary_Heat_Fuel_Type
+731.87603305785126,799.23966942148763,651.19008264462809,2335bb79932a998d1efa3a91a2d4763a84d8086e,US,AL,Enterprise,5,auto,auto,Home,false,false,true,Electric
+722.347266881029,730.6302250803858,732.50160771704179,3428401094723e4278d70e02b556d726b28de981,US,AL,Wilmer,5,cool,auto,Home,false,false,true,Electric
+670.83783783783781,692.10810810810813,686.67567567567562,3428401094723e4278d70e02b556d726b28de981,US,AL,Wilmer,5,heat,auto,Home,false,false,true,Electric
+692.081081081081,705.8648648648649,704.67567567567562,3428401094723e4278d70e02b556d726b28de981,US,AL,Wilmer,5,cool,hold,Home,false,false,true,Electric
+721.22580645161293,729.29032258064512,701.9677419354839,2335bb79932a998d1efa3a91a2d4763a84d8086e,US,AL,Enterprise,5,auto,hold,Home,false,false,true,Electric
+697.5,722.35714285714289,722.35714285714289,75a9c9caf051539827ecb872da432c6c3732dd18,US,AL,TRUSSVILLE,5,heat,hold,Home,true,false,true,Electric
+675.92657766990294,720.0,640.02366504854365,1e3da0713d343c9de2be4ad3ecc7b6b0f45ed630,US,AL,Auburn,5,heat,auto,Home,false,false,false,Gas
+721.7954545454545,724.0,674.0,18eeb49782d8a72977ad65471c0f2a67d6ee97b1,US,AL,Auburn,5,auto,hold,Home,false,false,true,Electric
+697.48275862068965,742.94334975369463,692.94334975369463,39e69fda17a08570ae27a25ab42ee80a3147dfd5,US,AL,Auburn,5,auto,hold,Home,false,false,false,Gas
+691.47711267605632,730.0,690.00352112676057,55f7e3711e52d781d46a7532603243fab51b705d,US,AL,Auburn,5,heat,auto,Home,false,false,true,Electric
+691.65789473684208,720.24561403508767,670.24561403508767,39e69fda17a08570ae27a25ab42ee80a3147dfd5,US,AL,Auburn,5,auto,auto,Home,false,false,false,Gas
+659.4473684210526,723.953947368421,653.56578947368416,2a8561cd66e1e77cc4e95f9721f67f1ce7029d37,US,AL,Hoover,5,heat,auto,Home,true,false,true,Electric
+682.08450704225356,710.45070422535207,681.92957746478874,46c9e4e957ba8b66d245fbb1e3aec0c39f33a57c,US,AL,Hoover,5,heat,auto,Home,false,false,true,Electric
+674.5,680.0,680.0,46c9e4e957ba8b66d245fbb1e3aec0c39f33a57c,US,AL,Hoover,5,auxHeatOnly,hold,Home,false,false,true,Electric
+686.66666666666663,690.0,690.0,46c9e4e957ba8b66d245fbb1e3aec0c39f33a57c,US,AL,Hoover,5,auxHeatOnly,auto,Home,false,false,true,Electric
+670.40848214285711,810.0,651.47507440476193,6c7109e61ecaa2c82d380ae2b458124810d0b217,US,AL,Oxford,5,auto,hold,Home,false,false,false,Gas
+683.96599496221666,829.58942065491181,640.29219143576825,84100add9c6f664606a4864341763e4511202612,US,AL,Harvest,5,auto,auto,Home,true,false,true,Electric
+675.656462585034,678.36054421768711,678.08503401360542,ef3d38cb05e41e1448c42744df464a9a1bb374f9,US,AL,Madison,5,heat,auto,Home,true,false,true,Electric
+715.62774792379093,716.38837322911581,716.38837322911581,b0bbc5df001aa43d892a909aad0e4d3131dd927d,US,AL,Madison,5,heat,hold,Home,false,false,false,Gas
+681.94962686567169,685.38805970149258,685.2705223880597,ef3d38cb05e41e1448c42744df464a9a1bb374f9,US,AL,Madison,5,heat,hold,Home,true,false,true,Electric
+706.75974025974028,715.9512987012987,715.9512987012987,b0bbc5df001aa43d892a909aad0e4d3131dd927d,US,AL,Madison,5,cool,hold,Home,false,false,false,Gas
+714.05555555555554,716.04938271604942,716.04938271604942,b0bbc5df001aa43d892a909aad0e4d3131dd927d,US,AL,Madison,5,heat,auto,Home,false,false,false,Gas
+622.61363636363637,672.27272727272725,612.72727272727275,00ecc16fbe65c54970eeda02b8342d929ae097b8,US,AL,Madison,5,heat,auto,Home,false,false,true,Electric
+709.0454545454545,700.0,680.0,957e11795911972fd79ac8370ec9f274c79584d5,US,AL,Madison,5,auto,hold,Home,false,false,true,Electric
+700.61224489795916,699.265306122449,699.265306122449,ef3d38cb05e41e1448c42744df464a9a1bb374f9,US,AL,Madison,5,cool,hold,Home,true,false,true,Electric
+684.05558468799165,684.61457787100153,684.61457787100153,21ab70c0a081c00862d9828429c2de03ab0f3d80,US,AL,Florence,5,heat,hold,Home,true,false,true,Electric
+667.58695652173913,778.36956521739125,645.73578595317724,6848e40c7004d28ff8aaad167e7addf7422feaed,US,AL,Florence,5,heat,auto,Home,true,false,true,Electric
+694.60869565217388,700.04347826086962,680.5,6848e40c7004d28ff8aaad167e7addf7422feaed,US,AL,Florence,5,cool,auto,Home,true,false,true,Electric
+695.36,701.68,702.0,6848e40c7004d28ff8aaad167e7addf7422feaed,US,AL,Florence,5,cool,hold,Home,true,false,true,Electric
+682.60869565217388,682.0496894409938,679.84472049689441,6848e40c7004d28ff8aaad167e7addf7422feaed,US,AL,Florence,5,heat,hold,Home,true,false,true,Electric
+680.047619047619,680.0,680.0,5a2bbc32d3bb5e24216f3825255af725fa9767d8,US,AL,Northport,5,cool,hold,Home,false,false,true,Electric
+683.73333333333335,680.0,660.0,5a2bbc32d3bb5e24216f3825255af725fa9767d8,US,AL,Northport,5,cool,auto,Home,false,false,true,Electric
+666.75,681.75,678.25,5a2bbc32d3bb5e24216f3825255af725fa9767d8,US,AL,Northport,5,heat,hold,Home,false,false,true,Electric
+654.75,655.25,633.125,5a2bbc32d3bb5e24216f3825255af725fa9767d8,US,AL,Northport,5,heat,auto,Home,false,false,true,Electric
+676.5409181636727,732.46706586826349,664.38023952095807,c031b607560d31a526e2ee4ad6910462341eb278,US,AL,Huntsville,5,heat,auto,Home,false,false,false,Gas
+710.07692307692309,741.55769230769226,680.44230769230774,1239a7d980588f72854824c3e5fff2592b86f72a,US,AL,Huntsville,5,auto,hold,Home,false,false,true,Electric
+668.36190476190473,726.4,667.51428571428573,9b609f06a75e497c0d0afc3f393e9eb3b3cc0c93,US,AL,Huntsville,5,auto,auto,Home,true,false,true,Electric
+697.7714285714286,691.68571428571431,689.02857142857147,c031b607560d31a526e2ee4ad6910462341eb278,US,AL,Huntsville,5,heat,hold,Home,false,false,false,Gas
+690.18421052631584,728.84210526315792,687.68421052631584,9c18c20b14f70e763b13381133b178acaa14b47e,US,AL,Tuscaloosa,5,auto,hold,Home,false,false,false,Gas
+692.9857651245552,699.08185053380782,695.22241992882562,c51b2d94f22eee1251d245cba6064979081ea6bc,US,AL,Owens Cross Roads,5,cool,hold,Home,false,false,true,Electric
+705.9065934065934,710.08241758241763,652.69780219780216,c51b2d94f22eee1251d245cba6064979081ea6bc,US,AL,Owens Cross Roads,5,auto,hold,Home,false,false,true,Electric
+683.64285714285711,679.78571428571433,677.9795918367347,c51b2d94f22eee1251d245cba6064979081ea6bc,US,AL,Owens Cross Roads,5,heat,hold,Home,false,false,true,Electric
+694.20285714285717,700.58,688.24571428571426,c51b2d94f22eee1251d245cba6064979081ea6bc,US,AL,Owens Cross Roads,5,cool,auto,Home,false,false,true,Electric
+698.86666666666667,705.56666666666672,658.1583333333333,c51b2d94f22eee1251d245cba6064979081ea6bc,US,AL,Owens Cross Roads,5,auto,auto,Home,false,false,true,Electric
+700.17543859649118,700.87719298245611,700.87719298245611,c51b2d94f22eee1251d245cba6064979081ea6bc,US,AL,Owens Cross Roads,5,heat,auto,Home,false,false,true,Electric
+686.25,707.75,684.0,3428401094723e4278d70e02b556d726b28de981,US,AL,Wilmer,5,off,auto,Home,false,false,true,Electric
+704.0,690.0,690.0,75a9c9caf051539827ecb872da432c6c3732dd18,US,AL,TRUSSVILLE,5,auto,auto,Home,true,false,true,Electric
+709.44444444444446,780.0,680.0,2d977f2f28c5e8d137b7ee7ff9006e62f85ad05a,US,AL,Meridianville,5,auto,auto,Home,false,false,true,Electric
+691.18518518518522,819.88888888888891,600.14814814814815,b8433ba2b0d709c80254f258092669bc80121cc9,US,AL,Hoover,5,heat,auto,Home,false,false,true,Electric
+696.16666666666663,699.0,696.0,75a9c9caf051539827ecb872da432c6c3732dd18,US,AL,TRUSSVILLE,5,heat,auto,Home,true,false,true,Electric
+704.4545454545455,700.0,660.0,2cba58f7964c517b8bf307c72421bc08a464b504,US,AL,Madison,5,auto,hold,Home,true,true,true,Electric
+716.33333333333337,717.33333333333337,717.33333333333337,b0bbc5df001aa43d892a909aad0e4d3131dd927d,US,AL,Madison,5,cool,auto,Home,false,false,false,Gas
+688.0,696.5,689.5,9b609f06a75e497c0d0afc3f393e9eb3b3cc0c93,US,AL,Huntsville,5,heat,hold,Home,true,false,true,Electric
+687.0,690.0,690.0,9b609f06a75e497c0d0afc3f393e9eb3b3cc0c93,US,AL,Huntsville,5,auxHeatOnly,hold,Home,true,false,true,Electric
+677.33333333333337,685.0,680.0,46c9e4e957ba8b66d245fbb1e3aec0c39f33a57c,US,AL,Hoover,5,heat,hold,Home,false,false,true,Electric
+655.6,660.0,660.0,ef3d38cb05e41e1448c42744df464a9a1bb374f9,US,AL,Madison,5,off,auto,Home,true,false,true,Electric
+685.0,693.0,690.0,9b609f06a75e497c0d0afc3f393e9eb3b3cc0c93,US,AL,Huntsville,5,auxHeatOnly,auto,Home,true,false,true,Electric

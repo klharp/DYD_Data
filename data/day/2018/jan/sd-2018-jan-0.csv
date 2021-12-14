@@ -1,0 +1,10 @@
+AvgTempCtrl,AvgCool,AvgHeat,Identifier,Country,ProvinceState,City,Age_of_Home__years_,HvacMode,CalendarEvent,Climate,allowCompWithAux,Has_Electric,Has_a_Heat_Pump,Auxilliary_Heat_Fuel_Type
+705.72222222222217,704.155753968254,704.155753968254,3a6d34c0a5f6664f14043d1ec1f90525eb6a72aa,US,SD,Rapid City,0,heat,hold,Home,false,false,false,Gas
+708.21967213114749,700.8622950819672,709.99672131147543,a0db9453e1a1a0eef8e3834b31824fe06a3dc487,US,SD,Hartford,0,heat,auto,Home,false,false,false,Gas
+701.70967741935488,705.02688172043008,700.88261648745515,3a6d34c0a5f6664f14043d1ec1f90525eb6a72aa,US,SD,Rapid City,0,heat,auto,Home,false,false,false,Gas
+649.16666666666663,710.0,640.0,ba6e220a85539b203580b1486b6e183220f6488c,US,SD,Sioux Falls,0,auto,hold,Home,false,false,false,Gas
+696.02278481012661,701.68101265822781,698.8784810126582,4a2f71c8dace61eeb7806b1c4aabd4f7980dc760,US,SD,Rapid City,0,heat,auto,Home,false,false,false,Gas
+689.07397260273967,690.01095890410954,689.99726027397264,4a2f71c8dace61eeb7806b1c4aabd4f7980dc760,US,SD,Rapid City,0,heat,hold,Home,false,false,false,Gas
+669.36734693877554,790.0,668.16326530612241,ba6e220a85539b203580b1486b6e183220f6488c,US,SD,Sioux Falls,0,auto,auto,Home,false,false,false,Gas
+682.26543209876547,785.925925925926,688.51851851851848,0968b16b919c5e8b72ff8de3bda124068f7f322d,US,SD,Sioux Falls,0,auto,auto,Home,false,false,false,Gas
+690.85344827586209,765.0,696.0344827586207,0968b16b919c5e8b72ff8de3bda124068f7f322d,US,SD,Sioux Falls,0,auto,hold,Home,false,false,false,Gas

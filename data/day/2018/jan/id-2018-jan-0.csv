@@ -1,0 +1,20 @@
+AvgTempCtrl,AvgCool,AvgHeat,Identifier,Country,ProvinceState,City,Age_of_Home__years_,HvacMode,CalendarEvent,Climate,allowCompWithAux,Has_Electric,Has_a_Heat_Pump,Auxilliary_Heat_Fuel_Type
+698.75177304964541,753.18439716312059,701.72340425531911,d4ebcc8b6cc40ee769cecf1dfdc28673ee9e7c6f,US,ID,Star,0,auto,auto,Home,false,false,false,Gas
+702.43125,709.11875,708.025,f9e3f96b2929d85dd24eac09985e5d424fcd02de,US,ID,Boise,0,heat,auto,Home,false,false,false,Gas
+670.52152521525215,679.57810578105784,674.270602706027,f9e3f96b2929d85dd24eac09985e5d424fcd02de,US,ID,Boise,0,heat,hold,Home,false,false,false,Gas
+719.27083333333337,715.7520833333333,715.7520833333333,56d7c48743530264e911ee4bbf995c1957a832e1,US,ID,Meridian,0,heat,auto,Home,false,false,false,Gas
+719.656836461126,720.18498659517422,720.18498659517422,58ad5f75c5c17a6c9e6923aa6e88717f19548f17,US,ID,Meridian,0,heat,auto,Home,false,false,false,Gas
+669.18216463414637,690.35670731707319,672.439024390244,9babb3040949b18857b197f154858da010dfcc14,US,ID,Aberdeen,0,heat,auto,Home,false,false,false,Gas
+692.12396458154808,702.06112539274488,692.54241645244213,5129e5e4c05095e57bffc1ced24242c93cf5326a,US,ID,Boise,0,heat,hold,Home,false,false,false,Gas
+704.1,763.2,713.2,d4ebcc8b6cc40ee769cecf1dfdc28673ee9e7c6f,US,ID,Star,0,auto,hold,Home,false,false,false,Gas
+707.09876543209873,710.03292181069958,710.03292181069958,5129e5e4c05095e57bffc1ced24242c93cf5326a,US,ID,Boise,0,heat,auto,Home,false,false,false,Gas
+718.29190340909088,718.24928977272725,718.24928977272725,58ad5f75c5c17a6c9e6923aa6e88717f19548f17,US,ID,Meridian,0,heat,hold,Home,false,false,false,Gas
+679.7683982683983,680.81601731601734,680.81601731601734,6d538dd2fec55d8f8727cb965a1c73721f5f64c0,US,ID,Kuna,0,heat,auto,Home,false,false,false,Gas
+719.6,715.0,677.0,9babb3040949b18857b197f154858da010dfcc14,US,ID,Aberdeen,0,auto,hold,Home,false,false,false,Gas
+679.28571428571433,681.42857142857144,679.85714285714289,849ee4e2f292fbaa50de9fdc94d7870242b1c330,US,ID,Idaho Falls,0,heat,hold,Home,false,false,false,Gas
+678.09990574929316,680.0,680.0,6d538dd2fec55d8f8727cb965a1c73721f5f64c0,US,ID,Kuna,0,heat,hold,Home,false,false,false,Gas
+688.48564814814813,840.0,690.0,af2e12e051baa0782690f8e4fb33211b8c94ad0a,US,ID,eagle,0,heat,auto,Home,true,true,true,Electric
+681.77450980392155,682.83823529411768,682.69117647058829,9babb3040949b18857b197f154858da010dfcc14,US,ID,Aberdeen,0,heat,hold,Home,false,false,false,Gas
+682.5,691.8,685.3,849ee4e2f292fbaa50de9fdc94d7870242b1c330,US,ID,Idaho Falls,0,heat,auto,Home,false,false,false,Gas
+714.50119047619046,711.73452380952381,711.73452380952381,56d7c48743530264e911ee4bbf995c1957a832e1,US,ID,Meridian,0,heat,hold,Home,false,false,false,Gas
+714.83847980997621,713.57482185273159,713.57482185273159,990cbee2265a38833e75df033fc2c099860581fb,US,ID,Rathdrum,0,heat,hold,Home,false,false,false,Gas
