@@ -1,0 +1,2 @@
+AvgTempCtrl,AvgCool,AvgHeat,Identifier,Country,ProvinceState,City,Age_of_Home__years_,HvacMode,CalendarEvent,Climate,allowCompWithAux,Has_Electric,Has_a_Heat_Pump,Auxilliary_Heat_Fuel_Type
+720.35051546391753,740.0,690.0,96857e1f251a78123070d8639ac0838e7be97649,US,MT,Billings,0,auto,hold,Home,false,false,true,Electric

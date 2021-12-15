@@ -1,0 +1,213 @@
+AvgTempCtrl,AvgCool,AvgHeat,Identifier,Country,ProvinceState,City,Age_of_Home__years_,HvacMode,CalendarEvent,Climate,allowCompWithAux,Has_Electric,Has_a_Heat_Pump,Auxilliary_Heat_Fuel_Type
+730.74052478134115,750.17201166180757,749.99708454810491,963dbce1e72e616bc3887179ed484650e79b2567,US,VA,oakton,0,cool,hold,Home,false,false,false,Gas
+689.031746031746,693.32539682539687,691.32539682539687,125240cdc7af254096d0e3d342a412028b17b0db,US,VA,Luray,0,cool,hold,Home,false,false,true,Electric
+730.532967032967,731.43516483516487,731.43516483516487,3529150459985e907d0627edac85ea064da5403b,US,VA,Hopewell,0,cool,hold,Home,true,false,true,Electric
+727.61666666666667,730.0,650.0,936a625c9b87b9bdcf6c3aeb8f012980f1996f7f,US,VA,Crozet,0,auto,auto,Home,false,false,true,Electric
+731.52577319587624,730.18556701030923,650.46391752577324,42bc6636a72d51ad4fcc29bdec06d97d32506f8e,US,VA,Lynchburg,0,cool,auto,Home,false,false,false,Gas
+721.5915492957746,690.0,660.0,93418248489fe0b8cd98d9a2a3f1d0234cbfef15,US,VA,Strasburg,0,off,auto,Home,false,false,false,Gas
+714.542372881356,715.69491525423734,662.84745762711862,8ce04b21ec81b07a80ed33988fb090275460fd62,US,VA,Lynchburg,0,auto,hold,Home,true,false,true,Electric
+740.26666666666665,738.58333333333337,696.0333333333333,5ceff5348e51367eb45d1ec2c3cd48fcf7af55ae,US,VA,mclean,0,cool,auto,Home,false,false,false,Gas
+715.47127937336813,714.73759791122711,731.07049608355089,3529150459985e907d0627edac85ea064da5403b,US,VA,Hopewell,0,cool,auto,Home,true,false,true,Electric
+736.1349206349206,732.85714285714289,732.85714285714289,42bc6636a72d51ad4fcc29bdec06d97d32506f8e,US,VA,Lynchburg,0,cool,hold,Home,false,false,false,Gas
+736.35416666666663,705.0,655.0,0454b7a766065ccd43a4997c9d52da6728bafe57,US,VA,Aldie,0,auto,hold,Home,false,false,false,Gas
+708.658371040724,707.91855203619912,650.97737556561083,2810e2f57a3f062aa3e45ec31a1214930d4343bd,US,VA,Bristow,0,cool,auto,Home,false,false,false,Gas
+655.31067961165047,650.98705501618122,651.04530744336569,f71d71b7151f7cb6697907ceec86aa37d5364009,US,VA,Hampton,0,cool,hold,Home,false,false,true,Electric
+686.59507640067909,684.34182229767964,615.0,9632cd7c43fff2b4ca85e579ae8850e41c1eb6b2,US,VA,Roanoke,0,auto,hold,Home,false,false,false,Gas
+721.32456140350882,720.0,720.0,54f652b3f24064ea3ccfc19e1cce711f0b5ea902,US,VA,Roanoke,0,cool,hold,Home,false,false,true,Electric
+729.71428571428567,690.0,690.0,6d440935dd99ad49eade74f6be758b566c0e6595,US,VA,Dumfries,0,cool,hold,Home,false,false,false,Gas
+720.328125,720.0,720.0,76588d53bfea927b1da4fb30269a378ea0f5698d,US,VA,Dumfries,0,cool,hold,Home,false,false,false,Gas
+735.35496688741716,734.5298013245033,684.5298013245033,1bacb0d4501b60f5acabf4e96d2a224a61a358b1,US,VA,Leesburg,0,auto,hold,Home,false,false,false,Gas
+760.66883116883116,759.5454545454545,759.5454545454545,d7abddb841d979bf99cddc39b55e6b6ed4aa26a2,US,VA,Leesburg,0,cool,auto,Home,false,false,false,Gas
+767.47326732673264,767.27128712871286,762.4891089108911,8fab936af3ff43babd66a67814246ccef40d0cbd,US,VA,Richmond,0,cool,auto,Home,false,false,true,Electric
+718.05943152454779,716.1395348837209,675.73126614987075,342240dc77552033d769949dd077724a82a08308,US,VA,Richmond,0,cool,auto,Home,true,false,true,Electric
+735.65333333333331,779.4,729.4,fc23d595c6b9a114ecb4faeff48afc842d837311,US,VA,Stafford,0,auto,hold,Home,false,false,false,Gas
+754.05787037037032,770.0,770.0,d392d6888cb989fff4293a13761f1529a9364bd0,US,VA,Stafford,0,cool,hold,Home,true,false,false,Gas
+767.37162162162167,765.04729729729729,764.62837837837833,4c6abf8171de218389597afd8253d2b152e33b44,US,VA,Stafford,0,cool,hold,Home,true,false,true,Electric
+716.61184210526312,715.0,710.0,a14006713f5cbded8bf51b94856a04970041eecb,US,VA,Stafford,0,cool,auto,Home,false,false,false,Gas
+743.76732422862926,744.62215477996961,685.82953970662618,cf02e355c63f82606e24696fb3035490ff1dfece,US,VA,Sterling,0,auto,hold,Home,false,false,true,Electric
+741.23333333333335,780.0,650.0,7e1709b3388ff6a08689ee139f301806a3803abf,US,VA,Arlington,0,cool,auto,Home,false,false,false,Gas
+689.32415902140667,696.434250764526,617.40061162079508,d2c48d2650cab382355a5615ed052106df93d1ea,US,VA,Chantilly,0,auto,auto,Home,true,false,false,Gas
+729.56578947368416,790.0,640.0,d2c48d2650cab382355a5615ed052106df93d1ea,US,VA,Chantilly,0,cool,auto,Home,true,false,false,Gas
+705.40816326530614,719.28571428571433,717.89795918367349,6f86f20632e7e899eef0a97190ac032cad015848,US,VA,Haymarket,0,cool,hold,Home,false,false,false,Gas
+703.2045454545455,712.75757575757575,712.34848484848487,292ca56e0d6896bf5b76534ed855e344901bcc82,US,VA,Alexandria,0,cool,hold,Home,false,false,false,Gas
+740.088289619505,739.27336534909489,739.27669006280018,4a94e3598693c2c132fa29c750a11b5506cf6813,US,VA,Chesapeake,0,cool,hold,Home,false,false,false,Gas
+707.11111111111109,706.66666666666663,636.66666666666663,e4e3bae8181474f47dab64d8d1e057331b8301b0,US,VA,Chesapeake,0,auto,hold,Home,false,false,false,Gas
+749.89247311827955,750.0,750.0,dafbb7fe3341cf54cc5b9312121bb41ae4fbf33a,US,VA,Chesapeake,0,off,hold,Home,true,false,true,Electric
+731.41071428571433,730.03571428571433,750.0,4a94e3598693c2c132fa29c750a11b5506cf6813,US,VA,Chesapeake,0,cool,auto,Home,false,false,false,Gas
+689.26928718099145,712.89351716045758,679.998826635377,f41c0d637c8734907dc989bf58d084fb3d2eb9db,US,VA,Glen Allen,0,cool,hold,Home,false,false,false,Gas
+756.47991071428567,766.56696428571433,659.87946428571433,51f8c26a485e5341cad5b42da21c7d825c4810e4,US,VA,Woodbridge,0,auto,auto,Home,false,false,false,Gas
+773.31818181818187,779.19191919191917,693.989898989899,3cfe055d635271d94ca560d8116d1c8cee7fc058,US,VA,Centreville,0,auto,hold,Home,false,false,false,Gas
+722.55833333333328,721.5,721.5,ba2f5c3c2383737a1db7ebffc141ad5eb1e734e5,US,VA,Springfield,0,cool,hold,Home,false,false,false,Gas
+746.7069648924122,750.0,750.0,42e69cbd9416291fa296b0dfa24c835f6f2932d2,US,VA,Springfield,0,cool,hold,Home,false,false,false,Gas
+727.702380952381,730.02380952380952,730.0,4fd5fa23871cc8df8dc76ae8393f5f659327a69b,US,VA,Chesterfield,0,cool,hold,Home,false,false,true,Electric
+735.76923076923072,717.974358974359,716.53846153846155,924c3df34de1b0acae08eeaa86769bd2604b2cd2,US,VA,Newport News,0,cool,hold,Home,true,false,true,Electric
+752.90807962529277,755.05913348946137,749.39695550351291,d36b18ba4c7c2dccb2b57f764a3fa46297672a7c,US,VA,Fredericksburg,0,cool,auto,Home,false,false,false,Gas
+770.41935483870964,768.83870967741939,766.64516129032256,497ee48eb992adb0bd05fe1af04d00f1e7dd7714,US,VA,Mechanicsville,0,cool,hold,Home,false,false,false,Gas
+752.4666666666667,770.0,680.0,963dbce1e72e616bc3887179ed484650e79b2567,US,VA,oakton,0,cool,auto,Home,false,false,false,Gas
+714.59090909090912,705.27272727272725,713.40909090909088,918c1a7e6fc19ce039ebab9b56c69eaa1494367a,US,VA,Powhatan,0,heat,auto,Home,true,false,true,Electric
+731.19444444444446,740.0,740.0,3529150459985e907d0627edac85ea064da5403b,US,VA,Hopewell,0,off,hold,Home,true,false,true,Electric
+715.94117647058829,704.64705882352939,650.0,04fa9cc87d27dcff4929ff57610520632f662f7d,US,VA,Stephens City,0,auto,auto,Home,false,false,false,Gas
+707.0,702.72222222222217,648.05555555555554,68693da20af51dc405cb11786eafe1b21173d9e3,US,VA,Aldie,0,auto,auto,Home,false,false,false,Gas
+762.45833333333337,760.33333333333337,759.0,25ba0cae5e34d671cafcdff9251dc12707e875e1,US,VA,Mechanicsville,0,cool,hold,Home,false,false,false,Gas
+718.25,710.0,652.0,1752c7c43402d165fe4d275006c9b7b008560258,US,VA,Falls Church,0,off,hold,Home,false,false,false,Gas
+703.31422924901187,688.07015810276675,688.0635704874835,b5cd346ae3c9d570969bb52f326a058cd205e771,US,VA,Mc Lean,0,cool,hold,Home,false,false,false,Gas
+696.754189944134,680.50279329608941,650.37709497206708,b5cd346ae3c9d570969bb52f326a058cd205e771,US,VA,Mc Lean,0,cool,auto,Home,false,false,false,Gas
+709.90543798553438,707.52772568979378,660.0,93418248489fe0b8cd98d9a2a3f1d0234cbfef15,US,VA,Strasburg,0,cool,auto,Home,false,false,false,Gas
+721.072375127421,720.63302752293578,725.62385321100919,f7d56938cdcc528977797ae2462ec38652d83d3e,US,VA,Mechanicville,0,cool,auto,Home,true,false,false,Gas
+711.94690265486724,712.42477876106193,712.07964601769913,eebc2aafdbf0e81cf6a607b7e8321bf7fcc107ce,US,VA,Hague,0,cool,hold,Home,false,false,true,Electric
+742.06493506493507,755.84415584415581,755.74025974025972,8059b52d6dc39e960f4d2b31974c9a5c9666237c,US,VA,Lovettsville,0,cool,hold,Home,false,false,false,Gas
+707.58839406207824,709.0080971659919,709.0080971659919,5ffe7c1ae880824b895f31e7575a8b08693fc53e,US,VA,Vienna,0,cool,hold,Home,true,false,false,Gas
+736.3328785811733,752.58663028649391,757.92837653478853,f6f74a5027ed3bf53283521c4a4d7b7124412b0d,US,VA,Ashburn,0,cool,auto,Home,false,false,false,Gas
+705.59793814432987,704.80412371134025,703.91752577319585,21a36fdd87d4179a8253ede60c4161a4065f5afc,US,VA,Hampton,0,heat,auto,Home,false,false,false,Gas
+756.97005988023955,757.11377245508982,660.0,2b77648a3f3e65bbbd75cffdb4c8933ce05aa922,US,VA,Henrico,0,cool,auto,Home,true,false,true,Electric
+702.92912552891391,705.1745416078985,638.9763751763046,8cffcb35b332864f96796e2c6780add191d0f952,US,VA,Roanoke,0,auto,hold,Home,false,false,false,Gas
+723.67732764747689,723.23596304193325,695.63965884861409,54f652b3f24064ea3ccfc19e1cce711f0b5ea902,US,VA,Roanoke,0,cool,auto,Home,false,false,true,Electric
+760.84375,779.86875,640.175,76588d53bfea927b1da4fb30269a378ea0f5698d,US,VA,Dumfries,0,cool,auto,Home,false,false,false,Gas
+726.07196833393311,725.38575026988121,675.38575026988121,1bacb0d4501b60f5acabf4e96d2a224a61a358b1,US,VA,Leesburg,0,auto,auto,Home,false,false,false,Gas
+723.41666666666663,720.53125,719.1875,fa4f61456eb6d548306f8f757798faeeb3bb97da,US,VA,Richmond,0,cool,hold,Home,false,false,false,Gas
+719.27689243027885,713.84262948207174,713.84262948207174,8fab936af3ff43babd66a67814246ccef40d0cbd,US,VA,Richmond,0,cool,hold,Home,false,false,true,Electric
+692.08064516129036,691.41935483870964,641.41935483870964,fc23d595c6b9a114ecb4faeff48afc842d837311,US,VA,Stafford,0,auto,auto,Home,false,false,false,Gas
+756.74916943521589,772.25415282392032,691.95847176079735,35ad99ca968658764d123ad748ca96357e3bbf2d,US,VA,Stafford,0,cool,auto,Home,true,false,true,Electric
+751.15412186379933,746.25448028673839,745.98566308243733,35ad99ca968658764d123ad748ca96357e3bbf2d,US,VA,Stafford,0,cool,hold,Home,true,false,true,Electric
+711.93799546998866,722.00198187995466,635.96828992072483,73e55cb9e8fc7c20effb22fb376d11b3114a99ee,US,VA,Annandale,0,auto,hold,Home,false,false,false,Gas
+727.07253886010358,727.19911176906,615.219837157661,dcb6b5febeaab79532cce14e5c020f4a894c1caa,US,VA,Arlington,0,auto,hold,Home,false,false,false,Gas
+724.96153846153845,730.0,610.0,dcb6b5febeaab79532cce14e5c020f4a894c1caa,US,VA,Arlington,0,off,auto,Home,false,false,false,Gas
+712.228813559322,709.88347457627117,718.50211864406776,672314ed9477489000d343a191089a2a7edcaa3e,US,VA,Arlington,0,cool,auto,Home,false,false,false,Gas
+712.62962962962968,710.40740740740739,680.0,113ae93e36501d2ccafbdea6d02e06052acbe311,US,VA,Arlington,0,cool,auto,Home,false,false,true,Electric
+699.792243767313,728.98984302862414,705.65466297322257,503c37e1bc1dce2cd5da64b328e22b4203401ac0,US,VA,Arlington,0,cool,auto,Home,false,false,true,Electric
+728.20999324780553,726.73801485482784,726.73801485482784,25dd36c3f52418b7da4ecadca2db4f17a4322295,US,VA,Arlington,0,cool,hold,Home,false,false,true,Electric
+741.06989247311833,720.0,720.0,01565e9263a0f04e74fcddc27ba8f0e88631879a,US,VA,Arlington,0,off,hold,Home,false,false,true,Electric
+757.87917374080359,775.0,725.0,b87b07107a054699470326551fd964ad3d55fdba,US,VA,Arlington,0,auto,hold,Home,false,false,false,Gas
+700.7560975609756,697.609756097561,619.26829268292681,d2c48d2650cab382355a5615ed052106df93d1ea,US,VA,Chantilly,0,auto,hold,Home,true,false,false,Gas
+711.13030746705715,699.307467057101,678.44948755490486,6f86f20632e7e899eef0a97190ac032cad015848,US,VA,Haymarket,0,cool,auto,Home,false,false,false,Gas
+751.63699623079151,759.668889533198,759.668889533198,86ae867371bae890e10c8901168448b95ae3a4c7,US,VA,Alexandria,0,cool,hold,Home,false,false,false,Gas
+711.273607748184,709.03389830508479,699.57223567393055,124c388ea8b12452817d8c6a3a2501c87d8183d4,US,VA,Chesapeake,0,cool,auto,Home,false,false,true,Electric
+719.4948453608248,709.51804123711338,709.45618556701027,124c388ea8b12452817d8c6a3a2501c87d8183d4,US,VA,Chesapeake,0,cool,hold,Home,false,false,true,Electric
+748.65191024863555,747.01637355973321,747.01637355973321,dafbb7fe3341cf54cc5b9312121bb41ae4fbf33a,US,VA,Chesapeake,0,cool,hold,Home,true,false,true,Electric
+753.06128958760542,754.5017088174983,754.5017088174983,913b3298d7921aea96903a145ed93504db539bab,US,VA,Woodbridge,0,cool,hold,Home,true,false,false,Gas
+759.87433862433863,765.05423280423281,659.96031746031747,51f8c26a485e5341cad5b42da21c7d825c4810e4,US,VA,Woodbridge,0,auto,hold,Home,false,false,false,Gas
+759.03180515759311,760.1538681948424,700.0,3db879d0777e27f984ddb12bf353c82174919592,US,VA,Woodbridge,0,auto,hold,Home,false,false,true,Electric
+732.10303030303032,765.8,765.8,41580c69ebdf6c54791346223ad87b80edd069d5,US,VA,Gainesville,0,cool,hold,Home,false,false,true,Electric
+721.03243243243242,717.67567567567562,651.9567567567567,1752c7c43402d165fe4d275006c9b7b008560258,US,VA,Falls Church,0,auto,hold,Home,false,false,false,Gas
+791.33132530120486,814.29518072289159,654.3373493975904,497ee48eb992adb0bd05fe1af04d00f1e7dd7714,US,VA,Mechanicsville,0,cool,auto,Home,false,false,false,Gas
+770.93869731800771,715.0,681.9540229885057,46c3ea7f414087f0dfa6dc5975e5248cc0c01ceb,US,VA,Virginia Beach,0,off,hold,Home,false,false,true,Electric
+704.78735105407884,705.23159181179346,703.49007027192181,46c3ea7f414087f0dfa6dc5975e5248cc0c01ceb,US,VA,Virginia Beach,0,cool,hold,Home,false,false,true,Electric
+720.34191702432042,719.976251788269,719.976251788269,b8f15cc3f2f43a2bcfb11e407ff473e6b60ca508,US,VA,North Chesterfield,0,cool,hold,Home,false,false,false,Gas
+700.55737704918033,723.42622950819668,680.0,f41c0d637c8734907dc989bf58d084fb3d2eb9db,US,VA,Glen Allen,0,off,hold,Home,false,false,false,Gas
+714.58333333333337,710.91666666666663,690.0,fa4f61456eb6d548306f8f757798faeeb3bb97da,US,VA,Richmond,0,cool,auto,Home,false,false,false,Gas
+746.4666666666667,744.0,616.0,987275664c7cb3752495d87cc55394c3f5f22d40,US,VA,Mechanicsville,0,auto,hold,Home,false,false,true,Electric
+742.85714285714289,740.42857142857144,690.0,89fcc5ad82f37a146322134e60f3568046d29428,US,VA,Midlothian,0,auto,auto,Home,true,false,true,Electric
+735.0,730.0,730.0,5eb7f5b66277da935108af0c1ca0d6e91dd464c4,US,VA,Leesburg,0,cool,hold,Home,false,false,false,Gas
+802.0,794.5,687.5,3cfe055d635271d94ca560d8116d1c8cee7fc058,US,VA,Centreville,0,off,auto,Home,false,false,false,Gas
+705.66666666666663,716.33333333333337,686.33333333333337,943cb33ad9b2d3f4e97843475435605bd9f69036,US,VA,Luray,0,cool,auto,Home,false,false,true,Electric
+697.44157441574418,697.57687576875765,622.140221402214,3db22b59b336ab67c0fa4ace883c0e1539ebc5d3,US,VA,Fort Belvoir,0,auto,auto,Home,false,false,false,Gas
+729.67365269461072,731.2155688622754,668.29341317365265,8ce04b21ec81b07a80ed33988fb090275460fd62,US,VA,Lynchburg,0,auto,auto,Home,true,false,true,Electric
+715.047480620155,709.08333333333337,709.10852713178292,f7d56938cdcc528977797ae2462ec38652d83d3e,US,VA,Mechanicville,0,cool,hold,Home,true,false,false,Gas
+704.26666666666665,705.9,677.61666666666667,918c1a7e6fc19ce039ebab9b56c69eaa1494367a,US,VA,Powhatan,0,cool,auto,Home,true,false,true,Electric
+745.44312393887947,745.31578947368416,693.22580645161293,4e9399b85e89a054881cccabaa978f1a914baebd,US,VA,Seaford,0,auto,hold,Home,false,false,false,Gas
+728.71620665251237,731.43170559094131,731.43170559094131,04fa9cc87d27dcff4929ff57610520632f662f7d,US,VA,Stephens City,0,cool,hold,Home,false,false,false,Gas
+736.95518453427064,748.46836555360278,744.23140011716464,8059b52d6dc39e960f4d2b31974c9a5c9666237c,US,VA,Lovettsville,0,cool,auto,Home,false,false,false,Gas
+714.49317738791422,714.16569200779725,636.30409356725147,e376ce9053b440ea6dc10d75b8cd5ca7ff5e6579,US,VA,Aldie,0,auto,hold,Home,false,false,false,Gas
+731.75,726.07142857142856,666.07142857142856,e376ce9053b440ea6dc10d75b8cd5ca7ff5e6579,US,VA,Aldie,0,auto,auto,Home,false,false,false,Gas
+792.16279069767438,799.55813953488371,797.79069767441865,d473f599ad96f3db5ec7ff113f8e2ccfa90970ae,US,VA,Burke,0,cool,hold,Home,true,false,true,Electric
+790.44285714285718,834.45714285714291,667.1,d473f599ad96f3db5ec7ff113f8e2ccfa90970ae,US,VA,Burke,0,cool,auto,Home,true,false,true,Electric
+782.43034055727549,839.99380804953557,600.00619195046443,7c1de0bfd3954083d34ba2cb8055f53382e7ab5f,US,VA,Ashburn,0,auto,auto,Home,false,false,false,Gas
+735.2509563886764,748.2368018362663,748.247895944912,f6f74a5027ed3bf53283521c4a4d7b7124412b0d,US,VA,Ashburn,0,cool,hold,Home,false,false,false,Gas
+743.56702619414489,748.65639445300462,576.3620955315871,fac81f23d12ac9042e222a62deb614c3abd0818a,US,VA,Hampton,0,auto,hold,Home,false,false,false,Gas
+735.67237687366162,735.14132762312636,672.5738758029978,fac81f23d12ac9042e222a62deb614c3abd0818a,US,VA,Hampton,0,auto,auto,Home,false,false,false,Gas
+726.69642857142856,735.78571428571433,734.51785714285711,a34d2ba9b917adf505c728f679668b0e90841758,US,VA,Henrico,0,cool,hold,Home,true,false,true,Electric
+739.6,740.0,740.0,2b77648a3f3e65bbbd75cffdb4c8933ce05aa922,US,VA,Henrico,0,cool,hold,Home,true,false,true,Electric
+726.7581852198316,719.78882132834428,693.79700654817589,a772a0a0a0ff471e3e314b745a676535fea277be,US,VA,Norfolk,0,cool,auto,Home,false,false,false,Gas
+731.5,730.0,730.0,d21ca6ee433571a4c8e97af5c21036df6712b7a6,US,VA,Suffolk,0,cool,hold,Home,true,false,false,Gas
+769.48717948717945,771.66666666666663,710.0,843beb50c9e3cb7cb0d7d1af9d773e209ebc84f3,US,VA,Dumfries,0,auto,auto,Home,false,false,false,Gas
+724.272397094431,725.42978208232444,725.19612590799034,342240dc77552033d769949dd077724a82a08308,US,VA,Richmond,0,cool,hold,Home,true,false,true,Electric
+766.40944881889766,800.0,640.0,4c6abf8171de218389597afd8253d2b152e33b44,US,VA,Stafford,0,off,auto,Home,true,false,true,Electric
+777.53535353535358,796.6565656565657,646.89898989899,4c6abf8171de218389597afd8253d2b152e33b44,US,VA,Stafford,0,cool,auto,Home,true,false,true,Electric
+732.44732991953185,729.53035844915871,729.53035844915871,a14006713f5cbded8bf51b94856a04970041eecb,US,VA,Stafford,0,cool,hold,Home,false,false,false,Gas
+762.24122807017545,760.0,750.0,d392d6888cb989fff4293a13761f1529a9364bd0,US,VA,Stafford,0,cool,auto,Home,true,false,false,Gas
+757.358024691358,760.0,650.0,7f1c665bef054e1746a769597f2dbc601e8a0b30,US,VA,Sterling,0,auto,hold,Home,false,false,false,Gas
+732.969298245614,720.0,720.0,dcb6b5febeaab79532cce14e5c020f4a894c1caa,US,VA,Arlington,0,heat,auto,Home,false,false,false,Gas
+766.52631578947364,810.0,640.0,a85da026a18de522310eb24231548254755adf21,US,VA,Alexandria,0,auto,auto,Home,false,false,false,Gas
+729.0878281622912,727.62577565632455,669.999522673031,850017858426e1f37691a8bea40a6453946b5e80,US,VA,Chesapeake,0,auto,hold,Home,false,false,false,Gas
+734.35971223021579,735.92805755395682,715.70863309352524,4b063ff745b27f0628e860598c0eda4c9742cc8e,US,VA,Chesapeake,0,cool,auto,Home,false,false,true,Electric
+720.58333333333337,720.13888888888891,690.0,c1009cca2f6123c6880b6ed68a654fd27d2e27fe,US,VA,Chesapeake,0,cool,auto,Home,true,false,true,Electric
+728.36246276067527,731.80834160873883,731.60178748758688,4b063ff745b27f0628e860598c0eda4c9742cc8e,US,VA,Chesapeake,0,cool,hold,Home,false,false,true,Electric
+676.07122507122506,694.91737891737887,678.73219373219376,f41c0d637c8734907dc989bf58d084fb3d2eb9db,US,VA,Glen Allen,0,cool,auto,Home,false,false,false,Gas
+728.0875739644971,727.59881656804737,696.27573964497037,6ea81c8e9e410e1dc1cab01bf31e93cbb169458d,US,VA,Midlothian,0,cool,auto,Home,true,false,true,Electric
+735.84129213483141,737.37780898876406,736.97752808988764,6ea81c8e9e410e1dc1cab01bf31e93cbb169458d,US,VA,Midlothian,0,cool,hold,Home,true,false,true,Electric
+711.9859459459459,710.0,640.0,78d3805d25b62cc34fcf79a0eab89afe34ca8f35,US,VA,Smithfield,0,auto,hold,Home,false,false,false,Gas
+739.76417910447765,738.47761194029852,704.83582089552237,753f30d94c2cbed1f5adc155254c1452f0bb9c1f,US,VA,Smithfield,0,cool,auto,Home,false,false,false,Gas
+702.12871287128712,697.89603960396039,633.40594059405942,42e0d08a6720dc9c9f7f5ac317a187936842ea0d,US,VA,Centreville,0,auto,auto,Home,false,false,false,Gas
+797.23913043478262,800.0,690.0,3cfe055d635271d94ca560d8116d1c8cee7fc058,US,VA,Centreville,0,auto,auto,Home,false,false,false,Gas
+742.76,740.0,740.0,7d5319513803309c1793ac5c72f49cdf4da97f5b,US,VA,Gainesville,0,cool,hold,Home,false,false,false,Gas
+735.703768115942,735.04347826086962,720.4173913043478,4fd5fa23871cc8df8dc76ae8393f5f659327a69b,US,VA,Chesterfield,0,cool,auto,Home,false,false,true,Electric
+736.82289855072463,735.04347826086962,720.4173913043478,5a5fe87ee1553ae5a6ad98a09854bc73c473650f,US,VA,Chesterfield,0,cool,auto,Home,true,false,true,Electric
+731.65476190476193,730.01190476190482,730.0,5a5fe87ee1553ae5a6ad98a09854bc73c473650f,US,VA,Chesterfield,0,cool,hold,Home,true,false,true,Electric
+748.23404255319144,763.40425531914889,640.0,b57a10b3844199a5ceeb9a7756e3b248b88a1b91,US,VA,Falls Church,0,auto,hold,Home,false,false,true,Electric
+791.55339805825247,820.0,660.0,25ba0cae5e34d671cafcdff9251dc12707e875e1,US,VA,Mechanicsville,0,cool,auto,Home,false,false,false,Gas
+719.51067887109082,720.03775743707092,669.09763539283,1c8e0d2c3f1a91481c56e9f7fe0872949e76a682,US,VA,Virginia Beach,0,auto,auto,Home,true,false,true,Electric
+725.06907894736844,725.0,675.0,1c8e0d2c3f1a91481c56e9f7fe0872949e76a682,US,VA,Virginia Beach,0,auto,hold,Home,true,false,true,Electric
+713.675,718.825,680.0,e1617bfb7d40878fc956592f17d03442c204b646,US,VA,Virginia Beach,0,cool,auto,Home,false,false,false,Gas
+727.570707070707,724.30808080808083,724.18686868686871,e1617bfb7d40878fc956592f17d03442c204b646,US,VA,Virginia Beach,0,cool,hold,Home,false,false,false,Gas
+736.78231089934479,736.07921381774861,736.07474687313879,f4af7dcc9626a7b833417a5153df712286ae290c,US,VA,Virginia Beach,0,cool,hold,Home,false,false,false,Gas
+726.52840909090912,726.76846590909088,726.7329545454545,e7ef19ae801bf2868b25dd7349c33852688aec25,US,VA,Virginia Beach,0,cool,hold,Home,true,false,true,Electric
+744.05970149253733,740.0,740.0,a964544d492102d4d47a4c6a3c37be585615c47b,US,VA,Virginia Beach,0,cool,hold,Home,false,false,true,Electric
+786.85915492957747,743.69014084507046,740.18309859154931,3cfe055d635271d94ca560d8116d1c8cee7fc058,US,VA,Centreville,0,cool,hold,Home,false,false,false,Gas
+707.47058823529414,717.5,669.29411764705878,924c3df34de1b0acae08eeaa86769bd2604b2cd2,US,VA,Newport News,0,cool,auto,Home,true,false,true,Electric
+710.14285714285711,712.17857142857144,711.03571428571433,21a36fdd87d4179a8253ede60c4161a4065f5afc,US,VA,Hampton,0,heat,hold,Home,false,false,false,Gas
+703.75,723.375,649.25,05698194fa4429f45fa633ded40cb4f3399ea000,US,VA,Norfolk,0,auto,auto,Home,true,false,true,Electric
+718.16666666666663,720.33333333333337,690.0,e7ef19ae801bf2868b25dd7349c33852688aec25,US,VA,Virginia Beach,0,cool,auto,Home,true,false,true,Electric
+704.5,707.0,707.0,943cb33ad9b2d3f4e97843475435605bd9f69036,US,VA,Luray,0,heat,auto,Home,false,false,true,Electric
+730.75,700.0,700.0,ba2f5c3c2383737a1db7ebffc141ad5eb1e734e5,US,VA,Springfield,0,off,hold,Home,false,false,false,Gas
+659.0,681.5,680.0,f41c0d637c8734907dc989bf58d084fb3d2eb9db,US,VA,Glen Allen,0,off,auto,Home,false,false,false,Gas
+783.0,780.0,712.0,3cfe055d635271d94ca560d8116d1c8cee7fc058,US,VA,Centreville,0,off,hold,Home,false,false,false,Gas
+705.45652173913038,704.54782608695655,638.6260869565217,358db71f54ddd62d4f7d336e71bb208b1fbe7dbf,US,VA,New Kent,0,cool,auto,Home,true,false,true,Electric
+733.2,689.6,688.2,764b46991a4da1163388a6e4bf65daaa5298f03f,US,VA,Luray,0,cool,hold,Home,false,false,true,Electric
+697.04619673436878,698.4719235364397,619.52409398645955,3db22b59b336ab67c0fa4ace883c0e1539ebc5d3,US,VA,Fort Belvoir,0,auto,hold,Home,false,false,false,Gas
+723.0525767829256,720.65434669442993,650.0,04fa9cc87d27dcff4929ff57610520632f662f7d,US,VA,Stephens City,0,auto,hold,Home,false,false,false,Gas
+718.14166666666665,730.0,680.0,936a625c9b87b9bdcf6c3aeb8f012980f1996f7f,US,VA,Crozet,0,auto,hold,Home,false,false,true,Electric
+715.390205371248,717.526066350711,717.50394944707739,358db71f54ddd62d4f7d336e71bb208b1fbe7dbf,US,VA,New Kent,0,cool,hold,Home,true,false,true,Electric
+746.42794759825324,770.0,710.0,eebc2aafdbf0e81cf6a607b7e8321bf7fcc107ce,US,VA,Hague,0,cool,auto,Home,false,false,true,Electric
+732.93827160493822,730.20987654320993,729.67283950617286,5ceff5348e51367eb45d1ec2c3cd48fcf7af55ae,US,VA,mclean,0,cool,hold,Home,false,false,false,Gas
+744.46557169930509,743.29753632343647,743.29753632343647,3da1837f9b3fd01b73b89fb9b513b89ce28acf50,US,VA,Woodstock,0,cool,hold,Home,false,false,true,Electric
+722.06983240223462,742.56983240223462,742.56983240223462,3da1837f9b3fd01b73b89fb9b513b89ce28acf50,US,VA,Woodstock,0,off,hold,Home,false,false,true,Electric
+751.16580310880829,750.0,740.0,3da1837f9b3fd01b73b89fb9b513b89ce28acf50,US,VA,Woodstock,0,cool,auto,Home,false,false,true,Electric
+742.72131147540983,739.983606557377,739.983606557377,04fa9cc87d27dcff4929ff57610520632f662f7d,US,VA,Stephens City,0,cool,auto,Home,false,false,false,Gas
+762.05555555555554,770.0,680.0,7c1de0bfd3954083d34ba2cb8055f53382e7ab5f,US,VA,Ashburn,0,auto,hold,Home,false,false,false,Gas
+653.89949109414761,650.80195080576755,655.462256149279,f71d71b7151f7cb6697907ceec86aa37d5364009,US,VA,Hampton,0,cool,auto,Home,false,false,true,Electric
+684.71518987341767,680.0,630.0,8cffcb35b332864f96796e2c6780add191d0f952,US,VA,Roanoke,0,auto,auto,Home,false,false,false,Gas
+762.5375,779.79375,640.16875,6d440935dd99ad49eade74f6be758b566c0e6595,US,VA,Dumfries,0,cool,auto,Home,false,false,false,Gas
+768.95833333333337,770.24444444444441,710.0,843beb50c9e3cb7cb0d7d1af9d773e209ebc84f3,US,VA,Dumfries,0,auto,hold,Home,false,false,false,Gas
+752.11789697291556,754.2113648433351,754.19596388741365,d7abddb841d979bf99cddc39b55e6b6ed4aa26a2,US,VA,Leesburg,0,cool,hold,Home,false,false,false,Gas
+755.67948717948718,745.0,745.0,d7abddb841d979bf99cddc39b55e6b6ed4aa26a2,US,VA,Leesburg,0,heat,hold,Home,false,false,false,Gas
+759.50820599886811,760.0,640.0,823b8edc26a8899874e39752f513bbb031a00cba,US,VA,Leesburg,0,cool,auto,Home,false,false,false,Gas
+734.10711175616836,722.04847605224961,720.0,5bd7e31ff1af9f573586161b7847605fe7f12ead,US,VA,Leesburg,0,cool,auto,Home,false,false,false,Gas
+737.14666666666665,720.0,720.0,5bd7e31ff1af9f573586161b7847605fe7f12ead,US,VA,Leesburg,0,cool,hold,Home,false,false,false,Gas
+747.55440055440056,747.54261954261949,694.24116424116426,cf02e355c63f82606e24696fb3035490ff1dfece,US,VA,Sterling,0,auto,auto,Home,false,false,true,Electric
+729.84182869153972,733.0788229111929,618.09458749343139,dcb6b5febeaab79532cce14e5c020f4a894c1caa,US,VA,Arlington,0,auto,auto,Home,false,false,false,Gas
+721.60917431192661,720.05688073394492,720.04220183486234,01565e9263a0f04e74fcddc27ba8f0e88631879a,US,VA,Arlington,0,cool,hold,Home,false,false,true,Electric
+723.47916666666663,720.0,660.0,56ef0a5e574ac3d823ae7b5c4f8f801836306e64,US,VA,Arlington,0,auto,hold,Home,true,false,true,Electric
+720.32219705549267,724.07332955832385,670.0,8d2f2e03b58c343d9e155e2cc617fc59e049fc41,US,VA,Arlington,0,auto,hold,Home,false,false,false,Gas
+722.17171129220026,730.49417927823049,730.49534342258437,503c37e1bc1dce2cd5da64b328e22b4203401ac0,US,VA,Arlington,0,cool,hold,Home,false,false,true,Electric
+709.95006242197258,732.74656679151065,723.69538077403251,25dd36c3f52418b7da4ecadca2db4f17a4322295,US,VA,Arlington,0,cool,auto,Home,false,false,true,Electric
+741.6,740.0,680.0,bad5f9c2a68ee2ec35e92351020127b9f5a960ce,US,VA,Chantilly,0,cool,auto,Home,false,false,false,Gas
+751.54054054054052,750.0,690.0,a85da026a18de522310eb24231548254755adf21,US,VA,Alexandria,0,auto,hold,Home,false,false,false,Gas
+722.70833333333337,720.375,718.5,111d3e37163ecec21d47797fa1addcd82aa115f5,US,VA,Alexandria,0,cool,hold,Home,false,false,false,Gas
+716.86719091306247,715.0,665.0,bec80d7afd5fb3d0bedc0e1f8a775ae75cd96e94,US,VA,Chesapeake,0,auto,auto,Home,true,false,false,Gas
+733.10493398193194,731.46073662265462,680.69492703266155,850017858426e1f37691a8bea40a6453946b5e80,US,VA,Chesapeake,0,auto,auto,Home,false,false,false,Gas
+762.01173020527858,760.01173020527858,760.0,753f30d94c2cbed1f5adc155254c1452f0bb9c1f,US,VA,Smithfield,0,cool,hold,Home,false,false,false,Gas
+701.56903765690379,694.489539748954,694.0,d5b90cacf6c35a0244e4f7d6477f8a22085ea5f2,US,VA,Winchester,0,cool,hold,Home,false,false,false,Gas
+745.92982456140351,748.421052631579,748.421052631579,913b3298d7921aea96903a145ed93504db539bab,US,VA,Woodbridge,0,off,hold,Home,true,false,false,Gas
+764.22914811516773,789.50845948352628,783.06737904422675,41580c69ebdf6c54791346223ad87b80edd069d5,US,VA,Gainesville,0,cool,auto,Home,false,false,true,Electric
+762.88885697874787,786.08845491097065,780.26421596783462,7d5319513803309c1793ac5c72f49cdf4da97f5b,US,VA,Gainesville,0,cool,auto,Home,false,false,false,Gas
+738.41639072847681,739.134105960265,739.1307947019867,d36b18ba4c7c2dccb2b57f764a3fa46297672a7c,US,VA,Fredericksburg,0,cool,hold,Home,false,false,false,Gas
+748.64391691394655,754.64985163204744,690.0,8add1eda261e3bb60b12c0ac7ea533ab10fd896c,US,VA,Virginia Beach,0,cool,auto,Home,false,false,true,Electric
+712.41958041958037,700.0,700.0,74ae5289f52838dd060a09f8b78ac839079ce4b6,US,VA,Virginia Beach,0,cool,hold,Home,false,false,true,Electric
+721.38983050847457,720.28813559322032,729.89830508474574,f4af7dcc9626a7b833417a5153df712286ae290c,US,VA,Virginia Beach,0,cool,auto,Home,false,false,false,Gas
+745.77777777777783,730.0,730.0,8fab936af3ff43babd66a67814246ccef40d0cbd,US,VA,Richmond,0,off,auto,Home,false,false,true,Electric
+760.0,760.0,680.95081967213116,e9b5078b8fd3e7faf5c57f5be9cd44488dd10eaf,US,VA,Arlington,0,cool,auto,Home,false,false,false,Gas
+764.06818181818187,753.86363636363637,700.0,3db879d0777e27f984ddb12bf353c82174919592,US,VA,Woodbridge,0,auto,auto,Home,false,false,true,Electric
+731.91666666666663,730.0,710.0,ba2f5c3c2383737a1db7ebffc141ad5eb1e734e5,US,VA,Springfield,0,cool,auto,Home,false,false,false,Gas
+701.875,760.0,760.0,672314ed9477489000d343a191089a2a7edcaa3e,US,VA,Arlington,0,cool,hold,Home,false,false,false,Gas
+722.66666666666663,720.0,617.0,dcb6b5febeaab79532cce14e5c020f4a894c1caa,US,VA,Arlington,0,off,hold,Home,false,false,false,Gas
+704.0,700.0,720.0,918c1a7e6fc19ce039ebab9b56c69eaa1494367a,US,VA,Powhatan,0,off,auto,Home,true,false,true,Electric

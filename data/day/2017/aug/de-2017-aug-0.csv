@@ -1,0 +1,22 @@
+AvgTempCtrl,AvgCool,AvgHeat,Identifier,Country,ProvinceState,City,Age_of_Home__years_,HvacMode,CalendarEvent,Climate,allowCompWithAux,Has_Electric,Has_a_Heat_Pump,Auxilliary_Heat_Fuel_Type
+723.67424749163877,725.82608695652175,725.75050167224083,7b382f97d6ed8f50c881992217f24ace3989dd43,US,DE,Wilmington,0,cool,hold,Home,false,false,false,Gas
+719.42255801403132,722.200215866163,712.75769023205612,7b382f97d6ed8f50c881992217f24ace3989dd43,US,DE,Wilmington,0,cool,auto,Home,false,false,false,Gas
+712.97909156452772,711.98125450612838,711.98125450612838,ab5a9b61c056b033400697326a4873f0dc659052,US,DE,Camden,0,cool,hold,Home,false,false,false,Gas
+798.37647058823529,811.44498269896189,649.99930795847752,3565d7bb056bf002f140d29767967102159b869c,US,DE,Middletown,0,auto,auto,Home,false,false,false,Gas
+738.77744807121667,745.76854599406533,745.76854599406533,369031a5f936602e3708bd570c23c589f8f2e40b,US,DE,Rehoboth Beach,0,cool,hold,Home,true,false,true,Electric
+713.34130146082339,713.73705179282865,710.00531208499331,ab5a9b61c056b033400697326a4873f0dc659052,US,DE,Camden,0,cool,auto,Home,false,false,false,Gas
+769.13157894736844,760.0,650.0,7f2f8705ae9539f60ce60e8b8bbc3b535b03ee83,US,DE,Rehoboth Beach,0,auto,hold,Home,false,false,false,Gas
+787.69918699187,776.09756097560978,650.0,7f2f8705ae9539f60ce60e8b8bbc3b535b03ee83,US,DE,Rehoboth Beach,0,off,auto,Home,false,false,false,Gas
+803.8,770.0,650.0,7f2f8705ae9539f60ce60e8b8bbc3b535b03ee83,US,DE,Rehoboth Beach,0,off,hold,Home,false,false,false,Gas
+795.31265031265036,817.61952861952864,650.0,3565d7bb056bf002f140d29767967102159b869c,US,DE,Middletown,0,auto,hold,Home,false,false,false,Gas
+721.97370030581044,719.94954128440372,650.697247706422,f1c31e2900d9c0cadbba9552cffcdeca139f6d71,US,DE,Claymont ,0,auto,hold,Home,false,false,true,Electric
+712.8901515151515,721.36363636363637,662.9545454545455,f1c31e2900d9c0cadbba9552cffcdeca139f6d71,US,DE,Claymont ,0,auto,auto,Home,false,false,true,Electric
+803.49806814190379,807.5556726378644,660.0,5e7ccce35cfa7d15e25e46b921bcc05492299e78,US,DE,Middletown,0,auto,hold,Home,false,false,false,Gas
+787.84638109305763,815.65140324963068,660.0,5e7ccce35cfa7d15e25e46b921bcc05492299e78,US,DE,Middletown,0,auto,auto,Home,false,false,false,Gas
+728.974171539961,730.0,670.0,d90de80fbfc586b72b80946294a9f3c88e052572,US,DE,Newark,0,auto,hold,Home,false,false,false,Gas
+741.07113821138216,740.0,670.0,d90de80fbfc586b72b80946294a9f3c88e052572,US,DE,Newark,0,auto,auto,Home,false,false,false,Gas
+718.52777777777783,731.25,727.5,7b382f97d6ed8f50c881992217f24ace3989dd43,US,DE,Wilmington,0,off,auto,Home,false,false,false,Gas
+751.05882352941171,743.52941176470586,743.52941176470586,369031a5f936602e3708bd570c23c589f8f2e40b,US,DE,Rehoboth Beach,0,off,hold,Home,true,false,true,Electric
+725.73737373737379,740.0,740.0,7b382f97d6ed8f50c881992217f24ace3989dd43,US,DE,Wilmington,0,off,hold,Home,false,false,false,Gas
+781.6,761.8,740.2,7f2f8705ae9539f60ce60e8b8bbc3b535b03ee83,US,DE,Rehoboth Beach,0,cool,hold,Home,false,false,false,Gas
+777.5,795.0,663.5,7f2f8705ae9539f60ce60e8b8bbc3b535b03ee83,US,DE,Rehoboth Beach,0,cool,auto,Home,false,false,false,Gas

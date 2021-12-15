@@ -1,0 +1,55 @@
+AvgTempCtrl,AvgCool,AvgHeat,Identifier,Country,ProvinceState,City,Age_of_Home__years_,HvacMode,CalendarEvent,Climate,allowCompWithAux,Has_Electric,Has_a_Heat_Pump,Auxilliary_Heat_Fuel_Type
+941.52830188679241,950.0,950.0,bacc5fbf06ca4e1c73d270d12407ad313b84bbff,US,KS,overland Park,0,heat,hold,Home,false,false,false,Gas
+750.448275862069,750.0,750.0,93d66affa29a05398050c36a6b5e62770beedd1b,US,KS,Andover,0,cool,hold,Home,false,false,false,Gas
+695.89743589743591,690.23076923076928,690.0,4f15b9b9a7a93d664fe247b9ecbcbf5e3f000909,US,KS,Maize,0,cool,auto,Home,false,false,false,Gas
+708.11791179117915,702.2565256525653,702.23042304230421,22b4521abfabb3ecc25afbd9bd0a622a08d879f5,US,KS,Olathe,0,cool,hold,Home,false,false,false,Gas
+706.819397993311,697.876254180602,632.190635451505,aa15e17bc381c462512cc4b8e3d4cf1e6965c77b,US,KS,Olathe,0,auto,auto,Home,false,false,false,Gas
+738.98611111111109,780.0,780.0,afe493be74ce6a281f8b632068d97fa3543f8f72,US,KS,Olathe,0,cool,hold,Home,false,false,false,Gas
+729.0504413619168,735.80327868852464,735.813366960908,36470f33f55e2edac710024174bf79f9a881a7d3,US,KS,Topeka,0,cool,hold,Home,false,false,false,Gas
+722.89072426937742,728.386912325286,717.96251588310042,36470f33f55e2edac710024174bf79f9a881a7d3,US,KS,Topeka,0,cool,auto,Home,false,false,false,Gas
+762.54166666666663,767.5,755.0,140220e967676847166978e3cc645831b06b5ec1,US,KS,Topeka,0,cool,hold,Home,false,false,false,Gas
+729.75,730.15740740740739,758.00925925925924,97a7550b44b7dd1f5d01c8ec46a319686f53f7df,US,KS,Fairway,0,cool,auto,Home,false,false,false,Gas
+713.44944677603974,710.92636398321247,710.919877909195,154fd9684671c1f7bf152428154034b8f627ce0f,US,KS,Leawood,0,cool,hold,Home,false,false,true,Electric
+755.47564469914039,720.00573065902574,720.00573065902574,669f2522de60539fac01c16aea0b881cd8bd4bd0,US,KS,Leawood,0,cool,hold,Home,false,false,false,Gas
+706.4825,697.98125,697.95625,1902dc7d6f00c525a2249420d56d43aa4b942898,US,KS,Shawnee,0,cool,hold,Home,false,false,false,Gas
+718.01190476190482,700.0,690.0,1902dc7d6f00c525a2249420d56d43aa4b942898,US,KS,Shawnee,0,cool,auto,Home,false,false,false,Gas
+732.9342188488298,731.81720430107532,628.579696394687,f2c0058f596d11fcf1bcfbfd83f099414bcabf78,US,KS,Cherryvale,0,auto,hold,Home,false,true,true,Electric
+767.93975903614455,768.7831325301205,767.09638554216872,5093cf5285de4e8d146cd483f2eb7719a12a811f,US,KS,Hutchinson,0,cool,hold,Home,false,false,false,Gas
+719.57142857142856,715.09523809523807,666.12380952380954,c06c94f64db82903583bb2794cea6e17afd520cc,US,KS,Kansas City,0,auto,hold,Home,false,false,false,Gas
+703.0,690.0,690.0,c06c94f64db82903583bb2794cea6e17afd520cc,US,KS,Kansas City,0,off,auto,Home,false,false,false,Gas
+677.95691609977325,679.41345427059707,692.92441421012848,e086e02092f3090c1cf8626f3358baf3cf3a8fe3,US,KS,Overland Park,0,cool,auto,Home,false,false,false,Gas
+730.31625523986963,727.24639031206334,727.242198416395,c383143ed929f3fb2ca47cb8433fab79d0ba1fed,US,KS,Overland Park,0,cool,hold,Home,false,false,false,Gas
+731.67127344521225,729.98815399802572,700.0059230009872,c383143ed929f3fb2ca47cb8433fab79d0ba1fed,US,KS,Overland Park,0,cool,auto,Home,false,false,false,Gas
+722.46836007130128,720.0,650.0,6bd76ee3dec2fdf5a803fe3978fdda6a001dd016,US,KS,Overland Park,0,auto,hold,Home,false,false,false,Gas
+746.94482758620688,746.39310344827584,640.0,c0f96b9460480e979dd4198999e897e568c0955c,US,KS,Overland Park,0,auto,hold,Home,false,false,false,Gas
+874.29420289855068,740.0,740.0,8f7cb6e93db828c011cc25ae3e5b5acf81237fe1,US,KS,Overland Park,0,off,hold,Home,false,false,false,Gas
+711.91176470588232,710.0,650.0,6bd76ee3dec2fdf5a803fe3978fdda6a001dd016,US,KS,Overland Park,0,auto,auto,Home,false,false,false,Gas
+685.75799086757991,693.068493150685,693.068493150685,e086e02092f3090c1cf8626f3358baf3cf3a8fe3,US,KS,Overland Park,0,cool,hold,Home,false,false,false,Gas
+709.44444444444446,715.0,695.0,d08a319fc44a29f7d44434f1237162f898d4e66a,US,KS,Overland Park,0,auto,auto,Home,false,false,false,Gas
+759.30769230769226,770.69230769230774,759.61538461538464,de4a3f6bec97d806a31b45a5ba0e6010cd3a9eaa,US,KS,Overland Park,0,cool,hold,Home,false,false,false,Gas
+702.5795454545455,698.0625,629.85227272727275,fe779904e8eede7395997bd2762cd654983d363a,US,KS,Andover,0,cool,auto,Home,false,false,false,Gas
+741.10638297872345,740.0,720.0,93d66affa29a05398050c36a6b5e62770beedd1b,US,KS,Andover,0,cool,auto,Home,false,false,false,Gas
+672.67307692307691,665.32692307692309,664.23076923076928,fe779904e8eede7395997bd2762cd654983d363a,US,KS,Andover,0,cool,hold,Home,false,false,false,Gas
+739.5151515151515,722.42424242424238,722.42424242424238,05690c952f81cab7baedcdbbb308b5acfd087908,US,KS,Valley Center,0,cool,hold,Home,false,false,false,Gas
+721.27720839433869,716.971205466081,700.50512445095171,22b4521abfabb3ecc25afbd9bd0a622a08d879f5,US,KS,Olathe,0,cool,auto,Home,false,false,false,Gas
+731.14844804318489,731.53846153846155,681.53846153846155,908b4967abd407cb6789067d7274e4bef33b037a,US,KS,Olathe,0,auto,auto,Home,false,false,false,Gas
+722.40549348230911,715.56191806331469,715.56703910614522,b981f351a895b95659885cf54c8339508ca5dfb4,US,KS,Topeka,0,cool,hold,Home,true,false,false,Gas
+725.83697813121273,720.20178926441349,719.25646123260435,b981f351a895b95659885cf54c8339508ca5dfb4,US,KS,Topeka,0,cool,auto,Home,true,false,false,Gas
+739.6421356421356,743.491341991342,743.491341991342,97a7550b44b7dd1f5d01c8ec46a319686f53f7df,US,KS,Fairway,0,cool,hold,Home,false,false,false,Gas
+722.18108651911473,720.0,710.0,154fd9684671c1f7bf152428154034b8f627ce0f,US,KS,Leawood,0,cool,auto,Home,false,false,true,Electric
+774.43288996372428,777.38210399032653,690.453446191052,669f2522de60539fac01c16aea0b881cd8bd4bd0,US,KS,Leawood,0,cool,auto,Home,false,false,false,Gas
+711.05882352941171,740.0,740.0,8593b8edadd3b900afe6b2b9c97c2ebcfa4416bc,US,KS,Leawood,0,cool,auto,Home,false,false,false,Gas
+718.51960784313724,740.0,740.0,8593b8edadd3b900afe6b2b9c97c2ebcfa4416bc,US,KS,Leawood,0,cool,hold,Home,false,false,false,Gas
+721.75421796625631,721.44414044687642,719.06976744186045,5bb5597e9d9d99cdc9404d834c5a795a0a5ca92a,US,KS,Wichita,0,cool,auto,Home,false,false,false,Gas
+721.53167185877464,720.51817237798548,720.52959501557632,5bb5597e9d9d99cdc9404d834c5a795a0a5ca92a,US,KS,Wichita,0,cool,hold,Home,false,false,false,Gas
+718.0,710.0,720.0,5bb5597e9d9d99cdc9404d834c5a795a0a5ca92a,US,KS,Wichita,0,off,auto,Home,false,false,false,Gas
+759.72727272727275,774.09090909090912,680.0,5093cf5285de4e8d146cd483f2eb7719a12a811f,US,KS,Hutchinson,0,cool,auto,Home,false,false,false,Gas
+741.578947368421,771.0526315789474,763.68421052631584,c06c94f64db82903583bb2794cea6e17afd520cc,US,KS,Kansas City,0,cool,auto,Home,false,false,false,Gas
+730.45962732919259,724.86956521739125,724.76397515527947,c06c94f64db82903583bb2794cea6e17afd520cc,US,KS,Kansas City,0,cool,hold,Home,false,false,false,Gas
+692.67991568804575,690.56218006624511,669.55886781090032,d08a319fc44a29f7d44434f1237162f898d4e66a,US,KS,Overland Park,0,auto,hold,Home,false,false,false,Gas
+793.375,809.80113636363637,750.02272727272725,de4a3f6bec97d806a31b45a5ba0e6010cd3a9eaa,US,KS,Overland Park,0,cool,auto,Home,false,false,false,Gas
+731.99350649350652,730.02922077922074,633.37662337662334,c0f96b9460480e979dd4198999e897e568c0955c,US,KS,Overland Park,0,auto,auto,Home,false,false,false,Gas
+698.19277108433732,696.61445783132535,660.0,ded24be8c7096c25e1e671399c0fb0372717b70a,US,KS,Overland Park,0,cool,auto,Home,false,false,false,Gas
+702.57180851063833,701.87765957446811,651.843085106383,84a2ccdafa4612f6175100b7eece47511a1e03f4,US,KS,Prairie Village,0,auto,hold,Home,false,false,false,Gas
+697.054794520548,693.98287671232879,643.98287671232879,84a2ccdafa4612f6175100b7eece47511a1e03f4,US,KS,Prairie Village,0,auto,auto,Home,false,false,false,Gas
+792.0,725.0,657.0,c06c94f64db82903583bb2794cea6e17afd520cc,US,KS,Kansas City,0,auto,auto,Home,false,false,false,Gas

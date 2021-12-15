@@ -1,0 +1,11 @@
+AvgTempCtrl,AvgCool,AvgHeat,Identifier,Country,ProvinceState,City,Age_of_Home__years_,HvacMode,CalendarEvent,Climate,allowCompWithAux,Has_Electric,Has_a_Heat_Pump,Auxilliary_Heat_Fuel_Type
+721.33333333333337,722.0,719.33333333333337,be4f2a63b7719c2a69aa285e8a38038c29df8fa6,US,AK,Anchorage,0,heat,auto,Home,false,false,false,Gas
+725.64285714285711,692.03571428571433,668.10714285714289,be4f2a63b7719c2a69aa285e8a38038c29df8fa6,US,AK,Anchorage,0,heat,hold,Home,false,false,false,Gas
+669.85714285714289,684.64285714285711,682.28571428571433,0404ace1bcdf88d917bd860a04cd6c66fb51679f,US,AK,Homer,0,heat,auto,Home,true,false,false,Gas
+666.275641025641,673.34615384615381,669.13461538461536,0404ace1bcdf88d917bd860a04cd6c66fb51679f,US,AK,Homer,0,heat,hold,Home,true,false,false,Gas
+689.2,688.5,670.9,2a539ed50bd05f9b142b5b5a0c9cce50f5cf0e7a,US,AK,Anchorage,0,heat,auto,Home,false,false,false,Gas
+686.66176470588232,650.0,617.22058823529414,2a539ed50bd05f9b142b5b5a0c9cce50f5cf0e7a,US,AK,Anchorage,0,heat,hold,Home,false,false,false,Gas
+692.14886731391584,650.0,599.61165048543694,c810efa572eb24b685d4ea14eb98d7f79cac0bd3,US,AK,North Pole,0,heat,hold,Home,false,false,false,Gas
+663.38180272108843,654.02380952380952,636.32312925170072,fda1f67e8423ed49933c45617ee96aef3bae04ba,US,AK,Wasilla,0,heat,hold,Home,false,false,false,Gas
+668.13095238095241,660.0,660.0,fda1f67e8423ed49933c45617ee96aef3bae04ba,US,AK,Wasilla,0,heat,auto,Home,false,false,false,Gas
+668.235632183908,650.0,650.0,c810efa572eb24b685d4ea14eb98d7f79cac0bd3,US,AK,North Pole,0,heat,auto,Home,false,false,false,Gas

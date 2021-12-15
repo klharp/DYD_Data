@@ -1,0 +1,3 @@
+AvgTempCtrl,AvgCool,AvgHeat,Identifier,Country,ProvinceState,City,Age_of_Home__years_,HvacMode,CalendarEvent,Climate,allowCompWithAux,Has_Electric,Has_a_Heat_Pump,Auxilliary_Heat_Fuel_Type
+717.78457772337822,726.03671970624237,640.0,b7c214e6715b7136e0cf0fbdb5b83337dda9032b,US,ME,Eliot,0,auto,auto,Home,false,false,false,Gas
+720.07586933614334,741.73919915700742,640.0,b7c214e6715b7136e0cf0fbdb5b83337dda9032b,US,ME,Eliot,0,auto,hold,Home,false,false,false,Gas

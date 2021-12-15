@@ -1,0 +1,17 @@
+AvgTempCtrl,AvgCool,AvgHeat,Identifier,Country,ProvinceState,City,Age_of_Home__years_,HvacMode,CalendarEvent,Climate,allowCompWithAux,Has_Electric,Has_a_Heat_Pump,Auxilliary_Heat_Fuel_Type
+738.680412371134,759.98969072164948,759.42268041237116,0f282db9c216fb43ec7241fe29cd5c947102a773,US,ND,Grand Forks,0,cool,hold,Home,false,false,false,Gas
+701.33333333333337,708.83152827918173,708.83152827918173,31bab83a250783cc0d48f1509a6fdfeb059990b7,US,ND,Argusville,0,cool,hold,Home,false,false,true,Electric
+692.82550335570465,700.56375838926169,598.85906040268458,4d17731b1ff0a2df444618f9481aa445cd823197,US,ND,Dickinson,0,off,hold,Home,false,false,false,Gas
+718.34034653465346,745.50495049504946,674.83910891089113,6c8433aa1db0389cd3a0214904e1c8dbe3513686,US,ND,Dickinson,0,auto,hold,Home,false,false,false,Gas
+684.65432098765427,681.0,676.02469135802471,4d17731b1ff0a2df444618f9481aa445cd823197,US,ND,Dickinson,0,cool,hold,Home,false,false,false,Gas
+694.5826086956522,699.33333333333337,697.56521739130437,31bab83a250783cc0d48f1509a6fdfeb059990b7,US,ND,Argusville,0,cool,auto,Home,false,false,true,Electric
+684.39080459770116,692.75862068965512,692.75862068965512,31bab83a250783cc0d48f1509a6fdfeb059990b7,US,ND,Argusville,0,off,hold,Home,false,false,true,Electric
+709.604938271605,700.0,700.0,31bab83a250783cc0d48f1509a6fdfeb059990b7,US,ND,Argusville,0,off,auto,Home,false,false,true,Electric
+687.0,700.0,600.0,4d17731b1ff0a2df444618f9481aa445cd823197,US,ND,Dickinson,0,off,auto,Home,false,false,false,Gas
+684.66666666666663,700.0,600.0,4d17731b1ff0a2df444618f9481aa445cd823197,US,ND,Dickinson,0,cool,auto,Home,false,false,false,Gas
+695.34161849710983,729.88843930635835,661.72832369942194,bceaab209f66b6952049619e1e64ab0d4a0314c0,US,ND,West Fargo,0,auto,hold,Home,true,false,false,Gas
+720.98518518518517,730.0,690.0,6c8433aa1db0389cd3a0214904e1c8dbe3513686,US,ND,Dickinson,0,cool,auto,Home,false,false,false,Gas
+700.13235294117646,730.0,730.0,bceaab209f66b6952049619e1e64ab0d4a0314c0,US,ND,West Fargo,0,cool,auto,Home,true,false,false,Gas
+692.51396648044692,730.0558659217877,630.2234636871508,bceaab209f66b6952049619e1e64ab0d4a0314c0,US,ND,West Fargo,0,auto,auto,Home,true,false,false,Gas
+722.41666666666663,722.5,722.5,6c8433aa1db0389cd3a0214904e1c8dbe3513686,US,ND,Dickinson,0,heat,hold,Home,false,false,false,Gas
+691.06862745098044,720.0,670.0,bceaab209f66b6952049619e1e64ab0d4a0314c0,US,ND,West Fargo,0,off,hold,Home,true,false,false,Gas
