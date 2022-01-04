@@ -4,22 +4,22 @@
 What heating/cooling setpoints are appropriate for the reference building in a high-performance residential standard?
 
 ## The Task
-Extract the data from the BigQuery dataset and get in a format that can be analyzed by staff at Mathis Consulting.
+Extract the data from the BigQuery dataset (7.6TB) and get in a format that can be analyzed by staff at Mathis Consulting. The team determined that it wanted the data by state/province.
 
 ## Data
-There are two tables in the dataset, “dyd” and “meta_data” which exist in the Google Cloud Platform. The “dyd” table is quite large and has a lot of fields that are not needed. The “meta_data” table is smaller. The “Identifier” field exists in both tables and will be the field in which data will be merged. Sorting  “meta_data” table by “First_Connected” date shows data from 2010-2019.  Sorting  “dyd” table by “date_time” date shows data from 2017-2021. Data from 2017-2019 will be extracted from the “dyd” table. 
+There are two tables in the dataset, “dyd” and “meta_data” which exist in the Google Cloud Platform. The “dyd” table is quite large and has a lot of fields that are not needed. The “meta_data” table is smaller. The “Identifier” field exists in both tables and will be the field in which data will be merged. 
 
 ## Process
 1. Clean extract the wanted columns from the tables and clean all the data by removing duplicates and NULLS.
 
 2. Merge the two datasets on "Identifier."
 
-3. Select the wanted dates (winter and summer solstice).
+3. Select the wanted time and dates (by day hours and night hours, month).
 
-4. Establish final queries based on home vintage and country. Then aggregate the temperature control, heating, cooling based on vintage (increments of 5 years)
+4. Establish final queries based state, year, day/night. 
 
 5. Export tables to CSV files
 
-6. Bring in to Jupyter Notebook and combine CSVs for each vintage for summer and winter
+6. Bring in to Jupyter Notebook and aggregate the data for temperature control, heating, and cooling based on each identifier.
 
-7. Export CSV files (summer and winter)
+7. Export CSV files for each state, month, and day/night hours.
