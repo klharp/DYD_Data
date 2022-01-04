@@ -1,0 +1,10 @@
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+0e0d17a6d14f69ec9ccaa6e561c3d01e409ee183,jul,2019,heat,auto,Anchorage,675.6176470588235,680.0,680.0,20.0,False,False,False
+0e0d17a6d14f69ec9ccaa6e561c3d01e409ee183,jul,2019,heat,hold,Anchorage,699.7910447761194,706.8656716417911,704.320895522388,20.0,False,False,False
+1934269f8f3a7a065318ec9a4e7984c0d9216332,jul,2019,heat,hold,Wasilla,668.4848484848485,781.3333333333334,592.2575757575758,0.0,False,False,False
+2678ac2aec9a1f53acad226c2c437efd25ea7dc8,jul,2019,heat,auto,Bethel,718.3662092624356,660.0,660.0,10.0,False,False,False
+2a539ed50bd05f9b142b5b5a0c9cce50f5cf0e7a,jul,2019,heat,hold,Anchorage,702.9530201342282,650.0,590.0,0.0,False,False,False
+68a1a0651c36267368651a504b1a50737727928a,jul,2019,heat,auto,Anchorage,709.9056261343013,819.8221415607985,600.3557168784029,40.0,False,False,False
+995e1c96a74ee2cb3509db751eb6310b63e5aa94,jul,2019,heat,hold,Anchorage,733.0490509703561,661.4595862657283,661.4297291533376,35.0,False,False,False
+d52d6af22f2bcad8215f8eec1a710dd00e190c7b,jul,2019,heat,auto,Wasilla,704.1102284011916,710.0,680.0,5.0,False,False,False
+fda1f67e8423ed49933c45617ee96aef3bae04ba,jul,2019,heat,hold,Wasilla,681.1790040376851,650.0,640.0,0.0,False,False,False

@@ -1,0 +1,12 @@
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+590487e13b23b41e232cab63f588978494880281,jul,2017,auto,auto,Portland,751.95,750.0,700.0,15.0,False,False,False
+590487e13b23b41e232cab63f588978494880281,jul,2017,auto,hold,Portland,738.3333333333334,745.0,695.0,15.0,False,False,False
+a86f074cd58d2ce47d145a5ddf4492c1acca3635,jul,2017,heat,auto,South Portland,730.8627450980392,780.0,650.0,85.0,False,False,False
+aeb6a66ea9334f71ba2b04f324a9a0cb61776743,jul,2017,heat,hold,Greenville,726.5106382978723,657.5531914893617,626.0390070921986,35.0,False,False,False
+b7c214e6715b7136e0cf0fbdb5b83337dda9032b,jul,2017,auto,auto,Eliot,717.7845777233782,726.0367197062424,640.0,0.0,False,False,False
+b7c214e6715b7136e0cf0fbdb5b83337dda9032b,jul,2017,auto,hold,Eliot,720.0758693361433,741.7391991570074,640.0,0.0,False,False,False
+c491ad48441073aa08a818dbfe01ac8ad2a83838,jul,2017,heat,auto,South Portland,729.0,785.0,631.0,75.0,False,False,False
+c491ad48441073aa08a818dbfe01ac8ad2a83838,jul,2017,heat,hold,South Portland,715.1243523316062,700.9637305699482,450.11917098445593,75.0,False,False,False
+db15333c03d900e5068f914b4bbe0929609c4884,jul,2017,auto,auto,Portland,719.0967741935484,734.5354838709677,684.5354838709677,15.0,False,False,False
+db15333c03d900e5068f914b4bbe0929609c4884,jul,2017,auto,hold,Portland,712.8823529411765,734.5,671.7058823529412,15.0,False,False,False
+db15333c03d900e5068f914b4bbe0929609c4884,jul,2017,cool,auto,Portland,706.2397660818714,710.0,680.0,15.0,False,False,False

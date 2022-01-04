@@ -1,0 +1,12 @@
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+0404ace1bcdf88d917bd860a04cd6c66fb51679f,jul,2017,heat,hold,Homer,675.6491228070175,673.7061403508771,668.4298245614035,0.0,True,False,False
+1544f3165814ae017488964fc29ae302bba75bb7,jul,2017,heat,hold,juneau,694.7962962962963,690.0,690.0,27.0,False,False,False
+364d90d4305e64cf8a54685a3669aca9ba7667ed,jul,2017,heat,auto,Palmer,686.5869565217391,690.6521739130435,677.1739130434783,0.0,False,False,False
+364d90d4305e64cf8a54685a3669aca9ba7667ed,jul,2017,heat,hold,Palmer,694.3709677419355,659.6935483870968,652.3225806451613,0.0,False,False,False
+bdad2c2f85c6d00c7ceea6df8246135cb8da01ae,jul,2017,heat,auto,Anchorage,693.4729064039409,780.0837438423646,619.871921182266,40.0,False,False,False
+be4f2a63b7719c2a69aa285e8a38038c29df8fa6,jul,2017,heat,auto,Anchorage,698.1428571428571,700.0,700.0,0.0,False,False,False
+be4f2a63b7719c2a69aa285e8a38038c29df8fa6,jul,2017,heat,hold,Anchorage,739.7407407407408,740.0,740.0,0.0,False,False,False
+c810efa572eb24b685d4ea14eb98d7f79cac0bd3,jul,2017,heat,hold,North Pole,712.6832151300237,650.0,600.0,0.0,False,False,False
+d52d6af22f2bcad8215f8eec1a710dd00e190c7b,jul,2017,heat,auto,Wasilla,692.9856437864513,650.0,650.0,5.0,False,False,False
+df7ad0ff0b54c69d3f2cdeda3b12bff79713d572,jul,2017,heat,hold,juneau,687.289156626506,682.7710843373494,682.7710843373494,27.0,False,False,False
+fda1f67e8423ed49933c45617ee96aef3bae04ba,jul,2017,heat,hold,Wasilla,679.4333623693379,652.5283101045296,644.5692508710802,0.0,False,False,False
