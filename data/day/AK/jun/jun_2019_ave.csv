@@ -1,0 +1,18 @@
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+0404ace1bcdf88d917bd860a04cd6c66fb51679f,jun,2019,heat,hold,Homer,690.9834710743802,651.7355371900826,644.0495867768595,0.0,True,False,False
+0e0d17a6d14f69ec9ccaa6e561c3d01e409ee183,jun,2019,heat,hold,Anchorage,700.8774509803922,705.7401960784314,705.7352941176471,20.0,False,False,False
+2678ac2aec9a1f53acad226c2c437efd25ea7dc8,jun,2019,heat,auto,Bethel,720.0569514237856,660.0,660.0,10.0,False,False,False
+2a539ed50bd05f9b142b5b5a0c9cce50f5cf0e7a,jun,2019,heat,hold,Anchorage,675.5527690700104,650.0,590.0,0.0,False,False,False
+40b3c153caf3b9c2325dfc68d7c7fb52716f6374,jun,2019,heat,hold,Bethel,684.5,670.0,670.0,19.0,False,False,False
+4cf15a20ba9d9a39d09e7b978b351754c3dfbe6e,jun,2019,heat,auto,Anchorage,615.9375,780.0,615.5625,15.0,True,False,False
+55fb88f70abf5cbe75ab0c20eb02b0ed8f36f0da,jun,2019,heat,hold,Huffman/O'Malley,691.8695652173913,673.9130434782609,669.2173913043479,40.0,False,False,False
+68a1a0651c36267368651a504b1a50737727928a,jun,2019,heat,auto,Anchorage,689.85,780.0333333333333,679.9,40.0,False,False,False
+8918965726f66d635e6695137ded6752bef9c89a,jun,2019,heat,hold,Eagle River,676.0,790.0,790.0,37.0,False,False,False
+995e1c96a74ee2cb3509db751eb6310b63e5aa94,jun,2019,heat,hold,Anchorage,712.9459459459459,701.3243243243244,681.0,35.0,False,False,False
+a78112bcf965ec0676617c4c2a282796e4894765,jun,2019,heat,hold,Anchorage,705.8620689655172,671.6781609195402,644.2413793103449,20.0,True,False,False
+d52d6af22f2bcad8215f8eec1a710dd00e190c7b,jun,2019,heat,auto,Wasilla,703.0226851851852,710.0,690.0,5.0,False,False,False
+df7ad0ff0b54c69d3f2cdeda3b12bff79713d572,jun,2019,heat,hold,juneau,664.6,690.0,690.0,27.0,False,False,False
+e189043abcdc363a66270079341e45b9be50fe29,jun,2019,heat,auto,Anchorage,660.8461538461538,780.0,620.0,30.0,False,False,False
+e189043abcdc363a66270079341e45b9be50fe29,jun,2019,heat,hold,Anchorage,673.53125,780.0,620.0,30.0,False,False,False
+fa9631bc80bd57421f0b8b0a54877cb3aeaa2567,jun,2019,heat,hold,Fairbanks,600.3620178041543,650.0,600.0,85.0,False,False,False
+fda1f67e8423ed49933c45617ee96aef3bae04ba,jun,2019,heat,hold,Wasilla,687.384287454324,650.0,636.8696711327649,0.0,False,False,False

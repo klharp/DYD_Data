@@ -1,0 +1,8 @@
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+89cd44ef0cbcfb409aa19adbaaf37e92412bbbee,dec,2019,cool,auto,Honolulu,769.75,771.0,771.0,10.0,False,False,True
+89cd44ef0cbcfb409aa19adbaaf37e92412bbbee,dec,2019,cool,hold,Honolulu,783.2460615153789,785.0562640660165,785.0562640660165,10.0,False,False,True
+8cae7a3896eb4a1fa353dc08272e798ae90ae6d5,dec,2019,cool,hold,Honolulu,760.3589743589744,778.1820512820512,777.1948717948718,0.0,False,False,False
+b7cf4669f7955cafef86f711f0f42ff934bf1308,dec,2019,cool,auto,Honolulu,778.255060728745,775.6133603238867,775.5951417004048,9.0,False,False,True
+b7cf4669f7955cafef86f711f0f42ff934bf1308,dec,2019,cool,hold,Honolulu,780.4413904607923,778.5343573160873,778.1632983023444,9.0,False,False,True
+d38b4c05deefc3fee27d40ae32f583e408d5f318,dec,2019,cool,auto,Honolulu,739.6908396946565,734.7143765903307,732.5165394402036,5.0,False,False,True
+d38b4c05deefc3fee27d40ae32f583e408d5f318,dec,2019,cool,hold,Honolulu,737.5538461538462,729.7015384615385,729.7015384615385,5.0,False,False,True

@@ -1,0 +1,20 @@
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+0404ace1bcdf88d917bd860a04cd6c66fb51679f,aug,2017,heat,auto,Homer,669.8571428571429,684.6428571428571,682.2857142857143,0.0,True,False,False
+0404ace1bcdf88d917bd860a04cd6c66fb51679f,aug,2017,heat,hold,Homer,666.275641025641,673.3461538461538,669.1346153846154,0.0,True,False,False
+1544f3165814ae017488964fc29ae302bba75bb7,aug,2017,heat,auto,juneau,690.2916666666666,690.0,690.0,27.0,False,False,False
+2a539ed50bd05f9b142b5b5a0c9cce50f5cf0e7a,aug,2017,heat,auto,Anchorage,689.2,688.5,670.9,0.0,False,False,False
+2a539ed50bd05f9b142b5b5a0c9cce50f5cf0e7a,aug,2017,heat,hold,Anchorage,686.6617647058823,650.0,617.2205882352941,0.0,False,False,False
+31ec2a66ddeac26df7dbbeffa7f98c4e2de26aff,aug,2017,heat,auto,Anchorage,684.2105263157895,760.8421052631579,681.6315789473684,25.0,False,False,False
+7f8d7869602b0becdb1f67e15d7796602e5cae7d,aug,2017,heat,auto,Anchorage,674.7225806451613,663.6387096774193,663.6129032258065,15.0,True,False,False
+bdad2c2f85c6d00c7ceea6df8246135cb8da01ae,aug,2017,heat,auto,Anchorage,658.2666666666667,660.0,660.0,40.0,False,False,False
+bdad2c2f85c6d00c7ceea6df8246135cb8da01ae,aug,2017,heat,hold,Anchorage,677.2444444444444,680.0,680.0,40.0,False,False,False
+be4f2a63b7719c2a69aa285e8a38038c29df8fa6,aug,2017,heat,auto,Anchorage,721.3333333333334,722.0,719.3333333333334,0.0,False,False,False
+be4f2a63b7719c2a69aa285e8a38038c29df8fa6,aug,2017,heat,hold,Anchorage,725.6428571428571,692.0357142857143,668.1071428571429,0.0,False,False,False
+c810efa572eb24b685d4ea14eb98d7f79cac0bd3,aug,2017,heat,auto,North Pole,668.235632183908,650.0,650.0,0.0,False,False,False
+c810efa572eb24b685d4ea14eb98d7f79cac0bd3,aug,2017,heat,hold,North Pole,692.1488673139158,650.0,599.6116504854369,0.0,False,False,False
+d52d6af22f2bcad8215f8eec1a710dd00e190c7b,aug,2017,heat,auto,Wasilla,685.6334679228354,668.0529385374607,662.2386720502467,5.0,False,False,False
+df7ad0ff0b54c69d3f2cdeda3b12bff79713d572,aug,2017,heat,auto,juneau,700.8666666666667,690.0,690.0,27.0,False,False,False
+fa9631bc80bd57421f0b8b0a54877cb3aeaa2567,aug,2017,heat,auto,Fairbanks,626.5,650.0,630.0,85.0,False,False,False
+fa9631bc80bd57421f0b8b0a54877cb3aeaa2567,aug,2017,heat,hold,Fairbanks,623.6944444444445,650.0,620.0,85.0,False,False,False
+fda1f67e8423ed49933c45617ee96aef3bae04ba,aug,2017,heat,auto,Wasilla,668.1309523809524,660.0,660.0,0.0,False,False,False
+fda1f67e8423ed49933c45617ee96aef3bae04ba,aug,2017,heat,hold,Wasilla,663.3818027210884,654.0238095238095,636.3231292517007,0.0,False,False,False

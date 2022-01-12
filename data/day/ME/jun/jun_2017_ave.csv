@@ -1,0 +1,13 @@
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+06322bf1e7bd15eb760e1cc07c01525c4fd679bc,jun,2017,heat,hold,Harpswell,697.5109151973132,669.0428211586902,669.0428211586902,5.0,False,False,False
+071d40a2ebc85623a1b5da94a1ee4af028115825,jun,2017,heat,auto,North Yarmouth,707.7916666666666,670.0,670.0,25.0,False,False,False
+67f53f5424fc9069ec1785ebc1b3f47de39dbbe7,jun,2017,heat,hold,Harpswell,721.2282244556114,650.2738693467337,600.7303182579565,5.0,False,False,False
+6ea13a6a8839c82c41cc8b0da4d0749b2070e49f,jun,2017,heat,hold,North Yarmouth,682.7863247863248,688.965811965812,687.965811965812,0.0,False,False,False
+918b620a2e58d39ca3a3293448661334e4c0c905,jun,2017,heat,auto,Cooper,701.1564291564291,650.0,630.0,35.0,False,False,False
+918b620a2e58d39ca3a3293448661334e4c0c905,jun,2017,heat,hold,Cooper,673.9770491803279,650.0,650.0,35.0,False,False,False
+aeb6a66ea9334f71ba2b04f324a9a0cb61776743,jun,2017,heat,hold,Greenville,698.3555555555556,674.5904761904762,674.3936507936507,35.0,False,False,False
+b7c214e6715b7136e0cf0fbdb5b83337dda9032b,jun,2017,auto,auto,Eliot,710.6372819100092,720.0,640.0,0.0,False,False,False
+b7c214e6715b7136e0cf0fbdb5b83337dda9032b,jun,2017,auto,hold,Eliot,702.3638316151203,726.3243127147766,642.088058419244,0.0,False,False,False
+c491ad48441073aa08a818dbfe01ac8ad2a83838,jun,2017,heat,auto,South Portland,770.0,784.0,601.0,75.0,False,False,False
+c491ad48441073aa08a818dbfe01ac8ad2a83838,jun,2017,heat,hold,South Portland,753.3863636363636,700.7348484848485,450.0,75.0,False,False,False
+db15333c03d900e5068f914b4bbe0929609c4884,jun,2017,auto,hold,Portland,697.9527027027027,740.0,690.0,15.0,False,False,False
