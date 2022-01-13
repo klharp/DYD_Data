@@ -10,7 +10,7 @@ Extract the data from the BigQuery dataset (7.6TB) and get in a format that can 
 There are two tables in the dataset, “dyd” and “meta_data” which exist in the Google Cloud Platform. The “dyd” table is quite large and has a lot of fields that are not needed. The “meta_data” table is smaller. The “Identifier” field exists in both tables and will be the field in which data will be merged. 
 
 ## Process
-1. Clean extract the wanted columns from the tables and clean all the data by removing duplicates and NULLS.
+1. In Big Query, clean extract the wanted columns from the tables and clean all the data by removing duplicates and NULLS.
 
 2. Merge the two datasets on "Identifier."
 
@@ -18,8 +18,10 @@ There are two tables in the dataset, “dyd” and “meta_data” which exist i
 
 4. Establish final queries based state, year, day/night. 
 
-5. Export tables to CSV files
+5. Export tables to CSV files. These tables are very large.
 
-6. Bring in to Jupyter Notebook and aggregate the data for temperature control, heating, and cooling based on each identifier.
+6. Bring large tables exported from Big Query in to Jupyter Notebook and aggregate the data for temperature control, heating, and cooling based on each identifier.
 
 7. Export CSV files for each state, month, and day/night hours.
+
+8. Added a checker to the notebook to ensure the data was correct per state.
