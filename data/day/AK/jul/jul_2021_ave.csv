@@ -1,12 +1,10 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 0404ace1bcdf88d917bd860a04cd6c66fb51679f,jul,2021,heat,hold,Homer,673.0833333333334,650.0,630.0,0.0,True,False,False
 0e0d17a6d14f69ec9ccaa6e561c3d01e409ee183,jul,2021,heat,hold,Anchorage,709.6540540540541,717.5081081081081,716.8324324324325,20.0,False,False,False
 2678ac2aec9a1f53acad226c2c437efd25ea7dc8,jul,2021,heat,hold,Bethel,704.5054054054054,650.0,647.0,10.0,False,False,False
-2a539ed50bd05f9b142b5b5a0c9cce50f5cf0e7a,jul,2021,heat,hold,Anchorage,705.0,664.1666666666666,465.0,0.0,False,False,False
 3c569abab42071063670722a0b326b0da8738423,jul,2021,heat,hold,Anchorage,697.1466666666666,701.3866666666667,699.9066666666666,25.0,False,False,False
 55fb88f70abf5cbe75ab0c20eb02b0ed8f36f0da,jul,2021,heat,hold,Huffman/O'Malley,705.4088050314465,700.0,700.0,40.0,False,False,False
 81a7bd30ff87a8f606e1378fe9117abbded76a9c,jul,2021,heat,hold,Chugiak,688.0095831336847,650.0,640.0,10.0,True,False,False
 995e1c96a74ee2cb3509db751eb6310b63e5aa94,jul,2021,heat,hold,Anchorage,680.6759322033898,666.4684745762712,655.9227118644068,35.0,False,False,False
 a988392d2cf43e32b9b458db27ccb5cc50f335ac,jul,2021,heat,hold,Anchorage,638.625,650.0,640.0,30.0,False,False,False
 df7ad0ff0b54c69d3f2cdeda3b12bff79713d572,jul,2021,heat,hold,juneau,680.4061302681993,650.0,650.0,27.0,False,False,False
-ea9f45a49e23bc298fc582a4ad9e006b53853255,jul,2021,heat,hold,Bethel,723.900406504065,650.0,600.0,49.0,False,False,False

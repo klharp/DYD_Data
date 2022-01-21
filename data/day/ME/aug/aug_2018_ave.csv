@@ -1,13 +1,6 @@
 Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
-071d40a2ebc85623a1b5da94a1ee4af028115825,aug,2018,heat,auto,North Yarmouth,718.75,650.0,600.0,25.0,False,False,False
-0adbc6ab910c02e6c98c5e3b698aa65408f25408,aug,2018,heat,hold,Old Orchard,727.98046875,650.0,600.0,97.0,False,False,False
-0de75d1de6a14bfa2a7ac33b197d9f2b68cc41c8,aug,2018,heat,hold,Presque Isle,732.7633333333333,650.0,600.0,10.0,False,False,False
-305cfa5915162e3c07d4aca1ef45c5e672162794,aug,2018,heat,hold,South Portland,769.5393644431721,650.0,550.0,80.0,False,False,False
-38618e0152941e18a31c699f121721d267397df7,aug,2018,heat,hold,Old Town,759.5721003134796,650.0,600.0,50.0,False,False,False
-4fa233be8e86fb6bd5974dab5a30e5ab2bab2878,aug,2018,heat,hold,Shirley Mills,761.0408921933085,650.1933085501859,570.0,80.0,False,False,False
 590487e13b23b41e232cab63f588978494880281,aug,2018,auto,auto,Portland,806.9,730.0,660.0,15.0,False,False,False
 590487e13b23b41e232cab63f588978494880281,aug,2018,auto,hold,Portland,729.6923076923077,716.2307692307693,666.2307692307693,15.0,False,False,False
-7097da619c1d7e8baed859020b18cb5d34d20aa5,aug,2018,heat,hold,Embden,748.328947368421,650.0,460.0,0.0,False,False,False
 7aed90f1acc624bf0fc1c76698cf32d7e2dbf36e,aug,2018,cool,hold,York,745.8067324434127,760.0,690.0,5.0,False,False,False
 89d485781a4a40b9d629cd7073c588d215243132,aug,2018,heat,auto,Scarborough,773.9411764705883,780.0,699.4705882352941,0.0,False,False,False
 aeb6a66ea9334f71ba2b04f324a9a0cb61776743,aug,2018,heat,hold,Greenville,719.5209074733096,653.3718861209965,653.3625444839857,35.0,False,False,False
@@ -16,5 +9,3 @@ b2d9a7c254d8f9954e32533676d156d263cecd5a,aug,2018,auto,hold,Falmouth,692.8394473
 c8c95ff0b34a5e7ba4c7d9cc3e0b7d2bd27cb9dd,aug,2018,auto,hold,Falmouth,719.3640821330065,730.064970885688,660.0,10.0,True,False,False
 db15333c03d900e5068f914b4bbe0929609c4884,aug,2018,auto,auto,Portland,735.8875,730.0,680.0,15.0,False,False,False
 db15333c03d900e5068f914b4bbe0929609c4884,aug,2018,auto,hold,Portland,730.2775330396476,722.7488986784141,667.7753303964757,15.0,False,False,False
-def0ec3e5e8faffc7af3af52828081d48494a02d,aug,2018,heat,hold,Presque Isle,728.4537037037037,650.0,560.0,10.0,False,False,False
-eae8347dffe419fd3ff9bf995bbad6b8cf776c49,aug,2018,heat,hold,Windham,751.1627627627628,650.0,590.0,10.0,False,False,False

@@ -1,6 +1,5 @@
 Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
-89cd44ef0cbcfb409aa19adbaaf37e92412bbbee,jun,2020,auto,hold,Honolulu,783.397233201581,787.0671936758894,450.0,10.0,False,False,True
 89cd44ef0cbcfb409aa19adbaaf37e92412bbbee,jun,2020,cool,auto,Honolulu,772.5,771.5,771.5,10.0,False,False,True
-89cd44ef0cbcfb409aa19adbaaf37e92412bbbee,jun,2020,cool,hold,Honolulu,783.3957636566332,786.4358974358975,786.0947603121516,10.0,False,False,True
+89cd44ef0cbcfb409aa19adbaaf37e92412bbbee,jun,2020,cool,hold,Honolulu,783.40625,786.4330357142857,786.4330357142857,10.0,False,False,True
 d38b4c05deefc3fee27d40ae32f583e408d5f318,jun,2020,cool,auto,Honolulu,746.0697115384615,744.6169871794872,744.6169871794872,5.0,False,False,True
 d38b4c05deefc3fee27d40ae32f583e408d5f318,jun,2020,cool,hold,Honolulu,751.4688385269122,751.2138810198301,751.2138810198301,5.0,False,False,True

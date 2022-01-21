@@ -1,9 +1,6 @@
 Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 a86f074cd58d2ce47d145a5ddf4492c1acca3635,aug,2017,heat,auto,South Portland,727.1666666666666,780.0,640.0,85.0,False,False,False
 aeb6a66ea9334f71ba2b04f324a9a0cb61776743,aug,2017,heat,auto,Greenville,719.4583333333334,730.4166666666666,729.3333333333334,35.0,False,False,False
-aeb6a66ea9334f71ba2b04f324a9a0cb61776743,aug,2017,heat,hold,Greenville,703.2498995580554,653.9276817999197,611.777822418642,35.0,False,False,False
-b7c214e6715b7136e0cf0fbdb5b83337dda9032b,aug,2017,auto,auto,Eliot,707.3528352835284,725.4320432043204,600.0,0.0,False,False,False
-b7c214e6715b7136e0cf0fbdb5b83337dda9032b,aug,2017,auto,hold,Eliot,723.0989010989011,729.5357142857143,600.0,0.0,False,False,False
-c491ad48441073aa08a818dbfe01ac8ad2a83838,aug,2017,heat,hold,South Portland,705.3854166666666,700.0,450.0,75.0,False,False,False
+aeb6a66ea9334f71ba2b04f324a9a0cb61776743,aug,2017,heat,hold,Greenville,709.0206117021277,656.4900265957447,642.9787234042553,35.0,False,False,False
 c5bc7c9568931d0b8979393514c99d545786ae72,aug,2017,heat,hold,Lewiston,713.2,750.0,750.0,90.0,False,False,False
 db15333c03d900e5068f914b4bbe0929609c4884,aug,2017,cool,auto,Portland,709.0570175438596,710.0,650.0,15.0,False,False,False

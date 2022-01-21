@@ -1,23 +1,18 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 0404ace1bcdf88d917bd860a04cd6c66fb51679f,jun,2020,heat,hold,Homer,680.8888888888889,681.8148148148148,679.7407407407408,0.0,True,False,False
 0e0d17a6d14f69ec9ccaa6e561c3d01e409ee183,jun,2020,heat,hold,Anchorage,712.2771739130435,717.8858695652174,717.6005434782609,20.0,False,False,False
 1544f3165814ae017488964fc29ae302bba75bb7,jun,2020,heat,hold,juneau,696.3333333333334,670.0,670.0,27.0,False,False,False
 1934269f8f3a7a065318ec9a4e7984c0d9216332,jun,2020,heat,hold,Wasilla,681.66,653.52,642.72,0.0,False,False,False
 2678ac2aec9a1f53acad226c2c437efd25ea7dc8,jun,2020,heat,auto,Bethel,701.8696412948382,660.0,660.0,10.0,False,False,False
-364d90d4305e64cf8a54685a3669aca9ba7667ed,jun,2020,heat,hold,Palmer,678.5033686236766,650.0,570.0,0.0,False,False,False
 55fb88f70abf5cbe75ab0c20eb02b0ed8f36f0da,jun,2020,heat,auto,Huffman/O'Malley,702.3333333333334,705.0,698.75,40.0,False,False,False
 55fb88f70abf5cbe75ab0c20eb02b0ed8f36f0da,jun,2020,heat,hold,Huffman/O'Malley,710.7575757575758,694.8484848484849,694.8484848484849,40.0,False,False,False
 772e5bb225e018fc56c0c8100bbd2cf59de60737,jun,2020,heat,auto,Eagle River,660.6666666666666,670.75,669.7222222222222,45.0,False,False,False
 772e5bb225e018fc56c0c8100bbd2cf59de60737,jun,2020,heat,hold,Eagle River,651.875,670.0,670.0,45.0,False,False,False
-81a7bd30ff87a8f606e1378fe9117abbded76a9c,jun,2020,heat,hold,Chugiak,688.0743494423792,650.0,619.7184014869888,10.0,True,False,False
+81a7bd30ff87a8f606e1378fe9117abbded76a9c,jun,2020,heat,hold,Chugiak,688.2137190853944,650.0,620.0,10.0,True,False,False
 a78112bcf965ec0676617c4c2a282796e4894765,jun,2020,heat,hold,Anchorage,688.5344827586207,690.0,690.0,20.0,True,False,False
 a988392d2cf43e32b9b458db27ccb5cc50f335ac,jun,2020,heat,auto,Anchorage,625.4705882352941,659.4117647058823,647.6470588235294,30.0,False,False,False
 bdc58f9e6d012d051afe58172dc008bebf29a356,jun,2020,heat,auto,Huffman/O'Malley,704.0,710.0,710.0,40.0,False,False,False
 bdc58f9e6d012d051afe58172dc008bebf29a356,jun,2020,heat,hold,Huffman/O'Malley,697.875,700.0,700.0,40.0,False,False,False
 de96ad05755fc1e2697dff5f2548474733554565,jun,2020,heat,auto,Anchorage,637.0,656.875,656.875,30.0,False,False,False
 df7ad0ff0b54c69d3f2cdeda3b12bff79713d572,jun,2020,heat,auto,juneau,683.5555555555555,720.0,700.0,27.0,False,False,False
-e189043abcdc363a66270079341e45b9be50fe29,jun,2020,heat,auto,Anchorage,624.0,780.0,600.0,30.0,False,False,False
-e189043abcdc363a66270079341e45b9be50fe29,jun,2020,heat,hold,Anchorage,638.2549019607843,780.0,599.1176470588235,30.0,False,False,False
 e607ef283e0f21c02dcd7df409ee3e764d229b79,jun,2020,heat,hold,Juneau,719.3055555555555,730.9722222222222,729.6111111111111,50.0,False,False,False
-ea9f45a49e23bc298fc582a4ad9e006b53853255,jun,2020,heat,hold,Bethel,702.4305555555555,650.0,520.0,49.0,False,False,False
-fa9631bc80bd57421f0b8b0a54877cb3aeaa2567,jun,2020,heat,hold,Fairbanks,612.2307330827068,650.0,600.0,85.0,False,False,False

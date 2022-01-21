@@ -1,6 +1,6 @@
 Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 019764d7b48dd9d6f1f4ad95451d7d0da2669405,feb,2018,auto,hold,Billings,687.8333333333334,740.0,690.0,5.0,False,False,False
-037988cc24eaeaa08f7002dbc926d02c8f9c0f1c,feb,2018,heat,hold,Eureka,561.1315938740782,656.3074305161656,574.3828701077708,10.0,True,False,True
+037988cc24eaeaa08f7002dbc926d02c8f9c0f1c,feb,2018,heat,hold,Eureka,611.510033444816,687.1254180602007,686.5367892976589,10.0,True,False,True
 0728208cff5242993896da88a882e076094b765f,feb,2018,heat,hold,Billings,668.0980392156863,690.0,690.0,50.0,False,False,False
 0bc51b95b2dc23713f611e182c689ad03dc2c300,feb,2018,heat,hold,Great Falls,671.9109589041096,673.2191780821918,673.1712328767123,10.0,False,False,False
 1fe82232930e26efc50ba4da526c354676d03dec,feb,2018,auto,hold,Helena,637.8333333333334,760.0,640.0,38.0,False,False,False
@@ -10,7 +10,6 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 4089d9705650bdd49cd283f6660b95a5ed85aba7,feb,2018,heat,hold,missoula,696.810606060606,698.8787878787879,698.8787878787879,5.0,False,False,False
 40f358a2efb733ab89fe3bb6e2f7b0280ccb4917,feb,2018,heat,auto,Billings,695.0,705.1428571428571,699.2857142857143,70.0,False,False,False
 40f358a2efb733ab89fe3bb6e2f7b0280ccb4917,feb,2018,heat,hold,Billings,697.3863636363636,700.0,700.0,70.0,False,False,False
-5630eed158cf32dc803ac57a6956f5b6e46d8095,feb,2018,heat,hold,Bozeman,675.8888888888889,650.0,570.0,100.0,False,False,False
 5a1fbc37826124394a837d94e7f46800280d115f,feb,2018,heat,auto,Great Falls,664.2826086956521,688.0434782608696,667.6494565217391,70.0,False,False,False
 5b9a7664c15423c918c5756555a76880f38779fc,feb,2018,heat,hold,Butte,702.1,750.8333333333334,687.3333333333334,108.0,False,False,False
 5d1ff376e3fc7ee713a1138cbb661ddad9b1e257,feb,2018,heat,auto,Bozeman,645.4285714285714,700.5714285714286,669.4285714285714,15.0,True,False,False
@@ -19,7 +18,7 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 5dda6449bb5575fdf2a538f8208a3556b55c447b,feb,2018,heat,auto,Helena,648.875,660.0,650.0,10.0,True,False,False
 5dda6449bb5575fdf2a538f8208a3556b55c447b,feb,2018,heat,hold,Helena,675.1666666666666,685.5,685.5,10.0,True,False,False
 60f63223dc9bc1a3500de832e31d55a865266772,feb,2018,heat,hold,Fort Benton,616.3958333333334,650.0,620.0,40.0,False,False,False
-666c08e73f2bee116322fafbf2fc1b2972422b81,feb,2018,heat,hold,Bozeman,674.8333333333334,681.1388888888889,665.8611111111111,7.0,False,False,False
+666c08e73f2bee116322fafbf2fc1b2972422b81,feb,2018,heat,hold,Bozeman,674.8857142857142,677.5714285714286,667.7714285714286,7.0,False,False,False
 6cfeb8284cb1ccacf64d9f649eccc813c1296d27,feb,2018,heat,hold,Billings,690.75,692.3529411764706,692.3529411764706,0.0,False,False,False
 6e0c9d625f3ce2c91fb0dace7c2f92867c27badb,feb,2018,heat,hold,Scobey,723.3833410032214,725.6925908881731,725.6925908881731,50.0,False,False,False
 7258db280a1da00d548cd8ea30f21c7d7d4932e0,feb,2018,heat,auto,Bozeman,687.5217391304348,700.0,700.0,16.0,True,False,False

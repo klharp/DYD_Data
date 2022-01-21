@@ -1,14 +1,13 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
-0404ace1bcdf88d917bd860a04cd6c66fb51679f,jun,2017,heat,auto,Homer,644.0,654.85,601.85,0.0,True,False,False
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+0404ace1bcdf88d917bd860a04cd6c66fb51679f,jun,2017,heat,auto,Homer,647.0,747.0,637.0,0.0,True,False,False
 0404ace1bcdf88d917bd860a04cd6c66fb51679f,jun,2017,heat,hold,Homer,668.2440944881889,667.2440944881889,660.9291338582677,0.0,True,False,False
-1544f3165814ae017488964fc29ae302bba75bb7,jun,2017,heat,auto,juneau,690.7540983606557,673.655737704918,660.8196721311475,27.0,False,False,False
-1544f3165814ae017488964fc29ae302bba75bb7,jun,2017,heat,hold,juneau,691.0515463917526,671.5773195876288,648.340206185567,27.0,False,False,False
+1544f3165814ae017488964fc29ae302bba75bb7,jun,2017,heat,auto,juneau,692.5434782608696,681.3695652173913,680.6521739130435,27.0,False,False,False
+1544f3165814ae017488964fc29ae302bba75bb7,jun,2017,heat,hold,juneau,693.4150943396227,689.4905660377359,688.4716981132076,27.0,False,False,False
 364d90d4305e64cf8a54685a3669aca9ba7667ed,jun,2017,heat,auto,Palmer,705.4285714285714,736.2857142857143,710.5714285714286,0.0,False,False,False
 364d90d4305e64cf8a54685a3669aca9ba7667ed,jun,2017,heat,hold,Palmer,695.5490196078431,684.0980392156863,683.8235294117648,0.0,False,False,False
 bdad2c2f85c6d00c7ceea6df8246135cb8da01ae,jun,2017,heat,hold,Anchorage,669.4415584415584,673.8961038961039,673.8961038961039,40.0,False,False,False
-c810efa572eb24b685d4ea14eb98d7f79cac0bd3,jun,2017,heat,hold,North Pole,698.3929098966026,650.0,614.0472673559823,0.0,False,False,False
+c810efa572eb24b685d4ea14eb98d7f79cac0bd3,jun,2017,heat,hold,North Pole,717.7160883280757,650.0,630.0,0.0,False,False,False
 d52d6af22f2bcad8215f8eec1a710dd00e190c7b,jun,2017,heat,auto,Wasilla,685.8232018561484,650.0,650.0,5.0,False,False,False
-df7ad0ff0b54c69d3f2cdeda3b12bff79713d572,jun,2017,heat,auto,juneau,671.8,650.0,600.0,27.0,False,False,False
-df7ad0ff0b54c69d3f2cdeda3b12bff79713d572,jun,2017,heat,hold,juneau,686.8867924528302,670.7924528301887,657.9496855345911,27.0,False,False,False
+df7ad0ff0b54c69d3f2cdeda3b12bff79713d572,jun,2017,heat,hold,juneau,688.3583333333333,677.55,676.7833333333333,27.0,False,False,False
 fda1f67e8423ed49933c45617ee96aef3bae04ba,jun,2017,heat,auto,Wasilla,691.066037735849,650.0,650.0,0.0,False,False,False
 fda1f67e8423ed49933c45617ee96aef3bae04ba,jun,2017,heat,hold,Wasilla,685.7816571130797,654.8577384054195,654.8577384054195,0.0,False,False,False

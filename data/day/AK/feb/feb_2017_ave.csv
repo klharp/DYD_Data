@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 0404ace1bcdf88d917bd860a04cd6c66fb51679f,feb,2017,heat,auto,Homer,683.0,710.0,677.0,0.0,True,False,False
 0404ace1bcdf88d917bd860a04cd6c66fb51679f,feb,2017,heat,hold,Homer,685.013698630137,686.8356164383562,686.1095890410959,0.0,True,False,False
 18c482b133fba9f05f7edac61214d7cd1082ff1a,feb,2017,heat,auto,Anchorage,629.1666666666666,780.0,650.0,5.0,False,False,False
@@ -6,10 +6,10 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 364d90d4305e64cf8a54685a3669aca9ba7667ed,feb,2017,heat,hold,Palmer,628.2941176470588,650.0,620.0,0.0,False,False,False
 6085162893ee544ece3ce04e242a68d7a8afe24d,feb,2017,heat,auto,Russian Jack Park,648.6743362831859,650.0,650.0,20.0,False,False,False
 6085162893ee544ece3ce04e242a68d7a8afe24d,feb,2017,heat,hold,Russian Jack Park,650.079701120797,651.6413449564135,651.6413449564135,20.0,False,False,False
-81a7bd30ff87a8f606e1378fe9117abbded76a9c,feb,2017,heat,auto,Chugiak,608.9871794871794,780.4871794871794,619.5128205128206,10.0,True,False,False
-a799538555e2fb23d035a9aa0004122110571484,feb,2017,heat,auto,Anchorage,660.1875,655.8125,613.3125,40.0,False,False,False
+81a7bd30ff87a8f606e1378fe9117abbded76a9c,feb,2017,heat,auto,Chugiak,608.922077922078,780.2337662337662,619.7662337662338,10.0,True,False,False
+a799538555e2fb23d035a9aa0004122110571484,feb,2017,heat,auto,Anchorage,681.3333333333334,681.0,671.0,40.0,False,False,False
 a799538555e2fb23d035a9aa0004122110571484,feb,2017,heat,hold,Anchorage,699.0,670.0,670.0,40.0,False,False,False
-b2926c336f48d0bdbcd5343bb68676b3a9364748,feb,2017,heat,auto,Healy,673.8829787234042,730.4255319148937,677.6063829787234,10.0,False,False,False
+b2926c336f48d0bdbcd5343bb68676b3a9364748,feb,2017,heat,auto,Healy,674.4444444444445,734.0,681.0555555555555,10.0,False,False,False
 b2926c336f48d0bdbcd5343bb68676b3a9364748,feb,2017,heat,hold,Healy,681.0392156862745,697.8039215686274,696.1372549019608,10.0,False,False,False
 be4f2a63b7719c2a69aa285e8a38038c29df8fa6,feb,2017,heat,auto,Anchorage,694.9705882352941,682.5,680.7352941176471,0.0,False,False,False
 be4f2a63b7719c2a69aa285e8a38038c29df8fa6,feb,2017,heat,hold,Anchorage,703.2857142857143,740.0,740.0,0.0,False,False,False

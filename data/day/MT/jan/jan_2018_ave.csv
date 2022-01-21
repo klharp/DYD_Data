@@ -1,5 +1,5 @@
 Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
-037988cc24eaeaa08f7002dbc926d02c8f9c0f1c,Jan,2018,heat,hold,Eureka,613.7863247863248,671.0042735042736,647.0641025641025,10.0,True,False,True
+037988cc24eaeaa08f7002dbc926d02c8f9c0f1c,Jan,2018,heat,hold,Eureka,630.0578034682081,678.393063583815,678.150289017341,10.0,True,False,True
 0728208cff5242993896da88a882e076094b765f,Jan,2018,heat,auto,Billings,636.6,659.5,643.8,50.0,False,False,False
 0bc51b95b2dc23713f611e182c689ad03dc2c300,Jan,2018,heat,auto,Great Falls,687.125,689.6875,689.6875,10.0,False,False,False
 0bc51b95b2dc23713f611e182c689ad03dc2c300,Jan,2018,heat,hold,Great Falls,676.6129032258065,669.2652329749104,669.1505376344086,10.0,False,False,False
@@ -16,8 +16,8 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 5dda6449bb5575fdf2a538f8208a3556b55c447b,Jan,2018,heat,hold,Helena,674.7777777777778,681.4444444444445,679.0,10.0,True,False,False
 5e65748abfa7413de4b81ab0d609cf2b3d225520,Jan,2018,heat,auto,Missoula,734.3461538461538,739.5769230769231,737.5,5.0,False,False,False
 5e65748abfa7413de4b81ab0d609cf2b3d225520,Jan,2018,heat,hold,Missoula,730.8035714285714,730.0,730.0,5.0,False,False,False
-60f63223dc9bc1a3500de832e31d55a865266772,Jan,2018,heat,auto,Fort Benton,600.9571428571429,650.9142857142857,601.5142857142857,40.0,False,False,False
-60f63223dc9bc1a3500de832e31d55a865266772,Jan,2018,heat,hold,Fort Benton,633.1528662420383,655.3152866242038,633.4246284501062,40.0,False,False,False
+60f63223dc9bc1a3500de832e31d55a865266772,Jan,2018,heat,auto,Fort Benton,608.5,682.0,653.0,40.0,False,False,False
+60f63223dc9bc1a3500de832e31d55a865266772,Jan,2018,heat,hold,Fort Benton,634.0240549828179,655.7353951890034,636.0664375715922,40.0,False,False,False
 666c08e73f2bee116322fafbf2fc1b2972422b81,Jan,2018,heat,auto,Bozeman,674.625,686.125,676.0625,7.0,False,False,False
 666c08e73f2bee116322fafbf2fc1b2972422b81,Jan,2018,heat,hold,Bozeman,680.0,695.7777777777778,659.4444444444445,7.0,False,False,False
 6cfeb8284cb1ccacf64d9f649eccc813c1296d27,Jan,2018,heat,auto,Billings,698.1823899371069,700.0,700.0,0.0,False,False,False

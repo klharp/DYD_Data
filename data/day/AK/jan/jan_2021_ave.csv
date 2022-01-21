@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 0404ace1bcdf88d917bd860a04cd6c66fb51679f,Jan,2021,auto,hold,Homer,677.0,740.0,687.6666666666666,0.0,True,False,False
 0404ace1bcdf88d917bd860a04cd6c66fb51679f,Jan,2021,heat,hold,Homer,688.1582278481013,689.0569620253165,689.0569620253165,0.0,True,False,False
 0e0d17a6d14f69ec9ccaa6e561c3d01e409ee183,Jan,2021,heat,hold,Anchorage,702.6428571428571,716.1904761904761,716.1904761904761,20.0,False,False,False
@@ -6,7 +6,7 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 1934269f8f3a7a065318ec9a4e7984c0d9216332,Jan,2021,heat,hold,Wasilla,624.9565217391304,659.6869565217391,640.1826086956522,0.0,False,False,False
 2678ac2aec9a1f53acad226c2c437efd25ea7dc8,Jan,2021,heat,hold,Bethel,711.1,700.0,700.0,10.0,False,False,False
 2a539ed50bd05f9b142b5b5a0c9cce50f5cf0e7a,Jan,2021,heat,hold,Anchorage,687.9354838709677,685.741935483871,681.5483870967741,0.0,False,False,False
-364d90d4305e64cf8a54685a3669aca9ba7667ed,Jan,2021,heat,hold,Palmer,583.514657980456,650.0,584.8273615635179,0.0,False,False,False
+364d90d4305e64cf8a54685a3669aca9ba7667ed,Jan,2021,heat,hold,Palmer,618.2555555555556,650.0,620.0,0.0,False,False,False
 391a6ce2e4f243b7965dfc6004d6e8fc4cc7936e,Jan,2021,heat,hold,Palmer,690.75,705.625,696.875,25.0,False,False,False
 3c569abab42071063670722a0b326b0da8738423,Jan,2021,heat,hold,Anchorage,695.4615384615385,703.3269230769231,701.8653846153846,25.0,False,False,False
 55fb88f70abf5cbe75ab0c20eb02b0ed8f36f0da,Jan,2021,heat,hold,Huffman/O'Malley,697.5714285714286,710.0,710.0,40.0,False,False,False
@@ -17,9 +17,7 @@ a78112bcf965ec0676617c4c2a282796e4894765,Jan,2021,heat,hold,Anchorage,715.583333
 a988392d2cf43e32b9b458db27ccb5cc50f335ac,Jan,2021,heat,hold,Anchorage,644.0,663.5,659.0,30.0,False,False,False
 b2926c336f48d0bdbcd5343bb68676b3a9364748,Jan,2021,heat,hold,Healy,694.0,701.3157894736842,701.3157894736842,10.0,False,False,False
 bdc58f9e6d012d051afe58172dc008bebf29a356,Jan,2021,heat,hold,Huffman/O'Malley,702.3,708.2333333333333,706.5,40.0,False,False,False
-d52d6af22f2bcad8215f8eec1a710dd00e190c7b,Jan,2021,heat,hold,Wasilla,520.2447916666666,650.2604166666666,521.40625,5.0,False,False,False
-dc1141e5abc6b3fe4a662de28b2176e6a9bfc6d5,Jan,2021,heat,hold,Fairbanks,598.4269713261649,650.0,600.0,35.0,False,False,False
-e189043abcdc363a66270079341e45b9be50fe29,Jan,2021,heat,hold,Anchorage,651.32,666.72,657.12,30.0,False,False,False
+d52d6af22f2bcad8215f8eec1a710dd00e190c7b,Jan,2021,heat,hold,Wasilla,528.0277777777778,654.1666666666666,642.5,5.0,False,False,False
+e189043abcdc363a66270079341e45b9be50fe29,Jan,2021,heat,hold,Anchorage,651.5,664.0,660.0,30.0,False,False,False
 e607ef283e0f21c02dcd7df409ee3e764d229b79,Jan,2021,heat,hold,Juneau,688.5863874345549,717.3141361256545,716.2198952879581,50.0,False,False,False
 ea9f45a49e23bc298fc582a4ad9e006b53853255,Jan,2021,heat,hold,Bethel,705.1536523929472,707.0277078085643,707.0277078085643,49.0,False,False,False
-fa9631bc80bd57421f0b8b0a54877cb3aeaa2567,Jan,2021,heat,hold,Fairbanks,598.885752688172,650.0,600.0,85.0,False,False,False
