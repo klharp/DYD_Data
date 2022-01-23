@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 0004ddd9fb43232e8457ed12b578e20c5e1b33b0,jun,2018,cool,auto,Parkville,718.9067796610169,720.1567796610169,719.7627118644068,50.0,False,False,False
 0004ddd9fb43232e8457ed12b578e20c5e1b33b0,jun,2018,cool,hold,Parkville,723.7142857142857,720.8571428571429,718.7142857142857,50.0,False,False,False
 003a3b5c65e4767907f528a81c3bc75c08aefb02,jun,2018,cool,auto,Belcamp,702.0533223954061,700.6259228876128,700.623872026251,10.0,False,False,False
@@ -1252,7 +1252,7 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 853818b02fa87511c6e37b5a32a1acebcaccc348,jun,2018,cool,hold,Abingdon,687.5478260869565,695.3347826086956,695.3347826086956,20.0,False,False,False
 8621ce3ea2a24e83c23ebaf77121a90a4ef473a1,jun,2018,cool,auto,Baltimore,709.0471475719,713.6435643564356,713.6435643564356,70.0,False,False,False
 8621ce3ea2a24e83c23ebaf77121a90a4ef473a1,jun,2018,cool,hold,Baltimore,711.4352256186318,715.8719068413392,715.8719068413392,70.0,False,False,False
-864c6761473075e5a570d58367561af7507ea51b,jun,2018,cool,auto,Randallstown,796.0665796344648,811.934725848564,835.7467362924282,40.0,False,False,False
+864c6761473075e5a570d58367561af7507ea51b,jun,2018,cool,auto,Randallstown,796.3096774193548,800.0709677419355,800.0709677419355,40.0,False,False,False
 864c6761473075e5a570d58367561af7507ea51b,jun,2018,cool,hold,Randallstown,714.3125,809.8392857142857,809.2142857142857,40.0,False,False,False
 86ff4d5adf934bf20e835da752482896d35e03e5,jun,2018,cool,auto,Waldorf,694.5706447187929,696.3840877914952,696.3840877914952,90.0,False,False,False
 86ff4d5adf934bf20e835da752482896d35e03e5,jun,2018,cool,hold,Waldorf,705.7728813559322,700.0813559322033,699.6949152542373,90.0,False,False,False

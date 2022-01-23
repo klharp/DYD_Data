@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 004666c8518763d5ff5a1b6f9be919899724167e,Jan,2019,heat,hold,Denver,705.6842961757526,707.540276647681,707.4385679414158,10.0,False,False,False
 00b9d14bcf27ff6d6e0c30c6f60651c6c8c9ae8b,Jan,2019,auto,auto,Aurora,688.6612903225806,723.4758064516129,687.0241935483871,17.0,False,False,False
 00b9d14bcf27ff6d6e0c30c6f60651c6c8c9ae8b,Jan,2019,auto,hold,Aurora,690.172619047619,722.0267857142857,678.0982142857143,17.0,False,False,False
@@ -1324,8 +1324,8 @@ a7e0714fa35358d91aa53c92434d0859521743f7,Jan,2019,auto,auto,Commerce City,686.69
 a7e0714fa35358d91aa53c92434d0859521743f7,Jan,2019,auto,hold,Commerce City,684.5135135135135,765.3513513513514,699.8648648648649,10.0,False,False,False
 a7f06dbfabd365664f63fb38b5c86afca8c6a04c,Jan,2019,heat,auto,Castle Rock,707.0714285714286,710.0892857142857,710.0,10.0,False,False,False
 a80c1172cd4670f190e267a01835ac9ae4c917ad,Jan,2019,cool,auto,Thornton,698.0526315789474,720.0,620.0,35.0,False,False,False
-a80c1172cd4670f190e267a01835ac9ae4c917ad,Jan,2019,heat,auto,Thornton,666.2666666666667,599.1333333333333,674.8333333333334,35.0,False,False,False
-a80c1172cd4670f190e267a01835ac9ae4c917ad,Jan,2019,heat,hold,Thornton,704.1088082901555,695.910621761658,696.1865284974093,35.0,False,False,False
+a80c1172cd4670f190e267a01835ac9ae4c917ad,Jan,2019,heat,auto,Thornton,691.2222222222222,755.7777777777778,687.4444444444445,35.0,False,False,False
+a80c1172cd4670f190e267a01835ac9ae4c917ad,Jan,2019,heat,hold,Thornton,704.3402597402597,696.2896103896104,696.2896103896104,35.0,False,False,False
 a80dd81ad6213d0f3384e999a785f9a3cb911c37,Jan,2019,auto,auto,Denver,673.5154471544715,840.0,674.3569105691057,15.0,False,False,False
 a80dd81ad6213d0f3384e999a785f9a3cb911c37,Jan,2019,auto,hold,Denver,689.0426116838488,840.0,690.0,15.0,False,False,False
 a86889d40944d750f0c57ddef20c49ff47107c57,Jan,2019,auto,hold,Castle Rock,689.0695652173913,740.1869565217391,690.1869565217391,15.0,False,False,False
@@ -1708,10 +1708,9 @@ d2471e684a91add5d34b3989bc745e81ebaa7f46,Jan,2019,heat,auto,Pueblo,684.064102564
 d262015d8aedeee22c6542c5d5c1d457062ad65a,Jan,2019,auto,auto,Denver,624.9166666666666,820.0,610.0,70.0,True,False,False
 d26fe90a54c469638b5d283ce7c73ea24ed385cc,Jan,2019,heat,hold,Denver,721.377358490566,720.6037735849056,719.5471698113207,5.0,False,False,False
 d3020b5ae4f3dc70c8d5628df5b6b548ebb19f70,Jan,2019,heat,hold,Colorado Springs,693.8333333333334,681.5555555555555,678.9444444444445,5.0,False,False,False
-d30508b1ddaef2cb57380f3bfebb7de33d9d42ab,Jan,2019,cool,auto,Fort Collins,631.0134529147982,622.2062780269058,866.3632286995515,0.0,False,False,False
-d30508b1ddaef2cb57380f3bfebb7de33d9d42ab,Jan,2019,cool,hold,Fort Collins,593.6279069767442,581.0,731.0,0.0,False,False,False
-d30508b1ddaef2cb57380f3bfebb7de33d9d42ab,Jan,2019,heat,auto,Fort Collins,641.9615384615385,771.7307692307693,819.1538461538462,0.0,False,False,False
-d30508b1ddaef2cb57380f3bfebb7de33d9d42ab,Jan,2019,heat,hold,Fort Collins,761.8,811.8666666666667,823.8666666666667,0.0,False,False,False
+d30508b1ddaef2cb57380f3bfebb7de33d9d42ab,Jan,2019,cool,auto,Fort Collins,620.4444444444445,608.0,731.0,0.0,False,False,False
+d30508b1ddaef2cb57380f3bfebb7de33d9d42ab,Jan,2019,heat,auto,Fort Collins,652.4285714285714,815.0,815.0,0.0,False,False,False
+d30508b1ddaef2cb57380f3bfebb7de33d9d42ab,Jan,2019,heat,hold,Fort Collins,773.3571428571429,828.3571428571429,830.5,0.0,False,False,False
 d3431b6631efd28cf78687a04438dd922ac6ebbd,Jan,2019,heat,auto,Aurora,747.8965517241379,750.0,750.0,16.0,False,False,False
 d3431b6631efd28cf78687a04438dd922ac6ebbd,Jan,2019,heat,hold,Aurora,740.5371024734982,742.76148409894,742.76148409894,16.0,False,False,False
 d3456139c944fe77aecebda3fdb66405bebb3c31,Jan,2019,heat,auto,Thornton,710.1666666666666,723.0,719.5,10.0,False,False,False

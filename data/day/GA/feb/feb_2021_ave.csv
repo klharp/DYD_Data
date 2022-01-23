@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 0010e47e4b45d741375cce16b3f2834662857046,feb,2021,auto,hold,Dunwoody,690.6541436464088,749.9569060773481,694.1204419889502,59.0,True,False,False
 002928222f5a2b5cfeba53f3aca5d5f24f6c4fe8,feb,2021,heat,hold,Columbus,724.75,725.0657894736842,725.0657894736842,40.0,False,False,False
 006f827019c7979541901360ed5bbdf1ef265887,feb,2021,heat,hold,Grovetown,796.4853556485356,796.5041841004185,796.3493723849373,10.0,True,False,True
@@ -1864,7 +1864,7 @@ ce437dd94f67f7086dc6c4c7e77ba30381dda63e,feb,2021,auto,hold,Smyrna,718.240601503
 ce8a979e9404d9ff6c526e98814ea61118d70a86,feb,2021,heat,hold,Social Circle,692.4853333333333,697.0472,697.0181333333334,0.0,True,False,True
 ced09601f615c6921a40b5384fc6af1de050fba9,feb,2021,auto,hold,Acworth,716.2,770.0,710.0,0.0,False,False,False
 cf0e8cbab663165841d3ad2d2b53392ea0a669e7,feb,2021,heat,hold,Columbus,731.5168018539977,745.3026651216686,745.3026651216686,50.0,False,False,False
-cf1ba659559b9e99e2e5a26cb96f5847824aae7f,feb,2021,heat,hold,Atlanta,685.1408450704225,689.9092957746478,689.9391549295775,0.0,True,False,True
+cf1ba659559b9e99e2e5a26cb96f5847824aae7f,feb,2021,heat,hold,Atlanta,685.1939120631341,689.9712514092447,689.9757609921082,0.0,True,False,True
 cf5d3cb34d4961de1efb22c57ca697776153f0c3,feb,2021,auto,hold,Kennesaw,713.0416666666666,750.0,700.0,20.0,True,False,False
 cf5d3cb34d4961de1efb22c57ca697776153f0c3,feb,2021,heat,hold,Kennesaw,709.5430916552667,690.6155950752394,690.6155950752394,20.0,True,False,False
 cf8355cfa5904b11f73a2e4660258aaf36cd2470,feb,2021,auto,hold,Marietta,676.5,770.0,680.0,30.0,False,False,False

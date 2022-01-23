@@ -1,6 +1,5 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 00098d05dc32580dc5bff640242bfd6d439aaa52,Jan,2021,heat,hold,Casper,696.6935483870968,700.0,700.0,40.0,False,False,False
-120fb1335b23613f696e612433d9fc4a8b87edfa,Jan,2021,heat,hold,Pine Haven,564.5108927808628,650.0,565.0,5.0,False,False,False
 1af93c740d9d394407a734476ba8bcaf41c2f2dd,Jan,2021,heat,hold,Casper,659.9047619047619,671.1428571428571,669.8571428571429,30.0,True,False,False
 246bdf148da698b1fb58d453c0059dcc85c88a1b,Jan,2021,heat,hold,Cheyenne,696.2180539273154,706.4548651817116,705.9624853458382,10.0,False,False,False
 31af9764717cc87207aca52dabacb0bb1e2b8b95,Jan,2021,heat,hold,Gillette,695.968152866242,688.2547770700637,684.9968152866242,35.0,False,False,False
@@ -16,7 +15,6 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 759b41e328c1a31c0c37d8ee8ac5f45fdd644a17,Jan,2021,heat,hold,Casper,679.5275862068966,681.2068965517242,680.903448275862,0.0,False,False,False
 7ab7401981ce316104ff89f1cea82a92a571929d,Jan,2021,heat,hold,Gillette,648.8823529411765,650.0,650.0,40.0,False,False,False
 7d1f639767fe028c56faaa9e85feab4fdc273206,Jan,2021,heat,hold,Cheyenne,671.6890034364261,673.1443298969073,673.1443298969073,10.0,False,False,False
-836baa01894d644ea145d08d9d4ab41681c982d1,Jan,2021,heat,hold,Star Valley Ranch,448.66873449131515,650.0,450.0,10.0,False,False,False
 845844d0ce166784be286e3eb5d0189cababa2ff,Jan,2021,heat,hold,Cheyenne,703.3104925053533,705.0,705.0,9.0,False,False,False
 8c1fdbfee5c6446be71c7789a3eb56b05093aac1,Jan,2021,heat,hold,Rawlins,673.208,680.24,679.92,0.0,False,False,False
 8d5e560068447e6cd095d1a35c4435a1fbf49342,Jan,2021,auto,hold,Mills,692.3666666666667,750.0,690.0,5.0,False,False,False
@@ -30,11 +28,9 @@ ab20bcf291e58402ba42a43560f2f7f7ca72c776,Jan,2021,auto,hold,Cheyenne,658.1818181
 ac76fecdaa287fefcce1e1e9d8a04222a05f127f,Jan,2021,heat,hold,Rock Springs,729.3083794130157,735.1237771161208,735.1190982560613,25.0,False,False,False
 b68cd409bcc737b83dc2c52e21c19c9480638fd9,Jan,2021,heat,hold,Gillette,661.4488448844885,665.1221122112212,664.5412541254126,7.0,False,False,False
 b8d95ec31576773a2668f78110bf354b7df3e64a,Jan,2021,heat,hold,Baggs,689.0,650.0,650.0,9.0,False,False,False
-c2e57d17f3e49412c8d7c025499c782c5b1c7b98,Jan,2021,heat,hold,Baggs,698.0658362989324,1020.0,705.0498220640569,10.0,False,False,False
 d47cc2218ecd2b265d190fe1eeb96582e0255951,Jan,2021,auto,hold,Cheyenne,694.7457983193277,759.09243697479,699.4264705882352,0.0,False,False,False
 d975b1ad1272e42f9eb089583ef55bb8891c93c8,Jan,2021,heat,hold,Cheyenne,672.8571428571429,679.2142857142857,679.2142857142857,30.0,False,False,False
 db3d168d1ad94da910a56cc7efd5a591dbe48ca3,Jan,2021,heat,hold,Powell,716.3125,720.1041666666666,719.75,10.0,True,False,False
-dc326531b041e75638806c6be6a703a818bd1eee,Jan,2021,heat,hold,Star Valley Ranch,449.57305773342836,650.0,450.0,10.0,False,False,False
 e27714a971be3d2318c80f77a38f0635b4421172,Jan,2021,heat,hold,Rock Springs,631.766129032258,650.0,631.0,10.0,False,False,False
 f045e632eb732cd0703e069e70aef34bb8b50ad0,Jan,2021,heat,hold,Evanston,691.6155555555556,697.0433333333333,697.0433333333333,10.0,False,False,False
 f3bd7952d2fbb216345ea8b272cbdee983b34ae6,Jan,2021,heat,hold,Casper,684.2836879432624,700.1205673758865,699.9148936170212,40.0,False,False,False

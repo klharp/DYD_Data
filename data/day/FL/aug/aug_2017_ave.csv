@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 00020f16d85e6d8c70fc67725f03ab06b116fead,aug,2017,auto,auto,Jacksonville,782.2183353437877,780.0,702.1326899879373,5.0,False,False,True
 0024f0f900a4ff6923e95a2a20ee94c699ecf167,aug,2017,cool,auto,Miami,816.3576403113478,817.4502253174928,784.5718967636215,0.0,False,False,False
 0024f0f900a4ff6923e95a2a20ee94c699ecf167,aug,2017,cool,hold,Miami,802.366295264624,803.6434540389972,790.0,0.0,False,False,False
@@ -242,7 +242,7 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 167cdd6ceedf427a59b824d4f0370f79d13258c1,aug,2017,auto,hold,Miami,780.0,770.6363636363636,690.0,47.0,False,False,False
 168372f15c2794b2a9a60809949a6b583ffca3a1,aug,2017,cool,auto,Casselberry,800.3230769230769,809.5692307692308,671.5076923076923,0.0,False,False,True
 168372f15c2794b2a9a60809949a6b583ffca3a1,aug,2017,cool,hold,Casselberry,772.8593063019052,771.3996091841719,770.2711284807035,0.0,False,False,True
-1698c957c5fd68d8d46c637970fb76efbbf27984,aug,2017,cool,auto,Boynton Beach,694.0021703743896,700.3217580032556,648.267498643516,10.0,False,False,False
+1698c957c5fd68d8d46c637970fb76efbbf27984,aug,2017,cool,auto,Boynton Beach,694.4348063284234,700.8690671031096,648.4762684124386,10.0,False,False,False
 1698c957c5fd68d8d46c637970fb76efbbf27984,aug,2017,cool,hold,Boynton Beach,678.6773413897281,682.1788519637462,681.9256797583082,10.0,False,False,False
 169ca19d705d8c420f96079688f7242c245b571e,aug,2017,cool,auto,Lake Mary,724.2171428571429,730.6685714285715,728.1714285714286,5.0,False,False,True
 169ca19d705d8c420f96079688f7242c245b571e,aug,2017,cool,hold,Lake Mary,720.6923076923077,718.9519230769231,718.3653846153846,5.0,False,False,True
@@ -792,7 +792,7 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 51f12e70e5bfb76d78c3f987054e4325fe41d544,aug,2017,auto,hold,Lake Worth,744.6923076923077,747.7692307692307,658.0769230769231,30.0,True,False,False
 522e8de47bb38ecea118c6a329ed93dda0aae3dc,aug,2017,cool,auto,Apollo Beach,762.8809523809524,760.0,660.0,0.0,True,False,False
 522e8de47bb38ecea118c6a329ed93dda0aae3dc,aug,2017,cool,hold,Apollo Beach,767.5390070921986,767.5177304964539,767.5177304964539,0.0,True,False,False
-523c5d1a4baccdee670563e5b2ea590466e7fdca,aug,2017,cool,auto,Pembroke Pines,708.718727139722,710.8321141185077,713.7293343087052,37.0,False,False,False
+523c5d1a4baccdee670563e5b2ea590466e7fdca,aug,2017,cool,auto,Pembroke Pines,708.7338945827232,710.9289897510981,713.7320644216691,37.0,False,False,False
 523c5d1a4baccdee670563e5b2ea590466e7fdca,aug,2017,cool,hold,Pembroke Pines,700.3572621035058,703.0300500834725,707.729549248748,37.0,False,False,False
 525e9a8c5434c4c6467b563453da8c011d1789e5,aug,2017,cool,auto,Minneola,761.8918918918919,758.0,742.5945945945946,9.0,True,False,True
 525e9a8c5434c4c6467b563453da8c011d1789e5,aug,2017,cool,hold,Minneola,765.516129032258,760.0,760.0,9.0,True,False,True
@@ -1479,7 +1479,7 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 9281759f01933d650e0ab8085b789c3ddbb281d6,aug,2017,auto,hold,Green Cove Springs,749.2076749435666,757.3250564334086,704.7110609480812,10.0,False,False,True
 92af1aee2515a990a743c9312af0678808340b38,aug,2017,cool,hold,DEERFIELD BEACH,745.25,737.5,737.5,40.0,False,False,False
 93449b8345c1b778ca6ae6dbe5b75fae6aa3cdb8,aug,2017,cool,hold,Archer,777.4444444444445,800.0,790.0,20.0,True,True,True
-934cfeda0ca52e06de77a9d60af389756691df61,aug,2017,cool,auto,Pompano Beach,745.9714912280701,744.9166666666666,919.2105263157895,47.0,False,False,True
+934cfeda0ca52e06de77a9d60af389756691df61,aug,2017,cool,auto,Pompano Beach,781.5,766.0,740.0,47.0,False,False,True
 934cfeda0ca52e06de77a9d60af389756691df61,aug,2017,cool,hold,Pompano Beach,781.0,762.5,740.5,47.0,False,False,True
 9378497123c30760d65926fcc560bf51fd308a74,aug,2017,auto,auto,Milton,678.0182926829268,668.4939024390244,618.4481707317074,5.0,False,False,True
 9378497123c30760d65926fcc560bf51fd308a74,aug,2017,auto,hold,Milton,718.5673400673401,730.0,680.0,5.0,False,False,True

@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 000af209b660b6da2dfc91a633650ccb97df073e,dec,2020,heat,hold,Pinckney,647.0967741935484,650.0,650.0,80.0,False,False,False
 001d65da87242dc0b8bb7013ec8efe01c813e750,dec,2020,heat,auto,Lake Orion,697.1,690.0,700.0,57.0,False,False,False
 001d65da87242dc0b8bb7013ec8efe01c813e750,dec,2020,heat,hold,Lake Orion,699.3925710123816,701.1573197378004,701.1580480699199,57.0,False,False,False
@@ -2275,7 +2275,7 @@ a496046007c37cb6b2224e5937b3ab8b0c968f73,dec,2020,auto,auto,Wixom,674.875,761.0,
 a496046007c37cb6b2224e5937b3ab8b0c968f73,dec,2020,auto,hold,Wixom,692.555,763.4975,706.5075,15.0,True,False,False
 a49c715d6867d5b8371d45c4ba3a54ed1b63c4d2,dec,2020,heat,hold,Macomb,692.863295269168,700.0,700.0,36.0,True,False,False
 a4ab91953e8135c378f59ae4fa1030bb90f7e35b,dec,2020,auto,hold,Detroit,694.5,759.0,709.0,99.0,False,False,False
-a4ecd18770a1058fd2f194f0da61e1a3b2f492d8,dec,2020,heat,auto,Redford,839.0422535211268,764.7887323943662,752.2769953051643,0.0,False,False,False
+a4ecd18770a1058fd2f194f0da61e1a3b2f492d8,dec,2020,heat,auto,Redford,840.6907216494845,764.3814432989691,740.6443298969073,0.0,False,False,False
 a4ecd18770a1058fd2f194f0da61e1a3b2f492d8,dec,2020,heat,hold,Redford,816.9883720930233,748.8372093023256,748.3720930232558,0.0,False,False,False
 a4f5d7153352c780a274f3e72e1afef64817624e,dec,2020,auto,auto,Rochester Hills,670.8032128514056,737.8232931726908,680.4538152610442,38.0,False,False,False
 a4f5d7153352c780a274f3e72e1afef64817624e,dec,2020,auto,hold,Rochester Hills,669.762979683973,730.9525959367946,680.1489841986456,38.0,False,False,False

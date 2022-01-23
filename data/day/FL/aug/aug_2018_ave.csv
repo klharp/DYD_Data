@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 00020f16d85e6d8c70fc67725f03ab06b116fead,aug,2018,auto,auto,Jacksonville,774.8608287724785,772.2384675527757,686.7552775605942,5.0,False,False,True
 0024f0f900a4ff6923e95a2a20ee94c699ecf167,aug,2018,cool,auto,Miami,795.8880706921944,798.8689248895435,789.8159057437408,0.0,False,False,False
 0024f0f900a4ff6923e95a2a20ee94c699ecf167,aug,2018,cool,hold,Miami,793.9693287037037,795.5694444444445,786.8888888888889,0.0,False,False,False
@@ -893,7 +893,7 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 2ea1b7a85bc645ef2add372192ce753b1d5d5b7a,aug,2018,auto,hold,Apopka,772.65625,770.0,610.0,37.0,False,False,True
 2ebd2f87dc1a3fb2afa96183d36c7b09721c82a7,aug,2018,auto,hold,Fleming Island,736.2693208430914,800.0,680.0,15.0,False,False,True
 2ebd2f87dc1a3fb2afa96183d36c7b09721c82a7,aug,2018,cool,hold,Fleming Island,698.3684210526316,790.0263157894736,719.9473684210526,15.0,False,False,True
-2ec7137ce8cb85a9ca6e2e63a62bf990889e54a8,aug,2018,cool,auto,Vero Beach,656.1349911190053,650.6607460035524,720.0,17.0,False,False,False
+2ec7137ce8cb85a9ca6e2e63a62bf990889e54a8,aug,2018,cool,auto,Vero Beach,656.1715867158672,653.0,720.0,17.0,False,False,False
 2ecec2c1a3808dbcda9e91bea3dba6c5d64b0ab7,aug,2018,auto,auto,Naples,761.5544217687075,768.8231292517007,630.0,20.0,False,False,False
 2ecec2c1a3808dbcda9e91bea3dba6c5d64b0ab7,aug,2018,auto,hold,Naples,763.3582554517134,777.0591900311526,630.0,20.0,False,False,False
 2ed8dfdfc29e3295562f73c685eb65a21da18959,aug,2018,cool,auto,Shalimar,740.8448844884489,750.1122112211222,750.1122112211222,35.0,True,False,False
@@ -2046,7 +2046,7 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 720b4c6c2dce353697e54609a9588bbaf9af80c5,aug,2018,auto,auto,West Palm Beach,761.2053180747223,760.0,700.0,0.0,False,False,True
 72458f6535d6e3d1ec31d60383f99cbf83903419,aug,2018,auto,hold,Jacksonville,736.5555555555555,750.0,670.0,10.0,True,False,True
 72458f6535d6e3d1ec31d60383f99cbf83903419,aug,2018,cool,auto,Jacksonville,753.6857142857143,791.2857142857143,716.3142857142857,10.0,True,False,True
-7267a3190a8c5ef0cf382f0df8d35775399d5ca5,aug,2018,cool,auto,Longwood,630.6470588235294,626.3398692810457,649.0849673202614,30.0,False,False,True
+7267a3190a8c5ef0cf382f0df8d35775399d5ca5,aug,2018,cool,auto,Longwood,638.8995433789954,636.8036529680365,636.8036529680365,30.0,False,False,True
 7267a3190a8c5ef0cf382f0df8d35775399d5ca5,aug,2018,cool,hold,Longwood,665.6020408163265,671.5102040816327,671.5102040816327,30.0,False,False,True
 727358c87f7a6a0327e458532364391f88d4ea23,aug,2018,cool,auto,Middleburg,767.043165467626,760.8345323741007,676.4676258992806,30.0,False,False,True
 727358c87f7a6a0327e458532364391f88d4ea23,aug,2018,cool,hold,Middleburg,773.2131147540983,758.0655737704918,756.2622950819672,30.0,False,False,True
@@ -2686,7 +2686,6 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 9324fb9715faa74f544e16008aeebe6477cd8d8f,aug,2018,cool,hold,Sarasota,738.2911392405064,736.6075949367089,735.6962025316456,0.0,False,False,True
 933da02eb525b725343ff8ca303c0c74d7a21b9b,aug,2018,cool,auto,Hypoluxo,739.5,740.0,710.0,30.0,False,False,False
 934ae136538dfa58e8f7912a2267a07aca85bc17,aug,2018,cool,hold,Merritt Island,710.5875,710.0,710.0,7.0,False,False,False
-934cfeda0ca52e06de77a9d60af389756691df61,aug,2018,cool,auto,Pompano Beach,742.1478149100257,739.1773778920309,920.0,47.0,False,False,True
 935128af91c743fc54663736791652da26b42f66,aug,2018,cool,hold,Crawfordville,707.7701863354038,703.1739130434783,702.9627329192547,8.0,True,False,True
 9378497123c30760d65926fcc560bf51fd308a74,aug,2018,cool,auto,Milton,696.5405948553055,693.834807073955,635.5691318327974,5.0,False,False,True
 9378497123c30760d65926fcc560bf51fd308a74,aug,2018,cool,hold,Milton,670.5,673.25,653.0,5.0,False,False,True

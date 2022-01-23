@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 00020f16d85e6d8c70fc67725f03ab06b116fead,jun,2018,auto,auto,Jacksonville,762.0319410319411,760.0,652.948402948403,5.0,False,False,True
 000901820a1c537e3432a15731cf77e975629e0e,jun,2018,auto,hold,Tampa,753.2203389830509,749.1864406779661,696.1355932203389,17.0,False,False,False
 0024f0f900a4ff6923e95a2a20ee94c699ecf167,jun,2018,cool,hold,Miami,782.0216197666438,782.3466026080988,781.8668496911462,0.0,False,False,False
@@ -2588,7 +2588,6 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 933da02eb525b725343ff8ca303c0c74d7a21b9b,jun,2018,cool,hold,Hypoluxo,745.4875621890548,758.179104477612,739.0348258706467,30.0,False,False,False
 934ae136538dfa58e8f7912a2267a07aca85bc17,jun,2018,cool,auto,Merritt Island,747.974358974359,750.0,730.0,7.0,False,False,False
 934ae136538dfa58e8f7912a2267a07aca85bc17,jun,2018,cool,hold,Merritt Island,709.0146341463415,706.2439024390244,706.2439024390244,7.0,False,False,False
-934cfeda0ca52e06de77a9d60af389756691df61,jun,2018,cool,auto,Pompano Beach,739.3725490196078,737.5,920.0,47.0,False,False,True
 935128af91c743fc54663736791652da26b42f66,jun,2018,cool,auto,Crawfordville,702.9328621908127,700.0,692.5088339222615,8.0,True,False,True
 9378497123c30760d65926fcc560bf51fd308a74,jun,2018,auto,auto,Milton,683.62100456621,683.0342465753424,625.4543378995434,5.0,False,False,True
 9378497123c30760d65926fcc560bf51fd308a74,jun,2018,auto,hold,Milton,666.1,666.0,646.0,5.0,False,False,True
@@ -2802,7 +2801,7 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 9db95ee89968db08db6e89d57bc7252a1d21c87d,jun,2018,auto,hold,Sarasota,782.0496183206106,779.4770992366413,650.0,20.0,False,False,True
 9dde98e5bd051b277ac5eb56519a033653d438d4,jun,2018,cool,auto,Doral,726.4101184068892,735.3148546824542,726.6307857911733,0.0,False,False,False
 9dde98e5bd051b277ac5eb56519a033653d438d4,jun,2018,cool,hold,Doral,725.5235404896422,732.1431261770244,732.0018832391713,0.0,False,False,False
-9de38882160e84866df9cb6924e2e8ded9bb34b9,jun,2018,heat,auto,Tampa,836.6363636363636,799.9090909090909,805.2727272727273,10.0,False,False,False
+9de38882160e84866df9cb6924e2e8ded9bb34b9,jun,2018,heat,auto,Tampa,834.0,804.1,800.2,10.0,False,False,False
 9de38882160e84866df9cb6924e2e8ded9bb34b9,jun,2018,heat,hold,Tampa,853.625,800.0,800.0,10.0,False,False,False
 9e19944dc38290146681443aec43dfc6e0c97161,jun,2018,auto,hold,Longwood,751.2637362637363,747.9560439560439,697.8681318681319,20.0,False,False,True
 9e19944dc38290146681443aec43dfc6e0c97161,jun,2018,cool,hold,Longwood,770.4081632653061,769.6938775510204,719.8775510204082,20.0,False,False,True

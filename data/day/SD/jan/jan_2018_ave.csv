@@ -1,6 +1,6 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 004e7f286453271cd8b2b9367719102dc96392c2,Jan,2018,auto,hold,Elk Point,695.7719298245614,750.6608187134503,693.6608187134503,20.0,False,False,False
-011eb806f7782fc048072fabfb035b54f5d71e67,Jan,2018,auto,hold,Sioux Falls,652.3846153846154,741.0769230769231,598.9230769230769,100.0,False,False,False
+011eb806f7782fc048072fabfb035b54f5d71e67,Jan,2018,auto,hold,Sioux Falls,649.5,742.3333333333334,609.3333333333334,100.0,False,False,False
 045e533587d8a51c00e08e459243ce7ec3cbaaf9,Jan,2018,heat,auto,Rapid City,719.890243902439,757.439024390244,717.0,70.0,True,False,False
 045e533587d8a51c00e08e459243ce7ec3cbaaf9,Jan,2018,heat,hold,Rapid City,721.0,690.0,690.0,70.0,True,False,False
 05b6a87c2c20aa57b357426c9107705c0bd7ec20,Jan,2018,heat,hold,Sioux Falls,690.5471698113207,698.9433962264151,681.622641509434,15.0,True,False,False
@@ -19,7 +19,7 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 30a50f3df07d56b578fdf38b93291e6860f389ad,Jan,2018,auto,hold,Sioux Falls,695.7325102880659,770.7407407407408,705.925925925926,45.0,False,False,False
 32f1e16c8515275838f75cf8af034ea81b74d96a,Jan,2018,heat,auto,Tea,643.5787893946973,720.0350175087543,656.9019509754877,40.0,False,False,True
 32f1e16c8515275838f75cf8af034ea81b74d96a,Jan,2018,heat,hold,Tea,656.4457831325301,720.0,683.07917383821,40.0,False,False,True
-3a6d34c0a5f6664f14043d1ec1f90525eb6a72aa,Jan,2018,heat,auto,Rapid City,701.7096774193549,705.0268817204301,700.8826164874552,0.0,False,False,False
+3a6d34c0a5f6664f14043d1ec1f90525eb6a72aa,Jan,2018,heat,auto,Rapid City,708.0556640625,709.970703125,709.9462890625,0.0,False,False,False
 3a6d34c0a5f6664f14043d1ec1f90525eb6a72aa,Jan,2018,heat,hold,Rapid City,705.7222222222222,704.155753968254,704.155753968254,0.0,False,False,False
 3cb5cd50805e286cf3cd45001f0c9e54f6fed6c3,Jan,2018,heat,auto,Sioux Falls,653.2934782608696,657.2717391304348,654.2391304347826,20.0,False,False,False
 3cb5cd50805e286cf3cd45001f0c9e54f6fed6c3,Jan,2018,heat,hold,Sioux Falls,656.1531914893617,661.0042553191489,659.0936170212766,20.0,False,False,False
@@ -42,7 +42,7 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 7a59d7c797f30415b2b2557d368086f59a8bfbf6,Jan,2018,heat,hold,Baltic,659.944971537002,661.8500948766604,661.8500948766604,5.0,False,False,False
 8930281824f3ef2ac371723900928c198a63c348,Jan,2018,heat,auto,Sioux Falls,715.0982608695653,719.5,719.5,10.0,False,False,False
 8930281824f3ef2ac371723900928c198a63c348,Jan,2018,heat,hold,Sioux Falls,707.3204456094364,710.8355176933159,710.8355176933159,10.0,False,False,False
-90e121dfbbf74b90bdeeba661458add0a7e5b5ba,Jan,2018,heat,auto,Sioux Falls,671.0,700.0,611.4084507042254,10.0,False,False,False
+90e121dfbbf74b90bdeeba661458add0a7e5b5ba,Jan,2018,heat,auto,Sioux Falls,675.8888888888889,700.0,690.0,10.0,False,False,False
 94f4dbce58d4a11a0ffa9e6290ddfb6e896b39d2,Jan,2018,heat,auto,Sioux Falls,691.3981481481482,740.0,690.0,5.0,False,False,False
 9890e8311a56a9abe9923f5fc2c000c196edf928,Jan,2018,auto,auto,Sioux Falls,678.6333333333333,740.0,680.0,25.0,False,False,False
 995ba2f4d2b74e5e9c936ec683b65b980cb10a3b,Jan,2018,heat,hold,Dakota Dunes,680.923835125448,680.0,680.0,27.0,False,False,False
@@ -64,6 +64,6 @@ d8a5080a26ef033201748f6bb21a14041b3e5089,Jan,2018,heat,hold,Sioux Falls,726.6071
 e5a50f71271de0f30b2f068f1e6e3368ddfec11b,Jan,2018,heat,hold,Sioux Falls,670.453125,683.125,681.5625,5.0,False,False,False
 e6dbbaa5309abde52529bb8af3025c5f2fb84ab3,Jan,2018,heat,hold,Mitchell,711.2937037037037,720.2707407407407,720.2707407407407,27.0,False,False,True
 eff352eb35883cf29e1e7c2da025cf60f45f03b8,Jan,2018,heat,auto,Rapid City,707.556,718.528,714.304,17.0,False,False,False
-eff352eb35883cf29e1e7c2da025cf60f45f03b8,Jan,2018,heat,hold,Rapid City,698.6799204771372,706.9522862823062,696.0596421471173,17.0,False,False,False
+eff352eb35883cf29e1e7c2da025cf60f45f03b8,Jan,2018,heat,hold,Rapid City,700.6086021505376,709.1548387096774,703.9956989247312,17.0,False,False,False
 f54879bd1a53b5447fa7998054e94ab1621745eb,Jan,2018,heat,auto,Sioux Falls,737.4605263157895,741.5394736842105,741.5394736842105,95.0,False,False,False
 fbb6b3184e085ae4fe5c86bab30afe6a29793469,Jan,2018,heat,hold,Mitchell,691.5769230769231,695.6923076923077,694.0,30.0,False,False,False

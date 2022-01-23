@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 011eb806f7782fc048072fabfb035b54f5d71e67,jun,2017,auto,hold,Sioux Falls,730.9285714285714,740.0,640.0,100.0,False,False,False
 045e533587d8a51c00e08e459243ce7ec3cbaaf9,jun,2017,auto,hold,Rapid City,702.1428571428571,702.0,652.0,70.0,True,False,False
 05b6a87c2c20aa57b357426c9107705c0bd7ec20,jun,2017,cool,auto,Sioux Falls,738.9130434782609,740.0,680.0,15.0,True,False,False
@@ -9,7 +9,7 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 17c1dbdbd6e3202b0db49420e6fc9d36e4cac454,jun,2017,auto,hold,Sioux Falls,738.75,761.75,674.75,5.0,False,False,False
 18cd13efb32ea1f3caa01bc30656d0afbe3d1413,jun,2017,cool,auto,Sioux Falls,737.2307692307693,747.2435897435897,688.3076923076923,16.0,False,False,False
 18cd13efb32ea1f3caa01bc30656d0afbe3d1413,jun,2017,cool,hold,Sioux Falls,734.2679738562091,740.0588235294117,739.6274509803922,16.0,False,False,False
-20f09a9c1d296b532e398fdefb4a44700a36a621,jun,2017,auto,auto,Mitchell,715.9819277108434,747.710843373494,694.5783132530121,40.0,False,False,False
+20f09a9c1d296b532e398fdefb4a44700a36a621,jun,2017,auto,auto,Mitchell,714.1056338028169,740.5633802816901,710.5633802816901,40.0,False,False,False
 30a50f3df07d56b578fdf38b93291e6860f389ad,jun,2017,auto,hold,Sioux Falls,703.6092592592593,722.3333333333334,643.0,45.0,False,False,False
 3cb5cd50805e286cf3cd45001f0c9e54f6fed6c3,jun,2017,cool,hold,Sioux Falls,713.184331797235,810.0,790.0,20.0,False,False,False
 3ed0e9cb7b0043eaf232cd07b55d33cb67e0debe,jun,2017,cool,auto,Mitchell,695.7291666666666,690.0208333333334,710.0,15.0,True,False,True
@@ -47,7 +47,6 @@ c3cc30e0e8e9481f56d2d8ccb8875ffd6e58c48d,jun,2017,cool,auto,Rapid City,693.86633
 c3cc30e0e8e9481f56d2d8ccb8875ffd6e58c48d,jun,2017,cool,hold,Rapid City,689.8556338028169,717.4295774647887,717.4295774647887,55.0,False,False,False
 cc7492974b078d6eceba17e49929a139635baebb,jun,2017,cool,auto,Yankton,719.75,721.75,665.25,45.0,False,False,False
 cc7492974b078d6eceba17e49929a139635baebb,jun,2017,cool,hold,Yankton,729.2159624413146,728.0657276995305,727.943661971831,45.0,False,False,False
-d37e2aadd7774c2112b3d30f1c00556868867274,jun,2017,auto,hold,Vermillion,713.1379310344828,707.3448275862069,600.0,45.0,False,False,False
 d37e2aadd7774c2112b3d30f1c00556868867274,jun,2017,cool,hold,Vermillion,715.035294117647,753.7529411764706,750.7882352941176,45.0,False,False,False
 d8a5080a26ef033201748f6bb21a14041b3e5089,jun,2017,cool,auto,Sioux Falls,760.1098265895954,756.4219653179191,736.1849710982659,15.0,False,False,False
 d8a5080a26ef033201748f6bb21a14041b3e5089,jun,2017,cool,hold,Sioux Falls,766.4444444444445,720.0,720.0,15.0,False,False,False

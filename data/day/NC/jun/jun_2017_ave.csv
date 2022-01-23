@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 0010db271149fae01fa527e2c2105074d5771e5f,jun,2017,cool,auto,Raleigh,743.7407407407408,760.0,690.0,37.0,True,False,True
 0010db271149fae01fa527e2c2105074d5771e5f,jun,2017,cool,hold,Raleigh,738.7058823529412,740.0,740.0,37.0,True,False,True
 004dfca396d696b8a7ce7dd71862b78384f55976,jun,2017,cool,auto,Charlotte,785.6071428571429,804.0,650.3928571428571,85.0,True,False,True

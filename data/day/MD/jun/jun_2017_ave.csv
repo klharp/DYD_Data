@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 0004ddd9fb43232e8457ed12b578e20c5e1b33b0,jun,2017,cool,auto,Parkville,722.7962962962963,730.3425925925926,676.8148148148148,50.0,False,False,False
 0004ddd9fb43232e8457ed12b578e20c5e1b33b0,jun,2017,cool,hold,Parkville,712.0725806451613,717.6048387096774,717.2016129032259,50.0,False,False,False
 00169fef3ce1e3a7aaaa39f9f28d8db467527197,jun,2017,cool,auto,Columbia,748.6,771.5,678.0,40.0,True,False,True

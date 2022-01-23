@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 0037b13de2c1ea596b8c97cc09d202a5e8ceeeae,aug,2017,cool,auto,Waverly,720.8931888544893,718.4404024767803,720.297213622291,10.0,False,False,False
 0037b13de2c1ea596b8c97cc09d202a5e8ceeeae,aug,2017,cool,hold,Waverly,724.4967914438503,735.8823529411765,735.8791443850267,10.0,False,False,False
 04748c1d6262989d882b588289f9ea9f2ea31f34,aug,2017,cool,auto,Council Bluffs,724.5238095238095,720.809523809524,641.1904761904761,60.0,False,False,False

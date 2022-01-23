@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 0037b13de2c1ea596b8c97cc09d202a5e8ceeeae,Jan,2018,heat,auto,Waverly,698.6624293785311,710.3905367231638,710.3905367231638,10.0,False,False,False
 0037b13de2c1ea596b8c97cc09d202a5e8ceeeae,Jan,2018,heat,hold,Waverly,706.940664556962,718.306170886076,718.306170886076,10.0,False,False,False
 0219b339a36deb299cb64ff76ba40ac7563cf3af,Jan,2018,heat,auto,Marion,662.3333333333334,770.0,670.0,15.0,False,False,False

@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 00146b92aa45248f15537bd507a76c650e898d53,jun,2020,cool,auto,Annapolis,719.5384615384615,750.0,750.0,30.0,True,False,True
 00146b92aa45248f15537bd507a76c650e898d53,jun,2020,cool,hold,Annapolis,722.1666666666666,740.0,740.0,30.0,True,False,True
 001cb586cbb1bfa7441fff670b3357d9d412926a,jun,2020,cool,hold,Columbia,730.7708333333334,730.25,729.6666666666666,40.0,True,False,True
@@ -585,7 +585,7 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 296f1897cffab374089199beee2930ea61e4d11c,jun,2020,cool,hold,Silver Spring,738.9941648431802,753.1232676878191,752.8563092633115,0.0,False,False,False
 297d31a9e6d820ead191c043e32e23b61a658009,jun,2020,auto,hold,Potomac,732.9852631578948,738.2582456140351,649.0,39.0,True,False,False
 297f0a102168614b16c0bb27c234e3f25fb25463,jun,2020,auto,hold,Annapolis,742.6020066889632,740.0367892976589,650.0434782608696,50.0,True,False,True
-29a5055a373dfe051c2baaff97504ec6e47196a1,jun,2020,cool,auto,Highland,770.1451327433629,789.7380530973452,801.1433628318584,0.0,True,False,True
+29a5055a373dfe051c2baaff97504ec6e47196a1,jun,2020,cool,auto,Highland,772.0727272727273,779.4857142857143,778.3012987012987,0.0,True,False,True
 29a5055a373dfe051c2baaff97504ec6e47196a1,jun,2020,cool,hold,Highland,786.9574468085107,800.6808510638298,800.6489361702128,0.0,True,False,True
 29a5055a373dfe051c2baaff97504ec6e47196a1,jun,2020,heat,auto,Highland,720.0672514619883,610.0,610.0,0.0,True,False,True
 29cc03dd088f90cad9f9484f5c6e11bc858bf89d,jun,2020,cool,auto,Waldorf,694.6211278792692,690.1636219221605,691.8848292295472,0.0,True,False,False
@@ -2793,7 +2793,7 @@ cdd6be7dd62e2addfd0b7212b5412a9e25193ced,jun,2020,cool,hold,Rockville,741.975609
 cde2c919b3e420e2cd85964005fcf96d671005a3,jun,2020,cool,hold,Baltimore,702.0821309655938,700.0,700.0,100.0,False,False,False
 ce4458fc8be77ef6d4c8bd8c4272c65bde6f9525,jun,2020,cool,auto,Annapolis,767.0,760.0,760.0,10.0,False,False,False
 ce4458fc8be77ef6d4c8bd8c4272c65bde6f9525,jun,2020,cool,hold,Annapolis,736.8519593613934,737.2757619738752,737.2743105950653,10.0,False,False,False
-ce4fdd9f1bb0642cedde92786596f080ae33e65a,jun,2020,cool,hold,Bridgeview-Greenlawn,736.6666666666666,743.3095238095239,763.8571428571429,0.0,False,False,False
+ce4fdd9f1bb0642cedde92786596f080ae33e65a,jun,2020,cool,hold,Bridgeview-Greenlawn,736.7185628742515,743.3952095808384,763.1976047904192,0.0,False,False,False
 ce7624818221e9bc8b69347b0d9b9544b4d993ae,jun,2020,cool,auto,Gambrills,714.9809264305177,738.9100817438692,738.8283378746594,0.0,False,False,False
 ce88603bad5b31c9b886bbe6589b3ac3cfbb40e1,jun,2020,cool,auto,Prince Frederick,727.047077922078,744.2738095238095,695.5844155844156,0.0,False,False,True
 ce88603bad5b31c9b886bbe6589b3ac3cfbb40e1,jun,2020,cool,hold,Prince Frederick,738.2756036636137,738.7601998334721,700.0,0.0,False,False,True
@@ -3078,7 +3078,7 @@ e09ef43af68c42475837024ff5c4b33daf811a2a,jun,2020,cool,hold,Takoma Park,715.8633
 e0a19fcafbc98499b6da8c2a1f0e749ee7eb8d81,jun,2020,cool,auto,Silver Spring,748.8333333333334,760.0,790.0,25.0,False,False,False
 e0a19fcafbc98499b6da8c2a1f0e749ee7eb8d81,jun,2020,cool,hold,Silver Spring,761.8568376068376,760.2564102564103,760.2564102564103,25.0,False,False,False
 e0d46da1a6a39a2ad66b59949b64fb6d7e0226df,jun,2020,cool,auto,Sparrow Point,739.156862745098,736.3488843813387,726.3380662609871,0.0,True,False,False
-e0d46da1a6a39a2ad66b59949b64fb6d7e0226df,jun,2020,cool,hold,Sparrow Point,730.3926128590971,731.3700410396717,729.7920656634747,0.0,True,False,False
+e0d46da1a6a39a2ad66b59949b64fb6d7e0226df,jun,2020,cool,hold,Sparrow Point,730.4142661179699,731.7304526748972,730.0658436213992,0.0,True,False,False
 e0f14a9a8d3f2536813878f4fdf4a0908132a33d,jun,2020,cool,auto,Clarksburg,732.7942028985507,736.9351449275363,706.9351449275363,8.0,False,False,False
 e0f5553de3d3fafe0a8a719cb84920ec19ce1e93,jun,2020,cool,hold,Silver Spring,754.1706036745406,755.3989501312336,755.2283464566929,70.0,False,False,False
 e0fd026a0c89893485db15ab8f3031c73704f57a,jun,2020,auxHeatOnly,hold,Parkville,711.1140350877193,650.0,610.0,30.0,True,False,True

@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 00020f16d85e6d8c70fc67725f03ab06b116fead,dec,2017,auto,auto,Jacksonville,713.775,760.0,660.0,5.0,False,False,True
 000901820a1c537e3432a15731cf77e975629e0e,dec,2017,auto,auto,Tampa,727.890756302521,750.0,700.0,17.0,False,False,False
 0024f0f900a4ff6923e95a2a20ee94c699ecf167,dec,2017,cool,auto,Miami,774.085501858736,799.8773234200744,780.0297397769517,0.0,False,False,False
@@ -299,7 +299,7 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 0f7066eb2cbe88de9f3f434940a8270b909e6ce1,dec,2017,auto,hold,Miami,690.25,735.05,695.65,40.0,False,False,False
 0f7066eb2cbe88de9f3f434940a8270b909e6ce1,dec,2017,cool,auto,Miami,724.9715099715099,796.4458689458689,642.9216524216524,40.0,False,False,False
 0f7066eb2cbe88de9f3f434940a8270b909e6ce1,dec,2017,cool,hold,Miami,710.4581280788177,713.3300492610838,710.9950738916256,40.0,False,False,False
-0f790293e3048fb922a10309f780576a44cb1aa3,dec,2017,cool,auto,Miami Beach,703.9440559440559,708.142403051494,717.3229497774952,70.0,False,False,False
+0f790293e3048fb922a10309f780576a44cb1aa3,dec,2017,cool,auto,Miami Beach,705.4497389033943,711.3498694516971,718.0084856396867,70.0,False,False,False
 0f790293e3048fb922a10309f780576a44cb1aa3,dec,2017,cool,hold,Miami Beach,707.1597222222222,720.5631313131313,720.5593434343434,70.0,False,False,False
 0f81ea4734513a49577dfeb985a41e0e46e497a2,dec,2017,cool,auto,Land O' Lakes,722.3921568627451,740.0,740.0,10.0,False,False,True
 0f8cbdf5d6b8823184a2b295ad1518e0f2504a88,dec,2017,auto,hold,Lakeland,650.4,770.0,627.3,40.0,False,False,False
@@ -2860,8 +2860,6 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 92c1198de9703bcb1cf799f4f0d327b1b656f318,dec,2017,cool,auto,Tampa,732.7398692810458,741.437908496732,650.0,15.0,True,False,True
 92c1198de9703bcb1cf799f4f0d327b1b656f318,dec,2017,cool,hold,Tampa,729.0657894736842,754.828947368421,650.0,15.0,True,False,True
 934ae136538dfa58e8f7912a2267a07aca85bc17,dec,2017,cool,hold,Merritt Island,710.484771573604,718.9340101522843,718.9340101522843,7.0,False,False,False
-934cfeda0ca52e06de77a9d60af389756691df61,dec,2017,cool,auto,Pompano Beach,745.4486111111111,744.4013888888888,920.0,47.0,False,False,True
-934cfeda0ca52e06de77a9d60af389756691df61,dec,2017,cool,hold,Pompano Beach,740.4,740.0,920.0,47.0,False,False,True
 9378497123c30760d65926fcc560bf51fd308a74,dec,2017,auto,auto,Milton,691.2295539033457,725.839219330855,675.6226765799256,5.0,False,False,True
 9378497123c30760d65926fcc560bf51fd308a74,dec,2017,auto,hold,Milton,695.7777777777778,749.6296296296297,699.6296296296297,5.0,False,False,True
 93834dfc482d051ec82549d33ce67ec78b0553c1,dec,2017,auto,hold,Jacksonville,731.85,730.0,680.0,0.0,False,False,True

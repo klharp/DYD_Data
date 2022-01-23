@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 0010e47e4b45d741375cce16b3f2834662857046,Jan,2021,auto,hold,Dunwoody,694.5011944577162,766.3588150979456,698.1839464882943,59.0,True,False,False
 002928222f5a2b5cfeba53f3aca5d5f24f6c4fe8,Jan,2021,heat,hold,Columbus,703.8648648648649,710.0,710.0,40.0,False,False,False
 006f827019c7979541901360ed5bbdf1ef265887,Jan,2021,heat,hold,Grovetown,803.7530487804878,804.6493902439024,804.2911585365854,10.0,True,False,True
@@ -897,7 +897,7 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 5c8bd10d5254c7fd7816963a2e0a1bec84bccc56,Jan,2021,heat,hold,Atlanta,683.469696969697,685.0880681818181,685.0880681818181,0.0,True,False,False
 5caffe1d2c1264fdc47814f4459d53c28d4077bd,Jan,2021,auto,hold,Dunwoody,698.3636363636364,760.0,700.0,35.0,False,False,False
 5cbf3f4b0ce4531264719866d76f11d4855d6b94,Jan,2021,auto,hold,Cartersville,611.3846153846154,668.3846153846154,619.3076923076923,25.0,False,False,False
-5cbf3f4b0ce4531264719866d76f11d4855d6b94,Jan,2021,cool,hold,Cartersville,614.3,625.75,626.5333333333333,25.0,False,False,False
+5cbf3f4b0ce4531264719866d76f11d4855d6b94,Jan,2021,cool,hold,Cartersville,614.2372881355932,626.2542372881356,626.6440677966102,25.0,False,False,False
 5cbf3f4b0ce4531264719866d76f11d4855d6b94,Jan,2021,heat,hold,Cartersville,618.6604774535809,623.0623342175066,623.0623342175066,25.0,False,False,False
 5cf851b19db43bb0d7846132e2132e36366a50b4,Jan,2021,heat,hold,Duluth,656.1698113207547,653.9150943396227,648.8915094339623,10.0,False,False,False
 5d0ff9affbac725dedc43574539928debf6d8e74,Jan,2021,auto,hold,Hiram,686.8770149253731,758.4931343283582,683.2710447761194,9.0,True,False,False
@@ -2000,7 +2000,7 @@ ce437dd94f67f7086dc6c4c7e77ba30381dda63e,Jan,2021,auto,hold,Smyrna,729.060392156
 ce8a979e9404d9ff6c526e98814ea61118d70a86,Jan,2021,cool,hold,Social Circle,678.4166666666666,690.2083333333334,690.2083333333334,0.0,True,False,True
 ce8a979e9404d9ff6c526e98814ea61118d70a86,Jan,2021,heat,hold,Social Circle,690.4878048780488,694.8180359435173,694.8074454428755,0.0,True,False,True
 cf0e8cbab663165841d3ad2d2b53392ea0a669e7,Jan,2021,heat,hold,Columbus,736.7414695415533,749.2290140255391,749.2290140255391,50.0,False,False,False
-cf1ba659559b9e99e2e5a26cb96f5847824aae7f,Jan,2021,heat,hold,Atlanta,683.4006309148265,690.7930599369085,691.0776025236593,0.0,True,False,True
+cf1ba659559b9e99e2e5a26cb96f5847824aae7f,Jan,2021,heat,hold,Atlanta,683.5508528111181,690.9519898926089,691.094125078964,0.0,True,False,True
 cf5b0aece69986059ab96b7c2d921dc75c99217d,Jan,2021,auto,hold,Braselton,708.3484848484849,760.0,710.0,10.0,False,False,False
 cf5d3cb34d4961de1efb22c57ca697776153f0c3,Jan,2021,auto,hold,Kennesaw,715.3703703703703,750.0,700.0,20.0,True,False,False
 cf5d3cb34d4961de1efb22c57ca697776153f0c3,Jan,2021,cool,hold,Kennesaw,665.2941176470588,720.0,720.0,20.0,True,False,False

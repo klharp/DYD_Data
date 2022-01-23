@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 015e8d7ebe673c9e6acc810138ab9aa969562e19,Jan,2019,auto,auto,Mankato,646.4,730.0,652.0,15.0,False,False,False
 015e8d7ebe673c9e6acc810138ab9aa969562e19,Jan,2019,auto,hold,Mankato,637.9407894736842,730.0,650.0723684210526,15.0,False,False,False
 01b76f222272ad708ad27deccbd0612d4e1664d0,Jan,2019,heat,auto,Rosemount,650.76,687.12,688.24,10.0,False,False,False

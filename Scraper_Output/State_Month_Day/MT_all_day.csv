@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 037988cc24eaeaa08f7002dbc926d02c8f9c0f1c,aug,2017,cool,auto,Eureka,698.1842105263157,724.421052631579,734.736842105263,10.0,True,False,True
 037988cc24eaeaa08f7002dbc926d02c8f9c0f1c,aug,2017,cool,hold,Eureka,692.4431188751597,719.3596080102257,719.3059224541969,10.0,True,False,True
 0bc51b95b2dc23713f611e182c689ad03dc2c300,aug,2017,cool,auto,Great Falls,705.6458333333335,750.0,680.0,10.0,False,False,False

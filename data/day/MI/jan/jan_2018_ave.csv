@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 000af209b660b6da2dfc91a633650ccb97df073e,Jan,2018,heat,auto,Pinckney,627.05,777.7,688.05,80.0,False,False,False
 001d65da87242dc0b8bb7013ec8efe01c813e750,Jan,2018,heat,auto,Lake Orion,671.2462311557789,753.7537688442211,670.6934673366834,57.0,False,False,False
 001d65da87242dc0b8bb7013ec8efe01c813e750,Jan,2018,heat,hold,Lake Orion,680.6672104404568,690.4078303425775,683.2936378466558,57.0,False,False,False
@@ -767,7 +767,7 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 544bd24b18265f2d357933114a5e6c6c69982943,Jan,2018,auto,hold,Ada,626.7083333333334,800.0,668.0,10.0,False,False,True
 545e81c33c8db9f990cda876f7d349cff7111d80,Jan,2018,heat,auto,Caledonia,612.2586206896551,650.0,621.7931034482758,0.0,False,False,False
 547e649a5318450cb70bbf3f496c39470392bc3f,Jan,2018,heat,auto,Taylor,716.7336956521739,735.445652173913,723.6086956521739,0.0,False,False,False
-547e649a5318450cb70bbf3f496c39470392bc3f,Jan,2018,heat,hold,Taylor,716.8546511627907,730.8372093023256,733.7325581395348,0.0,False,False,False
+547e649a5318450cb70bbf3f496c39470392bc3f,Jan,2018,heat,hold,Taylor,720.00625,725.65,725.0125,0.0,False,False,False
 549c9da8aee9c2e4210d31d4e7320c4ee2d33034,Jan,2018,auto,auto,Sterling Heights,673.8518518518518,744.8417508417508,676.2390572390573,35.0,False,False,False
 549c9da8aee9c2e4210d31d4e7320c4ee2d33034,Jan,2018,auto,hold,Sterling Heights,698.075,810.0833333333334,708.4,35.0,False,False,False
 549d7b8e3e8185c99219b3fc31abc754dc9747aa,Jan,2018,heat,auto,Canton,629.1589285714285,788.7803571428572,629.775,0.0,False,False,False

@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 0001dfcbc22d23f9170714d0e3428f14b2626276,jul,2021,heat,hold,New Bedford,779.3375,750.0,750.0,0.0,False,False,False
 01a28ab243f4d2fd1a22bf4d05a115971d9fb471,jul,2021,cool,hold,North Andover,708.8867924528302,700.0,700.0,10.0,True,False,False
 01a2ab82ff9b731e47a504b41b5802dbbbfaf4fa,jul,2021,auto,hold,Winchester,760.4478881798846,771.9750835612276,679.9939228198116,90.0,False,False,False
@@ -33,7 +33,7 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 08510c3a6cabbd92539d0ddee8d08694516e2e28,jul,2021,cool,hold,Norwood,737.9125475285172,759.8821292775665,718.6882129277567,60.0,False,False,False
 087ec4d06d0b971bce97ef90eeee7eafc2677da0,jul,2021,cool,hold,Ipswich,732.7708333333334,730.1875,728.9375,5.0,False,False,False
 097064791d3a9407c01f57873691b00050e2deca,jul,2021,heat,hold,Worcester,740.769823434992,650.0,620.0959871589085,70.0,False,False,False
-09de8387d68fad87801e80b29007adea2f26ada3,jul,2021,cool,hold,Worcester,706.8753993610223,685.1485623003194,690.8386581469648,10.0,False,False,False
+09de8387d68fad87801e80b29007adea2f26ada3,jul,2021,cool,hold,Worcester,707.8936170212766,687.2389525368249,691.3502454991817,10.0,False,False,False
 0a09893790977946fe5bd69703f1c985cff153b0,jul,2021,cool,hold,Tewksbury,727.7755102040817,727.5034013605442,727.4863945578231,0.0,False,False,False
 0a255789dc9c7a79a875d84d4fde3f9202398208,jul,2021,heat,hold,Rockland,710.7857142857143,743.0,743.0,120.0,True,False,False
 0a338b1c6326436ced6ac400ee4cd1cd6d3973dd,jul,2021,cool,hold,Middleboro,763.1491228070175,749.5877192982456,724.0701754385965,15.0,False,False,False

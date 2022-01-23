@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 00146b92aa45248f15537bd507a76c650e898d53,jun,2019,cool,hold,Annapolis,710.9166666666666,701.5833333333334,699.2083333333334,30.0,True,False,True
 00155eb6bd323271f1175e39fe7dea89a76eeb83,jun,2019,cool,auto,Columbia,751.5555555555555,750.1111111111111,749.6666666666666,49.0,True,False,False
 00155eb6bd323271f1175e39fe7dea89a76eeb83,jun,2019,cool,hold,Columbia,765.8260869565217,769.0869565217391,765.5652173913044,49.0,True,False,False
@@ -1406,7 +1406,7 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 67e4b525e8b070705d003a10ab69acce1ec68f04,jun,2019,cool,hold,Elkton,709.3465346534654,700.940594059406,700.4950495049505,0.0,False,False,False
 6826e24fcc87532a46def4ce5ecd51c04c68a268,jun,2019,cool,hold,Severna Park,707.7055555555555,709.3333333333334,709.3333333333334,5.0,False,False,False
 682e56e252a03e67fe36134c0fe6f2913d1be2fa,jun,2019,cool,hold,Odenton,773.9233918128655,824.578947368421,788.4804093567251,9.0,False,False,False
-682e5d0ed472dfb6dff79d4b08bf4225e915a769,jun,2019,cool,auto,Burtonsville,746.6958174904943,677.2148288973384,668.0133079847909,28.0,True,False,True
+682e5d0ed472dfb6dff79d4b08bf4225e915a769,jun,2019,cool,auto,Burtonsville,744.28,686.578947368421,668.3368421052631,28.0,True,False,True
 682e5d0ed472dfb6dff79d4b08bf4225e915a769,jun,2019,cool,hold,Burtonsville,761.984375,665.0,665.0,28.0,True,False,True
 684098ffd9d9dd48dd5cfd7c7c95cd467358c904,jun,2019,cool,auto,Owings Mills,728.9493212669684,750.4877828054299,709.0,20.0,False,False,True
 684098ffd9d9dd48dd5cfd7c7c95cd467358c904,jun,2019,cool,hold,Owings Mills,730.1564390665515,770.3189282627485,709.0,20.0,False,False,True

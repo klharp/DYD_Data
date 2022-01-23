@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 002c012fc1267f2ff9bbe2a30db5e0c8ac85ac9f,jun,2019,cool,auto,Ballwin,725.125,722.5,722.5,49.0,True,False,False
 002c012fc1267f2ff9bbe2a30db5e0c8ac85ac9f,jun,2019,cool,hold,Ballwin,732.2569169960474,728.1383399209486,727.9486166007905,49.0,True,False,False
 0039c46facfa454852fda813f2c88ed0bbfab21d,jun,2019,auto,auto,Blue Springs,752.5,780.0,685.0,20.0,False,False,False
@@ -772,7 +772,7 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 71d5d4ba1bced39b38f0fb3a8d32323fb49784f4,jun,2019,cool,hold,Springfield,740.7850877192982,751.4425438596492,751.4425438596492,5.0,True,False,False
 71f0d3d13ea4495fd98f531ee83b85a38fabc9a6,jun,2019,cool,auto,Battlefield,746.6666666666666,767.7289377289377,689.4505494505495,37.0,False,False,False
 71f0d3d13ea4495fd98f531ee83b85a38fabc9a6,jun,2019,cool,hold,Battlefield,758.2783505154639,764.9484536082474,764.8453608247422,37.0,False,False,False
-720955ca3b5e2ba5720aa32c17dcdcec5591e3b3,jun,2019,cool,auto,Saint Louis,706.6074450084602,700.4450084602369,644.331641285956,117.0,False,False,False
+720955ca3b5e2ba5720aa32c17dcdcec5591e3b3,jun,2019,cool,auto,Saint Louis,706.6949458483755,707.1534296028881,644.85559566787,117.0,False,False,False
 720955ca3b5e2ba5720aa32c17dcdcec5591e3b3,jun,2019,cool,hold,Saint Louis,709.4181818181818,715.0,715.0,117.0,False,False,False
 720955ca3b5e2ba5720aa32c17dcdcec5591e3b3,jun,2019,heat,auto,Saint Louis,716.4444444444445,720.0,737.0,117.0,False,False,False
 72197dacdca44a51489650430adc76e9b5a2b34c,jun,2019,auto,auto,Independence,725.7729257641921,730.0,650.0,0.0,False,False,False

@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 00020f16d85e6d8c70fc67725f03ab06b116fead,feb,2017,auto,auto,Jacksonville,722.0845070422536,760.0,670.0,5.0,False,False,True
 0024f0f900a4ff6923e95a2a20ee94c699ecf167,feb,2017,cool,auto,Miami,767.6334841628959,799.9909502262443,760.0090497737557,0.0,False,False,False
 0024f0f900a4ff6923e95a2a20ee94c699ecf167,feb,2017,cool,hold,Miami,749.4173819742489,774.9855150214593,774.9758583690987,0.0,False,False,False

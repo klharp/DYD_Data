@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 0001dfcbc22d23f9170714d0e3428f14b2626276,Jan,2020,heat,auto,New Bedford,680.9337395277989,750.0,671.8484386900228,0.0,False,False,False
 000f9fd510038b6a77b802dd7218f49b7c17b1c0,Jan,2020,heat,auto,Boston,676.5,680.0,680.0,120.0,False,False,False
 011f02e62f628dbac176db38db62105b3485442e,Jan,2020,heat,auto,Framingham,721.45703125,720.0,720.0,0.0,True,False,False
@@ -289,8 +289,8 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 216104883265e2a6bbe4039b2e91e84c28f356af,Jan,2020,heat,auto,Cambridge,683.0,750.0,655.7142857142857,5.0,False,False,False
 216104883265e2a6bbe4039b2e91e84c28f356af,Jan,2020,heat,hold,Cambridge,684.8524590163935,667.983606557377,659.1639344262295,5.0,False,False,False
 219e31f25223d0815770a46a157a0ce982192161,Jan,2020,heat,hold,Indian Orchard,684.0833333333334,681.5833333333334,660.4583333333334,90.0,True,False,False
-21d6010ac427902cb4dddef3951db42cdbfee6b4,Jan,2020,heat,auto,Tewksbury,648.0341925302472,655.136244082062,647.1609679116254,0.0,True,False,False
-21d6010ac427902cb4dddef3951db42cdbfee6b4,Jan,2020,heat,hold,Tewksbury,649.3971988795519,641.7607843137255,641.744537815126,0.0,True,False,False
+21d6010ac427902cb4dddef3951db42cdbfee6b4,Jan,2020,heat,auto,Tewksbury,647.7861462341946,658.9824079164376,646.3144584936779,0.0,True,False,False
+21d6010ac427902cb4dddef3951db42cdbfee6b4,Jan,2020,heat,hold,Tewksbury,649.381726457399,641.7841928251121,641.7600896860987,0.0,True,False,False
 21e27e04afd16d29a56db1af9098a944457f7d57,Jan,2020,heat,auto,Weymouth,637.0,650.0,620.0,60.0,True,False,False
 21e27e04afd16d29a56db1af9098a944457f7d57,Jan,2020,heat,hold,Weymouth,635.3052631578947,650.0,639.8421052631579,60.0,True,False,False
 2211eaa1f134a07fe6ae0abe88d388df86308573,Jan,2020,heat,hold,Belmont,718.2210526315789,726.3157894736842,726.3157894736842,100.0,False,False,False

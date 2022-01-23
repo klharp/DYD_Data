@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 01111a4f1b00377be5ecc305a424d92540564055,dec,2020,auxHeatOnly,auto,Rockwell,674.6315789473684,745.7894736842105,670.766081871345,0.0,True,False,True
 01111a4f1b00377be5ecc305a424d92540564055,dec,2020,auxHeatOnly,hold,Rockwell,681.4190476190477,705.7142857142857,682.3714285714286,0.0,True,False,True
 01111a4f1b00377be5ecc305a424d92540564055,dec,2020,heat,auto,Rockwell,668.531914893617,692.9787234042553,670.8510638297872,0.0,True,False,True
@@ -298,7 +298,7 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 5431bfa9baee4e9ac6616a3e842b7b7651d6ff7b,dec,2020,heat,hold,Alexander,680.5355029585799,687.2307692307693,684.6183431952662,5.0,True,False,True
 543c94aff1c4fd04fd29667a96d52fee4953c033,dec,2020,auto,hold,Fayetteville,679.8095238095239,739.952380952381,689.952380952381,5.0,True,False,True
 543c94aff1c4fd04fd29667a96d52fee4953c033,dec,2020,heat,hold,Fayetteville,699.2773722627737,693.7883211678832,693.4233576642335,5.0,True,False,True
-54c5cdf8b3cb4b70df2ea87725ff91debefcf60c,dec,2020,cool,hold,Little Rock,741.5333333333333,598.2666666666667,691.2,29.0,True,False,False
+54c5cdf8b3cb4b70df2ea87725ff91debefcf60c,dec,2020,cool,hold,Little Rock,741.4285714285714,630.5714285714286,692.5714285714286,29.0,True,False,False
 54c5cdf8b3cb4b70df2ea87725ff91debefcf60c,dec,2020,heat,auto,Little Rock,721.5128205128206,769.6025641025641,769.1538461538462,29.0,True,False,False
 54c5cdf8b3cb4b70df2ea87725ff91debefcf60c,dec,2020,heat,hold,Little Rock,736.719298245614,762.5986842105264,762.4166666666666,29.0,True,False,False
 54c680871701cc0830567191011f614d08c39841,dec,2020,heat,hold,Pocahontas,681.2060185185185,681.3310185185185,681.3310185185185,70.0,False,False,False
@@ -727,8 +727,7 @@ cff15706dd9048974ac61ac10d9fdea0d5533b0b,dec,2020,heat,auto,Cabot,716.0403361344
 cff15706dd9048974ac61ac10d9fdea0d5533b0b,dec,2020,heat,hold,Cabot,726.5913978494624,730.2903225806451,730.2903225806451,0.0,False,False,True
 d29d4a30656fe8d8339f19c788a5a76f83fb5a16,dec,2020,heat,auto,Little Rock,717.6455223880597,715.0373134328358,719.9626865671642,0.0,False,False,False
 d29d4a30656fe8d8339f19c788a5a76f83fb5a16,dec,2020,heat,hold,Little Rock,705.2255729794933,702.4607961399277,702.4607961399277,0.0,False,False,False
-d2aeae56b5aedc55ce1e17b960ad2d3ba94ca002,dec,2020,heat,auto,El Dorado,612.224358974359,600.0,620.0,0.0,False,False,False
-d2aeae56b5aedc55ce1e17b960ad2d3ba94ca002,dec,2020,heat,hold,El Dorado,611.4457912457913,616.6828282828283,616.7030303030303,0.0,False,False,False
+d2aeae56b5aedc55ce1e17b960ad2d3ba94ca002,dec,2020,heat,hold,El Dorado,611.449460916442,616.7008086253369,616.7008086253369,0.0,False,False,False
 d2e75a2c90de867dbde7c6eb3d74b9d3ce5ef160,dec,2020,heat,auto,Pocahontas,692.6594202898551,670.0,670.0,0.0,False,False,False
 d2e75a2c90de867dbde7c6eb3d74b9d3ce5ef160,dec,2020,heat,hold,Pocahontas,690.379781420765,676.0464480874317,676.0464480874317,0.0,False,False,False
 d35dc5d2c672d0579d18a460c4aec33297c067e3,dec,2020,cool,auto,Little Rock,697.6666666666666,690.0,690.0,15.0,False,False,False

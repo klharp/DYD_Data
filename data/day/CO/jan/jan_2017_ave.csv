@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 016982393b0ec18a6b02e713f5605fbf7fcf6f81,Jan,2017,auto,auto,Parker,715.5647668393782,775.5841968911917,713.2564766839379,5.0,True,False,False
 016982393b0ec18a6b02e713f5605fbf7fcf6f81,Jan,2017,auto,hold,Parker,724.21875,761.390625,705.140625,5.0,True,False,False
 016982393b0ec18a6b02e713f5605fbf7fcf6f81,Jan,2017,heat,auto,Parker,716.7663043478261,720.1358695652174,719.3369565217391,5.0,True,False,False
@@ -552,7 +552,6 @@ d132b0a2ac49caae41e1d9f28e634be874879824,Jan,2017,auto,hold,Aurora,693.873873873
 d1c68176864c24e72e6f900947ebe02be0190a0f,Jan,2017,auto,hold,Thornton,717.2307692307693,770.0,719.9230769230769,5.0,False,False,False
 d1d2cd52451fb2e57d7e0fc54b4618f46210b56e,Jan,2017,auto,auto,Highlands Ranch,693.75,750.0,700.0,0.0,False,False,False
 d1d2cd52451fb2e57d7e0fc54b4618f46210b56e,Jan,2017,auto,hold,Highlands Ranch,709.5227272727273,764.25,714.2159090909091,0.0,False,False,False
-d30508b1ddaef2cb57380f3bfebb7de33d9d42ab,Jan,2017,cool,auto,Fort Collins,625.780487804878,619.0975609756098,920.0,0.0,False,False,False
 d3431b6631efd28cf78687a04438dd922ac6ebbd,Jan,2017,heat,auto,Aurora,729.1041666666666,690.0,690.0,16.0,False,False,False
 d3431b6631efd28cf78687a04438dd922ac6ebbd,Jan,2017,heat,hold,Aurora,733.8302752293578,734.6238532110092,734.6238532110092,16.0,False,False,False
 d3d912adde8bac99e7295ac9de898d0c795bbca1,Jan,2017,auto,auto,highlands ranch,696.375,800.0,700.0,15.0,False,False,False

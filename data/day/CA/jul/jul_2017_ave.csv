@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 002aab87db1d9e8ce470f80f23c97c59de5f4dcd,jul,2017,cool,hold,San Marcos,765.90625,767.125,749.7083333333334,15.0,False,False,False
 0050d013d4928f706c90379b28f9ab257178f1a8,jul,2017,cool,auto,Dublin,743.3831168831168,820.0,620.0,5.0,False,False,False
 0050d013d4928f706c90379b28f9ab257178f1a8,jul,2017,heat,auto,Dublin,759.3684210526316,820.0,620.0,5.0,False,False,False
@@ -2106,7 +2106,7 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 898707b0cfc8699936b12c7c4f3c18faadbff431,jul,2017,cool,hold,Irvine,786.1219512195122,783.2682926829268,778.8780487804878,27.0,False,False,False
 899cf3f1b72c5e193a0b9ee63bbc589b2a9b4dd6,jul,2017,cool,auto,Lafayette,706.4583333333334,730.0,613.3333333333334,0.0,False,False,False
 899cf3f1b72c5e193a0b9ee63bbc589b2a9b4dd6,jul,2017,cool,hold,Lafayette,710.1666666666666,715.0,715.0,0.0,False,False,False
-89a8ce25f0e734f52af37307a80a9a55da50d9eb,jul,2017,cool,auto,Corona,798.9365942028985,753.7210144927536,782.9420289855072,0.0,True,False,True
+89a8ce25f0e734f52af37307a80a9a55da50d9eb,jul,2017,cool,auto,Corona,812.3585858585859,749.689393939394,744.7070707070707,0.0,True,False,True
 89a8ce25f0e734f52af37307a80a9a55da50d9eb,jul,2017,cool,hold,Corona,792.6716417910447,735.4477611940298,735.502487562189,0.0,True,False,True
 89d3345d393bd08d79922cc914c6f5adf712a1ea,jul,2017,cool,auto,Studio City,774.125,779.375,695.0,65.0,False,False,False
 89d3345d393bd08d79922cc914c6f5adf712a1ea,jul,2017,cool,hold,Studio City,754.3428571428572,761.5285714285715,761.5171428571429,65.0,False,False,False
@@ -2340,7 +2340,6 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 96e7d1ad6711361e4175828c22fa050545fdebd7,jul,2017,cool,hold,Mountain House,731.9536967886482,734.7774458551157,734.7707244212098,0.0,False,False,False
 96f1034c38ca6d66504d9c89e3fb3f52e588c06b,jul,2017,cool,auto,Irvine,767.9666666666667,776.1,672.0666666666667,5.0,False,False,False
 9725d33a8ddfe0a61cb09b14799404cce62a155d,jul,2017,cool,hold,Clayton,745.0,740.0,740.0,20.0,False,False,False
-9745aa941c3e8d36bd39bbdb474c51b98b96d26f,jul,2017,cool,hold,San Diego,695.7217391304348,696.3304347826087,930.0,10.0,False,False,True
 979cf9fb6816f7071e2dae929d521ab4787e3409,jul,2017,auto,auto,Mission Viejo,732.4318181818181,740.8181818181819,682.7727272727273,15.0,False,False,False
 979f7214625de3dcfdd17495bb929c95e83bb9f0,jul,2017,auto,hold,San Diego,731.4843361511686,732.1775236200895,673.6335156638488,25.0,False,False,False
 97c1aa374e2cab59e51ef122868ebc78aef002da,jul,2017,cool,auto,Oak Hills,780.325,780.0,760.0,5.0,False,False,False

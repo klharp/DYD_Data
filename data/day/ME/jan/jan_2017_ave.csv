@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 02a6a361c70d1052cbb1d7d80490d8326ae8e684,Jan,2017,heat,auto,Naples,618.3552631578947,664.0921052631579,662.4342105263158,15.0,False,False,False
 02a6a361c70d1052cbb1d7d80490d8326ae8e684,Jan,2017,heat,hold,Naples,638.9164619164619,656.7862407862408,638.9459459459459,15.0,False,False,False
 071d40a2ebc85623a1b5da94a1ee4af028115825,Jan,2017,heat,auto,North Yarmouth,647.9629629629629,650.0,650.0,25.0,False,False,False

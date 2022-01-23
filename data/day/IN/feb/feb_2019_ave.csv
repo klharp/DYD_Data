@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 004a8ed2edb250a5a1c876d076227bbb8a2a2135,feb,2019,auto,auto,Fort Wayne,735.8888888888889,790.0,740.0,30.0,False,False,False
 004a8ed2edb250a5a1c876d076227bbb8a2a2135,feb,2019,auto,hold,Fort Wayne,735.925925925926,785.0,735.0,30.0,False,False,False
 008844c6c1993ea32d6117993fa4c89479fc9db8,feb,2019,heat,auto,Indianapolis,670.3191489361702,750.0,663.936170212766,40.0,True,False,False
@@ -1160,8 +1160,6 @@ b8daa664a07564e82939e4e680305ad102bc2bc2,feb,2019,heat,auto,Noblesville,660.85,6
 b8daa664a07564e82939e4e680305ad102bc2bc2,feb,2019,heat,hold,Noblesville,668.3203883495146,668.0097087378641,668.0097087378641,5.0,False,False,False
 b905a984ca1ad1f7847d2f281c8fe9843393affe,feb,2019,heat,auto,Jeffersonville,687.6276112624887,695.2888283378746,695.2888283378746,19.0,True,False,False
 b905a984ca1ad1f7847d2f281c8fe9843393affe,feb,2019,heat,hold,Jeffersonville,693.7569832402235,695.5456238361267,695.5456238361267,19.0,True,False,False
-b910fa0f29d4412c9491f30ea41cec7fa5cc3a7b,feb,2019,heat,auto,Indianapolis,665.6034297963558,590.0,668.4190782422294,20.0,True,False,True
-b910fa0f29d4412c9491f30ea41cec7fa5cc3a7b,feb,2019,heat,hold,Indianapolis,687.8671875,590.0,767.6171875,20.0,True,False,True
 b942d0b09eda3062eb8efb5c32292396cc6538be,feb,2019,heat,auto,Carmel,675.4923076923077,670.0,670.0,0.0,False,False,False
 b94a5c29faf2a2ff71626d5f1c304efb19d6ab28,feb,2019,heat,auto,Lake Station,673.4864864864865,680.425945945946,675.1783783783784,0.0,True,False,False
 b94a5c29faf2a2ff71626d5f1c304efb19d6ab28,feb,2019,heat,hold,Lake Station,673.0917822838848,675.187833511206,675.1856990394878,0.0,True,False,False

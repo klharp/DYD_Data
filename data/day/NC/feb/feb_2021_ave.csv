@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 001d3f919679bc281312e54922cb021d2020c1fa,feb,2021,auto,hold,Charlotte,687.4963662790698,740.0,690.0,0.0,True,False,True
 002d657d269c2da28e96732bf69b6db645b85262,feb,2021,heat,hold,Lexington,721.9391025641025,725.849358974359,725.849358974359,20.0,False,False,True
 007cdd82d7747e9a85dfc0616574a29adc8b5804,feb,2021,auto,hold,Woodcroft,698.9392712550607,780.0,706.921052631579,35.0,True,False,True
@@ -1481,7 +1481,7 @@ d1a0e415f4fe7b340557f8dabb92e7f9ff9ae486,feb,2021,auto,hold,Holly Springs,680.05
 d1a0e415f4fe7b340557f8dabb92e7f9ff9ae486,feb,2021,heat,hold,Holly Springs,698.3514492753624,694.3478260869565,694.3478260869565,0.0,True,False,False
 d1b58fa18058d9a1400d0283a6402ede6049799f,feb,2021,heat,hold,Kannapolis,708.7454545454545,715.3454545454546,713.9818181818182,15.0,False,False,False
 d1eee908040cdf897a13b4ff7f5b7a33f7ad1121,feb,2021,cool,hold,Durham,623.8333333333334,616.6666666666666,616.6666666666666,7.0,True,False,True
-d1eee908040cdf897a13b4ff7f5b7a33f7ad1121,feb,2021,heat,hold,Durham,642.4068825910931,635.4757085020243,635.7105263157895,7.0,True,False,True
+d1eee908040cdf897a13b4ff7f5b7a33f7ad1121,feb,2021,heat,hold,Durham,642.6367346938775,635.765306122449,635.8673469387755,7.0,True,False,True
 d1f550cc7bc36865d4a84a0805ad213e9fcb210b,feb,2021,auto,hold,Fayetteville,703.1273006134969,753.9746932515337,703.9746932515337,0.0,False,False,False
 d25d40551626ab27c0f0cce57e58f9cb4d3f8f85,feb,2021,heat,hold,Burlington,713.3923013923014,718.90171990172,718.90171990172,55.0,True,False,False
 d2ad716f579c85739a16de0aaab2a777f049dc6d,feb,2021,auto,hold,Archer Lodge,703.625,740.0,676.6071428571429,5.0,True,False,True

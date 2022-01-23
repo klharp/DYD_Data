@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 014225e1e1023a9416de699e0bd80ee74e5c9f9b,dec,2018,heat,hold,Minneapolis,658.3723404255319,810.0,660.0,65.0,False,False,False
 01b76f222272ad708ad27deccbd0612d4e1664d0,dec,2018,heat,auto,Rosemount,684.6779661016949,685.2542372881356,685.3220338983051,10.0,False,False,False
 01cbc83700158311cb3594824a8c3db5ee300914,dec,2018,heat,auto,Cottage Grove,654.140350877193,725.5087719298245,656.3157894736842,40.0,False,False,False

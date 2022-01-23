@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 00bbbdb5c3b6cb8b9e78191017ecdb97dad87e47,feb,2017,auto,auto,Jacksonville,704.4088541666665,766.5859375,683.3958333333334,5.0,False,False,True
 00e5498cd188bdf09a9a1a902e6084b200cbbdef,feb,2017,auto,hold,Wade,668.2121212121212,750.0,670.0,55.0,False,False,False
 016c1867b7cc7622e183e8d74de2b93ddd9449a3,feb,2017,heat,auto,Dobson,678.4131736526946,665.1017964071856,660.1197604790419,15.0,False,False,True
@@ -5170,7 +5170,6 @@ ffc40b303849f7f5af77972db456dc63e2eebf34,feb,2018,auto,hold,Charlotte,745.774193
 7f2dcac9d907ef06864853cc5fb45f009c40778f,feb,2019,auto,hold,Charlotte,705.2719298245613,768.421052631579,704.736842105263,0.0,False,False,False
 7f8cc6e555b198752ab86b140623d30301ecd3d1,feb,2019,auto,hold,Raleigh,721.3054545454546,780.0,715.0836363636363,25.0,False,False,False
 7fc40a550660179bac481ce42cb7b2e1324e1d35,feb,2019,auto,hold,Durham,665.1888888888889,770.8555555555556,668.5444444444445,20.0,False,False,False
-7fc44e51462fa126192e660c08ad0c117bd4dd44,feb,2019,heat,hold,Cornelius,678.566037735849,600.0,688.3773584905659,10.0,False,False,True
 7fda2c15e2cfe1533186145fb9c7459c4b34c659,feb,2019,auto,auto,Garner,664.7777777777778,750.0,670.0,0.0,True,False,True
 7fda2c15e2cfe1533186145fb9c7459c4b34c659,feb,2019,auto,hold,Garner,693.9166666666665,729.7083333333335,699.7083333333335,0.0,True,False,True
 7ff18b9af4e0f9ff6bd2f1decba6aede729b1529,feb,2019,auto,hold,High Point,688.1653846153847,740.0,684.8076923076923,15.0,False,False,False
@@ -11538,7 +11537,7 @@ d1a0e415f4fe7b340557f8dabb92e7f9ff9ae486,feb,2021,auto,hold,Holly Springs,680.05
 d1a0e415f4fe7b340557f8dabb92e7f9ff9ae486,feb,2021,heat,hold,Holly Springs,698.3514492753624,694.3478260869565,694.3478260869565,0.0,True,False,False
 d1b58fa18058d9a1400d0283a6402ede6049799f,feb,2021,heat,hold,Kannapolis,708.7454545454545,715.3454545454546,713.9818181818182,15.0,False,False,False
 d1eee908040cdf897a13b4ff7f5b7a33f7ad1121,feb,2021,cool,hold,Durham,623.8333333333334,616.6666666666666,616.6666666666666,7.0,True,False,True
-d1eee908040cdf897a13b4ff7f5b7a33f7ad1121,feb,2021,heat,hold,Durham,642.4068825910931,635.4757085020242,635.7105263157895,7.0,True,False,True
+d1eee908040cdf897a13b4ff7f5b7a33f7ad1121,feb,2021,heat,hold,Durham,642.6367346938775,635.765306122449,635.8673469387754,7.0,True,False,True
 d1f550cc7bc36865d4a84a0805ad213e9fcb210b,feb,2021,auto,hold,Fayetteville,703.1273006134968,753.9746932515338,703.9746932515338,0.0,False,False,False
 d25d40551626ab27c0f0cce57e58f9cb4d3f8f85,feb,2021,heat,hold,Burlington,713.3923013923013,718.90171990172,718.90171990172,55.0,True,False,False
 d2ad716f579c85739a16de0aaab2a777f049dc6d,feb,2021,auto,hold,Archer Lodge,703.625,740.0,676.6071428571429,5.0,True,False,True

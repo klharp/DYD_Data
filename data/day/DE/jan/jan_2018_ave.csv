@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 05f17d52e1db8e1d1c118b4d867161f3429fce55,Jan,2018,heat,auto,New Castle,683.0634050880626,684.6998043052838,684.6982387475538,20.0,False,False,False
 05f17d52e1db8e1d1c118b4d867161f3429fce55,Jan,2018,heat,hold,New Castle,680.0212765957447,681.5468085106382,681.5468085106382,20.0,False,False,False
 070839ef58c74b72d673dd533e6f35aec7ce8f27,Jan,2018,heat,auto,Houston,726.4157303370787,733.9325842696629,733.9325842696629,15.0,True,False,True

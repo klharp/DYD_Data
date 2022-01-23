@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 004e7f286453271cd8b2b9367719102dc96392c2,jun,2020,auto,auto,Elk Point,733.6,731.9,653.6,20.0,False,False,False
 004e7f286453271cd8b2b9367719102dc96392c2,jun,2020,auto,hold,Elk Point,756.1041666666666,750.125,680.0,20.0,False,False,False
 011eb806f7782fc048072fabfb035b54f5d71e67,jun,2020,cool,hold,Sioux Falls,719.6696832579186,738.2352941176471,734.8280542986425,100.0,False,False,False
@@ -34,12 +34,12 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 2e3f052d974a5f34ab5e4a430a975718633a71c5,jun,2020,cool,hold,Sisseton,705.9215838509317,725.3656832298136,720.930900621118,40.0,False,False,False
 2f9a16dd49a7a56c5d2e1747bad9d2569792cc33,jun,2020,cool,auto,Sioux Falls,732.0818505338078,735.0747330960854,699.7153024911032,5.0,False,False,False
 2f9a16dd49a7a56c5d2e1747bad9d2569792cc33,jun,2020,cool,hold,Sioux Falls,733.2190476190476,730.0,730.0,5.0,False,False,False
-30a50f3df07d56b578fdf38b93291e6860f389ad,jun,2020,auto,hold,Sioux Falls,686.238683127572,683.7037037037037,581.1111111111111,45.0,False,False,False
+30a50f3df07d56b578fdf38b93291e6860f389ad,jun,2020,auto,hold,Sioux Falls,694.7777777777778,690.0,610.0,45.0,False,False,False
 30a50f3df07d56b578fdf38b93291e6860f389ad,jun,2020,cool,auto,Sioux Falls,687.2098765432099,680.0,680.0,45.0,False,False,False
 30a50f3df07d56b578fdf38b93291e6860f389ad,jun,2020,cool,hold,Sioux Falls,693.4346405228758,695.8823529411765,695.8823529411765,45.0,False,False,False
 30c9b455802f58170c2be006aab99c5c41a05977,jun,2020,cool,hold,aberdeen,721.8369885433715,725.1466448445171,725.1466448445171,45.0,True,False,False
 328bca1050aa07835f0bab2868d5eefde6e06ae2,jun,2020,cool,hold,Sioux Falls,718.5294117647059,715.7058823529412,702.7647058823529,80.0,False,False,False
-3a6d34c0a5f6664f14043d1ec1f90525eb6a72aa,jun,2020,auto,hold,Rapid City,687.3791469194313,702.3222748815166,581.3080568720379,0.0,False,False,False
+3a6d34c0a5f6664f14043d1ec1f90525eb6a72aa,jun,2020,auto,hold,Rapid City,695.3489583333334,716.1822916666666,619.8541666666666,0.0,False,False,False
 3cb5cd50805e286cf3cd45001f0c9e54f6fed6c3,jun,2020,cool,auto,Sioux Falls,734.4656862745098,733.2401960784314,732.2696078431372,20.0,False,False,False
 3cb5cd50805e286cf3cd45001f0c9e54f6fed6c3,jun,2020,cool,hold,Sioux Falls,743.25,757.5,748.75,20.0,False,False,False
 3ed0e9cb7b0043eaf232cd07b55d33cb67e0debe,jun,2020,cool,auto,Mitchell,698.6586345381526,692.0602409638554,691.6506024096385,15.0,True,False,True
@@ -53,7 +53,7 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 45a85784a761b7df6242c82ee3b01c01c9d4b647,jun,2020,cool,hold,Hayti,663.074074074074,660.0,660.0,8.0,True,False,True
 49e91e8df5ec4323dfe01dcc99a1809c297e5f50,jun,2020,cool,auto,Sioux Falls,705.96875,702.34375,702.34375,5.0,True,False,False
 4a2f71c8dace61eeb7806b1c4aabd4f7980dc760,jun,2020,cool,hold,Rapid City,739.4857142857143,720.0,720.0,0.0,False,False,False
-4e7b788a2f69451599ec411fc3d8f934ca333be7,jun,2020,cool,hold,Sioux Falls,709.4945054945055,703.2142857142857,702.445054945055,30.0,False,False,False
+4e7b788a2f69451599ec411fc3d8f934ca333be7,jun,2020,cool,hold,Sioux Falls,709.4254143646409,702.1767955801105,701.9613259668508,30.0,False,False,False
 51e6bafa5298e3366ba871e35aed1d974abe184e,jun,2020,cool,hold,Sioux Falls,773.65625,770.0,770.0,19.0,True,False,False
 55c8c84126bfbaa3b1f52953f3a6c41ce2e88e8e,jun,2020,cool,auto,Brookings,716.2164948453608,749.6907216494845,749.6907216494845,30.0,False,False,False
 5b46550b3fd8c9ccb723859a242b258e490d15d3,jun,2020,auto,hold,Yankton,736.7068965517242,720.0,670.0,10.0,True,False,True
@@ -61,7 +61,7 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 5ea1c0a7cd268a906cded2c8487eee85713feb0e,jun,2020,cool,hold,Tea,743.3505154639175,714.2268041237113,714.2268041237113,8.0,False,False,False
 659aaa917beb2054d8a407f0b0e716aff9acb4d4,jun,2020,cool,auto,Sioux Falls,729.125,730.0,660.0,60.0,False,False,False
 66fafd5b7131163da637a7660ba442db0a070d92,jun,2020,cool,auto,Sioux Falls,689.5,650.5,650.5,6.0,False,False,False
-670be188eade7b0b203dd0cbe52b8512daf30941,jun,2020,cool,auto,Tea,688.9803921568628,681.8333333333334,666.3774509803922,40.0,True,False,True
+670be188eade7b0b203dd0cbe52b8512daf30941,jun,2020,cool,auto,Tea,694.9078014184397,696.0567375886525,696.0354609929078,40.0,True,False,True
 670be188eade7b0b203dd0cbe52b8512daf30941,jun,2020,cool,hold,Tea,675.5933333333334,678.8566666666667,678.7733333333333,40.0,True,False,True
 700e21cc54e6f29ac12832e68057372d10b81183,jun,2020,cool,auto,North Sioux City,725.4804612427931,725.2210121716848,725.2210121716848,9.0,False,False,True
 700e21cc54e6f29ac12832e68057372d10b81183,jun,2020,cool,hold,North Sioux City,742.2884615384615,750.0,750.0,9.0,False,False,True
@@ -85,7 +85,6 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 995ba2f4d2b74e5e9c936ec683b65b980cb10a3b,jun,2020,cool,hold,Dakota Dunes,742.5263157894736,740.0,740.0,27.0,False,False,False
 9c7a789c7d1d74537a88db58945540af52b04c0e,jun,2020,auto,auto,Sioux Falls,755.2083333333334,810.0,610.0,30.0,True,False,True
 9c7a789c7d1d74537a88db58945540af52b04c0e,jun,2020,auto,hold,Sioux Falls,704.9473684210526,702.5263157894736,660.8421052631579,30.0,True,False,True
-9c7a789c7d1d74537a88db58945540af52b04c0e,jun,2020,cool,hold,Sioux Falls,770.7,850.0,750.0,30.0,True,False,True
 9d3584c550f89f042111eb6704fe1e47e20dc8ea,jun,2020,cool,auto,Mitchell,709.5,700.0,700.0,15.0,True,False,True
 a0db9453e1a1a0eef8e3834b31824fe06a3dc487,jun,2020,auto,hold,Hartford,712.5846947549442,710.0,680.0,0.0,False,False,False
 a1f9fc2ee5e0e56c921ad37de05c6e0c59a5d835,jun,2020,auto,auto,Sioux Falls,721.2952127659574,721.7393617021277,647.5531914893617,0.0,False,False,False

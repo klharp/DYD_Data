@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 021bc49d2737cfc5291795252754c8c84d99fb90,feb,2017,heat,auto,Plainville,682.6666666666666,659.3802816901408,659.3333333333334,35.0,False,False,False
 021bc49d2737cfc5291795252754c8c84d99fb90,feb,2017,heat,hold,Plainville,696.84,697.709090909091,697.2424242424242,35.0,False,False,False
 02fe14bbcc60780d648cd5eae6868f1ff7e79b3c,feb,2017,auto,auto,Boston,680.2702702702703,765.9459459459459,688.3783783783783,100.0,False,False,False

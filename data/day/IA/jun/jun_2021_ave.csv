@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 02bdf1de6aee0eed87c66bdbd017c3ebb12a0f62,jun,2021,cool,hold,Emmetsburg,736.0285714285715,720.2285714285714,719.5428571428571,0.0,True,False,False
 02d6f92c8b43e6f08da8a2b7efe50c30bab0dcc7,jun,2021,cool,hold,maquoketa,731.6877121520706,737.5872369314325,737.561439239647,70.0,False,False,False
 02d6f92c8b43e6f08da8a2b7efe50c30bab0dcc7,jun,2021,heat,hold,maquoketa,700.0514018691589,650.0,625.0,70.0,False,False,False

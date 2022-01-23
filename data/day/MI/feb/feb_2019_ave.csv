@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 001d65da87242dc0b8bb7013ec8efe01c813e750,feb,2019,heat,auto,Lake Orion,664.7,672.4,672.4,57.0,False,False,False
 001d65da87242dc0b8bb7013ec8efe01c813e750,feb,2019,heat,hold,Lake Orion,679.9613821138212,682.7764227642276,682.4369918699186,57.0,False,False,False
 001fded0a083f726b2ccab5616a25874f4af28a2,feb,2019,heat,auto,Grand Rapids,689.6,691.2857142857143,691.2857142857143,40.0,False,False,False
@@ -80,7 +80,7 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 0445eac08e5c854ed71c55d95d81a232709297d2,feb,2019,heat,auto,Ada,657.5345911949686,655.7861635220125,654.1509433962265,0.0,False,False,False
 0445eac08e5c854ed71c55d95d81a232709297d2,feb,2019,heat,hold,Ada,670.8192771084338,669.277108433735,669.277108433735,0.0,False,False,False
 0458fc2f9daefb3a610a9e060b293d463e3a28f6,feb,2019,heat,auto,Manistee,662.4186046511628,779.0,650.6860465116279,45.0,False,False,False
-046f398a28fc440e824a3d8d0b941b626a960b99,feb,2019,heat,auto,Belleville,745.8496124031008,720.0,744.3131782945736,20.0,False,False,False
+046f398a28fc440e824a3d8d0b941b626a960b99,feb,2019,heat,auto,Belleville,745.2888540031397,720.0,742.9858712715856,20.0,False,False,False
 046f398a28fc440e824a3d8d0b941b626a960b99,feb,2019,heat,hold,Belleville,762.3183544303797,720.0,761.4069620253165,20.0,False,False,False
 047ea12524d135bcd4c41a8f4ce2d8dc9b7c1028,feb,2019,heat,auto,Traverse City,703.609756097561,712.8919860627178,705.8118466898954,20.0,True,False,False
 047ea12524d135bcd4c41a8f4ce2d8dc9b7c1028,feb,2019,heat,hold,Traverse City,684.5713087248322,687.1854026845638,687.1854026845638,20.0,True,False,False
@@ -3744,7 +3744,7 @@ fe87de042a3bf2a0430df0132ff1a1d738e9e2df,feb,2019,heat,auto,Grand Rapids,726.25,
 fe87de042a3bf2a0430df0132ff1a1d738e9e2df,feb,2019,heat,hold,Grand Rapids,698.5393700787401,701.8425196850394,701.8425196850394,50.0,False,False,False
 fe918d41f08c212e44d95b93cf4c4c0fa1c5f7b9,feb,2019,heat,auto,Gaines Township,682.0487804878048,660.0,660.0,5.0,False,False,False
 fe918d41f08c212e44d95b93cf4c4c0fa1c5f7b9,feb,2019,heat,hold,Gaines Township,632.2626262626262,661.2121212121212,633.939393939394,5.0,False,False,False
-fea835b00b10a408421fc44c39fc2bb66084ff3a,feb,2019,heat,auto,Muskegon,749.2844036697247,788.2201834862385,776.6238532110092,60.0,False,False,False
+fea835b00b10a408421fc44c39fc2bb66084ff3a,feb,2019,heat,auto,Muskegon,749.7368421052631,787.7129186602871,773.4641148325359,60.0,False,False,False
 fea835b00b10a408421fc44c39fc2bb66084ff3a,feb,2019,heat,hold,Muskegon,781.9428571428572,800.4571428571429,796.4571428571429,60.0,False,False,False
 fed5c60cd2355ed4f6ff9380d9079a3340f85564,feb,2019,heat,hold,East Grand Rapids,622.2749173358526,650.0736891828059,620.7912139820501,50.0,True,False,False
 feffed6c268e2b8628b0e2dc294a5c8a97e62c08,feb,2019,auto,auto,Lowell,687.6774193548387,745.6451612903226,688.6451612903226,40.0,False,False,False

@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 1af93c740d9d394407a734476ba8bcaf41c2f2dd,aug,2017,cool,auto,Casper,682.7319321533923,805.1327433628319,670.8849557522124,30.0,True,False,False
 1af93c740d9d394407a734476ba8bcaf41c2f2dd,aug,2017,cool,hold,Casper,688.8055555555555,740.0,740.0,30.0,True,False,False
 2cc2736dfecd12ede0f334d504dacc109edfa726,aug,2017,auto,hold,Laramie,698.1721854304636,716.2086092715232,666.2086092715232,10.0,False,False,False
@@ -17,7 +17,7 @@ ac76fecdaa287fefcce1e1e9d8a04222a05f127f,aug,2017,cool,hold,Rock Springs,750.925
 ac76fecdaa287fefcce1e1e9d8a04222a05f127f,aug,2017,heat,auto,Rock Springs,747.5430107526881,734.1155913978495,748.8790322580645,25.0,False,False,False
 ac76fecdaa287fefcce1e1e9d8a04222a05f127f,aug,2017,heat,hold,Rock Springs,729.6777251184834,731.5165876777252,731.611374407583,25.0,False,False,False
 b1ab05cfc5e253a7dbb44754bc3b0da3067fee99,aug,2017,auto,hold,Sheridan,702.2518518518518,735.0,685.0,10.0,True,False,False
-bf6d438eb76928160901cfa1eab34d8634017401,aug,2017,cool,auto,Casper,729.3268921095008,799.1803542673108,715.7004830917874,40.0,False,False,False
-bf6d438eb76928160901cfa1eab34d8634017401,aug,2017,cool,hold,Casper,706.417556346382,826.7129300118623,766.1126927639383,40.0,False,False,False
+bf6d438eb76928160901cfa1eab34d8634017401,aug,2017,cool,auto,Casper,729.3344103392569,799.016155088853,715.6219709208401,40.0,False,False,False
+bf6d438eb76928160901cfa1eab34d8634017401,aug,2017,cool,hold,Casper,711.0154525386314,746.3995584988962,745.5474613686534,40.0,False,False,False
 f3bd7952d2fbb216345ea8b272cbdee983b34ae6,aug,2017,cool,auto,Casper,679.686936936937,679.759009009009,699.518018018018,40.0,False,False,False
 f3bd7952d2fbb216345ea8b272cbdee983b34ae6,aug,2017,cool,hold,Casper,674.1396648044692,675.2011173184358,688.8175046554935,40.0,False,False,False

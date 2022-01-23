@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 055e47c3f24cb6590f0233f081e0ffafab333544,jul,2018,cool,auto,Sherwood,724.4285714285714,720.0,720.0,5.0,True,False,True
 055e47c3f24cb6590f0233f081e0ffafab333544,jul,2018,cool,hold,Sherwood,724.72,723.4266666666666,722.0133333333333,5.0,True,False,True
 05c817c69cbc62e676ed312a81ff1004f1750f51,jul,2018,auto,auto,Centerton,729.9565217391304,730.0,640.0,0.0,False,False,False

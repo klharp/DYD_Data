@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 00036e2921e77921dc23f39cecd8ef0ef80ba076,Jan,2021,auto,hold,Indio,679.3848929516478,760.8539812364686,668.4467163820062,10.0,False,False,False
 0007af61e41e5121b78d434fbe95d99398501ef7,Jan,2021,auto,hold,Chula Vista,695.6850574712644,748.8528735632184,688.7218390804597,10.0,False,False,False
 001cb18881c5ace2d453720abb0d8fe710e80a29,Jan,2021,heat,hold,San Diego,737.1638418079096,739.6723163841808,739.5593220338983,50.0,False,False,False
@@ -4152,7 +4152,7 @@ e64f0f12e4bb679aa9dececdbe259ae73c767de0,Jan,2021,heat,hold,Ladera Ranch,693.534
 e6558366fb241a7f93d8dfc4a52c0d91b01e72ec,Jan,2021,heat,hold,Santa Ana,697.1103752759382,711.3885209713025,711.0529801324503,65.0,False,False,False
 e65664187bb47ab1eeb0a0bc77531f38b97153c4,Jan,2021,auto,hold,Concord,769.0,715.0,655.0,0.0,False,False,False
 e65664187bb47ab1eeb0a0bc77531f38b97153c4,Jan,2021,cool,hold,Concord,717.123076923077,691.5384615384615,691.5384615384615,0.0,False,False,False
-e65664187bb47ab1eeb0a0bc77531f38b97153c4,Jan,2021,heat,hold,Concord,725.4889006342495,715.8731501057082,716.1363636363636,0.0,False,False,False
+e65664187bb47ab1eeb0a0bc77531f38b97153c4,Jan,2021,heat,hold,Concord,725.4957627118644,715.9020127118644,715.9041313559322,0.0,False,False,False
 e658c23e6b72cb03a93cd2ce91e0c84e7de138a0,Jan,2021,auto,hold,La Canada-Flintridge,711.1296296296297,798.0,702.5648148148148,5.0,False,False,False
 e65cedcbcb57fa294cb9a43b0159d0eb95cbb359,Jan,2021,heat,hold,Three Rivers,683.9387096774194,671.7193548387097,669.1354838709677,29.0,False,False,False
 e661a289588d9c019a878de34a1e4eb209261c4f,Jan,2021,heat,hold,Laguna Niguel,741.44,754.28,754.28,47.0,False,False,False

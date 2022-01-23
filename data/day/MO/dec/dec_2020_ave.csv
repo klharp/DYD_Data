@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 002c012fc1267f2ff9bbe2a30db5e0c8ac85ac9f,dec,2020,heat,hold,Ballwin,716.0880281690141,712.8697183098592,712.7676056338029,49.0,True,False,False
 005b44ffe2812f645179dccec3443da1ec58a68d,dec,2020,heat,hold,Kirkwood,712.6666666666666,780.0,780.0,0.0,False,False,False
 01077fe00e6bddb7480aa62c3efecbfc1b5de9c4,dec,2020,auxHeatOnly,auto,Lee's Summit,715.4702093397746,710.0885668276973,710.0885668276973,17.0,False,False,True
@@ -304,7 +304,7 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 38181343af01662442f154becadeac443643391c,dec,2020,cool,hold,Saint Charles,676.5,653.0555555555555,653.0555555555555,30.0,True,False,False
 38181343af01662442f154becadeac443643391c,dec,2020,heat,hold,Saint Charles,711.9718309859155,716.0140845070423,715.7323943661971,30.0,True,False,False
 382cc7dd645d4355394990abe417471207cc0474,dec,2020,heat,auto,Kansas City,679.3753846153846,724.7384615384616,694.7384615384616,25.0,False,False,False
-383ddbce66c22a2885b4759d11763b7ec820859e,dec,2020,heat,auto,Blue Springs,767.2885338345865,766.1146616541354,776.8928571428571,25.0,False,False,False
+383ddbce66c22a2885b4759d11763b7ec820859e,dec,2020,heat,auto,Blue Springs,761.3531283138918,763.5630965005303,766.2290562036055,25.0,False,False,False
 383ddbce66c22a2885b4759d11763b7ec820859e,dec,2020,heat,hold,Blue Springs,760.88,757.64,760.86,25.0,False,False,False
 387bb30073c0c51cdf2bc10bb7ab89a1c422f2b2,dec,2020,heat,auto,St. Ann,737.3027156549521,740.9488817891374,740.9488817891374,70.0,False,False,False
 387bb30073c0c51cdf2bc10bb7ab89a1c422f2b2,dec,2020,heat,hold,St. Ann,729.960235640648,733.1944035346097,733.1944035346097,70.0,False,False,False
@@ -1323,8 +1323,8 @@ e2c76d61f2f9f46da9ce0c170f9cd7a8242598fd,dec,2020,auto,auto,St. Louis,711.5,750.
 e2c76d61f2f9f46da9ce0c170f9cd7a8242598fd,dec,2020,auto,hold,St. Louis,707.9855769230769,750.0,710.0084134615385,0.0,True,False,False
 e2d30466e6043056dbb9aa0912466ebda6935f78,dec,2020,cool,auto,St. Louis,616.0333333333333,670.0,630.0,0.0,False,False,False
 e2d30466e6043056dbb9aa0912466ebda6935f78,dec,2020,cool,hold,St. Louis,601.75,630.0,630.0,0.0,False,False,False
-e2d30466e6043056dbb9aa0912466ebda6935f78,dec,2020,heat,auto,St. Louis,622.1187739463602,638.8812260536398,623.4616858237548,0.0,False,False,False
-e2d30466e6043056dbb9aa0912466ebda6935f78,dec,2020,heat,hold,St. Louis,635.6874566874567,637.3908523908524,637.3762993762994,0.0,False,False,False
+e2d30466e6043056dbb9aa0912466ebda6935f78,dec,2020,heat,auto,St. Louis,620.6395604395605,644.6065934065934,621.5912087912088,0.0,False,False,False
+e2d30466e6043056dbb9aa0912466ebda6935f78,dec,2020,heat,hold,St. Louis,635.7156726768377,637.4167822468793,637.3800277392511,0.0,False,False,False
 e2ee59bd269d43d548b98166dfe94c6267625b8a,dec,2020,heat,auto,Saint Joseph,676.01766437684,682.7772325809617,681.3640824337585,87.0,False,False,False
 e2ee59bd269d43d548b98166dfe94c6267625b8a,dec,2020,heat,hold,Saint Joseph,679.7137784090909,684.8884943181819,684.9190340909091,87.0,False,False,False
 e3084f83fb5888a62bf4d4f6235d0b6ac9119f75,dec,2020,heat,auto,Ballwin,664.5,692.0,668.0,49.0,True,False,False

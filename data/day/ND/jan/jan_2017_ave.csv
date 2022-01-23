@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 078b48dc9011fc73ec28a0464a6e0b260e5a8715,Jan,2017,heat,hold,Williston,702.746835443038,703.2278481012659,703.2278481012659,5.0,False,False,False
 0c0bd0b708210af527c4acd1652566b20b9e1113,Jan,2017,heat,auto,Casselton,689.0967741935484,691.6451612903226,690.5483870967741,70.0,False,False,False
 0c0bd0b708210af527c4acd1652566b20b9e1113,Jan,2017,heat,hold,Casselton,710.2900432900433,713.056277056277,712.9350649350649,70.0,False,False,False
@@ -28,9 +28,9 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 72feb8ad8aa140755f1aeca1b83738a54c67001c,Jan,2017,heat,hold,Bismarck,724.2702702702703,714.8648648648649,714.8648648648649,40.0,True,False,False
 7704704fb68e3b5388328d60bc0d285590698ad5,Jan,2017,heat,hold,Lincoln,690.3971119133574,688.231046931408,688.1841155234657,5.0,False,False,False
 7d0c43eb4ebe84b3f303c289778db00d73e6709c,Jan,2017,heat,hold,Fargo,696.9166666666666,700.0,700.0,5.0,False,False,False
-8198d8c36d1c928c56dcff684ff536f3c2fb67a3,Jan,2017,heat,hold,Velva,599.2083333333334,650.0,600.9976190476191,5.0,False,False,True
-872dcb1e72d7165e5467e0a890e8d644cacb1b91,Jan,2017,heat,auto,GRAND FORKS,651.8275862068965,655.8620689655172,639.9310344827586,20.0,False,False,False
-872dcb1e72d7165e5467e0a890e8d644cacb1b91,Jan,2017,heat,hold,GRAND FORKS,630.9976580796252,653.8430913348947,600.344262295082,20.0,False,False,False
+8198d8c36d1c928c56dcff684ff536f3c2fb67a3,Jan,2017,heat,hold,Velva,619.047619047619,650.0,619.952380952381,5.0,False,False,True
+872dcb1e72d7165e5467e0a890e8d644cacb1b91,Jan,2017,heat,auto,GRAND FORKS,647.8913043478261,657.3913043478261,650.3478260869565,20.0,False,False,False
+872dcb1e72d7165e5467e0a890e8d644cacb1b91,Jan,2017,heat,hold,GRAND FORKS,660.9077669902913,657.9660194174758,632.1213592233009,20.0,False,False,False
 888b6ac298ffde44db4d670dec3030c5ee6d1c0e,Jan,2017,heat,auto,Fargo,677.5,730.0,680.0,5.0,False,False,False
 888b6ac298ffde44db4d670dec3030c5ee6d1c0e,Jan,2017,heat,hold,Fargo,677.875,660.0,660.0,5.0,False,False,False
 a5dbba7ac3ef4e6339f4127b526d8973991b6745,Jan,2017,heat,hold,Fargo,695.2631578947369,700.5131578947369,700.5131578947369,90.0,False,False,False

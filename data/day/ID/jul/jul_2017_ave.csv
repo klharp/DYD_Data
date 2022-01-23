@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 00047ac181d6c519a7980acd6dcb0fac57218cf1,jul,2017,cool,hold,Idaho Falls,732.9666666666667,738.0,738.0,7.0,False,False,False
 01e233c4fce6aabdd3f8be666d5f32f972d2a16b,jul,2017,cool,auto,Eagle,720.7142857142857,710.1103896103896,690.0,16.0,False,False,False
 01e233c4fce6aabdd3f8be666d5f32f972d2a16b,jul,2017,cool,hold,Eagle,731.8833333333333,730.0,730.0,16.0,False,False,False

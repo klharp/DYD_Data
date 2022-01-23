@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 00105867bef9463f0a62d5257d0e91b8c8d19dee,feb,2019,heat,auto,Southgate,648.421052631579,653.1052631578947,631.3684210526316,75.0,False,False,False
 003e168f638289edc59e7df30f5a63ff7bae7a2e,feb,2019,heat,auto,Science Hill,723.925,770.25,725.5875,5.0,True,False,True
 008cfa92481086d7def321eeabb85c0d3eb846de,feb,2019,heat,auto,Campbellsville,689.0,702.4,698.2,5.0,True,False,True

@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 008c4f598020b4161f9e0ee6c31c8f02b87b8a9c,feb,2017,auto,hold,Springfield,687.2596153846154,725.3173076923077,674.3076923076923,25.0,False,False,False
 008c4f598020b4161f9e0ee6c31c8f02b87b8a9c,feb,2017,heat,auto,Springfield,660.4782608695652,673.6521739130435,673.3913043478261,25.0,False,False,False
 008c4f598020b4161f9e0ee6c31c8f02b87b8a9c,feb,2017,heat,hold,Springfield,701.0,677.0,659.4444444444445,25.0,False,False,False

@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 01e233c4fce6aabdd3f8be666d5f32f972d2a16b,Jan,2021,heat,hold,Eagle,696.89,698.32,698.32,16.0,False,False,False
 0242366947dd8f91e501280859cb1352ac56a3b1,Jan,2021,heat,hold,Shelley,691.4226110363392,695.2456258411844,695.2812920592194,40.0,False,False,False
 0431ce9280dcb1756ceda874e9b786c0cb50c37b,Jan,2021,auto,hold,Meridian,678.425,735.65,681.3,25.0,False,False,False

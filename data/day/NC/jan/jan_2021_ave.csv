@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 001d3f919679bc281312e54922cb021d2020c1fa,Jan,2021,auto,hold,Charlotte,688.5340557275542,740.0,690.0,0.0,True,False,True
 001d3f919679bc281312e54922cb021d2020c1fa,Jan,2021,cool,hold,Charlotte,684.8405797101449,740.0,690.0,0.0,True,False,True
 002d657d269c2da28e96732bf69b6db645b85262,Jan,2021,heat,hold,Lexington,728.8880248833592,735.7496111975116,735.7496111975116,20.0,False,False,True
@@ -1017,7 +1017,7 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 87d2561ec5cfa0cceb2f2b65c449b7d23d2df03b,Jan,2021,heat,hold,Statesville,664.7218934911242,680.1065088757397,660.5384615384615,55.0,False,False,False
 87d9afe1142c79ec5bdd40619342b22b07b72f45,Jan,2021,auto,hold,Rolesville,690.2911764705882,760.0,686.8782352941176,0.0,False,False,False
 88037c64c385e33555cc66195c183312ffa8f8c1,Jan,2021,heat,hold,Raleigh,703.3832976445397,705.7601713062098,705.7601713062098,20.0,True,False,False
-882505eb2123b9ee4188f0a366ec84574d3137ed,Jan,2021,heat,hold,Lewiston,648.8910891089109,648.4257425742575,649.0144014401441,0.0,False,False,True
+882505eb2123b9ee4188f0a366ec84574d3137ed,Jan,2021,heat,hold,Lewiston,648.936936936937,648.4693693693694,649.0567567567567,0.0,False,False,True
 882b5a00c37173a1ea9fad77292b2ca590048888,Jan,2021,heat,hold,Charlotte,683.0113314447592,671.756373937677,671.756373937677,10.0,False,False,False
 8859dd619bffc5ff313046b683038468687c6a33,Jan,2021,auto,hold,Wake Forest,697.6666666666666,789.75,704.0833333333334,10.0,True,False,True
 887ca28e87ab7f1fac77d0e97a33ddd08cbfa272,Jan,2021,heat,hold,Apex,695.9210155148096,699.1382228490833,698.867418899859,10.0,False,False,True

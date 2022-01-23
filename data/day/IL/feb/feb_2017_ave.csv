@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 0010ea447dc3807b33daad2477d1cc02a71571fa,feb,2017,auto,hold,Chicago,697.8333333333334,770.0,700.0,5.0,False,False,False
 0010ea447dc3807b33daad2477d1cc02a71571fa,feb,2017,heat,hold,Chicago,722.9166666666666,720.0,720.0,5.0,False,False,False
 00726ed8e6a1f4f9bd85c248752de358dc529426,feb,2017,auto,auto,Chicago,676.6666666666666,770.1666666666666,679.75,100.0,False,False,False
@@ -1479,7 +1479,7 @@ ed48cd1ab6012bf1a6e787aa07d0ace25ec6777d,feb,2017,heat,auto,Chicago,709.04255319
 ed48cd1ab6012bf1a6e787aa07d0ace25ec6777d,feb,2017,heat,hold,Chicago,724.0,730.48,729.16,0.0,True,False,False
 edaf4edda1da807b376d4f77748a45edbed3902b,feb,2017,heat,auto,Hanna City,694.8645833333334,696.5729166666666,694.6979166666666,65.0,False,False,False
 edaf4edda1da807b376d4f77748a45edbed3902b,feb,2017,heat,hold,Hanna City,704.939393939394,698.8787878787879,696.4545454545455,65.0,False,False,False
-ee83daeb774d40d798d1b815f046ac54c6946cb3,feb,2017,heat,hold,Sawyer,707.8882063882064,679.2641277641278,714.59828009828,20.0,False,False,False
+ee83daeb774d40d798d1b815f046ac54c6946cb3,feb,2017,heat,hold,Sawyer,701.4983922829582,709.9051446945338,709.8440514469453,20.0,False,False,False
 ef05beab87726098217ffc9869c25236b9e2a539,feb,2017,heat,auto,Hoffman Estates,679.6792452830189,820.0,640.0,0.0,False,False,False
 ef05beab87726098217ffc9869c25236b9e2a539,feb,2017,heat,hold,Hoffman Estates,691.8,693.64,688.6,0.0,False,False,False
 ef10f69012e1d04159f10f52b48d2f743b8b3870,feb,2017,heat,auto,Hawthorn Woods,697.0736235595391,699.0288092189501,699.0288092189501,10.0,False,False,False

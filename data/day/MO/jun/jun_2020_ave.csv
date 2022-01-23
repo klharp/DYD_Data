@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 0056cebd6cd72164f185e551f894f028d3d2e319,jun,2020,auto,hold,Clarkson Valley,700.0655737704918,700.0,640.0,45.0,True,False,True
 005b44ffe2812f645179dccec3443da1ec58a68d,jun,2020,auto,hold,Kirkwood,744.133013780707,737.8454164170162,679.673457159976,0.0,False,False,False
 008c4f598020b4161f9e0ee6c31c8f02b87b8a9c,jun,2020,cool,hold,Springfield,710.952380952381,697.1428571428571,693.7142857142857,25.0,False,False,False
@@ -944,7 +944,7 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 907f5ab32efe72689874a05def81eded00e26565,jun,2020,cool,hold,Joplin,745.311475409836,720.0,720.0,25.0,False,False,True
 90ab5144849a9438817906a3713e41367b3710d3,jun,2020,cool,auto,Manchester,717.5867052023121,729.5549132947976,721.0867052023121,20.0,True,False,False
 90ab5144849a9438817906a3713e41367b3710d3,jun,2020,cool,hold,Manchester,690.8915094339623,730.0,680.0,20.0,True,False,False
-90fc0bd4625036799f3efbfe24757c97986f6ccb,jun,2020,cool,auto,Lee's Summit,658.6565096952909,675.8864265927978,619.9307479224377,10.0,False,False,False
+90fc0bd4625036799f3efbfe24757c97986f6ccb,jun,2020,cool,auto,Lee's Summit,659.8410404624277,679.1763005780347,619.9277456647399,10.0,False,False,False
 90fc0bd4625036799f3efbfe24757c97986f6ccb,jun,2020,heat,auto,Lee's Summit,641.3846153846154,670.0,648.4615384615385,10.0,False,False,False
 914bd313b44008005ea03360c1286f22bd9dce09,jun,2020,cool,hold,St. Peters,731.7042857142857,732.6832142857143,732.6832142857143,35.0,True,False,False
 915655e9c69458252ef0d9dc59e0a5b4b5720393,jun,2020,cool,auto,Fenton,718.9736842105264,718.5842105263158,718.5842105263158,40.0,False,False,False

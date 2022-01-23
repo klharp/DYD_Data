@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 000901820a1c537e3432a15731cf77e975629e0e,jul,2021,auto,hold,Tampa,740.1630434782609,737.4673913043479,652.804347826087,17.0,False,False,False
 004eace3d5227d38038ecf0d6a0b77a6d8076347,jul,2021,auto,hold,Callaway,683.2663551401869,680.4987255734919,630.4987255734919,19.0,False,False,False
 006aca82557f890afe8cbaceecb61dba2496e4a2,jul,2021,cool,hold,Delray Beach,721.4770833333333,700.0,700.0,10.0,False,False,False

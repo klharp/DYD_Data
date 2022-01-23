@@ -1,10 +1,9 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 00098d05dc32580dc5bff640242bfd6d439aaa52,aug,2020,cool,hold,Casper,706.0869565217391,700.0,700.0,40.0,False,False,False
 0c66b3c257332a7615e55763a8a5add2f19a1aaa,aug,2020,cool,auto,Casper,730.5260115606936,732.3294797687861,684.7630057803468,10.0,False,False,False
 0c66b3c257332a7615e55763a8a5add2f19a1aaa,aug,2020,cool,hold,Casper,725.625,720.0416666666666,719.9166666666666,10.0,False,False,False
 1af93c740d9d394407a734476ba8bcaf41c2f2dd,aug,2020,cool,auto,Casper,705.9512195121952,770.0,770.0,30.0,True,False,False
 1af93c740d9d394407a734476ba8bcaf41c2f2dd,aug,2020,cool,hold,Casper,704.7291666666666,748.3333333333334,748.3333333333334,30.0,True,False,False
-1d00854c03d26e989b137715f96f49c087b12e6b,aug,2020,heat,hold,Casper,721.5129426382274,650.0,450.0,0.0,False,False,False
 26956f7054af3cbd1c6945b87a40be93f68123bb,aug,2020,auto,hold,Gillette,709.0344827586207,748.2586206896551,610.0,10.0,True,False,False
 26956f7054af3cbd1c6945b87a40be93f68123bb,aug,2020,cool,auto,Gillette,766.5,751.0,710.0,10.0,True,False,False
 26956f7054af3cbd1c6945b87a40be93f68123bb,aug,2020,heat,auto,Gillette,739.4176829268292,729.1829268292682,729.1829268292682,10.0,True,False,False
@@ -14,10 +13,9 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 338d0307f8579900d1f54af0c7475fd0e3a6af35,aug,2020,cool,hold,Green River,733.25,750.375,748.0416666666666,0.0,False,False,False
 346d6a205129b9d881a6f6b4d15f12a6836eb41a,aug,2020,auto,hold,Laramie,717.0,775.0,705.0,10.0,False,False,False
 346d6a205129b9d881a6f6b4d15f12a6836eb41a,aug,2020,cool,hold,Laramie,698.0959792477303,738.7431906614786,738.7055771725032,10.0,False,False,False
-3f04cb50110e414b14944a34de26133900b1d5ef,aug,2020,cool,auto,Cheyenne,613.578947368421,571.1428571428571,619.0,10.0,True,False,False
-3f04cb50110e414b14944a34de26133900b1d5ef,aug,2020,cool,hold,Cheyenne,654.6341463414634,583.0,619.0,10.0,True,False,False
-44788b127929a7bbc4a79d2b17a215fd5460cdc1,aug,2020,cool,hold,Cheyenne,756.132,768.642,761.002,15.0,False,False,False
-4698711909dcaeba4a60bdebf8e6b23a8f77e0d1,aug,2020,cool,auto,Sheridan,639.0,780.0,600.0,5.0,False,False,False
+3f04cb50110e414b14944a34de26133900b1d5ef,aug,2020,cool,auto,Cheyenne,571.0,646.5,619.0,10.0,True,False,False
+3f04cb50110e414b14944a34de26133900b1d5ef,aug,2020,cool,hold,Cheyenne,620.7333333333333,609.0,619.0,10.0,True,False,False
+44788b127929a7bbc4a79d2b17a215fd5460cdc1,aug,2020,cool,hold,Cheyenne,754.2285115303984,764.7190775681341,760.0859538784067,15.0,False,False,False
 4698711909dcaeba4a60bdebf8e6b23a8f77e0d1,aug,2020,cool,hold,Sheridan,706.0277777777778,712.6055555555556,712.6055555555556,5.0,False,False,False
 4bbb3af3bf9fa9aad1b6506c83e556860e848321,aug,2020,cool,auto,Cheyenne,707.8333333333334,692.5416666666666,642.5416666666666,0.0,True,False,False
 4bbb3af3bf9fa9aad1b6506c83e556860e848321,aug,2020,cool,hold,Cheyenne,718.75,742.0,742.0,0.0,True,False,False
@@ -29,7 +27,6 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 5ec6580adf42b467f21b502112c59efb3530f1cc,aug,2020,cool,hold,Cheyenne,738.3269230769231,750.0,669.5641025641025,8.0,False,False,False
 64914792287007003436e1e8a61fcc099d4542d2,aug,2020,cool,auto,Cheyenne,709.3037037037037,708.4728395061728,722.2222222222222,0.0,False,False,False
 64914792287007003436e1e8a61fcc099d4542d2,aug,2020,cool,hold,Cheyenne,719.6478658536586,720.0,720.0,0.0,False,False,False
-74345f495365ac5a65c267f410df97fac944a148,aug,2020,cool,auto,Casper,720.125,790.0,600.0,0.0,False,False,False
 759b41e328c1a31c0c37d8ee8ac5f45fdd644a17,aug,2020,cool,auto,Casper,753.5184135977337,776.0,637.3031161473087,0.0,False,False,False
 759b41e328c1a31c0c37d8ee8ac5f45fdd644a17,aug,2020,cool,hold,Casper,749.8108108108108,747.027027027027,747.027027027027,0.0,False,False,False
 7d1f639767fe028c56faaa9e85feab4fdc273206,aug,2020,auto,hold,Cheyenne,712.4029850746268,709.0820895522388,650.0,10.0,False,False,False
@@ -52,11 +49,9 @@ ac76fecdaa287fefcce1e1e9d8a04222a05f127f,aug,2020,cool,hold,Rock Springs,740.897
 ac76fecdaa287fefcce1e1e9d8a04222a05f127f,aug,2020,heat,auto,Rock Springs,740.25,714.7765957446809,731.468085106383,25.0,False,False,False
 ac76fecdaa287fefcce1e1e9d8a04222a05f127f,aug,2020,heat,hold,Rock Springs,743.7132867132867,749.4055944055945,749.4055944055945,25.0,False,False,False
 b1ab05cfc5e253a7dbb44754bc3b0da3067fee99,aug,2020,cool,hold,Sheridan,695.9859943977591,709.0252100840336,709.0252100840336,10.0,True,False,False
-b68cd409bcc737b83dc2c52e21c19c9480638fd9,aug,2020,cool,auto,Gillette,690.4,701.2,656.2,7.0,False,False,False
+b68cd409bcc737b83dc2c52e21c19c9480638fd9,aug,2020,cool,auto,Gillette,682.0,702.0,693.6666666666666,7.0,False,False,False
 b68cd409bcc737b83dc2c52e21c19c9480638fd9,aug,2020,cool,hold,Gillette,743.0,740.0,740.0,7.0,False,False,False
-bf6d438eb76928160901cfa1eab34d8634017401,aug,2020,cool,hold,Casper,757.5,920.0,790.0,40.0,False,False,False
-d47cc2218ecd2b265d190fe1eeb96582e0255951,aug,2020,auto,auto,Cheyenne,734.7916666666666,730.625,600.0,0.0,False,False,False
-d47cc2218ecd2b265d190fe1eeb96582e0255951,aug,2020,auto,hold,Cheyenne,724.3788395904437,740.2491467576792,614.2150170648464,0.0,False,False,False
+d47cc2218ecd2b265d190fe1eeb96582e0255951,aug,2020,auto,hold,Cheyenne,714.5964912280701,733.9824561403509,673.0701754385965,0.0,False,False,False
 d975b1ad1272e42f9eb089583ef55bb8891c93c8,aug,2020,cool,auto,Cheyenne,760.0,840.0,677.0,30.0,False,False,False
 d975b1ad1272e42f9eb089583ef55bb8891c93c8,aug,2020,cool,hold,Cheyenne,667.5,733.1851851851852,733.1851851851852,30.0,False,False,False
 db3d168d1ad94da910a56cc7efd5a591dbe48ca3,aug,2020,auto,hold,Powell,729.9714285714285,725.5714285714286,668.5142857142857,10.0,True,False,False

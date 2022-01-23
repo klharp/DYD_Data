@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 07232c051ae191506a33f7b2cf57703c45edc81a,aug,2017,cool,hold,Little Rock,715.9173589855707,714.6112811543506,714.6038478355924,45.0,False,False,False
 08fe5124a59a024f93eccf6aaec19997eb295483,aug,2017,cool,auto,Greenland,760.8132231404959,764.6760330578512,741.3206611570248,10.0,False,False,False
 08fe5124a59a024f93eccf6aaec19997eb295483,aug,2017,cool,hold,Greenland,758.3661016949153,768.1483050847457,768.1483050847457,10.0,False,False,False

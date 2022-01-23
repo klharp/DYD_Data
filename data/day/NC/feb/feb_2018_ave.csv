@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 004dfca396d696b8a7ce7dd71862b78384f55976,feb,2018,cool,hold,Charlotte,712.1739130434783,740.0,740.0,85.0,True,False,True
 004dfca396d696b8a7ce7dd71862b78384f55976,feb,2018,heat,hold,Charlotte,705.593141797961,701.5125115848008,701.5125115848008,85.0,True,False,True
 00bbbdb5c3b6cb8b9e78191017ecdb97dad87e47,feb,2018,auto,auto,Jacksonville,707.15,769.8533333333334,680.1366666666667,5.0,False,False,True

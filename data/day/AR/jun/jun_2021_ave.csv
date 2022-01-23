@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 01111a4f1b00377be5ecc305a424d92540564055,jun,2021,cool,hold,Rockwell,742.9047619047619,740.4761904761905,740.4761904761905,0.0,True,False,True
 01231fd2a32ab52081235d74998b0c2e4e9e9666,jun,2021,cool,hold,Rogers,704.676140118969,710.3833443489756,710.3833443489756,20.0,True,False,False
 0365faed9eda6da204a74c3bcde1563857427d95,jun,2021,auto,hold,Little Rock,689.829268292683,685.8536585365854,635.8536585365854,15.0,False,False,False
@@ -159,7 +159,7 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 524c2b1513fde9bd4b78c791c44b0ec58b97b946,jun,2021,cool,hold,Charlotte,698.2565656565656,693.6969696969697,693.6969696969697,0.0,False,False,True
 5431bfa9baee4e9ac6616a3e842b7b7651d6ff7b,jun,2021,auto,hold,Alexander,725.556338028169,724.5070422535211,674.5070422535211,5.0,True,False,True
 5472d94328999e3dd7f841ed23f08ea4b5b62623,jun,2021,cool,hold,North Little Rock,695.34,695.2133333333334,695.1466666666666,0.0,False,False,False
-54c5cdf8b3cb4b70df2ea87725ff91debefcf60c,jun,2021,cool,hold,Little Rock,645.4503464203233,631.7182448036951,694.5150115473441,29.0,True,False,False
+54c5cdf8b3cb4b70df2ea87725ff91debefcf60c,jun,2021,cool,hold,Little Rock,648.0565371024735,663.8445229681979,696.9081272084806,29.0,True,False,False
 54c680871701cc0830567191011f614d08c39841,jun,2021,cool,hold,Pocahontas,676.2904761904762,672.0,672.0,70.0,False,False,False
 5549254f2d2506092b366a60cacbaa5e4af24e3c,jun,2021,auto,hold,Bay,682.0361111111112,680.0,630.0,5.0,False,False,True
 55512397b347295dc01577e2c7f7221249cce9c4,jun,2021,auto,hold,Centerton,741.6112329969285,780.7222465993857,640.0,15.0,False,False,True

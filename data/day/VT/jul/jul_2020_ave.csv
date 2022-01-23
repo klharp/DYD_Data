@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 021f34fc89980727ffbfaa2541ad5dcc847ff46f,jul,2020,cool,auto,Colchester,760.7768565248738,764.5897620764239,763.5497476568132,9.0,True,False,False
 08e5ea6a99f568b84b88969934ce6fd54f4a8359,jul,2020,heat,auto,Bethel,775.6327571550014,650.0,630.0,0.0,False,False,False
 0ddcca6e74610999ee10239e72330c797274efa8,jul,2020,auto,auto,South Burlington,742.4563106796116,740.0,690.0,5.0,False,False,False
@@ -6,8 +6,7 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 0e51eab7b259c251d7b77f7174b1bee53fb83ff3,jul,2020,heat,auto,westfield,739.5394500896593,700.0,650.0,55.0,False,False,False
 1cc2b77c1f9dd8971c8050cb5604220405ec8404,jul,2020,cool,hold,Colchester,753.9426229508197,726.9077868852459,724.8934426229508,0.0,True,False,False
 202b20f2fdcb124df820af1fd71955548fab26ff,jul,2020,cool,hold,South Burlington,728.7222222222222,730.0,730.0,0.0,True,False,False
-44f002792cd731b1b708b52828cc88fd166bc31f,jul,2020,heat,hold,Braintree,788.8341013824885,650.0,520.5645161290323,15.0,False,False,False
-463e091043b222b3e88af924abd32a8b3e5042e2,jul,2020,heat,auto,Thetford,735.625,655.125,601.5833333333334,120.0,False,False,False
+463e091043b222b3e88af924abd32a8b3e5042e2,jul,2020,heat,auto,Thetford,733.0,773.0,638.0,120.0,False,False,False
 463e091043b222b3e88af924abd32a8b3e5042e2,jul,2020,heat,hold,Thetford,712.6,741.0,736.5,120.0,False,False,False
 46f977bf6b32f3c8c3bce774e4fd6eda8d92db21,jul,2020,cool,auto,Peru,754.3236714975845,754.8067632850242,752.2995169082126,5.0,False,False,True
 568ea4ab739671edacf364f79bcecd1c69ae5ce9,jul,2020,cool,auto,Peru,742.1555555555556,751.4333333333333,745.0777777777778,5.0,False,False,True
@@ -19,34 +18,24 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 647073dd061dfdbda60d6ebe18579d91c09c5323,jul,2020,cool,hold,Milton,742.6666666666666,680.3333333333334,680.3333333333334,15.0,False,False,False
 662953f85593ffcb52ca9d8569604ec908481b51,jul,2020,cool,auto,South Burlington,682.8639380530974,687.6537610619469,687.6537610619469,0.0,False,False,False
 662953f85593ffcb52ca9d8569604ec908481b51,jul,2020,cool,hold,South Burlington,678.0146379044684,681.2832562917308,681.2832562917308,0.0,False,False,False
-678fcbe27a947b8f0caf0c655f2c4b5246a87c04,jul,2020,heat,hold,Chittenden,743.9952662721894,662.6153846153846,644.1538461538462,0.0,False,False,False
-6f76dee396823efaa4928dd76539ab3f46489ee6,jul,2020,heat,hold,Bethel,707.2431486880466,650.0,600.0,0.0,False,False,False
+678fcbe27a947b8f0caf0c655f2c4b5246a87c04,jul,2020,heat,hold,Chittenden,739.0694183864915,670.0,670.0,0.0,False,False,False
 740b64e1cafcfbc98a8ee89cd0a518eee4163aa1,jul,2020,cool,auto,Peru,741.3255813953489,755.3023255813954,748.6279069767442,5.0,False,False,True
 740b64e1cafcfbc98a8ee89cd0a518eee4163aa1,jul,2020,cool,hold,Peru,750.8301886792453,747.0,746.9245283018868,5.0,False,False,True
-7c92a63faec4b10f1b994e2e77691b307aeb6915,jul,2020,heat,hold,South Hero,776.1621217781098,650.0,450.0,15.0,False,False,False
 7fa021bd983c34f07a6ab6cb5cf89b2a51fdc387,jul,2020,heat,auto,Bethel,737.2932842164919,650.0,610.0,0.0,False,False,False
-847f79dee1f14d8aba481345bbd8fa0dd0632e6b,jul,2020,heat,hold,Wilmington,666.4766081871345,675.6666666666666,607.0,10.0,False,False,False
+847f79dee1f14d8aba481345bbd8fa0dd0632e6b,jul,2020,heat,hold,Wilmington,693.6140350877193,727.0,727.0,10.0,False,False,False
 8de572f3c0cd0e9fbadaff3165dc844a1ef72f5a,jul,2020,cool,auto,South Burlington,774.2444444444444,759.9703703703703,759.9703703703703,0.0,False,False,False
 8de572f3c0cd0e9fbadaff3165dc844a1ef72f5a,jul,2020,cool,hold,South Burlington,780.7163120567376,756.7872340425532,754.2482269503546,0.0,False,False,False
 92a7755d85f209ef9778cefd008c94c23f3a4370,jul,2020,cool,auto,South Burlington,770.061507936508,763.3571428571429,756.6349206349206,10.0,False,False,False
 92a7755d85f209ef9778cefd008c94c23f3a4370,jul,2020,cool,hold,South Burlington,767.3266331658291,756.4857621440536,756.4857621440536,10.0,False,False,False
 976d2b5f6b178a1eb7af02790f9ca6a1caa18feb,jul,2020,auto,auto,Essex,699.4613493580989,700.0,610.0,7.0,False,False,False
 993a60967289b4973387c7bc3b322f447ba725f1,jul,2020,cool,hold,Burlington,735.7010192525481,740.1506228765572,702.4623442808607,90.0,False,False,False
-a15664878e8df748d0db2075554b1847eab39bd4,jul,2020,heat,hold,Wilmington,758.6631578947369,650.0,550.0,30.0,False,False,False
 a1a9fe0e9032274670b0ee43b67a76d3ed18cda5,jul,2020,auto,auto,South Burlington,738.6990291262136,739.995145631068,670.0,5.0,False,False,False
 a1a9fe0e9032274670b0ee43b67a76d3ed18cda5,jul,2020,auto,hold,South Burlington,739.49376114082,740.25311942959,646.4705882352941,5.0,False,False,False
 b8499dce4ad0e8b7441e7f16bed32acb435d233c,jul,2020,heat,auto,Bethel,760.6333428003408,650.0,640.0,0.0,False,False,False
-bac0305837ab995c66aad34153c932023f31d93d,jul,2020,heat,hold,Proctor,747.9743346007605,650.0,580.0,100.0,False,False,False
-c6eca0d52d9850338b1ec2dc6d19726f6d74cc06,jul,2020,heat,hold,South Hero,788.3114415530772,650.0,450.0,15.0,False,False,False
 cfa61a674a0241bcf34a0f151ce59558e17b6d93,jul,2020,heat,auto,Chester,785.890625,680.0,680.0,115.0,False,False,False
 d58be700034341c053836c3763723e9a90b90ed2,jul,2020,auto,hold,Essex Junction,754.4,759.5904761904762,710.4,55.0,False,False,False
 d58be700034341c053836c3763723e9a90b90ed2,jul,2020,cool,hold,Essex Junction,723.7443946188341,723.6220371556694,723.6220371556694,55.0,False,False,False
 d58be700034341c053836c3763723e9a90b90ed2,jul,2020,heat,hold,Essex Junction,734.5441176470588,727.0343137254902,727.0343137254902,55.0,False,False,False
-d63cb3788a6b312df8b48a557b86090dd629263e,jul,2020,auto,auto,South Burlington,702.3376068376068,700.0,600.0,0.0,False,False,False
-d63cb3788a6b312df8b48a557b86090dd629263e,jul,2020,auto,hold,South Burlington,717.2514124293785,716.9491525423729,600.0,0.0,False,False,False
-dfebba5b4c1cef022c6adc295b3ebe6abc3dbc5d,jul,2020,heat,hold,Waterbury Center,730.0371315192743,650.0,580.0,40.0,False,False,False
-f0da960a3fa374f1f719439150052e38c531d274,jul,2020,heat,hold,Hartland,690.1505102040817,650.0,550.0,0.0,False,False,False
-f69e9d21048336ec727333b796a873b27682eb35,jul,2020,heat,hold,Rutland,707.0197674418605,650.0,542.3023255813954,45.0,False,False,False
 f8be51699465a30909d988ecfea0c8d244103c4f,jul,2020,cool,auto,Bristol,780.6,766.8,765.4666666666667,10.0,True,False,True
 f8be51699465a30909d988ecfea0c8d244103c4f,jul,2020,cool,hold,Bristol,770.1525423728814,758.4915254237288,755.6949152542373,10.0,True,False,True
 fb5559f697fdfaa37875b00d94ac7a600e0d864c,jul,2020,cool,hold,Brownsville,726.4745222929936,719.1337579617834,708.9872611464968,99.0,False,False,True

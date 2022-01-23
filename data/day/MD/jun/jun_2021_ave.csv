@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 001cb586cbb1bfa7441fff670b3357d9d412926a,jun,2021,cool,hold,Columbia,772.6666666666666,770.0196078431372,770.0196078431372,40.0,True,False,True
 003a3b5c65e4767907f528a81c3bc75c08aefb02,jun,2021,cool,hold,Belcamp,702.5902777777778,702.3263888888889,702.3263888888889,10.0,False,False,False
 004d65377c96d3ad22f52b1f4cec9f5cd105ed0a,jun,2021,cool,hold,Silver Spring,751.9028571428571,749.4871428571429,749.1171428571429,10.0,False,False,False
@@ -574,7 +574,7 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 4ebdf676fc222951b7af810f457bf6221df38ea5,jun,2021,cool,hold,Ellicott City,730.6018518518518,730.0,730.0,39.0,False,False,False
 4ebdf676fc222951b7af810f457bf6221df38ea5,jun,2021,heat,hold,Ellicott City,743.1851851851852,730.0,730.0,39.0,False,False,False
 4efe4df0dd378e82cbea18cf6d16ccc89f27abf9,jun,2021,auto,hold,Annapolis,743.9259736909981,747.5315965953057,640.668042300748,60.0,False,False,True
-4f10f38bbf996bdd962891e9276fe4d59c5b0109,jun,2021,cool,hold,Elkridge,781.6766091051805,706.0031397174255,706.171114599686,37.0,True,False,True
+4f10f38bbf996bdd962891e9276fe4d59c5b0109,jun,2021,cool,hold,Elkridge,781.6084905660377,705.87106918239,705.9009433962265,37.0,True,False,True
 4f10f38bbf996bdd962891e9276fe4d59c5b0109,jun,2021,heat,hold,Elkridge,825.0,627.0,621.0,37.0,True,False,True
 4f285144a89fc3333136b7f327f041bf762ac62b,jun,2021,cool,hold,Glen Burnie,732.8333333333334,724.5,714.0,30.0,True,False,True
 4f4e37e8598c9e02d7ae8033a1ba73fc6fd59d49,jun,2021,auto,hold,Bethesda,708.25,710.0,660.0,5.0,False,False,True
@@ -1529,7 +1529,7 @@ cdb615fe8869055eef95779f0ff15110b47ba93b,jun,2021,cool,hold,Baltimore,731.839548
 cdcbe36ff8462fb73d98357a41ada3d5e47b09dc,jun,2021,auto,hold,Baltimore,724.1455223880597,727.6156716417911,636.7649253731344,0.0,False,False,False
 cdcbe36ff8462fb73d98357a41ada3d5e47b09dc,jun,2021,cool,hold,Baltimore,711.8804347826087,710.75,702.4565217391304,0.0,False,False,False
 ce4458fc8be77ef6d4c8bd8c4272c65bde6f9525,jun,2021,cool,hold,Annapolis,740.053629823414,739.254414650098,739.254414650098,10.0,False,False,False
-ce4fdd9f1bb0642cedde92786596f080ae33e65a,jun,2021,cool,hold,Bridgeview-Greenlawn,793.2763157894736,635.7697368421053,713.3157894736842,0.0,False,False,False
+ce4fdd9f1bb0642cedde92786596f080ae33e65a,jun,2021,cool,hold,Bridgeview-Greenlawn,799.5060240963855,673.8192771084338,674.5060240963855,0.0,False,False,False
 ce88603bad5b31c9b886bbe6589b3ac3cfbb40e1,jun,2021,auto,hold,Prince Frederick,723.8126801152738,720.0115273775216,620.0,0.0,False,False,True
 ce9c4288a207a446bd2d7b8ee14640d3ac705977,jun,2021,cool,hold,Baltimore,775.968,795.0,790.0,0.0,True,False,False
 cf3734bc77285889b6b0ec298ee4cb885e3c89aa,jun,2021,cool,hold,Odenton,727.3416927899686,718.2476489028213,718.2476489028213,30.0,True,False,True

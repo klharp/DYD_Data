@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 00d2d0e5e17f6dc9a19aa132916fdc6ddacb983e,Jan,2017,auto,auto,Fairway,669.4509803921569,820.0,640.0,80.0,False,False,False
 01a0d7a563a1755d37bb856a01a56e452deb2010,Jan,2017,auto,hold,Olathe,688.5830479452055,799.9589041095891,690.0025684931506,30.0,False,False,False
 01a0d7a563a1755d37bb856a01a56e452deb2010,Jan,2017,cool,hold,Olathe,652.2619047619047,713.2619047619047,713.1428571428571,30.0,False,False,False

@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 000ef89eadf430f4ec4be11295643c07969fce01,aug,2020,cool,hold,Wheaton,779.1904761904761,780.0,780.0,40.0,True,False,False
 0010ea447dc3807b33daad2477d1cc02a71571fa,aug,2020,cool,auto,Chicago,737.6041666666666,740.0,672.5,5.0,False,False,False
 0027e9be6cd672afe749634eaf39c372d1b7819e,aug,2020,cool,auto,Sparland,733.047619047619,741.2142857142857,725.8333333333334,75.0,True,False,False
@@ -455,8 +455,8 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 167c2fbceae828879ddf25632b09eb75e62a4612,aug,2020,cool,auto,Lisle,728.4542586750789,745.813880126183,710.0,35.0,False,False,False
 16878deb8f21869c54324821e256b870e4df105c,aug,2020,cool,hold,Vandalia,724.030303030303,720.0,720.0,30.0,False,False,False
 1695ff3d6ee400ca4c834a99f2d5822a2963a34c,aug,2020,cool,auto,Aurora,710.234823215477,703.9286190793863,703.9286190793863,25.0,True,False,False
-1695ff3d6ee400ca4c834a99f2d5822a2963a34c,aug,2020,cool,hold,Aurora,709.9301948051948,706.3084415584416,707.0535714285714,25.0,True,False,False
-1695ff3d6ee400ca4c834a99f2d5822a2963a34c,aug,2020,heat,hold,Aurora,746.8333333333334,699.5,775.5,25.0,True,False,False
+1695ff3d6ee400ca4c834a99f2d5822a2963a34c,aug,2020,cool,hold,Aurora,709.7508143322475,706.328990228013,706.5228013029316,25.0,True,False,False
+1695ff3d6ee400ca4c834a99f2d5822a2963a34c,aug,2020,heat,hold,Aurora,743.5,699.25,728.25,25.0,True,False,False
 16a7f4c5e3dedc80298be6cf3288b54d9eda513c,aug,2020,cool,hold,Forsyth,739.8289384719405,738.2812711291413,738.2812711291413,49.0,False,False,False
 16c0a40f587d2835dab53768014befb12584f478,aug,2020,cool,auto,Joliet,722.9449541284404,790.2798165137615,679.0795107033639,19.0,True,False,False
 16c0a40f587d2835dab53768014befb12584f478,aug,2020,cool,hold,Joliet,729.5833333333334,730.0,730.0,19.0,True,False,False
@@ -1619,7 +1619,7 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 46cc23cb4322a46e0c0172275f6a415476d77a8d,aug,2020,auto,hold,Chicago,723.727147766323,725.1745704467354,618.5154639175257,0.0,False,False,False
 46cc23cb4322a46e0c0172275f6a415476d77a8d,aug,2020,cool,auto,Chicago,724.2,700.0,700.0,0.0,False,False,False
 46cc23cb4322a46e0c0172275f6a415476d77a8d,aug,2020,cool,hold,Chicago,737.0,700.0,649.0,0.0,False,False,False
-46e3367e8ba9f4d9e44304e304aae6645c2fe936,aug,2020,cool,auto,Huntley,675.0625,641.0875,680.2375,15.0,False,False,False
+46e3367e8ba9f4d9e44304e304aae6645c2fe936,aug,2020,cool,auto,Huntley,694.2978723404256,669.936170212766,680.4042553191489,15.0,False,False,False
 46e3367e8ba9f4d9e44304e304aae6645c2fe936,aug,2020,cool,hold,Huntley,685.9112426035502,677.8224852071006,677.5857988165681,15.0,False,False,False
 46ecbbafef67d2017a1257a08b226e49cec8eaaa,aug,2020,cool,auto,Palatine,745.9690301548492,755.8255908720456,755.6055419722901,25.0,False,False,False
 46ecbbafef67d2017a1257a08b226e49cec8eaaa,aug,2020,cool,hold,Palatine,741.9642857142857,747.3705357142857,747.3705357142857,25.0,False,False,False

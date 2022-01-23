@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 00020f16d85e6d8c70fc67725f03ab06b116fead,dec,2018,auto,auto,Jacksonville,735.9047619047619,780.0,710.0,5.0,False,False,True
 000901820a1c537e3432a15731cf77e975629e0e,dec,2018,auto,hold,Tampa,748.6,752.1,702.1,17.0,False,False,False
 0024f0f900a4ff6923e95a2a20ee94c699ecf167,dec,2018,cool,auto,Miami,734.8,736.125,735.175,0.0,False,False,False
@@ -2078,9 +2078,9 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 4995f12d85119348beac0e972dce906258eb88aa,dec,2018,heat,auto,Port Saint Lucie,728.3046153846154,679.4,679.4,0.0,False,False,False
 4995f12d85119348beac0e972dce906258eb88aa,dec,2018,heat,hold,Port Saint Lucie,714.1325301204819,707.6602409638555,707.6602409638555,0.0,False,False,False
 49bc8e207e437c504d2c3a3603bdbf0878016e17,dec,2018,cool,auto,Destin,640.8566666666667,749.0,710.0,0.0,False,False,True
-49bc8e207e437c504d2c3a3603bdbf0878016e17,dec,2018,cool,hold,Destin,619.4903846153846,609.8557692307693,613.3846153846154,0.0,False,False,True
+49bc8e207e437c504d2c3a3603bdbf0878016e17,dec,2018,cool,hold,Destin,618.5533980582525,610.0,613.495145631068,0.0,False,False,True
 49bc8e207e437c504d2c3a3603bdbf0878016e17,dec,2018,heat,auto,Destin,678.244131455399,618.0328638497652,675.0258215962441,0.0,False,False,True
-49bc8e207e437c504d2c3a3603bdbf0878016e17,dec,2018,heat,hold,Destin,688.4750889679715,609.979537366548,669.2553380782919,0.0,False,False,True
+49bc8e207e437c504d2c3a3603bdbf0878016e17,dec,2018,heat,hold,Destin,688.5351736420303,609.9955476402494,669.3143365983972,0.0,False,False,True
 49bca1615976ce6bd53d3982fa49a7be1d4ab806,dec,2018,cool,hold,Saint Petersburg,742.5791666666667,765.8833333333333,727.6125,50.0,True,False,True
 49bca1615976ce6bd53d3982fa49a7be1d4ab806,dec,2018,heat,auto,Saint Petersburg,712.15,712.92,711.87,50.0,True,False,True
 49bca1615976ce6bd53d3982fa49a7be1d4ab806,dec,2018,heat,hold,Saint Petersburg,707.3480392156863,703.7058823529412,703.4656862745098,50.0,True,False,True
@@ -4154,7 +4154,6 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 933da02eb525b725343ff8ca303c0c74d7a21b9b,dec,2018,cool,auto,Hypoluxo,706.1111111111111,703.8888888888889,680.0,30.0,False,False,False
 933da02eb525b725343ff8ca303c0c74d7a21b9b,dec,2018,cool,hold,Hypoluxo,738.6170212765958,741.4893617021277,680.0,30.0,False,False,False
 934ae136538dfa58e8f7912a2267a07aca85bc17,dec,2018,cool,hold,Merritt Island,739.5876288659794,740.0,740.0,7.0,False,False,False
-934cfeda0ca52e06de77a9d60af389756691df61,dec,2018,cool,auto,Pompano Beach,746.192429022082,743.596214511041,920.0,47.0,False,False,True
 935128af91c743fc54663736791652da26b42f66,dec,2018,cool,auto,Crawfordville,700.551724137931,700.0,675.0,8.0,True,False,True
 935128af91c743fc54663736791652da26b42f66,dec,2018,heat,hold,Crawfordville,699.6091954022988,695.0,695.0,8.0,True,False,True
 9378497123c30760d65926fcc560bf51fd308a74,dec,2018,auto,auto,Milton,710.1666666666666,740.0,700.0,5.0,False,False,True
@@ -4607,10 +4606,9 @@ a1f78378e78219b34a3be5028ac10843cb9d4365,dec,2018,cool,auto,Windermere,737.71428
 a1f78378e78219b34a3be5028ac10843cb9d4365,dec,2018,cool,hold,Windermere,734.525,734.45,734.05,0.0,True,False,True
 a20bca76c709201a04a98b02252360b2f13c9abf,dec,2018,auto,auto,Kissimmee,715.4022346368715,757.2067039106146,667.2067039106146,35.0,True,False,True
 a20c35176007a723a10ce6e51de97e778ec0b541,dec,2018,auto,auto,Lutz,781.6960784313726,771.1960784313726,721.1960784313726,0.0,False,False,True
-a20c35176007a723a10ce6e51de97e778ec0b541,dec,2018,auxHeatOnly,auto,Lutz,704.0,804.5,874.0,0.0,False,False,True
 a20c35176007a723a10ce6e51de97e778ec0b541,dec,2018,cool,auto,Lutz,704.1538461538462,720.0,720.0,0.0,False,False,True
 a20c35176007a723a10ce6e51de97e778ec0b541,dec,2018,cool,hold,Lutz,691.4929577464789,819.0422535211268,784.8028169014085,0.0,False,False,True
-a20c35176007a723a10ce6e51de97e778ec0b541,dec,2018,heat,auto,Lutz,707.28125,836.53125,913.625,0.0,False,False,True
+a20c35176007a723a10ce6e51de97e778ec0b541,dec,2018,heat,auto,Lutz,715.0,787.0,824.0,0.0,False,False,True
 a20c35176007a723a10ce6e51de97e778ec0b541,dec,2018,heat,hold,Lutz,717.7647058823529,732.0,732.0,0.0,False,False,True
 a244759ec641ffb98e7476141ba9222c2cc4b7d6,dec,2018,cool,auto,Naples,735.4101123595506,760.0,760.0,10.0,False,False,False
 a244759ec641ffb98e7476141ba9222c2cc4b7d6,dec,2018,cool,hold,Naples,720.6438356164383,736.6497716894977,736.6497716894977,10.0,False,False,False

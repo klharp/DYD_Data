@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 002c012fc1267f2ff9bbe2a30db5e0c8ac85ac9f,jul,2019,cool,auto,Ballwin,729.0016666666667,722.5005555555556,722.4977777777777,49.0,True,False,False
 002c012fc1267f2ff9bbe2a30db5e0c8ac85ac9f,jul,2019,cool,hold,Ballwin,744.989010989011,730.021978021978,729.9120879120879,49.0,True,False,False
 0056cebd6cd72164f185e551f894f028d3d2e319,jul,2019,cool,auto,Clarkson Valley,733.3304347826087,724.2608695652174,724.2608695652174,45.0,True,False,True
@@ -758,7 +758,7 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 71d5d4ba1bced39b38f0fb3a8d32323fb49784f4,jul,2019,cool,auto,Springfield,740.3544913573251,740.0,760.0,5.0,True,False,False
 71f0d3d13ea4495fd98f531ee83b85a38fabc9a6,jul,2019,cool,auto,Battlefield,767.8846625766871,770.2429447852761,715.5680981595092,37.0,False,False,False
 71f0d3d13ea4495fd98f531ee83b85a38fabc9a6,jul,2019,cool,hold,Battlefield,756.3,753.7518987341772,753.7518987341772,37.0,False,False,False
-720955ca3b5e2ba5720aa32c17dcdcec5591e3b3,jul,2019,cool,auto,Saint Louis,717.9315375982043,690.7283950617284,645.0505050505051,117.0,False,False,False
+720955ca3b5e2ba5720aa32c17dcdcec5591e3b3,jul,2019,cool,auto,Saint Louis,718.0703703703704,699.8012345679012,649.4555555555555,117.0,False,False,False
 720955ca3b5e2ba5720aa32c17dcdcec5591e3b3,jul,2019,cool,hold,Saint Louis,717.1048951048951,665.4055944055945,665.2797202797203,117.0,False,False,False
 72197dacdca44a51489650430adc76e9b5a2b34c,jul,2019,cool,auto,Independence,721.3076923076923,694.8615384615384,650.0,0.0,False,False,False
 72197dacdca44a51489650430adc76e9b5a2b34c,jul,2019,cool,hold,Independence,701.25,663.85,660.55,0.0,False,False,False

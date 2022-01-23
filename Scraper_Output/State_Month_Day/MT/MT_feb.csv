@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 23d834c190c3686c02c030ee0bf42003872bd591,feb,2017,heat,hold,Bozeman,694.8285714285713,704.5714285714287,704.5714285714287,25.0,False,False,False
 29f5966d7808882d6c76a0a2d7091c18b3587704,feb,2017,heat,auto,Bozeman,708.0555555555555,711.0555555555555,710.4444444444445,9.0,True,False,False
 29f5966d7808882d6c76a0a2d7091c18b3587704,feb,2017,heat,hold,Bozeman,726.1078947368422,724.0473684210525,724.0473684210525,9.0,True,False,False

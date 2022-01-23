@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 01194744830da7bbc9603d51735c58faef66f72e,dec,2019,cool,auto,Ocean Springs,737.2189349112426,737.2781065088758,737.2781065088758,0.0,False,False,True
 01194744830da7bbc9603d51735c58faef66f72e,dec,2019,cool,hold,Ocean Springs,714.0,729.9203187250996,729.9203187250996,0.0,False,False,True
 01194744830da7bbc9603d51735c58faef66f72e,dec,2019,heat,auto,Ocean Springs,701.7766714082503,700.6486486486486,700.6486486486486,0.0,False,False,True

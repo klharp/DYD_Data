@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 00d57801ec029dad25ea93d564eea9c33eed2183,Jan,2017,auto,auto,Zionsville,695.0,693.0,637.0,80.0,True,False,False
 00d57801ec029dad25ea93d564eea9c33eed2183,Jan,2017,auto,hold,Zionsville,688.2272727272727,742.8863636363636,692.8863636363636,80.0,True,False,False
 00d57801ec029dad25ea93d564eea9c33eed2183,Jan,2017,cool,auto,Zionsville,652.75,680.0,680.0,80.0,True,False,False

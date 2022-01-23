@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 01878b6476cf734f4d41081dfd2a989223288eb0,jun,2021,auto,hold,milton,728.1574514829732,728.4005858659832,645.408275357012,80.0,False,False,False
 01878b6476cf734f4d41081dfd2a989223288eb0,jun,2021,cool,hold,milton,715.8245614035088,714.8947368421053,714.8947368421053,80.0,False,False,False
 03929acf744f37ee18e539d3a2a04775de903a79,jun,2021,cool,hold,Beckley,697.5803278688525,705.0,705.0,16.0,False,False,False
@@ -12,7 +12,7 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 1681fb4bfda8b5dc8e0858a217b4edbfb0cb3da2,jun,2021,auto,hold,Charles Town,731.3170731707318,730.0,680.0,10.0,False,False,True
 179e7b68e5ee4f361b7af804ec2f82a0a80e3837,jun,2021,cool,hold,Scott Depot,721.9508196721312,710.0,710.0,19.0,True,False,False
 19477a7200fa832c7e84891e77cbbfecec7bcef2,jun,2021,auto,hold,Charles Town,715.6902356902357,709.2087542087542,674.7373737373738,15.0,True,False,False
-195f1474057b47575d1277de2cb5fdd748bce814,jun,2021,auto,hold,Huntington,698.5714285714286,681.1428571428571,604.0,99.0,True,False,False
+195f1474057b47575d1277de2cb5fdd748bce814,jun,2021,auto,hold,Huntington,712.0,628.0,628.0,99.0,True,False,False
 195f1474057b47575d1277de2cb5fdd748bce814,jun,2021,cool,hold,Huntington,734.1111111111111,675.5555555555555,667.0,99.0,True,False,False
 1a3c003b7437ef630c5d19c7cc7655441f1847b8,jun,2021,cool,hold,Vienna,732.7179487179487,732.7948717948718,732.2564102564103,10.0,False,False,False
 1b5915003b7a5d994d51d452a2d97a47fbcce1f3,jun,2021,auto,hold,Martinsburg,736.5,730.0,680.0,10.0,True,False,True
@@ -55,7 +55,7 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 62af02b424db636d21a94dd5e7a568be9f0869a8,jun,2021,cool,hold,Bluefield,700.7851906158357,707.4560117302053,707.4560117302053,0.0,False,False,False
 63556f5cb7de21663d24daa27209c6919282954e,jun,2021,auto,hold,Martinsburg,678.6184986595174,677.657908847185,627.6576407506702,5.0,True,False,True
 66a8d24e5995abee37f1f10f8b2e2c06fdbcc977,jun,2021,cool,hold,Pleasant Valley,701.7964601769911,698.070796460177,697.1327433628319,50.0,False,False,False
-68e0d3728ad81530fc1339c3d4e62b92b1337a3f,jun,2021,cool,hold,Mannington,707.3162768031189,704.5896686159844,704.5896686159844,40.0,False,False,False
+68e0d3728ad81530fc1339c3d4e62b92b1337a3f,jun,2021,cool,hold,Mannington,707.3037542662116,704.6445636274988,704.6445636274988,40.0,False,False,False
 69ae52a855def84fb4dff153912fa389074ecb43,jun,2021,cool,hold,Ranson,695.2307692307693,695.0,695.0,9.0,True,False,True
 6b32cedc085398935ffbf4b5490abbbf581d1419,jun,2021,auto,hold,Huntington,740.2964298593581,740.2820050486837,690.0721240533718,40.0,False,False,False
 6b32cedc085398935ffbf4b5490abbbf581d1419,jun,2021,cool,hold,Huntington,743.672131147541,740.4590163934427,700.0,40.0,False,False,False
@@ -100,12 +100,12 @@ b3a1371fb19d70506a65e8058d19ff67a20aae60,jun,2021,cool,hold,Berkeley Springs,683
 bb945d08870f1b22ab4713ebc7c02098e89488de,jun,2021,cool,hold,Parkersburg,708.5508474576271,700.0,700.0,59.0,True,False,False
 bc537892a74ccfb5d83fedf4295ee1ac2199eae4,jun,2021,auto,hold,Morgantown,741.9151515151515,753.8929292929292,692.7454545454545,5.0,False,False,False
 bc537892a74ccfb5d83fedf4295ee1ac2199eae4,jun,2021,cool,hold,Morgantown,732.0902527075813,750.0036101083033,750.0036101083033,5.0,False,False,False
-bc9414daf182f2faca58c714cce40fc1e91fea3c,jun,2021,auto,hold,Huntington,681.4596021112465,685.2411693057247,586.6662606577345,70.0,False,False,False
+bc9414daf182f2faca58c714cce40fc1e91fea3c,jun,2021,auto,hold,Huntington,694.8385269121814,716.271954674221,654.728045325779,70.0,False,False,False
 be34245d200e7cef3dbd28c1d01f53b03c1f0473,jun,2021,cool,hold,Follansbee,689.895856662934,733.4356103023516,733.4356103023516,45.0,False,False,False
 be34245d200e7cef3dbd28c1d01f53b03c1f0473,jun,2021,heat,hold,Follansbee,709.9887820512821,650.0,650.0,45.0,False,False,False
 be874be768779f6118cf44d30dfc33d8a88f5c35,jun,2021,auto,hold,Charleston,723.4497549019608,720.0,670.0,20.0,True,False,True
 bfe9e16f66fda52e115438c6ce39c6c4ad142da0,jun,2021,auto,hold,Morgantown,723.5633595284872,724.5933202357564,672.3585461689587,26.0,False,False,False
-c5b31dacb5cc3a1c181dbf7a905df96d0dfdc347,jun,2021,auto,hold,Morgantown,693.968253968254,700.0,647.1428571428571,0.0,False,False,False
+c5b31dacb5cc3a1c181dbf7a905df96d0dfdc347,jun,2021,auto,hold,Morgantown,699.3611111111111,706.6666666666666,655.0,0.0,False,False,False
 c63e172f3c865d0b3b39b5a40eb7435fa87b7958,jun,2021,auto,hold,Martinsburg,702.7083333333334,700.2777777777778,650.2777777777778,10.0,True,False,True
 c6d4ab35cb2e64792ebcbe2067181056840b499d,jun,2021,cool,hold,Weirton,717.6862745098039,702.4901960784314,702.2156862745098,45.0,False,False,False
 c8bb318a539759470509172e01979972c709e998,jun,2021,cool,hold,Harpers Ferry,736.2361111111111,720.0,720.0,10.0,True,False,True

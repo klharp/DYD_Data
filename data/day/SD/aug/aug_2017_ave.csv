@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 004e7f286453271cd8b2b9367719102dc96392c2,aug,2017,auto,auto,Elk Point,748.6616541353384,744.5037593984962,678.390977443609,20.0,False,False,False
 004e7f286453271cd8b2b9367719102dc96392c2,aug,2017,auto,hold,Elk Point,738.9375,741.0,679.75,20.0,False,False,False
 011eb806f7782fc048072fabfb035b54f5d71e67,aug,2017,auto,hold,Sioux Falls,727.9864864864865,721.3513513513514,640.0,100.0,False,False,False
@@ -31,9 +31,8 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 7a59d7c797f30415b2b2557d368086f59a8bfbf6,aug,2017,cool,hold,Baltic,686.0641592920354,685.8340707964602,685.7234513274336,5.0,False,False,False
 8f56c7dc00276a6b32a52d5ce09b1183ab8f1bd7,aug,2017,cool,auto,Box Elder,729.4370290635092,740.0,680.0,10.0,False,False,False
 94f4dbce58d4a11a0ffa9e6290ddfb6e896b39d2,aug,2017,cool,hold,Sioux Falls,753.0,730.0,730.0,5.0,False,False,False
-9c7a789c7d1d74537a88db58945540af52b04c0e,aug,2017,auto,hold,Sioux Falls,721.9922480620155,777.3294573643411,666.2403100775193,30.0,True,False,True
+9c7a789c7d1d74537a88db58945540af52b04c0e,aug,2017,auto,hold,Sioux Falls,720.35,780.8791666666667,674.2083333333334,30.0,True,False,True
 9d3584c550f89f042111eb6704fe1e47e20dc8ea,aug,2017,cool,hold,Mitchell,704.6458333333334,700.0,700.0,15.0,True,False,True
-a6fd75ad36cfbc196c32e0242e2b1b235a634a21,aug,2017,auto,auto,Sioux Falls,725.1953010279002,739.295154185022,600.0,5.0,False,False,False
 ac475e45fec8f2a5c9a5f17f1de8854e57c8738d,aug,2017,cool,auto,Sioux Falls,723.75,720.0,720.0,5.0,False,False,False
 ac475e45fec8f2a5c9a5f17f1de8854e57c8738d,aug,2017,cool,hold,Sioux Falls,724.0,722.5,718.75,5.0,False,False,False
 ad7b6e90b80dcab9f18c995fe36408f2a12dbc28,aug,2017,cool,hold,Sioux Falls,740.5104704922492,739.628229534947,739.628229534947,10.0,False,False,False

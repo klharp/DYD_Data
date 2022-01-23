@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 007f9b37f1ac5cfe9806f9a1a47809855e7e31b8,feb,2018,heat,hold,South Windsor,647.6642156862745,650.0,646.0,20.0,False,False,False
 011dae903f5512427598b14bbb3f02baa8813745,feb,2018,auto,auto,Shelton,657.8656716417911,779.8358208955224,620.4477611940298,5.0,False,False,False
 01440e0a70900810dceaace98a7965a75bc818dc,feb,2018,heat,auto,Guilford,645.2661897590361,707.2737198795181,646.7074548192771,0.0,False,False,False
@@ -236,7 +236,7 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 719d1aa36bcd7a956457ff78cf66b2d06290d4f0,feb,2018,heat,hold,Monroe,678.6190476190476,682.1428571428571,682.1428571428571,50.0,False,False,False
 71e529d367e73062186399e77fc1ab6a06afdc24,feb,2018,heat,auto,Southington,680.4264705882352,671.2235294117647,671.2235294117647,18.0,False,False,False
 71e529d367e73062186399e77fc1ab6a06afdc24,feb,2018,heat,hold,Southington,684.0737618545837,672.0237091675448,672.0115911485774,18.0,False,False,False
-750dc19cee6296c961b08361f935a5930c10409a,feb,2018,heat,hold,West Hartford,639.1744186046511,639.0755813953489,640.2906976744187,70.0,False,False,False
+750dc19cee6296c961b08361f935a5930c10409a,feb,2018,heat,hold,West Hartford,640.0540540540541,640.5495495495495,640.6246246246246,70.0,False,False,False
 753112a12d7d0dab53fdaa8e4d60e023dda33359,feb,2018,heat,auto,Glastonbury,677.85,680.0,680.0,40.0,False,False,False
 753112a12d7d0dab53fdaa8e4d60e023dda33359,feb,2018,heat,hold,Glastonbury,677.0833333333334,680.0,680.0,40.0,False,False,False
 754d85b70372e7ed12eb663aac2f8471a479b4cd,feb,2018,heat,auto,Meriden,648.304794520548,700.0,646.5433789954338,10.0,True,False,False

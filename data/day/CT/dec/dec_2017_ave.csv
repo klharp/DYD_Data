@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 007f9b37f1ac5cfe9806f9a1a47809855e7e31b8,dec,2017,heat,hold,South Windsor,648.2993464052288,650.9281045751634,649.856862745098,20.0,False,False,False
 011dae903f5512427598b14bbb3f02baa8813745,dec,2017,auto,auto,Shelton,637.9651162790698,779.9244186046511,620.1482558139535,5.0,False,False,False
 011dae903f5512427598b14bbb3f02baa8813745,dec,2017,auto,hold,Shelton,660.3571428571429,760.0,660.0,5.0,False,False,False
@@ -253,7 +253,7 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 737eed546bf37375c274f8c21fd2af6ffd253018,dec,2017,heat,hold,Ansonia,679.5571428571428,660.0,660.0,0.0,False,False,False
 74aa10226c061ee838341144e55b69cdc60d9779,dec,2017,heat,auto,Sandy Hook,554.0,780.0,638.0,15.0,False,False,False
 750dc19cee6296c961b08361f935a5930c10409a,dec,2017,heat,auto,West Hartford,664.5294117647059,676.0,665.0,70.0,False,False,False
-750dc19cee6296c961b08361f935a5930c10409a,dec,2017,heat,hold,West Hartford,651.8164251207729,662.6505636070854,663.0644122383253,70.0,False,False,False
+750dc19cee6296c961b08361f935a5930c10409a,dec,2017,heat,hold,West Hartford,652.1166936790924,663.0842787682334,663.1863857374392,70.0,False,False,False
 753112a12d7d0dab53fdaa8e4d60e023dda33359,dec,2017,heat,auto,Glastonbury,656.875,660.0,660.0,40.0,False,False,False
 753112a12d7d0dab53fdaa8e4d60e023dda33359,dec,2017,heat,hold,Glastonbury,677.6458333333334,680.0,680.0,40.0,False,False,False
 754d85b70372e7ed12eb663aac2f8471a479b4cd,dec,2017,heat,auto,Meriden,645.354501607717,700.0,645.3038585209003,10.0,True,False,False

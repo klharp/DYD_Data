@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 00036e2921e77921dc23f39cecd8ef0ef80ba076,jul,2018,cool,auto,Indio,765.1016166281755,767.0600461893764,694.8706697459585,10.0,False,False,False
 00036e2921e77921dc23f39cecd8ef0ef80ba076,jul,2018,cool,hold,Indio,729.0764331210191,728.2484076433121,727.8471337579617,10.0,False,False,False
 0007af61e41e5121b78d434fbe95d99398501ef7,jul,2018,auto,auto,Chula Vista,745.5535714285714,779.7678571428571,615.1071428571429,10.0,False,False,False

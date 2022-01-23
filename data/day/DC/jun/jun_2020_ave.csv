@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 007b9ae939161adcf55e644a3a31bed6f9545465,jun,2020,cool,auto,Washington,768.4285714285714,731.1428571428571,648.8571428571429,98.0,False,False,False
 007b9ae939161adcf55e644a3a31bed6f9545465,jun,2020,cool,hold,Washington,744.672131147541,748.9508196721312,748.360655737705,98.0,False,False,False
 08049f898acb8591a4cad8c0900db78ad73b307f,jun,2020,auto,auto,Washington,740.1379310344828,738.4497126436781,660.5603448275862,90.0,False,False,False
@@ -195,7 +195,7 @@ b99bb86a471fd156d347b07453bedeee48de15bf,jun,2020,cool,auto,Washington,720.52234
 b99bb86a471fd156d347b07453bedeee48de15bf,jun,2020,cool,hold,Washington,718.0164744645799,715.5436573311367,715.5271828665568,0.0,False,False,True
 ba7f8959bec2591fc20e7bf3a9eeed767a868c7b,jun,2020,auto,auto,Washington,679.5975609756098,672.780487804878,624.4146341463414,5.0,False,False,False
 ba7f8959bec2591fc20e7bf3a9eeed767a868c7b,jun,2020,auto,hold,Washington,714.5369127516778,721.8724832214765,655.8389261744967,5.0,False,False,False
-ba7f8959bec2591fc20e7bf3a9eeed767a868c7b,jun,2020,cool,auto,Washington,734.931592039801,650.7213930348258,649.6691542288557,5.0,False,False,False
+ba7f8959bec2591fc20e7bf3a9eeed767a868c7b,jun,2020,cool,auto,Washington,730.8245614035088,659.6198830409356,651.5409356725146,5.0,False,False,False
 ba7f8959bec2591fc20e7bf3a9eeed767a868c7b,jun,2020,cool,hold,Washington,735.427927927928,684.5382882882883,644.4481981981982,5.0,False,False,False
 baff41f637356e9c91c718b5e21e6b28702c5c08,jun,2020,cool,auto,Washington,701.1748878923767,714.8026905829596,714.8026905829596,20.0,False,False,False
 baff41f637356e9c91c718b5e21e6b28702c5c08,jun,2020,cool,hold,Washington,704.0272300469484,700.5843505477309,700.5843505477309,20.0,False,False,False

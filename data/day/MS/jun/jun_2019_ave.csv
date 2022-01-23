@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 01194744830da7bbc9603d51735c58faef66f72e,jun,2019,cool,auto,Ocean Springs,727.8947368421053,725.7588516746412,725.7588516746412,0.0,False,False,True
 01194744830da7bbc9603d51735c58faef66f72e,jun,2019,cool,hold,Ocean Springs,716.3371320037986,712.9781576448244,712.9781576448244,0.0,False,False,True
 01820a6c0f2cbc9e5916f55ea06e8895d00bf93c,jun,2019,cool,auto,Jackson,770.8698630136986,782.931506849315,682.1369863013699,60.0,False,False,False
@@ -94,7 +94,7 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 39ca9e9a24b8e2b987fc73f1c0c04d95b75b15c2,jun,2019,cool,hold,Madison,711.1156941649899,711.2625754527163,711.17907444668,10.0,False,False,False
 39df2b06f769cc09e23d24a690d926106256c508,jun,2019,cool,hold,Vicksburg,697.2619047619048,685.0,685.0,0.0,False,False,False
 3ad9d6a40e72617286f99c1b03209e8fd8b2332e,jun,2019,cool,auto,Hernando,712.5693311582381,708.2504078303426,708.2504078303426,10.0,False,False,True
-3ad9d6a40e72617286f99c1b03209e8fd8b2332e,jun,2019,cool,hold,Hernando,721.1061151079136,719.2853717026379,719.9214628297362,10.0,False,False,True
+3ad9d6a40e72617286f99c1b03209e8fd8b2332e,jun,2019,cool,hold,Hernando,721.652756625038,721.2110874200426,721.2116966189461,10.0,False,False,True
 3bb374936e875ab1b3843f6b46891475f73d5159,jun,2019,auto,auto,Oxford,726.0884955752213,786.3805309734513,662.8849557522124,5.0,False,False,False
 3bb374936e875ab1b3843f6b46891475f73d5159,jun,2019,cool,auto,Oxford,728.0,785.1294117647059,663.2470588235294,5.0,False,False,False
 3c67e64a200d91a6a19384106382ec07affa3475,jun,2019,auto,hold,Starkville,735.0526315789474,717.0,667.0,5.0,False,False,False

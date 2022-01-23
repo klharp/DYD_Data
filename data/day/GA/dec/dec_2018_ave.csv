@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 002928222f5a2b5cfeba53f3aca5d5f24f6c4fe8,dec,2018,auto,auto,Columbus,688.7058823529412,750.0,690.0,40.0,False,False,False
 002928222f5a2b5cfeba53f3aca5d5f24f6c4fe8,dec,2018,auto,hold,Columbus,714.5833333333334,750.0,700.0,40.0,False,False,False
 002928222f5a2b5cfeba53f3aca5d5f24f6c4fe8,dec,2018,heat,auto,Columbus,711.7740585774059,710.0627615062762,710.0334728033473,40.0,False,False,False
@@ -2537,7 +2537,7 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 91e4467169314adccdb825feb1df2b05a09a5032,dec,2018,heat,hold,Atlanta,709.5890909090909,710.0218181818182,709.9963636363636,0.0,False,False,False
 9249785fa0ce3669becd1b86fcf8a09b8be42540,dec,2018,cool,auto,Braselton,710.65625,687.65625,686.0,15.0,False,False,False
 9249785fa0ce3669becd1b86fcf8a09b8be42540,dec,2018,cool,hold,Braselton,723.9751552795032,715.5217391304348,715.5962732919255,15.0,False,False,False
-9249785fa0ce3669becd1b86fcf8a09b8be42540,dec,2018,heat,auto,Braselton,716.5535714285714,731.625,697.5238095238095,15.0,False,False,False
+9249785fa0ce3669becd1b86fcf8a09b8be42540,dec,2018,heat,auto,Braselton,712.1038961038961,729.974025974026,680.1818181818181,15.0,False,False,False
 9249785fa0ce3669becd1b86fcf8a09b8be42540,dec,2018,heat,hold,Braselton,737.9227421109902,709.0424374319913,702.1675734494015,15.0,False,False,False
 92a1f8de7b712972f97a80c9021b6e4746da18af,dec,2018,heat,auto,East point,734.2647058823529,730.0,740.0,55.0,True,False,True
 92afc7d4278c83e60adb5a3a025b860589984e6d,dec,2018,auto,hold,Brunswick,694.3877355477483,740.0,690.0,35.0,False,False,False

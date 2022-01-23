@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 01194744830da7bbc9603d51735c58faef66f72e,jul,2021,cool,hold,Ocean Springs,717.1533101045296,717.567944250871,717.567944250871,0.0,False,False,True
 024d1624a424d57f4cdc19a5fa9aa6d90739ef33,jul,2021,auto,hold,Horn Lake,699.6190476190476,700.0,680.0,26.0,True,False,True
 0442aded7dc2237382d8074027fe1db6823268d0,jul,2021,auto,hold,Oxford,673.014064697609,675.8586497890295,620.0,26.0,False,False,False

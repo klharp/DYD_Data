@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 21928216c72d02f4395d9585af619b190c11ed47,Jan,2017,auxHeatOnly,auto,Claymont ,719.2233991333653,711.618199325951,711.618199325951,115.0,False,False,True
 21928216c72d02f4395d9585af619b190c11ed47,Jan,2017,auxHeatOnly,hold,Claymont ,714.4285714285713,707.8046082949309,707.8046082949309,115.0,False,False,True
 21a8021fbd2bc2e837a130d42a96082c5b166d78,Jan,2017,heat,hold,Middletown,699.8688524590165,735.3934426229507,684.2459016393442,30.0,False,False,False

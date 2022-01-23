@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 004666c8518763d5ff5a1b6f9be919899724167e,dec,2020,auto,auto,Denver,665.7857142857143,740.0,690.0,10.0,False,False,False
 00b9d14bcf27ff6d6e0c30c6f60651c6c8c9ae8b,dec,2020,auto,auto,Aurora,682.8250517598344,748.8726708074535,679.8612836438923,17.0,False,False,False
 00b9d14bcf27ff6d6e0c30c6f60651c6c8c9ae8b,dec,2020,auto,hold,Aurora,676.0236087689714,755.5986509274874,674.8566610455312,17.0,False,False,False
@@ -1792,7 +1792,7 @@ dabf408ac7ac2509c1b93c47da1e2292c6d4e7d3,dec,2020,heat,hold,Denver,720.068965517
 db24874f02f6922c149458c5f189a62452c6a638,dec,2020,heat,hold,Colorado Springs,741.0647751605995,743.3533190578158,743.3533190578158,0.0,False,False,False
 db3d86d6f73e42dfaf3fc0a42fc2567c5f50f58b,dec,2020,auto,auto,Brighton,642.5120192307693,698.0240384615385,646.3485576923077,10.0,False,False,False
 db3d86d6f73e42dfaf3fc0a42fc2567c5f50f58b,dec,2020,auto,hold,Brighton,628.472972972973,668.472972972973,618.472972972973,10.0,False,False,False
-db3d86d6f73e42dfaf3fc0a42fc2567c5f50f58b,dec,2020,cool,hold,Brighton,679.8709677419355,603.7741935483871,601.0,10.0,False,False,False
+db3d86d6f73e42dfaf3fc0a42fc2567c5f50f58b,dec,2020,cool,hold,Brighton,725.5714285714286,647.5714285714286,601.0,10.0,False,False,False
 db3d86d6f73e42dfaf3fc0a42fc2567c5f50f58b,dec,2020,heat,auto,Brighton,656.1716937354988,660.6589327146172,660.5266821345708,10.0,False,False,False
 db3d86d6f73e42dfaf3fc0a42fc2567c5f50f58b,dec,2020,heat,hold,Brighton,659.9266055045872,661.545871559633,661.3761467889908,10.0,False,False,False
 db7e02dce449ebf7021e39440a71b2afc4c5bb51,dec,2020,auto,auto,Denver,694.7540983606557,790.0,700.0,90.0,False,False,False

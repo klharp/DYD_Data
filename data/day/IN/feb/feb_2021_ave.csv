@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 008844c6c1993ea32d6117993fa4c89479fc9db8,feb,2021,heat,hold,Indianapolis,697.1590909090909,700.2045454545455,700.040909090909,40.0,True,False,False
 00a57ff87df6c0a6293c5d88b27fcf5f48a0ad28,feb,2021,heat,hold,Fort Wayne,714.3782816229117,716.7058472553699,716.6772076372315,20.0,False,False,True
 00d57801ec029dad25ea93d564eea9c33eed2183,feb,2021,heat,hold,Zionsville,707.5721231766613,710.4068071312804,710.4376012965964,80.0,True,False,False

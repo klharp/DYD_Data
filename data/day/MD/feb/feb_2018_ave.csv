@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 0004ddd9fb43232e8457ed12b578e20c5e1b33b0,feb,2018,heat,auto,Parkville,703.4235294117647,713.9411764705883,704.2352941176471,50.0,False,False,False
 0004ddd9fb43232e8457ed12b578e20c5e1b33b0,feb,2018,heat,hold,Parkville,681.2777777777778,683.3333333333334,683.3333333333334,50.0,False,False,False
 00169fef3ce1e3a7aaaa39f9f28d8db467527197,feb,2018,auto,auto,Columbia,676.1538461538462,788.4615384615385,642.3076923076923,40.0,True,False,True
@@ -1688,8 +1688,8 @@ e37f9ba98932c4beb1e0e47a1b67ca7262f9e2a9,feb,2018,heat,hold,Ellicott City,754.47
 e3904f70ce2f86841c0b613db772a77df8bff25c,feb,2018,heat,hold,Marriottsville,608.1714285714286,703.7428571428571,702.6571428571428,15.0,True,False,True
 e3d387e7da10c6f7363b5057e3a8b1e60ebfaa8b,feb,2018,heat,auto,Parkville,694.577380952381,699.3571428571429,696.2321428571429,35.0,False,False,False
 e3fa08b7b2a4b969a765e6fddef315fadcf8016a,feb,2018,heat,auto,Bowie,672.9052496798976,776.112676056338,673.1779769526248,28.0,True,False,True
-e413094f5a4e6a21aac4a09d52b43e77df422501,feb,2018,heat,auto,Brookeville,650.530035335689,648.6890459363958,658.7862190812721,30.0,True,False,True
-e413094f5a4e6a21aac4a09d52b43e77df422501,feb,2018,heat,hold,Brookeville,656.7844827586207,658.3965517241379,658.4192789968652,30.0,True,False,True
+e413094f5a4e6a21aac4a09d52b43e77df422501,feb,2018,heat,auto,Brookeville,650.0823293172691,655.3373493975904,657.062248995984,30.0,True,False,True
+e413094f5a4e6a21aac4a09d52b43e77df422501,feb,2018,heat,hold,Brookeville,656.8298039215687,658.4423529411765,658.4376470588236,30.0,True,False,True
 e438282d42b840515af6395b04537fe3e625f70c,feb,2018,heat,auto,Sykesville,684.9489795918367,734.3571428571429,673.6938775510204,25.0,False,False,False
 e438282d42b840515af6395b04537fe3e625f70c,feb,2018,heat,hold,Sykesville,705.7142857142857,705.0,704.2857142857143,25.0,False,False,False
 e47580edfddf96803ad5c8212dadef716d9d3ec5,feb,2018,auto,auto,Upper Marlboro,697.234375,770.0625,690.25,10.0,False,False,False

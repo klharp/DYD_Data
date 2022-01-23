@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 00600479ce78c1cb4bfc08723e8887e839314ecc,jul,2017,cool,auto,hudsonville,694.8422131147541,693.2479508196722,694.7745901639345,26.0,False,False,False
 00600479ce78c1cb4bfc08723e8887e839314ecc,jul,2017,cool,hold,hudsonville,700.7933333333333,697.8666666666667,697.8666666666667,26.0,False,False,False
 00db9748e4d744f28a4c91a2efeb5b727f1a848b,jul,2017,cool,auto,Detroit,743.6633663366337,779.5643564356436,670.0,120.0,False,False,False

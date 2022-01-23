@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 00105867bef9463f0a62d5257d0e91b8c8d19dee,Jan,2018,heat,auto,Southgate,647.96875,651.53125,611.3125,75.0,False,False,False
 00105867bef9463f0a62d5257d0e91b8c8d19dee,Jan,2018,heat,hold,Southgate,649.1111111111111,661.5555555555555,617.8888888888889,75.0,False,False,False
 003e168f638289edc59e7df30f5a63ff7bae7a2e,Jan,2018,auto,hold,Science Hill,680.5,765.0,715.0,5.0,True,False,True
@@ -321,9 +321,9 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 9d6c9620df42468a54871ed22fa4892d66e63c0a,Jan,2018,heat,hold,Nicholasville,664.0337078651686,669.5786516853933,669.0505617977528,0.0,True,False,True
 9ec12314eae80ccc3568423009dc1b0246719e2e,Jan,2018,auto,auto,Crestwood,708.7045454545455,790.0,710.0,35.0,False,False,True
 9ec12314eae80ccc3568423009dc1b0246719e2e,Jan,2018,auto,hold,Crestwood,706.6709431345354,790.0,708.6175450762829,35.0,False,False,True
-a01ef8ac4e5e6a4a4eb8974ee46a3b78d98c540a,Jan,2018,cool,auto,Louisville,611.5686274509804,570.9607843137255,647.9411764705883,117.0,False,False,False
+a01ef8ac4e5e6a4a4eb8974ee46a3b78d98c540a,Jan,2018,cool,auto,Louisville,671.0,685.0,615.0,117.0,False,False,False
 a01ef8ac4e5e6a4a4eb8974ee46a3b78d98c540a,Jan,2018,cool,hold,Louisville,658.8615384615384,645.1692307692308,645.1692307692308,117.0,False,False,False
-a01ef8ac4e5e6a4a4eb8974ee46a3b78d98c540a,Jan,2018,heat,auto,Louisville,638.2525252525253,643.6464646464647,643.5858585858585,117.0,False,False,False
+a01ef8ac4e5e6a4a4eb8974ee46a3b78d98c540a,Jan,2018,heat,auto,Louisville,638.5714285714286,644.2755102040817,643.5612244897959,117.0,False,False,False
 a01ef8ac4e5e6a4a4eb8974ee46a3b78d98c540a,Jan,2018,heat,hold,Louisville,639.6857142857143,641.3428571428572,641.3428571428572,117.0,False,False,False
 a219c018f1ba9108e11ba53e8aef47809c9e2a9d,Jan,2018,heat,hold,La Grange,692.3351955307263,714.0055865921788,712.2402234636871,15.0,False,False,True
 a3103eb0c5dbd5c02f932a723acf23e6440dfd25,Jan,2018,heat,auto,Lexington,716.4534161490683,720.0,720.0,5.0,False,False,True

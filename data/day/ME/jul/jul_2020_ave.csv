@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 0b9bc48af842c50d1c433ab2aebe001d355ba6df,jul,2020,heat,hold,Freeport,713.5884995507637,650.0,650.0,0.0,False,False,False
 2d3f19df9837542e28597777e3227078de997066,jul,2020,cool,auto,Windham,723.6050808314088,738.6143187066974,738.6143187066974,10.0,False,False,False
 2d3f19df9837542e28597777e3227078de997066,jul,2020,cool,hold,Windham,722.3416666666667,742.5,742.5,10.0,False,False,False

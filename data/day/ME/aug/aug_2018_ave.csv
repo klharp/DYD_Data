@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 590487e13b23b41e232cab63f588978494880281,aug,2018,auto,auto,Portland,806.9,730.0,660.0,15.0,False,False,False
 590487e13b23b41e232cab63f588978494880281,aug,2018,auto,hold,Portland,729.6923076923077,716.2307692307693,666.2307692307693,15.0,False,False,False
 7aed90f1acc624bf0fc1c76698cf32d7e2dbf36e,aug,2018,cool,hold,York,745.8067324434127,760.0,690.0,5.0,False,False,False

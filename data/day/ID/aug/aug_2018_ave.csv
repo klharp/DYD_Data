@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 012d52b46213fa7b2169011049636c7a6438d977,aug,2018,cool,auto,Twin Falls,685.0232558139535,690.1860465116279,678.5813953488372,70.0,False,False,True
 01e233c4fce6aabdd3f8be666d5f32f972d2a16b,aug,2018,cool,hold,Eagle,731.4817460317461,731.9785714285714,731.9777777777778,16.0,False,False,False
 0218aa68e9bed64f49c4f28e910ab11b6adfc070,aug,2018,cool,auto,Nampa,736.9479166666666,740.03125,700.65625,28.0,True,False,False

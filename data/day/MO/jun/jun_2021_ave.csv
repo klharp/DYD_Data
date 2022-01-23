@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 002c012fc1267f2ff9bbe2a30db5e0c8ac85ac9f,jun,2021,cool,hold,Ballwin,727.1020408163265,719.8367346938776,720.0,49.0,True,False,False
 0039c46facfa454852fda813f2c88ed0bbfab21d,jun,2021,auto,hold,Blue Springs,729.3157894736842,724.2105263157895,664.7368421052631,20.0,False,False,False
 0056cebd6cd72164f185e551f894f028d3d2e319,jun,2021,cool,hold,Clarkson Valley,814.6027397260274,680.0,680.0,45.0,True,False,True

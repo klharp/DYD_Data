@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 01111a4f1b00377be5ecc305a424d92540564055,aug,2019,cool,auto,Rockwell,731.5862068965517,724.735632183908,707.5862068965517,0.0,True,False,True
 01111a4f1b00377be5ecc305a424d92540564055,aug,2019,cool,hold,Rockwell,747.3727272727273,758.4454545454546,720.0,0.0,True,False,True
 0365faed9eda6da204a74c3bcde1563857427d95,aug,2019,auto,auto,Little Rock,767.7272727272727,757.9090909090909,670.6363636363636,15.0,False,False,False
@@ -731,7 +731,7 @@ d0c65ed8121aae6b678191fc1ae4edaeda729288,aug,2019,cool,auto,Little Rock,722.8686
 d0c65ed8121aae6b678191fc1ae4edaeda729288,aug,2019,cool,hold,Little Rock,728.1148947231609,726.5219651676631,726.5222251104757,0.0,False,False,False
 d29d4a30656fe8d8339f19c788a5a76f83fb5a16,aug,2019,cool,auto,Little Rock,691.2575757575758,709.4242424242424,705.7878787878788,0.0,False,False,False
 d29d4a30656fe8d8339f19c788a5a76f83fb5a16,aug,2019,cool,hold,Little Rock,696.6032689450223,711.2050520059436,711.2050520059436,0.0,False,False,False
-d2aeae56b5aedc55ce1e17b960ad2d3ba94ca002,aug,2019,cool,auto,El Dorado,676.7172413793104,645.2597701149425,657.3540229885058,0.0,False,False,False
+d2aeae56b5aedc55ce1e17b960ad2d3ba94ca002,aug,2019,cool,auto,El Dorado,676.7457627118644,647.6707021791767,655.6150121065375,0.0,False,False,False
 d2aeae56b5aedc55ce1e17b960ad2d3ba94ca002,aug,2019,cool,hold,El Dorado,685.175009701203,664.2980209545983,664.2607683352736,0.0,False,False,False
 d2e75a2c90de867dbde7c6eb3d74b9d3ce5ef160,aug,2019,cool,auto,Pocahontas,674.9702380952381,675.0,675.0,0.0,False,False,False
 d2e75a2c90de867dbde7c6eb3d74b9d3ce5ef160,aug,2019,cool,hold,Pocahontas,669.2214285714285,670.0,670.0,0.0,False,False,False

@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 001d65da87242dc0b8bb7013ec8efe01c813e750,Jan,2019,heat,auto,Lake Orion,654.6835443037975,656.8101265822785,651.9746835443038,57.0,False,False,False
 001d65da87242dc0b8bb7013ec8efe01c813e750,Jan,2019,heat,hold,Lake Orion,681.498997995992,685.2725450901804,684.8957915831663,57.0,False,False,False
 001fded0a083f726b2ccab5616a25874f4af28a2,Jan,2019,heat,hold,Grand Rapids,683.95,693.4625,682.45,40.0,False,False,False
@@ -87,8 +87,8 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 0445eac08e5c854ed71c55d95d81a232709297d2,Jan,2019,heat,hold,Ada,662.6326530612245,660.1224489795918,660.1224489795918,0.0,False,False,False
 0458fc2f9daefb3a610a9e060b293d463e3a28f6,Jan,2019,heat,auto,Manistee,674.7777777777778,778.2222222222222,678.5185185185185,45.0,False,False,False
 0458fc2f9daefb3a610a9e060b293d463e3a28f6,Jan,2019,heat,hold,Manistee,697.051724137931,700.0,700.0,45.0,False,False,False
-046f398a28fc440e824a3d8d0b941b626a960b99,Jan,2019,heat,auto,Belleville,747.8274894810659,720.0,746.6816269284712,20.0,False,False,False
-046f398a28fc440e824a3d8d0b941b626a960b99,Jan,2019,heat,hold,Belleville,774.9415489527521,719.6093521675597,775.447637603507,20.0,False,False,False
+046f398a28fc440e824a3d8d0b941b626a960b99,Jan,2019,heat,auto,Belleville,746.1264367816092,720.0,744.1580459770115,20.0,False,False,False
+046f398a28fc440e824a3d8d0b941b626a960b99,Jan,2019,heat,hold,Belleville,771.8624040920716,719.5897698209719,771.5570332480819,20.0,False,False,False
 047ea12524d135bcd4c41a8f4ce2d8dc9b7c1028,Jan,2019,heat,auto,Traverse City,712.855981416957,715.1794425087108,715.1794425087108,20.0,True,False,False
 047ea12524d135bcd4c41a8f4ce2d8dc9b7c1028,Jan,2019,heat,hold,Traverse City,705.4089595375723,708.3251445086705,708.3251445086705,20.0,True,False,False
 04900e9c553a93b8280818005af16ce89bebef8f,Jan,2019,heat,auto,Laketon,678.2151898734177,689.5886075949367,684.379746835443,20.0,False,False,False

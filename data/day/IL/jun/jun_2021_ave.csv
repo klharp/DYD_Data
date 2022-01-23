@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 000ef89eadf430f4ec4be11295643c07969fce01,jun,2021,cool,hold,Wheaton,771.1458333333334,771.875,771.25,40.0,True,False,False
 0010ea447dc3807b33daad2477d1cc02a71571fa,jun,2021,cool,hold,Chicago,724.0,732.21875,732.5,5.0,False,False,False
 0027e9be6cd672afe749634eaf39c372d1b7819e,jun,2021,auto,hold,Sparland,709.6363636363636,710.4090909090909,640.7272727272727,75.0,True,False,False
@@ -1849,7 +1849,7 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 8198c510e585ad5a0ddea60c9a01c900e7ba86e9,jun,2021,cool,hold,Bloomingdale,732.14,727.1733333333333,727.1733333333333,45.0,False,False,False
 819d8bab95f1741be8e64ca5cd1194cc245be01b,jun,2021,auto,hold,Naperville,703.2291220556746,708.5867237687366,678.5053533190578,5.0,True,False,False
 82263a7a1ceca5606e73ffd9093c4f931dc271a5,jun,2021,cool,hold,Lake Zurich,726.7272727272727,713.4090909090909,713.4090909090909,47.0,False,False,False
-822ed42542d6ec617eec738321cf51025a3faa5a,jun,2021,cool,hold,Galesburg,694.1817150635209,678.1971415607985,683.8933756805808,0.0,False,False,False
+822ed42542d6ec617eec738321cf51025a3faa5a,jun,2021,cool,hold,Galesburg,693.9936200378072,683.0928638941399,684.8870510396976,0.0,False,False,False
 822ed42542d6ec617eec738321cf51025a3faa5a,jun,2021,heat,hold,Galesburg,725.0,698.0208333333334,698.0208333333334,0.0,False,False,False
 82355871dc9e50f9d901bb65cd5ea2b5b5f83e53,jun,2021,cool,hold,Chicago,713.2017291066282,720.3890489913545,720.4149855907781,5.0,False,False,False
 824f339c158e6563b809be34a5268d0a7b21f167,jun,2021,cool,hold,Streamwood,747.9579831932773,710.0,710.0,50.0,False,False,False
@@ -3024,7 +3024,7 @@ d21b528f405d562ba97684a45f87b3e8793b3ddc,jun,2021,heat,hold,Joliet,705.953079178
 d22483501e6cf95a288765b591eed40babb0afd0,jun,2021,auto,hold,Oak Park,752.2919708029198,750.0,670.0,0.0,True,False,True
 d22483501e6cf95a288765b591eed40babb0afd0,jun,2021,cool,hold,Oak Park,757.6521739130435,756.0217391304348,754.2826086956521,0.0,True,False,True
 d241101353ce704d50338f66b03a87c6d2665376,jun,2021,cool,hold,Elmhurst,747.3759036144578,739.1469879518072,738.6602409638555,60.0,True,False,False
-d24d8426d4a4c6313a5293b478ba7d43879728aa,jun,2021,cool,hold,West Dundee,686.767955801105,598.3117185228264,645.0843268391974,10.0,False,False,False
+d24d8426d4a4c6313a5293b478ba7d43879728aa,jun,2021,cool,hold,West Dundee,679.4853090172239,671.0911854103343,671.0927051671732,10.0,False,False,False
 d25a5870ea0581122a094f84bc68d018a6b916e7,jun,2021,cool,hold,Schaumburg,711.4642857142857,693.0833333333334,692.9404761904761,30.0,False,False,False
 d29375bba2487284d38ff98c6b41895d60bff447,jun,2021,cool,hold,West Peoria,716.9830508474577,712.4293785310734,712.4293785310734,0.0,False,False,False
 d2a41ca8ac454c575a5a21a5324e077552f0c80e,jun,2021,cool,hold,Grayslake,710.625641025641,705.2923076923076,705.1794871794872,20.0,False,False,False

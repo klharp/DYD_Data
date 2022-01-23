@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 004666c8518763d5ff5a1b6f9be919899724167e,feb,2019,heat,auto,Denver,704.6666666666666,700.0,700.0,10.0,False,False,False
 004666c8518763d5ff5a1b6f9be919899724167e,feb,2019,heat,hold,Denver,703.7190476190476,721.047619047619,706.8428571428572,10.0,False,False,False
 00b9d14bcf27ff6d6e0c30c6f60651c6c8c9ae8b,feb,2019,auto,auto,Aurora,698.2727272727273,730.0,700.0,17.0,False,False,False
@@ -1643,9 +1643,8 @@ d2471e684a91add5d34b3989bc745e81ebaa7f46,feb,2019,heat,auto,Pueblo,687.5,690.0,6
 d26fe90a54c469638b5d283ce7c73ea24ed385cc,feb,2019,heat,auto,Denver,684.0,680.25,673.8125,5.0,False,False,False
 d26fe90a54c469638b5d283ce7c73ea24ed385cc,feb,2019,heat,hold,Denver,670.1666666666666,653.9444444444445,641.7777777777778,5.0,False,False,False
 d3020b5ae4f3dc70c8d5628df5b6b548ebb19f70,feb,2019,heat,hold,Colorado Springs,649.0,680.0,680.0,5.0,False,False,False
-d30508b1ddaef2cb57380f3bfebb7de33d9d42ab,feb,2019,cool,auto,Fort Collins,584.4765279007971,571.9955713020372,824.0416297608504,0.0,False,False,False
-d30508b1ddaef2cb57380f3bfebb7de33d9d42ab,feb,2019,cool,hold,Fort Collins,571.6338028169014,562.112676056338,731.0,0.0,False,False,False
-d30508b1ddaef2cb57380f3bfebb7de33d9d42ab,feb,2019,heat,auto,Fort Collins,602.5744680851063,575.8936170212766,862.6170212765958,0.0,False,False,False
+d30508b1ddaef2cb57380f3bfebb7de33d9d42ab,feb,2019,cool,auto,Fort Collins,627.5,617.0,731.0,0.0,False,False,False
+d30508b1ddaef2cb57380f3bfebb7de33d9d42ab,feb,2019,heat,auto,Fort Collins,609.4,659.0,775.0,0.0,False,False,False
 d3431b6631efd28cf78687a04438dd922ac6ebbd,feb,2019,heat,auto,Aurora,738.6980392156863,747.7647058823529,747.7647058823529,16.0,False,False,False
 d3431b6631efd28cf78687a04438dd922ac6ebbd,feb,2019,heat,hold,Aurora,750.8666666666667,752.9230769230769,752.9230769230769,16.0,False,False,False
 d3456139c944fe77aecebda3fdb66405bebb3c31,feb,2019,heat,hold,Thornton,714.7142857142857,707.4821428571429,705.1071428571429,10.0,False,False,False

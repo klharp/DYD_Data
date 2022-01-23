@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 006e9eb663d3497393620279fd86ae3ef8cd61cb,Jan,2020,heat,hold,Middletown,711.4877450980392,694.8602941176471,694.8602941176471,10.0,True,False,False
 05162dee3201157920ad972444b13d9722fcb17c,Jan,2020,heat,auto,Rehoboth Beach,676.3789473684211,680.5263157894736,677.8473684210526,9.0,True,False,True
 05162dee3201157920ad972444b13d9722fcb17c,Jan,2020,heat,hold,Rehoboth Beach,668.9615384615385,670.0,670.0,9.0,True,False,True

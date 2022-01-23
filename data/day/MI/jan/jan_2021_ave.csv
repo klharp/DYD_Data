@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 000af209b660b6da2dfc91a633650ccb97df073e,Jan,2021,heat,hold,Pinckney,677.3981481481482,680.0,680.0,80.0,False,False,False
 001d65da87242dc0b8bb7013ec8efe01c813e750,Jan,2021,heat,hold,Lake Orion,704.5596951735818,707.4614733276884,707.4614733276884,57.0,False,False,False
 001fded0a083f726b2ccab5616a25874f4af28a2,Jan,2021,heat,hold,Grand Rapids,689.8836565096952,694.0914127423823,693.1385041551247,40.0,False,False,False

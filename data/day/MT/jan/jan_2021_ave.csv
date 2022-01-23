@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 023f28aa735af23620c0b41b3af8a99be22cdd3c,Jan,2021,heat,hold,Frenchtown,671.5555555555555,698.0,680.0,15.0,False,False,False
 0bc51b95b2dc23713f611e182c689ad03dc2c300,Jan,2021,heat,hold,Great Falls,696.7461024498887,699.402004454343,699.402004454343,10.0,False,False,False
 1621a0265213860c5aafdfd9277741989e0d8ef5,Jan,2021,heat,hold,Missoula,667.5192307692307,670.3173076923077,670.3173076923077,60.0,True,False,False

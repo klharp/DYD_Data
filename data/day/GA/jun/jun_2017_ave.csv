@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 00474e9c5a4122916b24150ad706014b0c17eb90,jun,2017,cool,auto,Newnan,717.6486175115207,717.3122119815669,731.5668202764977,10.0,False,False,False
 00474e9c5a4122916b24150ad706014b0c17eb90,jun,2017,cool,hold,Newnan,720.7808788598575,720.9251781472684,720.9251781472684,10.0,False,False,False
 007b945172cb726b360ffa1ab95f88d706fe99ac,jun,2017,cool,hold,Marietta,765.6458333333334,775.0,775.0,20.0,False,False,False
@@ -1002,7 +1002,7 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 9bea6f9808b8d90c8c716fafb4b2b0cac842935e,jun,2017,cool,hold,Jasper,727.6043956043956,728.7774725274726,728.5412087912088,0.0,True,False,True
 9c058c402320d377124b3275fd8791ac300c2075,jun,2017,auto,hold,Cumming,726.9432799013564,732.3760789149198,673.9987669543773,17.0,True,False,False
 9c058c402320d377124b3275fd8791ac300c2075,jun,2017,cool,hold,Cumming,748.7333333333333,770.0,720.0,17.0,True,False,False
-9c92d05ef967fdbab2ba2caa39138a469182a02d,jun,2017,cool,auto,Atlanta,722.8168297455969,727.8277886497065,718.4947162426614,0.0,False,False,True
+9c92d05ef967fdbab2ba2caa39138a469182a02d,jun,2017,cool,auto,Atlanta,723.3766851704996,729.7620935765266,718.7367168913561,0.0,False,False,True
 9c92d05ef967fdbab2ba2caa39138a469182a02d,jun,2017,cool,hold,Atlanta,720.2368421052631,742.2894736842105,732.0157894736842,0.0,False,False,True
 9c92d05ef967fdbab2ba2caa39138a469182a02d,jun,2017,heat,auto,Atlanta,706.6865671641791,726.5373134328358,713.179104477612,0.0,False,False,True
 9d03761562004cd91c052230a4b4cf88c0cfde1f,jun,2017,auto,auto,Powder Springs,743.1899059024807,752.2121471343028,640.0,15.0,False,False,False

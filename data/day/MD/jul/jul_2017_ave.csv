@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 0004ddd9fb43232e8457ed12b578e20c5e1b33b0,jul,2017,cool,auto,Parkville,774.5506607929516,766.0176211453745,625.0,50.0,False,False,False
 0004ddd9fb43232e8457ed12b578e20c5e1b33b0,jul,2017,cool,hold,Parkville,742.3333333333334,740.0,740.0,50.0,False,False,False
 00169fef3ce1e3a7aaaa39f9f28d8db467527197,jul,2017,cool,auto,Columbia,742.59375,741.3875,720.0625,40.0,True,False,True
@@ -106,7 +106,7 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 25980c134a6a00cab7cd5ae51351f183314998dd,jul,2017,cool,hold,Frederick,672.8333333333334,670.0,670.0,0.0,False,False,False
 26ee4e9d68034102e116a4f9e63577c55ffe40ba,jul,2017,cool,auto,Ellicott City,797.5333333333333,800.0,760.0,20.0,False,False,False
 26ee4e9d68034102e116a4f9e63577c55ffe40ba,jul,2017,cool,hold,Ellicott City,752.7894736842105,754.7631578947369,754.859649122807,20.0,False,False,False
-270ef1906145491045a55c90337fe2ef22b48c00,jul,2017,cool,auto,Boyds,660.8281767955801,674.8276243093923,640.2779005524862,0.0,False,False,False
+270ef1906145491045a55c90337fe2ef22b48c00,jul,2017,cool,auto,Boyds,663.5746223564955,681.8356495468278,640.3039274924471,0.0,False,False,False
 270ef1906145491045a55c90337fe2ef22b48c00,jul,2017,cool,hold,Boyds,653.3015873015873,649.1666666666666,649.047619047619,0.0,False,False,False
 2732c9c096c3048b800c9934ca3db84644f76292,jul,2017,cool,auto,Finksburg,725.1623711340206,733.0927835051547,697.5257731958762,30.0,True,False,True
 2732c9c096c3048b800c9934ca3db84644f76292,jul,2017,cool,hold,Finksburg,725.4105793450882,731.0239294710327,731.0201511335013,30.0,True,False,True

@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 001d65da87242dc0b8bb7013ec8efe01c813e750,jul,2021,cool,hold,Lake Orion,708.1950067476383,714.395411605938,714.395411605938,57.0,False,False,False
 001fded0a083f726b2ccab5616a25874f4af28a2,jul,2021,cool,hold,Grand Rapids,730.8260869565217,717.8260869565217,717.8260869565217,40.0,False,False,False
 005ed661c2e61c794259a9ea59fa635198f73779,jul,2021,auto,hold,Gerrish Township,723.8823529411765,720.0,668.7647058823529,0.0,False,False,False
@@ -1325,7 +1325,7 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 9b554b865b7a218ba9c6c3989b1c5e10e274bae2,jul,2021,cool,hold,Dearborn,750.796081567373,753.9556177528989,753.9556177528989,0.0,False,False,False
 9b599279bd0df77e3eb7c9ade2b6fdf721a95044,jul,2021,cool,hold,Saint Helen,746.4563106796116,753.7330097087379,753.7330097087379,5.0,False,False,False
 9b599279bd0df77e3eb7c9ade2b6fdf721a95044,jul,2021,heat,hold,Saint Helen,720.0482648583965,693.9018747506981,693.9018747506981,5.0,False,False,False
-9b60ec9808c90cf138ce08837bc03a14610764de,jul,2021,cool,hold,Westland,684.4789833822092,660.9403714565005,674.0127077223851,5.0,False,False,False
+9b60ec9808c90cf138ce08837bc03a14610764de,jul,2021,cool,hold,Westland,684.4913176710929,663.6792645556691,674.1930541368744,5.0,False,False,False
 9b7cd75c5f755a6c9950f965e7bdfb9abad055a5,jul,2021,auto,hold,Grand Rapids,701.6130952380952,696.3214285714286,646.3214285714286,70.0,False,False,False
 9b842beaed103e40c393ab39c88ffc4ff892286c,jul,2021,cool,hold,Rockford,735.8368495077356,741.7623066104079,741.1983122362869,0.0,False,False,False
 9b8f7b7659cdc06623f0f8ca9efdd4e0409ecf1f,jul,2021,cool,hold,Livonia,724.5714285714286,719.8571428571429,718.047619047619,57.0,False,False,False

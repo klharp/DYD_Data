@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 051bb1ef790fd215de91e0304b4f8e06038c2f7d,feb,2017,heat,auto,middleton,665.6595238095238,700.0,671.6857142857143,10.0,True,False,False
 060e94e6800d4d62e15d65a113d8f8cb6e0a9983,feb,2017,heat,auto,Moscow,632.5,666.1666666666666,630.0,85.0,False,False,False
 060e94e6800d4d62e15d65a113d8f8cb6e0a9983,feb,2017,heat,hold,Moscow,644.0,655.3888888888888,649.1666666666666,85.0,False,False,False
@@ -88,7 +88,7 @@ f4cbc0db60635eca686b205ddc99a48af28cd358,feb,2017,heat,hold,Ketchum,532.37234042
 00047ac181d6c519a7980acd6dcb0fac57218cf1,feb,2018,heat,hold,Idaho Falls,726.625,740.0,740.0,7.0,False,False,False
 01e233c4fce6aabdd3f8be666d5f32f972d2a16b,feb,2018,heat,hold,Eagle,701.7176470588237,704.5882352941177,704.5882352941177,16.0,False,False,False
 0242366947dd8f91e501280859cb1352ac56a3b1,feb,2018,heat,auto,Shelley,684.9714285714285,817.7714285714287,651.5,40.0,False,False,False
-0242366947dd8f91e501280859cb1352ac56a3b1,feb,2018,heat,hold,Shelley,694.7047075606276,695.7902995720401,695.7988587731813,40.0,False,False,False
+0242366947dd8f91e501280859cb1352ac56a3b1,feb,2018,heat,hold,Shelley,694.7098001902948,695.7302568981922,695.6655566127498,40.0,False,False,False
 02d96395673191f775b25dd345a521c4caa4250c,feb,2018,heat,auto,Boise,720.0952380952382,723.047619047619,723.047619047619,20.0,False,False,False
 051bb1ef790fd215de91e0304b4f8e06038c2f7d,feb,2018,heat,auto,middleton,690.7846153846153,807.8461538461537,690.0,10.0,True,False,False
 08e17f959d8fff4ab5f1bab6028a513900f97800,feb,2018,heat,auto,Firth,692.5,700.0,700.0,50.0,False,False,False

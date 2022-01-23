@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 00a0f0ba8d5a1f94ea2806afb6c1baa70177c6c1,aug,2020,cool,hold,Medfield,780.6372549019608,784.3039215686274,784.3039215686274,37.0,False,False,False
 019c5eecdb47ecf46a4c4a1fe9d8a50618e652f2,aug,2020,auto,auto,Needham,729.953125,729.8772321428571,669.8794642857143,20.0,False,False,False
 019c5eecdb47ecf46a4c4a1fe9d8a50618e652f2,aug,2020,auto,hold,Needham,735.534059945504,734.6457765667575,670.0,20.0,False,False,False
@@ -227,8 +227,8 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 216156b1c6c4d7703e8a41bd0986a5bafaa4d185,aug,2020,cool,hold,Boston,754.9285714285714,750.3571428571429,749.0892857142857,120.0,False,False,False
 219e31f25223d0815770a46a157a0ce982192161,aug,2020,cool,auto,Indian Orchard,735.3698630136986,721.6301369863014,719.7534246575342,90.0,True,False,False
 219e31f25223d0815770a46a157a0ce982192161,aug,2020,cool,hold,Indian Orchard,733.4305555555555,723.7916666666666,719.0277777777778,90.0,True,False,False
-21d6010ac427902cb4dddef3951db42cdbfee6b4,aug,2020,cool,auto,Tewksbury,743.0542986425339,715.816742081448,768.9638009049773,0.0,True,False,False
-21d6010ac427902cb4dddef3951db42cdbfee6b4,aug,2020,cool,hold,Tewksbury,746.4840667678301,740.3808801213961,740.5887708649469,0.0,True,False,False
+21d6010ac427902cb4dddef3951db42cdbfee6b4,aug,2020,cool,auto,Tewksbury,742.0079787234042,748.1808510638298,760.9095744680851,0.0,True,False,False
+21d6010ac427902cb4dddef3951db42cdbfee6b4,aug,2020,cool,hold,Tewksbury,746.4164133738602,740.5942249240121,740.4528875379939,0.0,True,False,False
 21e27e04afd16d29a56db1af9098a944457f7d57,aug,2020,auto,auto,Weymouth,743.6543689320388,752.2058252427184,640.0,60.0,True,False,False
 21e27e04afd16d29a56db1af9098a944457f7d57,aug,2020,auto,hold,Weymouth,755.7266514806378,759.5831435079726,640.0,60.0,True,False,False
 226874594b7f9ac2e7f66fc0c587dcecf8a98a08,aug,2020,cool,hold,Plymouth,759.5384615384615,780.9326923076923,774.4423076923077,5.0,False,False,False

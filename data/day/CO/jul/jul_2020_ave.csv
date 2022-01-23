@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 004666c8518763d5ff5a1b6f9be919899724167e,jul,2020,cool,auto,Denver,740.2033898305085,737.1355932203389,737.1355932203389,10.0,False,False,False
 004666c8518763d5ff5a1b6f9be919899724167e,jul,2020,cool,hold,Denver,762.4807849550286,766.1586263286999,761.8683565004088,10.0,False,False,False
 00b9d14bcf27ff6d6e0c30c6f60651c6c8c9ae8b,jul,2020,auto,auto,Aurora,679.8260869565217,670.0434782608696,620.0,17.0,False,False,False
@@ -695,7 +695,7 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 544d02534ea3537ec84b63ebab2bf96edead0a56,jul,2020,cool,auto,Larkspur,689.8636363636364,650.0,657.2727272727273,10.0,False,False,True
 545e765cc6e05b99fc5e69f8d3fc64f2d4395e55,jul,2020,cool,hold,Fort Collins,734.3529411764706,714.1764705882352,714.0,15.0,False,False,False
 5465ee8a66585fbc004a23a7ce11b2f0215216d2,jul,2020,auto,auto,Arvada,754.0,750.0,680.0,15.0,False,False,False
-54c3581520f7d888d19beb9ca0c5c1ebf37bd216,jul,2020,cool,auto,Colorado Springs,663.7142857142857,664.7072599531616,665.2669789227166,30.0,False,False,False
+54c3581520f7d888d19beb9ca0c5c1ebf37bd216,jul,2020,cool,auto,Colorado Springs,664.5563549160671,666.2589928057554,664.9136690647482,30.0,False,False,False
 54c3581520f7d888d19beb9ca0c5c1ebf37bd216,jul,2020,cool,hold,Colorado Springs,665.869109947644,686.6125654450262,685.3717277486911,30.0,False,False,False
 54eca1c516ca822e1383bda0d358da0a878556a2,jul,2020,cool,hold,Monument,711.2083333333334,750.0,750.0,10.0,False,False,False
 54f190fbd0710db3abcfab453e25add026387cf9,jul,2020,cool,auto,Boulder,745.4444444444445,791.5213675213676,682.7179487179487,30.0,False,False,False

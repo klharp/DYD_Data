@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 01111a4f1b00377be5ecc305a424d92540564055,feb,2021,auxHeatOnly,hold,Rockwell,648.9358288770053,800.0,653.7860962566845,0.0,True,False,True
 01231fd2a32ab52081235d74998b0c2e4e9e9666,feb,2021,auto,hold,Rogers,678.0,714.1666666666666,665.8333333333334,20.0,True,False,False
 01231fd2a32ab52081235d74998b0c2e4e9e9666,feb,2021,cool,hold,Rogers,660.4333333333333,690.0,690.0,20.0,True,False,False

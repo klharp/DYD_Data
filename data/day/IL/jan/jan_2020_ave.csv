@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 000009f677b24c7e48f1f6e36a9ab8ab83f546ba,Jan,2020,auto,auto,Chicago,653.4807692307693,700.5384615384615,634.7692307692307,0.0,False,False,True
 000ef89eadf430f4ec4be11295643c07969fce01,Jan,2020,heat,hold,Wheaton,677.5,680.0,680.0,40.0,True,False,False
 0010ea447dc3807b33daad2477d1cc02a71571fa,Jan,2020,heat,auto,Chicago,703.1744186046511,741.9767441860465,707.6860465116279,5.0,False,False,False
@@ -1773,7 +1773,6 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 4eccefd4b2cb91a0c768047775e884dd4fb62927,Jan,2020,auto,hold,Itasca,707.6574074074074,766.6074074074074,696.6074074074074,0.0,False,False,False
 4ed5dd2145d7cb3caf53e377e19ef8fc2c9c120e,Jan,2020,heat,auto,Chicago,678.4852941176471,700.0,700.0,110.0,False,False,False
 4ed5dd2145d7cb3caf53e377e19ef8fc2c9c120e,Jan,2020,heat,hold,Chicago,688.22,700.0,700.0,110.0,False,False,False
-4efec313f9c470749f5d0bf5e18fc11631fbbc84,Jan,2020,heat,auto,Minooka,705.6875,600.0,709.0,15.0,False,False,False
 4efec313f9c470749f5d0bf5e18fc11631fbbc84,Jan,2020,heat,hold,Minooka,695.2732919254659,699.1739130434783,699.1739130434783,15.0,False,False,False
 4f1f3a7c28355eebdf3f368c5d2524cd49d81ae7,Jan,2020,heat,hold,Burr Ridge,680.9304160688665,681.0,681.0,0.0,True,False,False
 4f2669743e37feb7debad0f237deeae61b1dae2f,Jan,2020,auto,auto,Aurora,687.1872909698997,750.0,690.0,20.0,False,False,False
@@ -5417,8 +5416,6 @@ f349ccad78102102b810b55f26083dae266b411d,Jan,2020,heat,hold,Columbia,699.4350515
 f352156d56885a556c1efdfb425002b7bc5d3b1a,Jan,2020,heat,auto,Evanston,674.1012658227849,740.0,680.0,99.0,True,False,False
 f352156d56885a556c1efdfb425002b7bc5d3b1a,Jan,2020,heat,hold,Evanston,684.5764705882353,692.4235294117647,691.0117647058823,99.0,True,False,False
 f3534a9293a62586ae1165ed4a047e2f6611f9a5,Jan,2020,auto,hold,Urbana,729.7361111111111,825.0,720.0,0.0,False,False,False
-f367dcdf79ca284e040ff22629a8f1c863b5b247,Jan,2020,heat,auto,Schaumburg,712.7592233009709,519.0,716.0213592233009,30.0,True,False,False
-f367dcdf79ca284e040ff22629a8f1c863b5b247,Jan,2020,heat,hold,Schaumburg,714.1906976744186,519.0,718.1767441860466,30.0,True,False,False
 f38d1ceec8dd4ff9e9da6e9d5703adaa68a9b5cf,Jan,2020,auto,hold,Naperville,673.6973684210526,735.0,675.0,30.0,True,False,False
 f3912a3c8c1b9928b5320dd934f86609e47854c0,Jan,2020,heat,auto,Gurnee,724.1785714285714,725.5,725.4642857142857,20.0,False,False,False
 f3912a3c8c1b9928b5320dd934f86609e47854c0,Jan,2020,heat,hold,Gurnee,720.2972292191436,721.0327455919396,701.3778337531486,20.0,False,False,False

@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 007057fb45e64d4163560e034a08f5a949d56fb7,jul,2020,cool,auto,Overland Park,720.5438596491229,704.8947368421053,701.4035087719299,39.0,True,False,False
 0151c36b94d654ae2ec0ae5d5693c45376258e4c,jul,2020,cool,hold,Westwood,714.4858757062146,706.1638418079096,705.1129943502825,0.0,True,False,False
 01a0d7a563a1755d37bb856a01a56e452deb2010,jul,2020,auto,auto,Olathe,735.9971590909091,737.6931818181819,640.0,30.0,False,False,False

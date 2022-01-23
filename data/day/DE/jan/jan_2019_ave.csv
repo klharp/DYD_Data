@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 006e9eb663d3497393620279fd86ae3ef8cd61cb,Jan,2019,heat,auto,Middletown,685.8571428571429,688.4799107142857,688.4799107142857,10.0,True,False,False
 006e9eb663d3497393620279fd86ae3ef8cd61cb,Jan,2019,heat,hold,Middletown,678.3631516587677,678.2754739336493,678.2754739336493,10.0,True,False,False
 013944733f92e41cff3d9fdbd4337d8be052cc3b,Jan,2019,heat,auto,Georgetown,641.081081081081,749.8378378378378,636.3783783783783,20.0,True,False,True

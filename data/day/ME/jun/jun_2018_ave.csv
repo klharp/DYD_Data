@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 06322bf1e7bd15eb760e1cc07c01525c4fd679bc,jun,2018,heat,hold,Harpswell,694.0675804909149,666.4051641695888,661.8737647433854,5.0,False,False,False
 071d40a2ebc85623a1b5da94a1ee4af028115825,jun,2018,heat,hold,North Yarmouth,700.3333333333334,700.0,700.0,25.0,False,False,False
 0adbc6ab910c02e6c98c5e3b698aa65408f25408,jun,2018,heat,hold,Old Orchard,705.0572916666666,650.0,620.0,97.0,False,False,False

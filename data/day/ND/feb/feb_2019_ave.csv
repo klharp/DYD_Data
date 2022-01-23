@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 007c248ef28f2dca0dd638319a0d779a8fa9cdb8,feb,2019,auto,auto,Mandan,739.75,705.0,655.0,5.0,False,False,False
 007c248ef28f2dca0dd638319a0d779a8fa9cdb8,feb,2019,auto,hold,Mandan,685.7948717948718,739.3504273504274,689.3504273504274,5.0,False,False,False
 0c0bd0b708210af527c4acd1652566b20b9e1113,feb,2019,heat,auto,Casselton,707.2222222222222,710.0,710.0,70.0,False,False,False
@@ -10,7 +10,6 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 31bab83a250783cc0d48f1509a6fdfeb059990b7,feb,2019,heat,hold,Argusville,642.2639885222382,650.0,645.0,0.0,False,False,True
 3e1895a4447b3d22741a2a18a91fa946c1562773,feb,2019,heat,auto,Lincoln,710.1842105263158,784.0131578947369,722.2434210526316,45.0,False,False,False
 3e1895a4447b3d22741a2a18a91fa946c1562773,feb,2019,heat,hold,Lincoln,669.5714285714286,695.0,683.4285714285714,45.0,False,False,False
-3e9bc2bf919bc03704e70cf4f468b154080744ea,feb,2019,heat,auto,Bismarck,707.1875,850.0,716.1875,35.0,False,False,False
 3e9bc2bf919bc03704e70cf4f468b154080744ea,feb,2019,heat,hold,Bismarck,705.4473684210526,710.0,710.0,35.0,False,False,False
 3f39fe1ad41d5239b414e4922a76330f2d038501,feb,2019,heat,auto,Fargo,668.9176470588235,683.2470588235294,683.2470588235294,10.0,False,False,False
 3f39fe1ad41d5239b414e4922a76330f2d038501,feb,2019,heat,hold,Fargo,667.6574539363484,678.6599664991625,678.6599664991625,10.0,False,False,False
@@ -20,7 +19,7 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 448c0386d6edaf3dae9216a720dd4b1465e89a2d,feb,2019,heat,hold,Fargo,701.2374100719425,726.2877697841726,707.7553956834532,90.0,True,False,False
 46c6cf7aa119b224a55cf4ce661634d3de1b8aa4,feb,2019,heat,auto,Fargo,691.6515151515151,733.189393939394,695.0909090909091,68.0,False,False,False
 4d17731b1ff0a2df444618f9481aa445cd823197,feb,2019,heat,auto,Dickinson,629.0697674418604,700.0,700.0,0.0,False,False,False
-4d17731b1ff0a2df444618f9481aa445cd823197,feb,2019,heat,hold,Dickinson,673.9395910780669,703.3875464684015,691.3327137546469,0.0,False,False,False
+4d17731b1ff0a2df444618f9481aa445cd823197,feb,2019,heat,hold,Dickinson,674.0083798882681,703.3054003724395,691.5465549348231,0.0,False,False,False
 5144eced072ef32847cb8518ae294adfe067150c,feb,2019,heat,hold,Colfax,712.474358974359,742.0,712.0,5.0,False,False,False
 5ab66c52e0eac96c1c089419be40dc89262c3cfc,feb,2019,heat,hold,Dickinson,677.0,671.6041666666666,671.0833333333334,5.0,False,False,False
 5cd961d7fce7850ef803f04c65462e23ec55fbc9,feb,2019,heat,hold,Fargo,689.05,690.0,690.0,5.0,False,False,False
@@ -32,7 +31,6 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 60f5f1ed28f8e421d6dc8d57266a9e5e34393685,feb,2019,heat,hold,West Fargo,685.0800367985281,687.851885924563,687.851885924563,7.0,False,False,False
 6390fd3f9fbd20b5e3e44c24396e63aca01ee37d,feb,2019,heat,auto,Casselton,711.0434782608696,731.0,716.0869565217391,75.0,False,False,False
 6390fd3f9fbd20b5e3e44c24396e63aca01ee37d,feb,2019,heat,hold,Casselton,700.6666666666666,731.0,700.0,75.0,False,False,False
-649c3c370a218828f7d2436b12f1c34c6f4705fc,feb,2019,heat,auto,Fargo,590.6190476190476,840.0,600.0,10.0,False,False,False
 649c3c370a218828f7d2436b12f1c34c6f4705fc,feb,2019,heat,hold,Fargo,676.5,660.0,660.0,10.0,False,False,False
 6a5cc37df16f3cc0a24d466864b7235faacdbf7e,feb,2019,heat,hold,West Fargo,716.5909090909091,719.5909090909091,720.0,5.0,False,False,False
 6c8433aa1db0389cd3a0214904e1c8dbe3513686,feb,2019,heat,auto,Dickinson,728.6091549295775,730.0,730.0,0.0,False,False,False
@@ -49,7 +47,7 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 872dcb1e72d7165e5467e0a890e8d644cacb1b91,feb,2019,heat,auto,GRAND FORKS,679.7833333333333,698.8666666666667,684.8666666666667,20.0,False,False,False
 888b6ac298ffde44db4d670dec3030c5ee6d1c0e,feb,2019,heat,auto,Fargo,676.9285714285714,730.0,680.0,5.0,False,False,False
 8f20c0d306b7503704799f8515d37da8e6892a01,feb,2019,heat,hold,Fargo,692.1074249605056,694.2401263823065,694.2338072669826,0.0,False,False,False
-8f4d43dff926ace6ea477d8ccec8a89f32b21c83,feb,2019,heat,hold,Gackle,400.0175353141744,600.0370189965904,462.014612761812,70.0,False,False,False
+8f4d43dff926ace6ea477d8ccec8a89f32b21c83,feb,2019,heat,hold,Gackle,469.0,676.0,603.0,70.0,False,False,False
 9180931f861b3cf7b2c0594ee52f5114427acf02,feb,2019,heat,auto,Bismarck,667.6186440677966,672.4830508474577,670.9449152542373,10.0,False,False,False
 9180931f861b3cf7b2c0594ee52f5114427acf02,feb,2019,heat,hold,Bismarck,687.8721804511279,687.6315789473684,687.4962406015038,10.0,False,False,False
 95dcbd536a94a1d2d7f855d394365b866f1ccc1b,feb,2019,heat,auto,Fargo,686.921052631579,720.0,690.0,5.0,False,False,False

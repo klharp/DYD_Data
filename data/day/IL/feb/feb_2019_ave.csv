@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 000009f677b24c7e48f1f6e36a9ab8ab83f546ba,feb,2019,heat,auto,Chicago,693.8185654008439,643.1582278481013,643.1582278481013,0.0,False,False,True
 0010ea447dc3807b33daad2477d1cc02a71571fa,feb,2019,heat,auto,Chicago,720.2,752.8666666666667,721.0,5.0,False,False,False
 0010ea447dc3807b33daad2477d1cc02a71571fa,feb,2019,heat,hold,Chicago,719.2083333333334,720.0,720.0,5.0,False,False,False
@@ -2286,7 +2286,7 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 69594d146e3f4a3e99726900fad3c5b3ee70492a,feb,2019,auto,auto,Chicago,722.3125,780.0,720.0,40.0,True,False,False
 69594d146e3f4a3e99726900fad3c5b3ee70492a,feb,2019,heat,auto,Chicago,756.3157894736842,780.0,750.0,40.0,True,False,False
 69594d146e3f4a3e99726900fad3c5b3ee70492a,feb,2019,heat,hold,Chicago,759.4525547445255,756.1313868613139,756.1313868613139,40.0,True,False,False
-69791295f5cdf465634bba5090eaab1c97a868f4,feb,2019,heat,auto,Park Forest,674.195530726257,688.7430167597765,684.0754189944134,68.0,True,False,False
+69791295f5cdf465634bba5090eaab1c97a868f4,feb,2019,heat,auto,Park Forest,673.3471810089021,694.272997032641,683.0830860534124,68.0,True,False,False
 69791295f5cdf465634bba5090eaab1c97a868f4,feb,2019,heat,hold,Park Forest,660.8810810810811,657.027027027027,656.8,68.0,True,False,False
 6984c44a058ade9233c79bfdc4da652521cac25c,feb,2019,heat,hold,Orland Park,704.7202349172451,707.5974372664175,707.5974372664175,40.0,True,False,False
 69911e014fdbb5e19f765442cad2ae4c45db0c99,feb,2019,heat,auto,Chicago,699.4176470588235,699.5,699.5,0.0,False,False,False
@@ -3675,7 +3675,7 @@ a8f74e8ce83cd8db7757f31b14764ee82250836d,feb,2019,heat,hold,Forsyth,671.5,678.03
 a91ff527dbe518767db1149dbba7673fd0cd3a8f,feb,2019,heat,auto,Chicago,700.3529411764706,678.0,710.0,0.0,False,False,False
 a91ff527dbe518767db1149dbba7673fd0cd3a8f,feb,2019,heat,hold,Chicago,685.1158536585366,690.094512195122,690.094512195122,0.0,False,False,False
 a9501d0066a2647f5c700d3a7974f1783f0505d2,feb,2019,heat,hold,Berwyn,696.4105263157895,697.9578947368421,696.8105263157895,70.0,False,False,False
-a958919ca144c1080de70c667bf12ab643bbdf3b,feb,2019,heat,auto,Chicago,704.6134453781513,694.7915966386555,691.5596638655462,0.0,False,False,False
+a958919ca144c1080de70c667bf12ab643bbdf3b,feb,2019,heat,auto,Chicago,704.8590831918506,695.7572156196944,691.9830220713073,0.0,False,False,False
 a958919ca144c1080de70c667bf12ab643bbdf3b,feb,2019,heat,hold,Chicago,705.3352468427096,691.6681974741676,691.6578645235362,0.0,False,False,False
 a95bf45c7744eea6193f31eff6ed6d32de0de3b2,feb,2019,heat,auto,Chicago,744.0565476190476,708.3690476190476,755.7901785714286,57.0,False,False,False
 a95bf45c7744eea6193f31eff6ed6d32de0de3b2,feb,2019,heat,hold,Chicago,731.3606138107417,741.6854219948849,741.658567774936,57.0,False,False,False
@@ -4410,7 +4410,7 @@ ca84acbafc1219950ac4c67a7c5e167e0d37ff8c,feb,2019,heat,auto,Crystal Lake,653.862
 ca95f82a63313b7b3fa38db4205bae645dd6be54,feb,2019,heat,hold,Wilmette,630.8244680851063,651.0212765957447,624.045744680851,115.0,False,False,False
 ca98a978c398eadac2a68d6a21654aa4f41fd996,feb,2019,heat,hold,Addison,733.3010752688172,733.4408602150538,733.4408602150538,30.0,False,False,False
 ca9e7a2adca7a6095fa86f3eeb572a1cbf389c52,feb,2019,heat,hold,Chicago,676.0,770.0,770.0,105.0,False,False,False
-cadc836c04a86715e0e1839f71fe4a42ac70e98b,feb,2019,heat,auto,Chicago Ridge,640.5116279069767,682.7906976744187,834.1860465116279,10.0,True,False,False
+cadc836c04a86715e0e1839f71fe4a42ac70e98b,feb,2019,heat,auto,Chicago Ridge,649.03125,687.5,757.375,10.0,True,False,False
 cadc836c04a86715e0e1839f71fe4a42ac70e98b,feb,2019,heat,hold,Chicago Ridge,728.6066666666667,743.2666666666667,743.2666666666667,10.0,True,False,False
 caf007cbe4ce10ca9bba5874d7377d6c684c6e96,feb,2019,heat,auto,Lake Forest,696.8235294117648,720.0,700.0,110.0,False,False,False
 caf007cbe4ce10ca9bba5874d7377d6c684c6e96,feb,2019,heat,hold,Lake Forest,705.8949152542373,720.0011299435029,709.4180790960452,110.0,False,False,False
@@ -4829,8 +4829,6 @@ ddc59afc84ed261842ef709d18a9f03d6769ff9d,feb,2019,heat,hold,McHenry,676.68354430
 ddcee361fb68db3a81e16572603940b46f91fd46,feb,2019,auto,hold,Glen Ellyn,666.3333333333334,820.0,640.0,95.0,False,False,False
 ddd8e5d43fc7feda0b7a654b3252095205239069,feb,2019,auto,hold,Chicago,699.8333333333334,750.0,700.0,0.0,True,False,False
 dddfd29cadd3366410116e442998cbd9d608fc80,feb,2019,auto,auto,Glen Carbon,714.3955223880597,770.0,715.4664179104477,25.0,True,False,False
-ddede54abe069ea27a57a5530d4c990c5fd39971,feb,2019,heat,auto,Romeoville,742.5474452554745,570.0,743.3649635036496,0.0,False,False,False
-ddede54abe069ea27a57a5530d4c990c5fd39971,feb,2019,heat,hold,Romeoville,745.4847161572052,570.0,746.3799126637555,0.0,False,False,False
 ddf72a0d26547631f5ebada8dffa6a90963f519d,feb,2019,heat,auto,Yorkville,717.3124668435013,720.0,720.0,10.0,False,False,False
 de1bca7e19d5d3d842b43cb04da6d39ecf4f5dc6,feb,2019,auto,auto,Plainfield,711.0967130214918,785.4361567635904,710.6769911504425,10.0,False,False,False
 de1bca7e19d5d3d842b43cb04da6d39ecf4f5dc6,feb,2019,auto,hold,Plainfield,706.5,790.0,689.388,10.0,False,False,False

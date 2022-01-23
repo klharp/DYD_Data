@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 0010e47e4b45d741375cce16b3f2834662857046,jun,2021,auto,hold,Dunwoody,709.8003320880033,708.3524283935243,656.4881693648817,59.0,True,False,False
 002928222f5a2b5cfeba53f3aca5d5f24f6c4fe8,jun,2021,auto,hold,Columbus,706.6092265943013,713.8561736770693,624.6540027137042,40.0,False,False,False
 002928222f5a2b5cfeba53f3aca5d5f24f6c4fe8,jun,2021,cool,hold,Columbus,689.5187969924812,712.2706766917294,711.7593984962406,40.0,False,False,False

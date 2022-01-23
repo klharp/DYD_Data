@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 0c0bd0b708210af527c4acd1652566b20b9e1113,jul,2021,cool,hold,Casselton,740.578947368421,714.9473684210526,715.0,70.0,False,False,False
 0fac6afda912cd175202e8e2925e028b7d22bbec,jul,2021,cool,hold,Thompson,725.2311688311688,728.5142857142857,728.5142857142857,69.0,True,False,False
 1ac4e006e1f03d07773c21b423ce418dedfdeb3b,jul,2021,cool,hold,Bismarck,726.7541924095323,727.1769638128861,725.7400706090026,15.0,False,False,False
@@ -23,10 +23,9 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 7543f250c54358d149412911fee3058f8a8b40e5,jul,2021,cool,hold,Fargo,696.809620596206,695.0081300813008,694.9945799457995,9.0,True,False,False
 7704704fb68e3b5388328d60bc0d285590698ad5,jul,2021,cool,hold,Lincoln,681.1649170335253,680.0,680.0,5.0,False,False,False
 7d0c43eb4ebe84b3f303c289778db00d73e6709c,jul,2021,cool,hold,Fargo,698.6190476190476,699.8571428571429,697.952380952381,5.0,False,False,False
-888b6ac298ffde44db4d670dec3030c5ee6d1c0e,jul,2021,auto,hold,Fargo,662.1960784313726,653.7941176470588,600.1470588235294,5.0,False,False,False
+888b6ac298ffde44db4d670dec3030c5ee6d1c0e,jul,2021,auto,hold,Fargo,731.8888888888889,667.2222222222222,606.4444444444445,5.0,False,False,False
 8b5f61ec784b3bccda90d02afd324ebbfa44bb19,jul,2021,cool,hold,Grand Forks,710.4354660172681,709.9504095638698,709.9504095638698,59.0,False,False,False
 8f20c0d306b7503704799f8515d37da8e6892a01,jul,2021,cool,hold,Fargo,730.3958333333334,730.0208333333334,729.9375,0.0,False,False,False
-8f4d43dff926ace6ea477d8ccec8a89f32b21c83,jul,2021,heat,hold,Gackle,734.4462237093691,600.0,450.0,70.0,False,False,False
 9180931f861b3cf7b2c0594ee52f5114427acf02,jul,2021,cool,hold,Bismarck,771.145,773.3,760.0,10.0,False,False,False
 93e8de5edd35b8ee1fc373fb9216a7d14116a573,jul,2021,cool,hold,Williston,717.6475409836065,704.2295081967213,704.2295081967213,9.0,False,False,False
 95dcbd536a94a1d2d7f855d394365b866f1ccc1b,jul,2021,cool,hold,Fargo,663.2658385093167,661.9540372670807,661.7919254658385,5.0,False,False,False

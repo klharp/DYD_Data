@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 008cfa92481086d7def321eeabb85c0d3eb846de,feb,2017,auto,auto,Campbellsville,699.6,699.75,679.75,5.0,True,False,True
 008cfa92481086d7def321eeabb85c0d3eb846de,feb,2017,auto,hold,Campbellsville,698.3333333333335,680.0,660.0,5.0,True,False,True
 008cfa92481086d7def321eeabb85c0d3eb846de,feb,2017,heat,auto,Campbellsville,699.3055555555555,700.1666666666665,699.8333333333335,5.0,True,False,True
@@ -2057,7 +2057,7 @@ d89192a6af9037abfce5f0d9c4425dce592cd99b,feb,2020,heat,auto,Louisville,696.31111
 d89192a6af9037abfce5f0d9c4425dce592cd99b,feb,2020,heat,hold,Louisville,697.6470588235294,760.0,702.3529411764706,50.0,False,False,False
 d8b14053c1aa355ef1ebe021ea96037828c073db,feb,2020,heat,hold,Lexington,661.7916666666666,650.0,640.0,95.0,True,False,True
 d95059ac98d01c9a116b5c785d58b3f43fb8a979,feb,2020,auto,hold,Bowling Green,694.733108108108,728.8108108108107,698.4189189189191,49.0,True,False,False
-d9803db4274457b5877257abdede0402797d20a0,feb,2020,cool,hold,Mammoth Cave,692.3684210526317,644.2105263157895,700.0,29.0,True,False,True
+d9803db4274457b5877257abdede0402797d20a0,feb,2020,cool,hold,Mammoth Cave,684.5,670.0,700.0,29.0,True,False,True
 d9803db4274457b5877257abdede0402797d20a0,feb,2020,heat,hold,Mammoth Cave,682.1775147928994,680.0,746.0710059171597,29.0,True,False,True
 d98d513c6707e05f203062e422113e83d2d10dab,feb,2020,heat,auto,Highland Heights,681.6078947368421,689.0184210526315,689.0184210526315,60.0,False,False,False
 d98d513c6707e05f203062e422113e83d2d10dab,feb,2020,heat,hold,Highland Heights,675.6708706265257,680.1366965012205,680.1366965012205,60.0,False,False,False

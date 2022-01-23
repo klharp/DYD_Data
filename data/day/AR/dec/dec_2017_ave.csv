@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 0365faed9eda6da204a74c3bcde1563857427d95,dec,2017,auto,auto,Little Rock,643.9282296650717,756.4114832535885,640.976076555024,15.0,False,False,False
 05f016d92aafe9576020078fc75573d087c9ab46,dec,2017,heat,hold,Little Rock,694.8023005032351,696.1312005751258,696.1312005751258,90.0,False,False,False
 07232c051ae191506a33f7b2cf57703c45edc81a,dec,2017,cool,hold,Little Rock,683.3416149068323,715.1159420289855,715.1159420289855,45.0,False,False,False

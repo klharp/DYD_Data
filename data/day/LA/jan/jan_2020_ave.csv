@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 007210724b66339a5fdb5b839e204d4b68e22d99,Jan,2020,auto,hold,New Orleans,722.2625298329356,732.5059665871122,712.5059665871122,5.0,False,False,False
 008f4e8d0b1ee2d5311b860fe53fcf0935d191b3,Jan,2020,auto,auto,Kenner,718.2941176470588,740.0,716.4705882352941,37.0,False,False,False
 008f4e8d0b1ee2d5311b860fe53fcf0935d191b3,Jan,2020,auto,hold,Kenner,711.1578947368421,749.0087719298245,711.4649122807018,37.0,False,False,False

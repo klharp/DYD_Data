@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 002c012fc1267f2ff9bbe2a30db5e0c8ac85ac9f,aug,2019,cool,auto,Ballwin,709.4675324675325,779.6688311688312,640.3311688311688,49.0,True,False,False
 002c012fc1267f2ff9bbe2a30db5e0c8ac85ac9f,aug,2019,cool,hold,Ballwin,691.6028368794326,699.5744680851063,699.5744680851063,49.0,True,False,False
 0056cebd6cd72164f185e551f894f028d3d2e319,aug,2019,cool,auto,Clarkson Valley,741.3333333333334,740.0,740.0,45.0,True,False,True
@@ -217,7 +217,7 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 22bcafd2333936cc663b0db4b6452420815fc60a,aug,2019,auto,hold,Florissant,741.6578669482576,740.0,680.0,45.0,False,False,False
 22c6f551781eb6c59739b4ec6dd498cf7b2acc56,aug,2019,cool,auto,Town and Country,729.7665615141956,727.1503680336488,725.0052576235541,0.0,False,False,False
 22c6f551781eb6c59739b4ec6dd498cf7b2acc56,aug,2019,cool,hold,Town and Country,734.5,730.0,730.0,0.0,False,False,False
-22f8debeb1bb6744de51c65fcd436042906fd96d,aug,2019,cool,auto,Fenton,726.3056768558952,705.1965065502184,720.231441048035,0.0,True,False,False
+22f8debeb1bb6744de51c65fcd436042906fd96d,aug,2019,cool,auto,Fenton,726.6555023923445,715.2631578947369,726.9521531100479,0.0,True,False,False
 22f8debeb1bb6744de51c65fcd436042906fd96d,aug,2019,cool,hold,Fenton,710.9569892473119,696.483870967742,696.6093189964158,0.0,True,False,False
 2305b80dd22a0c1fc26fdacea0461b53abb25ce2,aug,2019,cool,auto,O'Fallon,725.8075949367088,734.4987341772152,675.3721518987342,15.0,False,False,True
 2305b80dd22a0c1fc26fdacea0461b53abb25ce2,aug,2019,cool,hold,O'Fallon,715.8247588424438,715.1028938906752,715.0546623794212,15.0,False,False,True

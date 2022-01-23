@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 0010db271149fae01fa527e2c2105074d5771e5f,jun,2017,cool,auto,Raleigh,743.7407407407408,760.0,690.0,37.0,True,False,True
 0010db271149fae01fa527e2c2105074d5771e5f,jun,2017,cool,hold,Raleigh,738.7058823529413,740.0,740.0,37.0,True,False,True
 004dfca396d696b8a7ce7dd71862b78384f55976,jun,2017,cool,auto,Charlotte,785.6071428571429,804.0,650.3928571428571,85.0,True,False,True
@@ -7912,7 +7912,7 @@ ffc40b303849f7f5af77972db456dc63e2eebf34,jun,2019,cool,hold,Charlotte,797.137596
 13a5ed4c66d109b7a67636307b6a61e849c4f31e,jun,2020,auto,hold,Raleigh,731.4,710.4,670.2,39.0,True,False,True
 13ccd1364344f4adb87bccd75ece4fe77c8df7d5,jun,2020,cool,auto,Jacksonville,693.2,690.0333333333333,689.7333333333332,0.0,True,False,True
 140b8406b6cbed5f65849307baf6e8986c195e8a,jun,2020,cool,hold,Charlotte,731.2569659442725,730.2298761609908,730.2298761609908,0.0,False,False,False
-1429b2636b66e007832a5d3443be1b731cd1d383,jun,2020,cool,auto,Murphy,662.0213903743315,669.4024064171123,686.692513368984,0.0,True,True,True
+1429b2636b66e007832a5d3443be1b731cd1d383,jun,2020,cool,auto,Murphy,662.3528610354224,670.7261580381471,686.8201634877385,0.0,True,True,True
 1429b2636b66e007832a5d3443be1b731cd1d383,jun,2020,cool,hold,Murphy,672.3,697.6,700.0,0.0,True,True,True
 143a4005424c54b47411e39da8eaf2f2847f3429,jun,2020,cool,auto,Greensboro,746.8595041322315,754.8539944903581,754.8539944903581,10.0,False,False,False
 143a4005424c54b47411e39da8eaf2f2847f3429,jun,2020,cool,hold,Greensboro,720.5095785440615,697.2567049808429,697.2567049808429,10.0,False,False,False

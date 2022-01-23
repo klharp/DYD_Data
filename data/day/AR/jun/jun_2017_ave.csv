@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 07232c051ae191506a33f7b2cf57703c45edc81a,jun,2017,cool,hold,Little Rock,710.1760341726618,714.9770683453237,714.9770683453237,45.0,False,False,False
 08fe5124a59a024f93eccf6aaec19997eb295483,jun,2017,cool,auto,Greenland,756.7317596566523,780.980686695279,738.4656652360514,10.0,False,False,False
 08fe5124a59a024f93eccf6aaec19997eb295483,jun,2017,cool,hold,Greenland,749.8007915567282,764.5131926121372,764.3878627968338,10.0,False,False,False
@@ -298,7 +298,7 @@ d0c65ed8121aae6b678191fc1ae4edaeda729288,jun,2017,cool,auto,Little Rock,775.1333
 d0c65ed8121aae6b678191fc1ae4edaeda729288,jun,2017,cool,hold,Little Rock,772.9230769230769,800.0,789.6923076923077,0.0,False,False,False
 d29d4a30656fe8d8339f19c788a5a76f83fb5a16,jun,2017,cool,auto,Little Rock,714.4465811965812,724.792735042735,682.3525641025641,0.0,False,False,False
 d29d4a30656fe8d8339f19c788a5a76f83fb5a16,jun,2017,cool,hold,Little Rock,712.2886209495101,718.4318010550113,718.4355689525245,0.0,False,False,False
-d2aeae56b5aedc55ce1e17b960ad2d3ba94ca002,jun,2017,cool,auto,El Dorado,659.0520833333334,653.71875,667.2916666666666,0.0,False,False,False
+d2aeae56b5aedc55ce1e17b960ad2d3ba94ca002,jun,2017,cool,auto,El Dorado,681.0,678.1363636363636,670.6060606060606,0.0,False,False,False
 d2aeae56b5aedc55ce1e17b960ad2d3ba94ca002,jun,2017,cool,hold,El Dorado,654.3165666820489,655.4554683894786,655.4462390401477,0.0,False,False,False
 d2d3255efc20ac25be79df100d9cc3a04706f1a3,jun,2017,cool,hold,Springdale,693.0836216839677,690.295847750865,690.295847750865,25.0,False,False,False
 d35dc5d2c672d0579d18a460c4aec33297c067e3,jun,2017,cool,hold,Little Rock,732.6125,740.0,740.0,15.0,False,False,False

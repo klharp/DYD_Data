@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 01e233c4fce6aabdd3f8be666d5f32f972d2a16b,Jan,2018,heat,hold,Eagle,693.4384615384615,696.0,696.0,16.0,False,False,False
 0242366947dd8f91e501280859cb1352ac56a3b1,Jan,2018,heat,hold,Shelley,691.7995726495726,693.0508547008548,693.0508547008548,40.0,False,False,False
 02d96395673191f775b25dd345a521c4caa4250c,Jan,2018,heat,auto,Boise,680.3928571428571,682.9285714285714,680.5357142857143,20.0,False,False,False

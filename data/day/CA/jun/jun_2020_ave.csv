@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 00036e2921e77921dc23f39cecd8ef0ef80ba076,jun,2020,auto,auto,Indio,746.875,741.2179487179487,661.1217948717949,10.0,False,False,False
 00036e2921e77921dc23f39cecd8ef0ef80ba076,jun,2020,auto,hold,Indio,793.6738075990299,794.9397736459175,683.7182700080841,10.0,False,False,False
 0007af61e41e5121b78d434fbe95d99398501ef7,jun,2020,auto,auto,Chula Vista,716.1727272727272,737.6045454545455,670.9772727272727,10.0,False,False,False
@@ -6186,7 +6186,6 @@ e882cf74d7ca7cfb651a7ae3d681d309bd516a5d,jun,2020,cool,auto,Glendora,749.0879120
 e882cf74d7ca7cfb651a7ae3d681d309bd516a5d,jun,2020,cool,hold,Glendora,738.4454148471616,737.1921397379913,737.1572052401747,60.0,False,False,False
 e882cf74d7ca7cfb651a7ae3d681d309bd516a5d,jun,2020,heat,auto,Glendora,717.3333333333334,740.0,720.0,60.0,False,False,False
 e882cf74d7ca7cfb651a7ae3d681d309bd516a5d,jun,2020,heat,hold,Glendora,709.0,740.0,736.0,60.0,False,False,False
-e8871ec86e3f832272227b4fea971cacc3a22a7d,jun,2020,cool,auto,Sacramento,741.0919540229885,650.0,880.0,0.0,False,False,False
 e88bb897cb0341f69a6092467558a6661e7c5545,jun,2020,cool,auto,San Mateo,737.25,760.0,680.0,65.0,False,False,False
 e88bb897cb0341f69a6092467558a6661e7c5545,jun,2020,cool,hold,San Mateo,739.0972222222222,758.2638888888889,692.1527777777778,65.0,False,False,False
 e88d45229c1015aafb612c8c9c7f247506f2c54d,jun,2020,cool,auto,Rescue,748.0444444444445,759.8,759.8,10.0,False,False,False

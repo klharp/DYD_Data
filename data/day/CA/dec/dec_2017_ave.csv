@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 001cb18881c5ace2d453720abb0d8fe710e80a29,dec,2017,heat,hold,San Diego,743.5,750.0,740.8333333333334,50.0,False,False,False
 0029564391031ecb03549e6389960db4eed71126,dec,2017,auto,auto,San Gabriel,673.0,760.0,681.2857142857143,90.0,False,False,False
 0029564391031ecb03549e6389960db4eed71126,dec,2017,auto,hold,San Gabriel,703.1111111111111,760.0,695.283950617284,90.0,False,False,False

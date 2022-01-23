@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 0034438232b9c99f7034f4e329ea2203949d0e9a,Jan,2018,heat,auto,Manchester,697.4583333333334,700.0,700.0,40.0,False,False,False
 0034438232b9c99f7034f4e329ea2203949d0e9a,Jan,2018,heat,hold,Manchester,697.7834101382489,700.4608294930875,700.4608294930875,40.0,False,False,False
 0039c46facfa454852fda813f2c88ed0bbfab21d,Jan,2018,heat,hold,Blue Springs,704.8736842105263,711.8210526315789,711.1157894736842,20.0,False,False,False

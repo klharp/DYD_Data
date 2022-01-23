@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 0010db271149fae01fa527e2c2105074d5771e5f,jun,2018,cool,hold,Raleigh,803.3529411764706,731.6470588235294,730.0588235294117,37.0,True,False,True
 004dfca396d696b8a7ce7dd71862b78384f55976,jun,2018,cool,hold,Charlotte,756.8800913589646,754.1336124857252,754.1336124857252,85.0,True,False,True
 0084e95b39ca4e03056e3d534b32f75d40dd6d9c,jun,2018,auto,hold,Holly Springs,721.1312949640288,719.3579136690647,659.7895683453237,10.0,False,False,False

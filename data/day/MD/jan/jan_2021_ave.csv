@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 001cb586cbb1bfa7441fff670b3357d9d412926a,Jan,2021,heat,hold,Columbia,685.5844748858448,694.1095890410959,691.9360730593608,40.0,True,False,True
 002810066b5066f73ebb23c9a6872760028f5cd8,Jan,2021,heat,hold,Hanover,690.8333333333334,705.3958333333334,704.5625,10.0,False,False,False
 003a3b5c65e4767907f528a81c3bc75c08aefb02,Jan,2021,heat,hold,Belcamp,695.9101796407185,699.7724550898204,699.7724550898204,10.0,False,False,False
@@ -1075,7 +1075,7 @@ a841becd40b8f60cf15a70742dc42c05812ef4c1,Jan,2021,auxHeatOnly,hold,Gaithersburg,
 a851d24901e47d6ce5c1bb1f110f2204b2b60a7a,Jan,2021,heat,hold,Mechanicsville,663.2314640572074,657.0037636432066,657.0037636432066,39.0,True,False,True
 a879f6644b233bbc8c932205e2a3de019fe9afd6,Jan,2021,heat,hold,Bowie,705.1242811501597,710.0,710.0,30.0,True,False,True
 a8974d8c09f37badd97bd295177f08eff4a1e401,Jan,2021,heat,hold,Baltimore,685.7,690.0,690.0,7.0,False,False,False
-a8fac889b98c91b5445c0be2ae83549b4ddfd381,Jan,2021,heat,hold,Randallstown,673.1901504787961,682.3201094391245,682.1367989056088,20.0,False,False,False
+a8fac889b98c91b5445c0be2ae83549b4ddfd381,Jan,2021,heat,hold,Randallstown,673.2328767123288,682.4328767123287,682.1328767123288,20.0,False,False,False
 a9ef388a2cefe64696c9ae98d6a8722e82757cdf,Jan,2021,heat,hold,College Park,659.3786231884058,660.0,660.0,70.0,False,False,False
 aa1a09b76ebbbf7ca4ad35fc22f210b79298c42e,Jan,2021,auto,hold,Baltimore,677.8706896551724,760.0775862068965,688.0431034482758,99.0,True,False,False
 aa44af576913369b3039d25fc193ef4b796b4557,Jan,2021,auto,hold,Lutherville Timonium,668.4105839416059,743.0109489051094,685.1204379562043,30.0,False,False,True
@@ -1349,7 +1349,7 @@ d13221b8201e421a5d3ab28d4568d1d0590bd95a,Jan,2021,heat,hold,Frederick,719.335917
 d197fd24fb21a0f01f00eda7f3347cee281fbabc,Jan,2021,auto,hold,Rockville,683.5785714285714,780.0,673.8571428571429,35.0,False,False,False
 d1ab95bce91ad65a96fc9eeec78c42474ea3fc33,Jan,2021,heat,hold,Silver Spring,721.5942028985507,726.5217391304348,726.5217391304348,60.0,False,False,False
 d1d0bc96079ecb56d9f0a86a11b0aa16a8f3e0ba,Jan,2021,heat,hold,Baltimore,708.7312252964427,712.1422924901186,711.8418972332016,100.0,False,False,False
-d2052f637dda86edc66a8d7563a5cb4ff89b05b1,Jan,2021,heat,hold,Pasadena,633.921052631579,636.4517543859649,636.671052631579,0.0,True,False,True
+d2052f637dda86edc66a8d7563a5cb4ff89b05b1,Jan,2021,heat,hold,Pasadena,634.2345132743363,636.7743362831858,636.7743362831858,0.0,True,False,True
 d24beb64e42d23f9bc26c68b9f932f638922e624,Jan,2021,auto,hold,Hanover,695.1290322580645,758.4648093841643,701.5175953079179,0.0,True,False,False
 d25138277d76b21b188077472b1aa154fe7b4c0e,Jan,2021,heat,hold,Upperco,681.7256728778468,678.2622498274673,678.2622498274673,0.0,False,False,True
 d2686d3a604447edb956b4884386bb5ea4a514aa,Jan,2021,heat,hold,Dundalk,678.2941176470588,680.0,680.0,0.0,True,False,True

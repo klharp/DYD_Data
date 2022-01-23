@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 004666c8518763d5ff5a1b6f9be919899724167e,feb,2020,heat,auto,Denver,633.0,780.0,690.0,10.0,False,False,False
 004666c8518763d5ff5a1b6f9be919899724167e,feb,2020,heat,hold,Denver,699.0395189003436,715.3969072164948,703.2886597938144,10.0,False,False,False
 0101ed9a523b572e5b256aeeaf9755d4f076d1a0,feb,2020,heat,auto,Golden,632.9569892473119,679.5698924731183,679.5698924731183,20.0,False,False,True
@@ -691,7 +691,7 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 544d02534ea3537ec84b63ebab2bf96edead0a56,feb,2020,auto,auto,Larkspur,665.4090909090909,750.0,670.0,10.0,False,False,True
 545e765cc6e05b99fc5e69f8d3fc64f2d4395e55,feb,2020,heat,hold,Fort Collins,692.4,696.225,695.775,15.0,False,False,False
 54c3581520f7d888d19beb9ca0c5c1ebf37bd216,feb,2020,cool,auto,Colorado Springs,645.0,696.3333333333334,658.3333333333334,30.0,False,False,False
-54c3581520f7d888d19beb9ca0c5c1ebf37bd216,feb,2020,heat,auto,Colorado Springs,630.3306666666666,645.2146666666666,630.4786666666666,30.0,False,False,False
+54c3581520f7d888d19beb9ca0c5c1ebf37bd216,feb,2020,heat,auto,Colorado Springs,631.0707692307692,652.1707692307692,631.0953846153847,30.0,False,False,False
 54c3581520f7d888d19beb9ca0c5c1ebf37bd216,feb,2020,heat,hold,Colorado Springs,634.7703703703704,633.3777777777777,633.1333333333333,30.0,False,False,False
 54eca1c516ca822e1383bda0d358da0a878556a2,feb,2020,heat,auto,Monument,691.6052631578947,695.8947368421053,694.8421052631579,10.0,False,False,False
 54eca1c516ca822e1383bda0d358da0a878556a2,feb,2020,heat,hold,Monument,699.75,680.0,680.0,10.0,False,False,False
@@ -724,7 +724,7 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 57d80313b1560ea04be72aa63a4de1c3fc0d48a2,feb,2020,heat,hold,Denver,702.8657817109145,698.8495575221239,698.8495575221239,0.0,True,False,False
 5807fbdbebfd042bcc62db7bc57db08820c5f65a,feb,2020,heat,auto,Longmont,677.6666666666666,700.0,700.0,0.0,False,False,False
 5807fbdbebfd042bcc62db7bc57db08820c5f65a,feb,2020,heat,hold,Longmont,689.0320656226696,691.6167039522744,691.6167039522744,0.0,False,False,False
-580e8fc2d4118cdb0ac92726d3b0dcc911956e7e,feb,2020,heat,auto,Commerce City,637.4328358208955,600.0895522388059,640.044776119403,10.0,False,False,False
+580e8fc2d4118cdb0ac92726d3b0dcc911956e7e,feb,2020,heat,auto,Commerce City,643.0,612.0,646.0,10.0,False,False,False
 580e8fc2d4118cdb0ac92726d3b0dcc911956e7e,feb,2020,heat,hold,Commerce City,637.4702907711758,640.5562579013906,640.5562579013906,10.0,False,False,False
 582d16045d9c2c1ec3b7c3743ec4d398ce4fcd3d,feb,2020,auto,hold,Commerce City,672.58,770.0,673.24,15.0,False,False,False
 5872d6fb5e985a1e7179fb216377e6ad80369e07,feb,2020,auto,hold,Broomfield,695.5075757575758,750.0,690.0,10.0,False,False,False

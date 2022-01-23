@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 007f9b37f1ac5cfe9806f9a1a47809855e7e31b8,jun,2021,auto,hold,South Windsor,700.2044728434505,740.0,650.0,20.0,False,False,False
 007f9b37f1ac5cfe9806f9a1a47809855e7e31b8,jun,2021,cool,hold,South Windsor,711.6752136752136,740.0,650.0,20.0,False,False,False
 0090bb6fc40c84b7f42c125689e22350e6128e3e,jun,2021,auto,hold,Monroe,749.9491525423729,750.0,650.0,0.0,False,False,False

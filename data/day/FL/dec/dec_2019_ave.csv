@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 00020f16d85e6d8c70fc67725f03ab06b116fead,dec,2019,auto,auto,Jacksonville,719.961432506887,756.7079889807162,686.7079889807162,5.0,False,False,True
 00020f16d85e6d8c70fc67725f03ab06b116fead,dec,2019,auto,hold,Jacksonville,727.4893617021277,760.2553191489362,696.2978723404256,5.0,False,False,True
 00020f16d85e6d8c70fc67725f03ab06b116fead,dec,2019,heat,auto,Jacksonville,731.0,757.2804532577903,687.2804532577903,5.0,False,False,True
@@ -1912,7 +1912,7 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 428fbc71bf9cd5aab29e1aa1c2c6ece55730490e,dec,2019,cool,auto,Boynton Beach,741.7142857142857,740.0,740.0,5.0,False,False,False
 428fbc71bf9cd5aab29e1aa1c2c6ece55730490e,dec,2019,cool,hold,Boynton Beach,736.3642857142858,745.0821428571429,742.4178571428571,5.0,False,False,False
 428fbc71bf9cd5aab29e1aa1c2c6ece55730490e,dec,2019,heat,auto,Boynton Beach,712.5204081632653,687.2857142857143,674.0102040816327,5.0,False,False,False
-42ab975b9585aa49c06041dc316ad2fe0944a751,dec,2019,cool,auto,Hollywood,704.4269889224572,755.7573011077543,702.7829808660624,0.0,False,False,False
+42ab975b9585aa49c06041dc316ad2fe0944a751,dec,2019,cool,auto,Hollywood,704.5714285714286,756.1504290762241,702.8404846037355,0.0,False,False,False
 42ab975b9585aa49c06041dc316ad2fe0944a751,dec,2019,cool,hold,Hollywood,699.8894601542416,718.6512425021423,718.2810625535561,0.0,False,False,False
 42b0266052657130ded6bf9429e221653cfd1bf3,dec,2019,cool,auto,Tampa,741.8846153846154,737.4615384615385,707.6153846153846,0.0,False,False,False
 42b0266052657130ded6bf9429e221653cfd1bf3,dec,2019,cool,hold,Tampa,719.4615384615385,690.0,690.0,0.0,False,False,False
@@ -2657,8 +2657,6 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 5da2a7f417c9d99a3b5535db6c8585e4ba6356f6,dec,2019,auto,hold,Miami,685.6827586206897,688.3586206896551,610.0,29.0,True,False,False
 5da2a7f417c9d99a3b5535db6c8585e4ba6356f6,dec,2019,cool,auto,Miami,690.3716856060606,697.2566287878788,697.2566287878788,29.0,True,False,False
 5da2a7f417c9d99a3b5535db6c8585e4ba6356f6,dec,2019,cool,hold,Miami,706.4307692307692,702.3692307692307,702.3692307692307,29.0,True,False,False
-5dbe9ae514b4b548e5f32495404624b4aa0b816a,dec,2019,cool,auto,Pembroke Pines,745.0,772.0,899.0,40.0,False,False,True
-5dbe9ae514b4b548e5f32495404624b4aa0b816a,dec,2019,cool,hold,Pembroke Pines,716.4545454545455,683.5454545454545,899.0,40.0,False,False,True
 5dcecac081e0c0a30157e54442d21ef9ba3d82d0,dec,2019,auto,auto,Melbourne,734.2666666666667,732.6333333333333,681.9333333333333,5.0,True,False,True
 5dcecac081e0c0a30157e54442d21ef9ba3d82d0,dec,2019,auto,hold,Melbourne,724.5928853754941,728.4782608695652,668.094861660079,5.0,True,False,True
 5ddd2db4fedfd9766a04b24f866a4731550630fa,dec,2019,cool,hold,Brooksville,758.9225352112676,781.0915492957746,740.0,17.0,False,False,False
@@ -4163,8 +4161,6 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 933da02eb525b725343ff8ca303c0c74d7a21b9b,dec,2019,cool,hold,Hypoluxo,698.0954198473282,693.7137404580153,679.0954198473282,30.0,False,False,False
 934ae136538dfa58e8f7912a2267a07aca85bc17,dec,2019,auto,hold,Merritt Island,722.8131313131313,725.0,675.0,7.0,False,False,False
 934ae136538dfa58e8f7912a2267a07aca85bc17,dec,2019,cool,hold,Merritt Island,717.9414976599064,715.3198127925117,715.3198127925117,7.0,False,False,False
-934cfeda0ca52e06de77a9d60af389756691df61,dec,2019,cool,auto,Pompano Beach,746.0634249471459,744.4186046511628,920.0,47.0,False,False,True
-934cfeda0ca52e06de77a9d60af389756691df61,dec,2019,cool,hold,Pompano Beach,743.3977272727273,741.3735795454545,920.0,47.0,False,False,True
 936a1b911bf359fd4e0e10be55c59d4a95b72b5a,dec,2019,auto,auto,Port St John,725.2865497076024,756.833918128655,670.8312865497076,35.0,False,False,False
 936a1b911bf359fd4e0e10be55c59d4a95b72b5a,dec,2019,auto,hold,Port St John,743.2,780.0,680.0,35.0,False,False,False
 9378497123c30760d65926fcc560bf51fd308a74,dec,2019,auto,hold,Milton,713.0519480519481,750.0,718.1818181818181,5.0,False,False,True
@@ -4479,7 +4475,7 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 9e652d29f61e8504e3ac88fec4e07f7d61860a4d,dec,2019,auto,auto,Leesburg,739.5555555555555,780.0,730.0,46.0,True,False,False
 9e699418b0a5adddbc02942064f26a64bff72276,dec,2019,cool,auto,Hialeah,726.2307692307693,720.0,620.0,30.0,False,False,False
 9e699418b0a5adddbc02942064f26a64bff72276,dec,2019,cool,hold,Hialeah,748.6323529411765,747.0073529411765,745.5661764705883,30.0,False,False,False
-9e7f1d1087a6b21040494b9a3cf09dd48deb8239,dec,2019,cool,hold,Miami Gardens,728.9166666666666,696.9722222222222,800.0,67.0,False,False,False
+9e7f1d1087a6b21040494b9a3cf09dd48deb8239,dec,2019,cool,hold,Miami Gardens,726.0967741935484,714.2258064516129,800.0,67.0,False,False,False
 9e84e74b126bf4a0d1724a4fe320f992f3aa4fff,dec,2019,cool,auto,Riverview Manor,703.7777777777778,684.5925925925926,684.5925925925926,65.0,False,False,True
 9e84e74b126bf4a0d1724a4fe320f992f3aa4fff,dec,2019,cool,hold,Riverview Manor,707.3333333333334,700.0,700.0,65.0,False,False,True
 9e84e74b126bf4a0d1724a4fe320f992f3aa4fff,dec,2019,heat,auto,Riverview Manor,718.3829787234042,730.0,730.0,65.0,False,False,True

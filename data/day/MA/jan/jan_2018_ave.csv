@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 00a0f0ba8d5a1f94ea2806afb6c1baa70177c6c1,Jan,2018,heat,auto,Medfield,647.6,650.0,649.5333333333333,37.0,False,False,False
 00a0f0ba8d5a1f94ea2806afb6c1baa70177c6c1,Jan,2018,heat,hold,Medfield,658.2569027611045,650.0660264105642,634.6806722689075,37.0,False,False,False
 01dddc9a4241063b0f3fe22c1cbbd66cd3c8ca16,Jan,2018,auto,auto,Amesbury,666.4598540145986,743.0656934306569,667.3357664233577,7.0,False,False,False
@@ -1327,8 +1327,8 @@ cd7185fb5d6c775f8db7a6fe00c7a1d75a55d952,Jan,2018,heat,auto,Boston,683.929629629
 cd7185fb5d6c775f8db7a6fe00c7a1d75a55d952,Jan,2018,heat,hold,Boston,664.8333333333334,681.5833333333334,678.4166666666666,85.0,False,False,False
 cdd77d0ee7022e26815237ff8d3daeb904de9743,Jan,2018,auto,auto,Agawam,682.375,812.5,646.25,57.0,True,False,False
 cdd77d0ee7022e26815237ff8d3daeb904de9743,Jan,2018,auto,hold,Agawam,687.6560846560847,757.0952380952381,689.6878306878307,57.0,True,False,False
-cdecf6028defb46d2daea1703238d41a8641aa0b,Jan,2018,heat,auto,Charlton,662.2292263610315,595.6303724928367,663.1461318051576,15.0,False,False,False
-cdecf6028defb46d2daea1703238d41a8641aa0b,Jan,2018,heat,hold,Charlton,673.6428571428571,581.1588921282798,674.1297376093295,15.0,False,False,False
+cdecf6028defb46d2daea1703238d41a8641aa0b,Jan,2018,heat,auto,Charlton,705.4647887323944,656.887323943662,622.0704225352113,15.0,False,False,False
+cdecf6028defb46d2daea1703238d41a8641aa0b,Jan,2018,heat,hold,Charlton,654.6666666666666,712.6666666666666,707.5,15.0,False,False,False
 ce484d8ec86f0aef61045047b4c0a01e98634e32,Jan,2018,heat,auto,Milford,706.3326133909287,707.0064794816415,706.7818574514039,15.0,False,False,False
 ce484d8ec86f0aef61045047b4c0a01e98634e32,Jan,2018,heat,hold,Milford,710.0731707317074,711.4512195121952,711.3658536585366,15.0,False,False,False
 ceadf5aef4e2548d478a3c513afce9817f1dc4f1,Jan,2018,heat,auto,Boston,705.6,731.0,710.6,0.0,False,False,False

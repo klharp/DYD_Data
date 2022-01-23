@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 002aab87db1d9e8ce470f80f23c97c59de5f4dcd,Jan,2017,heat,auto,San Marcos,688.3529411764706,700.2773109243698,685.2436974789916,15.0,False,False,False
 002aab87db1d9e8ce470f80f23c97c59de5f4dcd,Jan,2017,heat,hold,San Marcos,700.9319727891157,700.0,679.4557823129252,15.0,False,False,False
 0050d013d4928f706c90379b28f9ab257178f1a8,Jan,2017,heat,auto,Dublin,669.0,682.6923076923077,676.1538461538462,5.0,False,False,False
@@ -1442,7 +1442,7 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 819b4054ce0c22c8fec6113ea070106cf4812e5f,Jan,2017,heat,hold,Folsom,654.6041666666666,650.0,646.6666666666666,30.0,False,False,False
 81c20f4ccc54b85c0380b23f8aa83c9058bc6eb8,Jan,2017,heat,auto,Menifee,678.4375,680.0,680.0,20.0,False,False,False
 81c20f4ccc54b85c0380b23f8aa83c9058bc6eb8,Jan,2017,heat,hold,Menifee,670.0202329858982,670.1600245248314,667.7755977927652,20.0,False,False,False
-81ce3c9e90019004ec28922d6622a7ef9baef066,Jan,2017,auto,hold,San Jose,580.7222222222222,575.8888888888889,624.7777777777778,40.0,False,False,False
+81ce3c9e90019004ec28922d6622a7ef9baef066,Jan,2017,auto,hold,San Jose,618.2857142857143,648.0,648.0,40.0,False,False,False
 81ce3c9e90019004ec28922d6622a7ef9baef066,Jan,2017,heat,hold,San Jose,567.8260869565217,670.6086956521739,628.4347826086956,40.0,False,False,False
 81fec362a57bcf6e273a5926a672d8dbc58b3a5a,Jan,2017,auto,auto,San Marcos,688.90625,780.0,689.84375,40.0,False,False,False
 8207c36331651df399161f5b11031aa46875859a,Jan,2017,heat,hold,San Diego,733.2543352601156,733.7132947976878,733.7132947976878,35.0,False,False,False

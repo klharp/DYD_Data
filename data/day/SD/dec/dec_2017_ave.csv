@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 004e7f286453271cd8b2b9367719102dc96392c2,dec,2017,auto,hold,Elk Point,697.627358490566,752.9669811320755,698.2971698113207,20.0,False,False,False
 011eb806f7782fc048072fabfb035b54f5d71e67,dec,2017,auto,hold,Sioux Falls,656.2181818181818,740.7454545454545,660.3454545454546,100.0,False,False,False
 045e533587d8a51c00e08e459243ce7ec3cbaaf9,dec,2017,heat,hold,Rapid City,717.7142857142857,760.0,760.0,70.0,True,False,False
@@ -55,7 +55,7 @@ b7a937656f2e9c6d008fad41ee6ebe74772ef66d,dec,2017,heat,auto,Sioux Falls,716.4095
 b7a937656f2e9c6d008fad41ee6ebe74772ef66d,dec,2017,heat,hold,Sioux Falls,717.8571428571429,721.0714285714286,718.3571428571429,5.0,False,False,False
 b82f636e91b827f8c3335e14b4784f234c7fa83e,dec,2017,heat,hold,Sioux Falls,665.340206185567,670.0,670.0,90.0,False,False,False
 ba6e220a85539b203580b1486b6e183220f6488c,dec,2017,auto,auto,Sioux Falls,688.843137254902,790.0,690.0,0.0,False,False,False
-ba6e220a85539b203580b1486b6e183220f6488c,dec,2017,auto,hold,Sioux Falls,666.6428571428571,842.7380952380952,638.5714285714286,0.0,False,False,False
+ba6e220a85539b203580b1486b6e183220f6488c,dec,2017,auto,hold,Sioux Falls,686.8888888888889,800.0,690.0,0.0,False,False,False
 c286bb38a8bbe2053013f8899f27ce0e8fe7e2fc,dec,2017,heat,auto,Watertown,703.546370967742,712.9435483870968,706.8145161290323,16.0,False,False,False
 c288af7e370c8f1f93352a54aeebbfa3b830022b,dec,2017,auto,hold,Sioux Falls,705.0,750.0,709.8235294117648,5.0,False,False,False
 c3cc30e0e8e9481f56d2d8ccb8875ffd6e58c48d,dec,2017,heat,hold,Rapid City,706.9333333333333,705.1333333333333,705.1333333333333,55.0,False,False,False

@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 001d65da87242dc0b8bb7013ec8efe01c813e750,feb,2021,heat,hold,Lake Orion,703.4559386973181,705.919540229885,705.9226053639846,57.0,False,False,False
 001fded0a083f726b2ccab5616a25874f4af28a2,feb,2021,heat,hold,Grand Rapids,690.2635658914729,695.7403100775193,694.7635658914729,40.0,False,False,False
 0028411d4a94308c4b0baca5f2ea9c20ee6a3df6,feb,2021,heat,hold,Delhi charter Townsh,681.1851851851852,685.7259259259259,684.4814814814815,0.0,True,False,False

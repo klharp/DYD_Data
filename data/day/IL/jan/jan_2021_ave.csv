@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 0010ea447dc3807b33daad2477d1cc02a71571fa,Jan,2021,heat,hold,Chicago,689.7791411042945,695.0,694.9815950920246,5.0,False,False,False
 0027e9be6cd672afe749634eaf39c372d1b7819e,Jan,2021,heat,hold,Sparland,683.4285714285714,690.6428571428571,690.0714285714286,75.0,True,False,False
 002ba06a2fbc44349736a758c25eb6755d270f15,Jan,2021,heat,hold,Niles,717.2203389830509,730.0,717.1559322033899,60.0,False,False,False

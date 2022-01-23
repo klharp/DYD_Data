@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 00a57ff87df6c0a6293c5d88b27fcf5f48a0ad28,jun,2017,cool,auto,Fort Wayne,720.9963503649635,721.081204379562,719.4297445255474,20.0,False,False,True
 00a57ff87df6c0a6293c5d88b27fcf5f48a0ad28,jun,2017,cool,hold,Fort Wayne,716.0696378830083,717.6471680594243,717.6397400185701,20.0,False,False,True
 00a57ff87df6c0a6293c5d88b27fcf5f48a0ad28,jun,2017,heat,auto,Fort Wayne,719.8095238095239,720.0,720.0,20.0,False,False,True

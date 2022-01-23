@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 070839ef58c74b72d673dd533e6f35aec7ce8f27,aug,2017,cool,auto,Houston,776.1145833333335,750.0,750.0,15.0,True,False,True
 11d84820d97292fd2ac228b5170ac611815a10b3,aug,2017,auto,auto,Wilmington,799.0,780.0,690.0,57.0,False,False,False
 11d84820d97292fd2ac228b5170ac611815a10b3,aug,2017,auto,hold,Wilmington,766.7692307692308,810.0,690.0,57.0,False,False,False

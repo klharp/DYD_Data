@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 01231b3659604ae515f75ef6288754f18e167b01,jul,2017,cool,auto,Covington,753.5087378640777,755.9864077669902,755.431067961165,50.0,False,False,False
 01231b3659604ae515f75ef6288754f18e167b01,jul,2017,cool,hold,Covington,747.9844509232263,747.3615160349855,747.6744412050534,50.0,False,False,False
 026f9cb5ea5ea90f77c5e550fa2e827561cddef7,jul,2017,cool,hold,Luling,729.4725010036129,729.9474106784422,729.936170212766,0.0,False,False,False
@@ -226,7 +226,7 @@ abd01e5e4360b87a54d00d069947aa8607ea66ef,jul,2017,auto,hold,Baton Rouge,772.6488
 abfbb8579b7b4be0cfa2fb35dc2a0d1073fbbb33,jul,2017,cool,auto,Napoleonville,704.4262295081967,702.5819672131148,712.5245901639345,40.0,False,False,False
 abfbb8579b7b4be0cfa2fb35dc2a0d1073fbbb33,jul,2017,cool,hold,Napoleonville,727.6118251928019,729.8611825192802,729.8611825192802,40.0,False,False,False
 ac1ff877a0f3404e364cbd51509f03fb9cc18209,jul,2017,auto,auto,Walker,734.7314487632509,733.6996466431094,681.0212014134275,10.0,False,False,False
-acd97e4ab4ef3bcd764d9bb3f69e3cd3604b6795,jul,2017,cool,auto,Lake Charles,697.7695473251027,712.3950617283949,679.3621399176955,0.0,False,False,False
+acd97e4ab4ef3bcd764d9bb3f69e3cd3604b6795,jul,2017,cool,auto,Lake Charles,714.4835680751172,731.0422535211267,683.4976525821596,0.0,False,False,False
 acd97e4ab4ef3bcd764d9bb3f69e3cd3604b6795,jul,2017,cool,hold,Lake Charles,640.6862745098039,619.6274509803923,619.7254901960785,0.0,False,False,False
 afea09e8c1505c733cc97ef52e6643db2e8af291,jul,2017,auto,hold,Prairieville,722.6285714285713,721.4285714285713,671.4285714285714,0.0,False,False,False
 b0325f00c3ac96b236749b994fbf6c16f95c62d5,jul,2017,auto,hold,Jefferson,750.0277777777777,750.0,680.0,30.0,False,False,False

@@ -1,7 +1,7 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
-16913980a67e1faa9fb0fe491f8d36b4477f965a,Jan,2017,heat,auto,Cheyenne,656.8284023668639,656.0355029585799,652.0887573964498,10.0,False,False,False
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+16913980a67e1faa9fb0fe491f8d36b4477f965a,Jan,2017,heat,auto,Cheyenne,653.80625,656.375,655.01875,10.0,False,False,False
 1af93c740d9d394407a734476ba8bcaf41c2f2dd,Jan,2017,heat,auto,Casper,634.1349862258953,652.1818181818181,639.9173553719008,30.0,True,False,False
-1af93c740d9d394407a734476ba8bcaf41c2f2dd,Jan,2017,heat,hold,Casper,632.9800995024875,650.2885572139304,630.776119402985,30.0,True,False,False
+1af93c740d9d394407a734476ba8bcaf41c2f2dd,Jan,2017,heat,hold,Casper,633.0708860759494,650.2936708860759,631.3215189873417,30.0,True,False,False
 31af9764717cc87207aca52dabacb0bb1e2b8b95,Jan,2017,heat,auto,Gillette,678.0657681940701,740.7692722371968,675.767115902965,35.0,False,False,False
 31af9764717cc87207aca52dabacb0bb1e2b8b95,Jan,2017,heat,hold,Gillette,705.9,674.3333333333334,656.8,35.0,False,False,False
 44788b127929a7bbc4a79d2b17a215fd5460cdc1,Jan,2017,heat,auto,Cheyenne,728.082191780822,741.6575342465753,740.9589041095891,15.0,False,False,False
@@ -14,4 +14,3 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 ac76fecdaa287fefcce1e1e9d8a04222a05f127f,Jan,2017,heat,auto,Rock Springs,727.0,795.0,641.0,25.0,False,False,False
 ac76fecdaa287fefcce1e1e9d8a04222a05f127f,Jan,2017,heat,hold,Rock Springs,735.6702412868633,736.2580428954424,735.6313672922251,25.0,False,False,False
 dfd6614b4f44b374e9c9f7c6d107bb8953ce70b9,Jan,2017,auto,hold,Trail Dr,744.2222222222222,800.0,750.0,35.0,False,False,False
-f7cdfd4cc8a741382df3f72255f8368549f3d066,Jan,2017,heat,hold,Laramie,646.8571428571429,650.0,600.0,35.0,False,False,False

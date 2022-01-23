@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 011a84668067e31b514a0238be88622798e2d625,feb,2017,auto,auto,Colorado Springs,667.4736842105264,759.4736842105264,680.0,40.0,False,False,False
 011a84668067e31b514a0238be88622798e2d625,feb,2017,auto,hold,Colorado Springs,693.4411764705883,765.4117647058823,706.8823529411765,40.0,False,False,False
 016982393b0ec18a6b02e713f5605fbf7fcf6f81,feb,2017,auto,auto,Parker,711.7068273092369,758.9759036144578,704.2931726907631,5.0,True,False,False
@@ -526,8 +526,8 @@ d12f14c2d1e5dc55b4acc7fbe6ce824bd63747c8,feb,2017,heat,hold,COLORADO Springs,750
 d132b0a2ac49caae41e1d9f28e634be874879824,feb,2017,auto,auto,Aurora,676.7083333333334,820.0,680.0,16.0,False,False,True
 d132b0a2ac49caae41e1d9f28e634be874879824,feb,2017,auto,hold,Aurora,695.1456953642385,792.1622516556291,694.7980132450331,16.0,False,False,True
 d1c68176864c24e72e6f900947ebe02be0190a0f,feb,2017,auto,hold,Thornton,715.8297872340426,770.0,718.7234042553191,5.0,False,False,False
-d30508b1ddaef2cb57380f3bfebb7de33d9d42ab,feb,2017,cool,auto,Fort Collins,578.2801013941698,563.9695817490494,884.1596958174905,0.0,False,False,False
-d30508b1ddaef2cb57380f3bfebb7de33d9d42ab,feb,2017,heat,auto,Fort Collins,636.6545454545454,548.1636363636363,907.7272727272727,0.0,False,False,False
+d30508b1ddaef2cb57380f3bfebb7de33d9d42ab,feb,2017,cool,auto,Fort Collins,552.4666666666667,734.0,660.0,0.0,False,False,False
+d30508b1ddaef2cb57380f3bfebb7de33d9d42ab,feb,2017,heat,auto,Fort Collins,566.6666666666666,759.0,695.0,0.0,False,False,False
 d30508b1ddaef2cb57380f3bfebb7de33d9d42ab,feb,2017,heat,hold,Fort Collins,552.0,680.0,680.0,0.0,False,False,False
 d3431b6631efd28cf78687a04438dd922ac6ebbd,feb,2017,heat,auto,Aurora,727.4807692307693,718.6474358974359,718.6474358974359,16.0,False,False,False
 d3431b6631efd28cf78687a04438dd922ac6ebbd,feb,2017,heat,hold,Aurora,744.1303418803419,745.1431623931624,745.1431623931624,16.0,False,False,False

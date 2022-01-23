@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 000009f677b24c7e48f1f6e36a9ab8ab83f546ba,jul,2019,auto,auto,Chicago,695.45,688.2666666666667,620.0,0.0,False,False,True
 000009f677b24c7e48f1f6e36a9ab8ab83f546ba,jul,2019,cool,auto,Chicago,705.1609195402299,685.9080459770115,685.4252873563219,0.0,False,False,True
 000009f677b24c7e48f1f6e36a9ab8ab83f546ba,jul,2019,cool,hold,Chicago,673.75,670.0,670.0,0.0,False,False,True
@@ -1858,7 +1858,7 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 46cc23cb4322a46e0c0172275f6a415476d77a8d,jul,2019,auto,hold,Chicago,733.8048780487804,730.960088691796,668.6821877309682,0.0,False,False,False
 46cc23cb4322a46e0c0172275f6a415476d77a8d,jul,2019,cool,hold,Chicago,731.0,705.1666666666666,688.3333333333334,0.0,False,False,False
 46d84e5ea7f7990e00f08f8465635b23953471a3,jul,2019,cool,hold,Sycamore,732.9886075949368,731.3056962025316,731.3056962025316,75.0,False,False,False
-46e3367e8ba9f4d9e44304e304aae6645c2fe936,jul,2019,cool,auto,Huntley,637.925925925926,610.1296296296297,675.0,15.0,False,False,False
+46e3367e8ba9f4d9e44304e304aae6645c2fe936,jul,2019,cool,auto,Huntley,701.9,654.7,653.0,15.0,False,False,False
 46e3367e8ba9f4d9e44304e304aae6645c2fe936,jul,2019,cool,hold,Huntley,677.4246575342465,675.431506849315,675.2808219178082,15.0,False,False,False
 46ecbbafef67d2017a1257a08b226e49cec8eaaa,jul,2019,cool,auto,Palatine,750.4327666151469,759.4976816074188,756.580370942813,25.0,False,False,False
 46ecbbafef67d2017a1257a08b226e49cec8eaaa,jul,2019,cool,hold,Palatine,750.7247706422019,750.9370904325033,750.9056356487549,25.0,False,False,False

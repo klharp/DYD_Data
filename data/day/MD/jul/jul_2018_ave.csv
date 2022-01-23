@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 0004ddd9fb43232e8457ed12b578e20c5e1b33b0,jul,2018,cool,auto,Parkville,699.01,700.04,699.99,50.0,False,False,False
 0004ddd9fb43232e8457ed12b578e20c5e1b33b0,jul,2018,cool,hold,Parkville,715.0,715.7647058823529,715.7647058823529,50.0,False,False,False
 00169fef3ce1e3a7aaaa39f9f28d8db467527197,jul,2018,cool,auto,Columbia,727.0625,721.8125,719.1875,40.0,True,False,True
@@ -829,7 +829,7 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 53de5b5ed3bd3ea8a467d667b01e446db4baa18f,jul,2018,auto,hold,Baltimore,735.1386554621848,735.0966386554621,659.6155462184873,70.0,False,False,False
 5461c22ae8114452a86fe685783bc2c6d7ef8bb3,jul,2018,cool,auto,Havre de Grace,751.6916299559472,757.5066079295154,763.1204111600588,18.0,False,False,False
 5461c22ae8114452a86fe685783bc2c6d7ef8bb3,jul,2018,cool,hold,Havre de Grace,759.9097744360902,767.3874686716792,767.3944862155388,18.0,False,False,False
-546aa07373c0e18ba2ed3d173b9d4b10620ca636,jul,2018,cool,auto,Baltimore,749.2619974059663,607.7985300475573,670.0,0.0,True,False,True
+546aa07373c0e18ba2ed3d173b9d4b10620ca636,jul,2018,cool,auto,Baltimore,730.0132158590309,679.4625550660793,670.0,0.0,True,False,True
 549aeccfd0340fdaa1acddc09436384a831351ab,jul,2018,cool,hold,Annapolis,746.0494949494949,756.1525252525253,756.1525252525253,10.0,False,False,False
 55027730d24851d3f123e684b043d8d2711854de,jul,2018,cool,auto,Elkton,729.6467203682394,731.1956271576524,721.6352128883774,0.0,False,False,False
 55027730d24851d3f123e684b043d8d2711854de,jul,2018,cool,hold,Elkton,747.025974025974,750.8701298701299,750.2857142857143,0.0,False,False,False
@@ -1318,7 +1318,7 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 85a1929895e0f85e2daa66595d317a1c1a6c8aee,jul,2018,cool,hold,Laurel,799.3163265306123,794.7755102040817,794.7755102040817,10.0,True,False,True
 8621ce3ea2a24e83c23ebaf77121a90a4ef473a1,jul,2018,cool,auto,Baltimore,715.0829840737637,717.2585917854149,717.2585917854149,70.0,False,False,False
 8621ce3ea2a24e83c23ebaf77121a90a4ef473a1,jul,2018,cool,hold,Baltimore,712.8151750972762,711.9280155642024,711.9280155642024,70.0,False,False,False
-864c6761473075e5a570d58367561af7507ea51b,jul,2018,cool,auto,Randallstown,805.0570175438596,810.0,842.5,40.0,False,False,False
+864c6761473075e5a570d58367561af7507ea51b,jul,2018,cool,auto,Randallstown,784.7543859649123,800.0,800.0,40.0,False,False,False
 864c6761473075e5a570d58367561af7507ea51b,jul,2018,cool,hold,Randallstown,803.726902173913,806.2010869565217,806.2010869565217,40.0,False,False,False
 86fd734b2bdbacdb52ce4dbbe7b93677dca7f33e,jul,2018,cool,auto,Ellicott City,721.0736932305056,717.3598971722365,676.7120822622107,0.0,False,False,False
 86fd734b2bdbacdb52ce4dbbe7b93677dca7f33e,jul,2018,cool,hold,Ellicott City,726.981884057971,726.286231884058,726.286231884058,0.0,False,False,False

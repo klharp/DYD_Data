@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 0bc51b95b2dc23713f611e182c689ad03dc2c300,jul,2017,cool,auto,Great Falls,708.0,735.0,740.0,10.0,False,False,False
 0bc51b95b2dc23713f611e182c689ad03dc2c300,jul,2017,cool,hold,Great Falls,724.2424242424244,740.3939393939394,740.3939393939394,10.0,False,False,False
 1e4188c276ca852a75feef8c5e3fc27e1f409c4d,jul,2017,cool,auto,Helena,715.4,713.44,699.2,5.0,False,False,False

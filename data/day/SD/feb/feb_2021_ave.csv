@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 011eb806f7782fc048072fabfb035b54f5d71e67,feb,2021,heat,hold,Sioux Falls,667.2045454545455,676.3409090909091,675.0681818181819,100.0,False,False,False
 0968b16b919c5e8b72ff8de3bda124068f7f322d,feb,2021,auto,hold,Sioux Falls,667.4109848484849,760.0,672.9545454545455,0.0,False,False,False
 0cdb29450b96ad16bdcd65b24b70e0f11aae8af1,feb,2021,heat,hold,Sioux Falls,688.6,694.1142857142858,694.1142857142858,20.0,False,False,True
@@ -13,8 +13,7 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 289aeea3605d404fe8a25798b2b2252505cd8d8f,feb,2021,heat,hold,Pierre,690.7844827586207,693.4655172413793,692.3448275862069,40.0,False,False,False
 29821fb5f84f8a985543e886c07d5df89e0ff431,feb,2021,auto,hold,Rapid City,642.6421845574388,709.0696798493409,644.1544256120527,5.0,False,False,False
 2d3155f570e0548c9209e96ad6a85ea7ff90b5fa,feb,2021,heat,hold,Sioux Falls,696.3108108108108,700.0,700.0,0.0,False,False,False
-2e3f052d974a5f34ab5e4a430a975718633a71c5,feb,2021,heat,hold,Sisseton,549.2734864300626,670.0046972860125,540.3731732776617,40.0,False,False,False
-30a50f3df07d56b578fdf38b93291e6860f389ad,feb,2021,heat,hold,Sioux Falls,662.6819739547635,678.2076764907471,668.7224126113776,45.0,False,False,False
+30a50f3df07d56b578fdf38b93291e6860f389ad,feb,2021,heat,hold,Sioux Falls,675.5032467532468,683.4050324675325,683.2272727272727,45.0,False,False,False
 30c9b455802f58170c2be006aab99c5c41a05977,feb,2021,heat,hold,aberdeen,688.4938337801609,690.0,690.0,45.0,True,False,False
 328bca1050aa07835f0bab2868d5eefde6e06ae2,feb,2021,heat,hold,Sioux Falls,683.0,685.0,685.0,80.0,False,False,False
 3cb5cd50805e286cf3cd45001f0c9e54f6fed6c3,feb,2021,heat,hold,Sioux Falls,653.2916666666666,655.0,655.0,20.0,False,False,False
@@ -25,7 +24,7 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 4e7b788a2f69451599ec411fc3d8f934ca333be7,feb,2021,auto,hold,Sioux Falls,682.2658227848101,735.0,685.0,30.0,False,False,False
 55c8c84126bfbaa3b1f52953f3a6c41ce2e88e8e,feb,2021,heat,hold,Brookings,694.375,690.0,690.0,30.0,False,False,False
 592711bc11f980e727246e2f71e3a77a4fd91ca8,feb,2021,heat,hold,Hayti,666.5833333333334,670.0,670.0,8.0,True,False,True
-5a98c243db66a23760e9b890ea746441b7493bdc,feb,2021,heat,hold,Vermillion,579.2347417840375,655.0140845070423,577.8075117370892,120.0,False,False,False
+5a98c243db66a23760e9b890ea746441b7493bdc,feb,2021,heat,hold,Vermillion,642.4128440366973,656.9357798165138,644.7981651376147,120.0,False,False,False
 5ea1c0a7cd268a906cded2c8487eee85713feb0e,feb,2021,heat,hold,Tea,758.453488372093,753.2558139534884,753.2558139534884,8.0,False,False,False
 670be188eade7b0b203dd0cbe52b8512daf30941,feb,2021,auxHeatOnly,hold,Tea,648.7307037457434,654.6955164585698,654.6955164585698,40.0,True,False,True
 700e21cc54e6f29ac12832e68057372d10b81183,feb,2021,heat,hold,North Sioux City,697.6762295081967,692.9549180327868,692.8319672131148,9.0,False,False,True
@@ -33,7 +32,7 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 7a59d7c797f30415b2b2557d368086f59a8bfbf6,feb,2021,heat,hold,Baltic,672.2645914396887,670.2140077821011,670.2140077821011,5.0,False,False,False
 880406a81fa4bf281a21e6e7788c6d32b611ec04,feb,2021,heat,hold,Sioux Falls,688.2173913043479,692.4028985507247,692.2695652173913,0.0,False,False,False
 8930281824f3ef2ac371723900928c198a63c348,feb,2021,heat,hold,Sioux Falls,716.1912568306011,718.1020036429873,718.1020036429873,10.0,False,False,False
-89c72f65d234f95357466f70532bce6def19cc8f,feb,2021,auto,hold,Deadwood,545.0386680988184,791.514500537057,548.4403866809882,20.0,True,False,True
+89c72f65d234f95357466f70532bce6def19cc8f,feb,2021,auto,hold,Deadwood,541.0,820.0,658.0,20.0,True,False,True
 8c270e6d5c14b9d44168564cf0a1b46c8ff248a2,feb,2021,heat,hold,Brookings,721.5660066006601,726.4430693069307,726.4418316831683,50.0,True,False,True
 8dcbf1b95836062ea35b62788d9dc4b7015bca9f,feb,2021,heat,hold,Yankton,712.3486055776892,713.8291832669323,713.8291832669323,49.0,False,False,False
 8f424d66255e8c5985527f298fd93efdf9fee43d,feb,2021,heat,hold,Sioux Falls,699.3709677419355,685.1935483870968,683.8709677419355,39.0,True,False,True

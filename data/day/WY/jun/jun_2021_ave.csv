@@ -1,9 +1,8 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 00098d05dc32580dc5bff640242bfd6d439aaa52,jun,2021,cool,hold,Casper,700.7321428571429,693.375,693.375,40.0,False,False,False
 0c66b3c257332a7615e55763a8a5add2f19a1aaa,jun,2021,cool,hold,Casper,712.6666666666666,698.0666666666667,696.9333333333333,10.0,False,False,False
 1106923a29a547265ce04105011ffbc681bff796,jun,2021,cool,hold,Cheyenne,702.3333333333334,720.0,700.0,5.0,False,False,False
-120fb1335b23613f696e612433d9fc4a8b87edfa,jun,2021,cool,hold,Pine Haven,813.5,689.0,629.5,5.0,False,False,False
-120fb1335b23613f696e612433d9fc4a8b87edfa,jun,2021,heat,hold,Pine Haven,799.6341045415595,650.0,565.0,5.0,False,False,False
+120fb1335b23613f696e612433d9fc4a8b87edfa,jun,2021,cool,hold,Pine Haven,810.0,728.0,694.0,5.0,False,False,False
 1af93c740d9d394407a734476ba8bcaf41c2f2dd,jun,2021,cool,hold,Casper,688.3198231392778,748.3890935887988,748.3478260869565,30.0,True,False,False
 1af93c740d9d394407a734476ba8bcaf41c2f2dd,jun,2021,heat,hold,Casper,675.021052631579,650.0,630.0,30.0,True,False,False
 2cc2736dfecd12ede0f334d504dacc109edfa726,jun,2021,cool,hold,Laramie,711.3387096774194,693.9274193548387,692.233870967742,10.0,False,False,False
@@ -12,10 +11,9 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 338d0307f8579900d1f54af0c7475fd0e3a6af35,jun,2021,heat,hold,Green River,704.4545454545455,685.1818181818181,676.4545454545455,0.0,False,False,False
 346d6a205129b9d881a6f6b4d15f12a6836eb41a,jun,2021,heat,hold,Laramie,709.94,650.0,640.0,10.0,False,False,False
 3f04cb50110e414b14944a34de26133900b1d5ef,jun,2021,cool,hold,Cheyenne,692.1,609.0,619.0,10.0,True,False,False
-4284c1e04385e6cca99af84f3e09588a806b7819,jun,2021,heat,hold,Laramie,678.0138888888889,650.0,600.0,70.0,True,False,False
 44788b127929a7bbc4a79d2b17a215fd5460cdc1,jun,2021,cool,hold,Cheyenne,751.1498708010336,754.1757105943152,754.1757105943152,15.0,False,False,False
 44788b127929a7bbc4a79d2b17a215fd5460cdc1,jun,2021,heat,hold,Cheyenne,722.8941176470588,712.564705882353,712.564705882353,15.0,False,False,False
-4698711909dcaeba4a60bdebf8e6b23a8f77e0d1,jun,2021,auto,hold,Sheridan,692.483870967742,689.3548387096774,618.7096774193549,5.0,False,False,False
+4698711909dcaeba4a60bdebf8e6b23a8f77e0d1,jun,2021,auto,hold,Sheridan,709.6666666666666,710.0,660.0,5.0,False,False,False
 4698711909dcaeba4a60bdebf8e6b23a8f77e0d1,jun,2021,cool,hold,Sheridan,670.0,651.0,640.25,5.0,False,False,False
 5c3385a5b08903ef32083aacfc000fe752b78fdc,jun,2021,cool,hold,Gillette,712.1833333333333,676.7666666666667,676.4666666666667,10.0,False,False,False
 5ec6580adf42b467f21b502112c59efb3530f1cc,jun,2021,auto,hold,Cheyenne,731.1039603960396,750.0,669.8762376237623,8.0,False,False,False
@@ -44,4 +42,4 @@ f045e632eb732cd0703e069e70aef34bb8b50ad0,jun,2021,heat,hold,Evanston,678.6792452
 f3bd7952d2fbb216345ea8b272cbdee983b34ae6,jun,2021,cool,hold,Casper,724.1985294117648,721.7279411764706,721.5073529411765,40.0,False,False,False
 f5be20356f7cafa6712707b496d91af1ddbdabe0,jun,2021,auto,hold,Gillette,694.6547619047619,705.0,675.0,10.0,True,False,False
 f5be20356f7cafa6712707b496d91af1ddbdabe0,jun,2021,cool,hold,Gillette,695.6289682539683,705.0,693.6666666666666,10.0,True,False,False
-f766ec9ff77cacb6b7c07ef6ac6a6f039c751748,jun,2021,auto,hold,Cheyenne,687.3333333333334,710.780303030303,647.75,5.0,False,False,False
+f766ec9ff77cacb6b7c07ef6ac6a6f039c751748,jun,2021,auto,hold,Cheyenne,692.1530612244898,714.3163265306123,664.3163265306123,5.0,False,False,False

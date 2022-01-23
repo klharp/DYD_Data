@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 001ee7bc7dadf001cb59b2aad6f5ff2bc3b15d43,Jan,2021,heat,hold,South Bend,705.4347826086956,698.0434782608696,697.8695652173913,50.0,False,False,False
 004a8ed2edb250a5a1c876d076227bbb8a2a2135,Jan,2021,auto,hold,Fort Wayne,729.8842105263158,785.0,735.0,30.0,False,False,False
 008844c6c1993ea32d6117993fa4c89479fc9db8,Jan,2021,heat,hold,Indianapolis,698.75,700.1578947368421,699.8157894736842,40.0,True,False,False

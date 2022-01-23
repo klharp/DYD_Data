@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 00a0f0ba8d5a1f94ea2806afb6c1baa70177c6c1,jul,2018,cool,hold,Medfield,771.027397260274,778.9041095890411,778.9041095890411,37.0,False,False,False
 00a9cbb5e2ee388e61d7fa92fc762c725d4a8c76,jul,2018,auto,hold,Newton,758.2,760.7513513513513,680.0,10.0,False,False,False
 01a2ab82ff9b731e47a504b41b5802dbbbfaf4fa,jul,2018,auto,hold,Winchester,766.7840713053479,766.2070155261645,675.0,90.0,False,False,False
@@ -1305,7 +1305,7 @@ d77bb5a82db82e4b2e73fb92d56dfff41e9edb60,jul,2018,cool,hold,Stow,725.83608004708
 d8cec133a6626dabde8d0e6e55c51a4a3dda7992,jul,2018,cool,hold,Orleans,751.1060606060606,767.3787878787879,766.6363636363636,50.0,False,False,False
 d8ee6f6e67e0167eec5f533495bcac32e5ac4356,jul,2018,cool,auto,Shrewsbury,749.225,739.74,736.35,20.0,False,False,False
 d8ee6f6e67e0167eec5f533495bcac32e5ac4356,jul,2018,cool,hold,Shrewsbury,759.3859649122807,773.905701754386,739.9890350877193,20.0,False,False,False
-d92cb65e5cc0c7cd36d8acc2b6610ebd9ba290c4,jul,2018,cool,auto,Dighton,711.3585178055823,715.7155919153032,704.6049085659288,20.0,False,False,False
+d92cb65e5cc0c7cd36d8acc2b6610ebd9ba290c4,jul,2018,cool,auto,Dighton,710.6656976744187,717.0455426356589,704.7718023255813,20.0,False,False,False
 d92cb65e5cc0c7cd36d8acc2b6610ebd9ba290c4,jul,2018,cool,hold,Dighton,708.890350877193,737.1535087719299,732.5438596491229,20.0,False,False,False
 d9916508e39185f595c2128376e2787907fbeb36,jul,2018,cool,hold,Lexington,771.2,761.2,752.2,45.0,False,False,False
 d9cc8927a1971abed89f1cc0d80b1052dd017a71,jul,2018,auto,auto,Needham,811.2866520787746,813.1159737417943,700.0,0.0,False,False,False

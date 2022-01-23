@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 0010e47e4b45d741375cce16b3f2834662857046,jul,2020,auto,auto,Dunwoody,722.8275862068965,720.0,650.1034482758621,59.0,True,False,False
 0010e47e4b45d741375cce16b3f2834662857046,jul,2020,auto,hold,Dunwoody,723.3814165042235,720.0,660.0,59.0,True,False,False
 002928222f5a2b5cfeba53f3aca5d5f24f6c4fe8,jul,2020,cool,auto,Columbus,763.0536723163842,781.6468926553672,766.3050847457627,40.0,False,False,False
@@ -1475,7 +1475,7 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 5c8bd10d5254c7fd7816963a2e0a1bec84bccc56,jul,2020,cool,hold,Atlanta,760.5362087326944,762.6948881789137,762.6895633652822,0.0,True,False,False
 5ca781bd8a76c0dcd05bb8b3694afcf96f54b69e,jul,2020,cool,auto,Atlanta,738.8385093167702,750.2608695652174,703.8633540372671,17.0,True,False,False
 5caffe1d2c1264fdc47814f4459d53c28d4077bd,jul,2020,auto,hold,Dunwoody,750.8,750.3,690.0,35.0,False,False,False
-5cbf3f4b0ce4531264719866d76f11d4855d6b94,jul,2020,cool,auto,Cartersville,623.6486305945224,621.4569138276553,639.7835671342685,25.0,False,False,False
+5cbf3f4b0ce4531264719866d76f11d4855d6b94,jul,2020,cool,auto,Cartersville,631.1211293260474,629.2540983606557,638.2932604735884,25.0,False,False,False
 5cbf3f4b0ce4531264719866d76f11d4855d6b94,jul,2020,cool,hold,Cartersville,637.1523022432114,636.4132231404959,636.4155844155844,25.0,False,False,False
 5cf851b19db43bb0d7846132e2132e36366a50b4,jul,2020,cool,hold,Duluth,787.3656626506024,794.5957831325301,778.2018072289156,10.0,False,False,False
 5cf8a8a34538aa261cd31b77d8004cbd521d13d4,jul,2020,cool,auto,Marietta,714.5,719.6875,719.6875,30.0,False,False,False

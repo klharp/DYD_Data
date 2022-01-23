@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 003694c41cad5e9b6fd22ab076ac82741f649155,jun,2018,cool,auto,Cottage Grove,724.2,721.8,678.2,0.0,False,False,False
 01112bda59dc47b1ca327145792441aef251738c,jun,2018,auto,hold,Saint Paul,788.8,780.6,670.0,115.0,False,False,False
 01112bda59dc47b1ca327145792441aef251738c,jun,2018,cool,hold,Saint Paul,725.4252491694352,718.0764119601329,718.0764119601329,115.0,False,False,False

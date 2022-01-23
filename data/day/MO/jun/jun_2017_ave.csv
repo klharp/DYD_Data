@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 0039c46facfa454852fda813f2c88ed0bbfab21d,jun,2017,auto,hold,Blue Springs,745.3333333333334,759.375,680.0,20.0,False,False,False
 0056cebd6cd72164f185e551f894f028d3d2e319,jun,2017,cool,hold,Clarkson Valley,748.7333333333333,740.0,740.0,45.0,True,False,True
 005b44ffe2812f645179dccec3443da1ec58a68d,jun,2017,cool,hold,Kirkwood,731.3189152076897,730.0,730.0,0.0,False,False,False

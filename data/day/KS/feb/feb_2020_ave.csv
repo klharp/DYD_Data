@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 0151c36b94d654ae2ec0ae5d5693c45376258e4c,feb,2020,auto,hold,Westwood,692.45,749.875,699.775,0.0,True,False,False
 0151c36b94d654ae2ec0ae5d5693c45376258e4c,feb,2020,heat,auto,Westwood,708.1111111111111,740.0,716.8888888888889,0.0,True,False,False
 0151c36b94d654ae2ec0ae5d5693c45376258e4c,feb,2020,heat,hold,Westwood,693.6842105263158,701.5263157894736,699.2368421052631,0.0,True,False,False

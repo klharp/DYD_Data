@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 004666c8518763d5ff5a1b6f9be919899724167e,aug,2017,auto,auto,Denver,756.5,766.6666666666666,683.3333333333334,10.0,False,False,False
 004666c8518763d5ff5a1b6f9be919899724167e,aug,2017,auto,hold,Denver,772.5555555555555,780.0,690.0,10.0,False,False,False
 0101ed9a523b572e5b256aeeaf9755d4f076d1a0,aug,2017,cool,auto,Golden,707.1204819277109,708.0843373493976,680.1204819277109,20.0,False,False,True
@@ -707,9 +707,8 @@ d16a960d2f0d5ebf6cfc4dcd17ea3c4858d2607c,aug,2017,heat,hold,Bailey,658.933333333
 d1d2cd52451fb2e57d7e0fc54b4618f46210b56e,aug,2017,auto,hold,Highlands Ranch,697.75,669.25,616.25,0.0,False,False,False
 d238b614566719a9810a8394ffda4bd42965444f,aug,2017,cool,hold,Arvada,707.2747252747253,750.0,750.0,60.0,True,False,False
 d2f43eb659a70edbb93e8e9d51493c6bc66620a9,aug,2017,auto,hold,Highlands Ranch,753.3333333333334,770.0,650.0,15.0,False,False,False
-d30508b1ddaef2cb57380f3bfebb7de33d9d42ab,aug,2017,cool,auto,Fort Collins,593.4868913857678,586.0674157303371,790.5056179775281,0.0,False,False,False
-d30508b1ddaef2cb57380f3bfebb7de33d9d42ab,aug,2017,cool,hold,Fort Collins,575.6555555555556,572.0,788.0,0.0,False,False,False
-d30508b1ddaef2cb57380f3bfebb7de33d9d42ab,aug,2017,heat,auto,Fort Collins,601.0,635.5,825.8,0.0,False,False,False
+d30508b1ddaef2cb57380f3bfebb7de33d9d42ab,aug,2017,cool,auto,Fort Collins,642.5227272727273,638.5681818181819,791.1590909090909,0.0,False,False,False
+d30508b1ddaef2cb57380f3bfebb7de33d9d42ab,aug,2017,heat,auto,Fort Collins,633.0,646.0,809.0,0.0,False,False,False
 d3431b6631efd28cf78687a04438dd922ac6ebbd,aug,2017,cool,hold,Aurora,735.1031976744187,739.1816860465116,739.1816860465116,16.0,False,False,False
 d34e9ed9156b65125abbd91fe132cbe7ec4a4ef0,aug,2017,cool,auto,Aurora,708.8121387283237,703.664739884393,702.5462427745665,35.0,False,False,False
 d34e9ed9156b65125abbd91fe132cbe7ec4a4ef0,aug,2017,cool,hold,Aurora,717.125,710.0,710.0,35.0,False,False,False

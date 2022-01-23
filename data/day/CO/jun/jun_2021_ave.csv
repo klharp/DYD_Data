@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 004666c8518763d5ff5a1b6f9be919899724167e,jun,2021,auto,hold,Denver,723.527397260274,718.2191780821918,668.2191780821918,10.0,False,False,False
 004666c8518763d5ff5a1b6f9be919899724167e,jun,2021,cool,hold,Denver,717.304347826087,711.0434782608696,709.304347826087,10.0,False,False,False
 00b9d14bcf27ff6d6e0c30c6f60651c6c8c9ae8b,jun,2021,auto,hold,Aurora,698.3585271317829,710.8488372093024,638.8372093023256,17.0,False,False,False
@@ -118,7 +118,7 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 150ca1c1a374ae31fa4098cb20bec49014da83df,jun,2021,cool,hold,Aurora,771.8,675.0,615.0,0.0,False,False,False
 15538f86e5f6941bc62612616f56b0e44ba3db0c,jun,2021,auto,hold,Aurora,725.2727272727273,702.0,652.0,30.0,False,False,False
 15591f4bbac9258d5beac6eb9c9d7f76730f76c4,jun,2021,auto,hold,Parker,728.4545454545455,710.0,660.0,0.0,True,False,False
-157e37b055787c86ce4bcc2666bd96342075fc9d,jun,2021,cool,hold,Commerce City,747.3501400560224,622.358543417367,659.5406162464986,0.0,False,False,False
+157e37b055787c86ce4bcc2666bd96342075fc9d,jun,2021,cool,hold,Commerce City,758.4629629629629,676.2129629629629,683.8425925925926,0.0,False,False,False
 158c2b21942b0d671b328f9a346bfaf07ea1a411,jun,2021,cool,hold,Wellington,726.5968586387435,730.1413612565445,730.1413612565445,9.0,True,False,False
 159b2c57ac4cdc87582b815d6e968e38bc7fa03c,jun,2021,cool,hold,Parker,715.8510638297872,719.8404255319149,719.7851063829787,20.0,False,False,False
 15f3f2579b10d71508e6373f0ca50ce450d499ff,jun,2021,auto,hold,Niwot,724.4518703241895,728.118204488778,653.8403990024938,20.0,True,False,False

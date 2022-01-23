@@ -1,11 +1,10 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 0c66b3c257332a7615e55763a8a5add2f19a1aaa,aug,2019,cool,auto,Casper,722.9583333333334,720.125,719.5,10.0,False,False,False
 0c66b3c257332a7615e55763a8a5add2f19a1aaa,aug,2019,cool,hold,Casper,718.625,709.8125,709.03125,10.0,False,False,False
 0d3e37e5491571879cac5a29d991fc0693ac416b,aug,2019,cool,auto,Evansville,740.75,730.0,721.0,80.0,False,False,False
 1106923a29a547265ce04105011ffbc681bff796,aug,2019,cool,hold,Cheyenne,706.8571428571429,710.0,700.0,5.0,False,False,False
 1af93c740d9d394407a734476ba8bcaf41c2f2dd,aug,2019,cool,auto,Casper,703.8235294117648,700.5294117647059,700.5294117647059,30.0,True,False,False
 1af93c740d9d394407a734476ba8bcaf41c2f2dd,aug,2019,cool,hold,Casper,700.0833333333334,730.25,728.875,30.0,True,False,False
-1d00854c03d26e989b137715f96f49c087b12e6b,aug,2019,heat,hold,Casper,683.9461363165527,650.0,450.0,0.0,False,False,False
 2cc2736dfecd12ede0f334d504dacc109edfa726,aug,2019,auto,auto,Laramie,736.9130434782609,720.0,670.0,10.0,False,False,False
 2cc2736dfecd12ede0f334d504dacc109edfa726,aug,2019,cool,auto,Laramie,701.7142857142857,724.0,713.1428571428571,10.0,False,False,False
 31af9764717cc87207aca52dabacb0bb1e2b8b95,aug,2019,cool,auto,Gillette,744.3666666666667,750.0,680.0,35.0,False,False,False
@@ -21,7 +20,7 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 5e37ac02a37fe85e838f75af25a2e05a1df84da1,aug,2019,cool,hold,Gillette,754.2850467289719,754.3831775700935,754.376168224299,0.0,True,False,False
 5ec6580adf42b467f21b502112c59efb3530f1cc,aug,2019,cool,auto,Cheyenne,732.9444444444445,750.0,750.0,8.0,False,False,False
 64914792287007003436e1e8a61fcc099d4542d2,aug,2019,cool,auto,Cheyenne,701.3585737179487,700.0,700.0,0.0,False,False,False
-74345f495365ac5a65c267f410df97fac944a148,aug,2019,cool,auto,Casper,714.575,767.325,672.175,0.0,False,False,False
+74345f495365ac5a65c267f410df97fac944a148,aug,2019,cool,auto,Casper,703.625,793.3125,780.4375,0.0,False,False,False
 759b41e328c1a31c0c37d8ee8ac5f45fdd644a17,aug,2019,cool,auto,Casper,735.6129032258065,765.0806451612904,765.0806451612904,0.0,False,False,False
 7ab7401981ce316104ff89f1cea82a92a571929d,aug,2019,cool,hold,Gillette,732.3786407766991,750.0,750.0,40.0,False,False,False
 7d1f639767fe028c56faaa9e85feab4fdc273206,aug,2019,cool,auto,Cheyenne,719.9411764705883,720.0,720.0,10.0,False,False,False

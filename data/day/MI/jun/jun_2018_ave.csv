@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 000af209b660b6da2dfc91a633650ccb97df073e,jun,2018,heat,auto,Pinckney,750.89726356217,680.0,680.0,80.0,False,False,False
 000af209b660b6da2dfc91a633650ccb97df073e,jun,2018,heat,hold,Pinckney,731.1607142857143,699.9910714285714,699.9910714285714,80.0,False,False,False
 001d65da87242dc0b8bb7013ec8efe01c813e750,jun,2018,cool,auto,Lake Orion,714.7898305084746,723.271186440678,728.4474576271186,57.0,False,False,False
@@ -3028,7 +3028,7 @@ fd1c43cb19f4061be74711d4803d0823e4a71518,jun,2018,cool,hold,Norton Shores,732.72
 fd202e1c334977b9f0a4415c99c1eb7fc96d966b,jun,2018,cool,auto,Ada,768.241935483871,769.8709677419355,769.5806451612904,10.0,False,False,False
 fd202e1c334977b9f0a4415c99c1eb7fc96d966b,jun,2018,cool,hold,Ada,760.264887063655,769.4620123203285,769.4620123203285,10.0,False,False,False
 fd39dd57abd7042b4b6b36307bc31e29f932f1cb,jun,2018,auto,auto,Westland,723.7965367965368,750.4978354978355,641.8181818181819,48.0,False,False,False
-fd3cf538ad1dbb8557398bb6ce7991ad791ecda9,jun,2018,cool,auto,De Tour Village,645.9037037037037,637.7185185185185,628.074074074074,95.0,False,False,False
+fd3cf538ad1dbb8557398bb6ce7991ad791ecda9,jun,2018,cool,auto,De Tour Village,651.5533980582525,649.4368932038835,630.5825242718447,95.0,False,False,False
 fd3cf538ad1dbb8557398bb6ce7991ad791ecda9,jun,2018,cool,hold,De Tour Village,634.637168141593,636.3805309734513,636.3805309734513,95.0,False,False,False
 fd533f9e9fb51d93319155c8a7f4144de2a9e45a,jun,2018,cool,auto,White Lake,689.3126110124334,693.7243339253996,693.7243339253996,85.0,False,False,False
 fd533f9e9fb51d93319155c8a7f4144de2a9e45a,jun,2018,cool,hold,White Lake,683.3782051282051,691.9230769230769,691.9230769230769,85.0,False,False,False

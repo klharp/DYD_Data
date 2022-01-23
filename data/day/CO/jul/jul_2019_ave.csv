@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 004666c8518763d5ff5a1b6f9be919899724167e,jul,2019,auto,hold,Denver,765.3409090909091,764.7613636363636,666.7272727272727,10.0,False,False,False
 004666c8518763d5ff5a1b6f9be919899724167e,jul,2019,cool,auto,Denver,757.1855670103092,740.1649484536083,739.7938144329897,10.0,False,False,False
 004666c8518763d5ff5a1b6f9be919899724167e,jul,2019,cool,hold,Denver,766.4925373134329,760.0,760.0,10.0,False,False,False
@@ -808,7 +808,7 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 57a25535483c906423d19395997f1ae31997f8f4,jul,2019,cool,hold,Colorado Springs,783.9012345679013,790.0,790.0,0.0,True,False,False
 57c5c457df1bf2e58035462f4860ac5fdba5fe6d,jul,2019,auto,auto,Lakewood,689.4067796610169,680.5762711864406,650.3813559322034,10.0,True,False,False
 57c5c457df1bf2e58035462f4860ac5fdba5fe6d,jul,2019,auto,hold,Lakewood,697.7287234042553,673.6755319148937,643.6117021276596,10.0,True,False,False
-57c5c457df1bf2e58035462f4860ac5fdba5fe6d,jul,2019,cool,auto,Lakewood,675.0065359477125,638.156862745098,651.6732026143791,10.0,True,False,False
+57c5c457df1bf2e58035462f4860ac5fdba5fe6d,jul,2019,cool,auto,Lakewood,668.1333333333333,655.6,652.4380952380952,10.0,True,False,False
 57c5c457df1bf2e58035462f4860ac5fdba5fe6d,jul,2019,cool,hold,Lakewood,690.5269461077844,663.9191616766467,663.1347305389221,10.0,True,False,False
 57ccdc18cbd039088f441efd6ba31f079a2cfc14,jul,2019,cool,auto,Colorado Springs,732.6875,739.8839285714286,739.7053571428571,5.0,False,False,False
 57ccdc18cbd039088f441efd6ba31f079a2cfc14,jul,2019,cool,hold,Colorado Springs,725.7406896551724,720.0,690.0,5.0,False,False,False

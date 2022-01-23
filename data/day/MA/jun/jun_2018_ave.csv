@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 00a0f0ba8d5a1f94ea2806afb6c1baa70177c6c1,jun,2018,cool,auto,Medfield,756.0769230769231,760.0,760.0,37.0,False,False,False
 00a0f0ba8d5a1f94ea2806afb6c1baa70177c6c1,jun,2018,cool,hold,Medfield,746.675,763.75,763.75,37.0,False,False,False
 01a2ab82ff9b731e47a504b41b5802dbbbfaf4fa,jun,2018,auto,hold,Winchester,744.6031211750307,778.6548347613219,696.8494492044064,90.0,False,False,False

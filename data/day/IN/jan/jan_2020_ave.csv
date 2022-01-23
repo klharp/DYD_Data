@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 004a8ed2edb250a5a1c876d076227bbb8a2a2135,Jan,2020,auto,auto,Fort Wayne,726.46875,800.0,700.0,30.0,False,False,False
 004a8ed2edb250a5a1c876d076227bbb8a2a2135,Jan,2020,auto,hold,Fort Wayne,735.7142857142857,815.0,735.0,30.0,False,False,False
 008844c6c1993ea32d6117993fa4c89479fc9db8,Jan,2020,heat,auto,Indianapolis,705.1693989071039,743.4426229508197,708.9071038251366,40.0,True,False,False

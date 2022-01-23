@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 0039c46facfa454852fda813f2c88ed0bbfab21d,jul,2020,auto,auto,Blue Springs,746.0,750.25,699.5,20.0,False,False,False
 0039c46facfa454852fda813f2c88ed0bbfab21d,jul,2020,auto,hold,Blue Springs,744.5777777777778,749.4888888888889,699.4888888888889,20.0,False,False,False
 005b44ffe2812f645179dccec3443da1ec58a68d,jul,2020,auto,hold,Kirkwood,750.4951403887688,738.0718142548596,679.7321814254859,0.0,False,False,False

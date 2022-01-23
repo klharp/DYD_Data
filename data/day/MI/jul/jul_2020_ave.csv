@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 000af209b660b6da2dfc91a633650ccb97df073e,jul,2020,heat,hold,Pinckney,775.2649986548291,650.0,620.0,80.0,False,False,False
 001d65da87242dc0b8bb7013ec8efe01c813e750,jul,2020,cool,hold,Lake Orion,718.0234920634921,719.8304761904762,719.8304761904762,57.0,False,False,False
 001fded0a083f726b2ccab5616a25874f4af28a2,jul,2020,cool,hold,Grand Rapids,722.4,720.0,720.0,40.0,False,False,False
@@ -2187,7 +2187,7 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 86a8e93902fa803ef18b128641eef8e28ee5c2d3,jul,2020,cool,hold,Ferndale,731.3388646288209,729.0838427947598,728.9515283842795,0.0,True,False,False
 86e3915fcd30223733f15b09f0e3982918e09708,jul,2020,cool,auto,Flat Rock,699.5845771144278,700.0,700.0,0.0,False,False,False
 86e3915fcd30223733f15b09f0e3982918e09708,jul,2020,cool,hold,Flat Rock,695.7726285300507,694.9456915278784,686.7414916727009,0.0,False,False,False
-86f7f8f2653a298def65e234e7f6dc788aae73c6,jul,2020,cool,hold,Grand Rapids,762.4114562323517,612.9661153691004,685.2392093586124,50.0,True,False,False
+86f7f8f2653a298def65e234e7f6dc788aae73c6,jul,2020,cool,hold,Grand Rapids,765.5826771653543,685.5421822272216,694.6096737907761,50.0,True,False,False
 86fe68196fdea02c3ec1d8f5225a79eac2fd9d26,jul,2020,cool,hold,Dearborn,751.2857142857143,745.2857142857143,733.6428571428571,70.0,True,False,False
 8715aa3e8b0add23fd99786690c4f6235e6ec698,jul,2020,cool,auto,Lincoln,752.5569620253165,750.493670886076,740.6708860759494,40.0,False,False,False
 8715aa3e8b0add23fd99786690c4f6235e6ec698,jul,2020,cool,hold,Lincoln,743.9593908629441,734.6852791878173,733.9746192893401,40.0,False,False,False
@@ -3464,7 +3464,7 @@ d8ac7ffa11d17d37c60b9e55f255ff35d700c787,jul,2020,cool,hold,Hudsonville,752.8615
 d8d123be0a59bd4215b62502a63db9930658fe5a,jul,2020,cool,auto,Thompsonville,674.710875331565,673.4615384615385,677.9197612732096,95.0,False,False,True
 d8d123be0a59bd4215b62502a63db9930658fe5a,jul,2020,cool,hold,Thompsonville,673.6375436844733,676.63854218672,676.6934598102846,95.0,False,False,True
 d8eddf703c0e599aa5695354818ceb878c1f8afe,jul,2020,auto,auto,Farmington Hills,712.5454545454545,679.7692307692307,630.0,0.0,False,False,False
-d8eddf703c0e599aa5695354818ceb878c1f8afe,jul,2020,cool,auto,Farmington Hills,671.7559523809524,610.0,630.0,0.0,False,False,False
+d8eddf703c0e599aa5695354818ceb878c1f8afe,jul,2020,cool,auto,Farmington Hills,663.3095238095239,630.0,630.0,0.0,False,False,False
 d8f35bd8d5a19c2df8655542b8cabe633e6b2959,jul,2020,cool,auto,Warren,772.4068965517241,762.1706896551724,762.1706896551724,50.0,False,False,False
 d8f35bd8d5a19c2df8655542b8cabe633e6b2959,jul,2020,cool,hold,Warren,762.4964102564103,757.9512820512821,757.5184615384616,50.0,False,False,False
 d9150179bcd82908a8f13e5a6149f9b58f8a1bc0,jul,2020,cool,auto,Delta,727.8868421052632,747.6894736842105,745.8736842105263,46.0,False,False,False

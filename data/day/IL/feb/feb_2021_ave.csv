@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 000ef89eadf430f4ec4be11295643c07969fce01,feb,2021,heat,hold,Wheaton,697.737556561086,700.1085972850678,700.0,40.0,True,False,False
 0010ea447dc3807b33daad2477d1cc02a71571fa,feb,2021,heat,hold,Chicago,686.7314814814815,690.5555555555555,690.5555555555555,5.0,False,False,False
 0027e9be6cd672afe749634eaf39c372d1b7819e,feb,2021,heat,hold,Sparland,700.25,707.0,707.0,75.0,True,False,False

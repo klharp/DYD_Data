@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 008844c6c1993ea32d6117993fa4c89479fc9db8,jul,2019,cool,hold,Indianapolis,742.3225806451613,742.9032258064516,718.9354838709677,40.0,True,False,False
 00a57ff87df6c0a6293c5d88b27fcf5f48a0ad28,jul,2019,cool,hold,Fort Wayne,746.4879705632607,749.114350410416,749.114350410416,20.0,False,False,True
 00d57801ec029dad25ea93d564eea9c33eed2183,jul,2019,cool,auto,Zionsville,712.71735395189,712.0850515463917,712.0850515463917,80.0,True,False,False
@@ -714,7 +714,7 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 6679d07169a8f6f32e466c940075016ab4581762,jul,2019,auto,auto,Columbia City,740.6965020576132,755.664609053498,620.0,0.0,False,False,False
 6679d07169a8f6f32e466c940075016ab4581762,jul,2019,auto,hold,Columbia City,726.9596977329975,728.4162468513854,620.0,0.0,False,False,False
 6701f4749a8d7060b0d08a0d69d26a0d3409999f,jul,2019,auto,hold,Indianapolis,748.9468085106383,779.3457446808511,730.0,30.0,True,False,True
-6701f4749a8d7060b0d08a0d69d26a0d3409999f,jul,2019,cool,hold,Indianapolis,727.1182170542636,723.6170542635659,730.7593023255814,30.0,True,False,True
+6701f4749a8d7060b0d08a0d69d26a0d3409999f,jul,2019,cool,hold,Indianapolis,727.050136027983,724.062184220754,730.7613680528566,30.0,True,False,True
 675036412b11780913b5eb8ffc02e75afc77c0c4,jul,2019,auto,auto,Indianapolis,650.0,691.0,619.0,0.0,False,False,False
 675036412b11780913b5eb8ffc02e75afc77c0c4,jul,2019,auto,hold,Indianapolis,676.0,725.0,635.0,0.0,False,False,False
 677d441f4a1baabf3d49d4c8bf6dcec1a7ec68be,jul,2019,cool,auto,Hanover,742.4,733.4,643.4,47.0,True,False,True

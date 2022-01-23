@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 004666c8518763d5ff5a1b6f9be919899724167e,dec,2018,heat,auto,Denver,690.3148788927335,761.1072664359862,695.3979238754325,10.0,False,False,False
 004666c8518763d5ff5a1b6f9be919899724167e,dec,2018,heat,hold,Denver,682.6025641025641,780.0,690.0,10.0,False,False,False
 00b9d14bcf27ff6d6e0c30c6f60651c6c8c9ae8b,dec,2018,auto,auto,Aurora,690.3459119496855,739.433962264151,684.7169811320755,17.0,False,False,False
@@ -1347,8 +1347,8 @@ a76d773c8758dea845aa39009d20e888642072c8,dec,2018,heat,hold,Littleton,678.303501
 a77e896073bd09dc735ee035c45e89607e394493,dec,2018,auto,hold,Lakewood,757.7087087087087,840.0,755.7610467610467,40.0,True,False,False
 a7d407f300d33d12d32d4cd7d86ec0b5ad374b27,dec,2018,heat,auto,Colorado Springs,717.4,720.92,720.0,15.0,False,False,False
 a7d407f300d33d12d32d4cd7d86ec0b5ad374b27,dec,2018,heat,hold,Colorado Springs,714.5940594059406,748.3049504950495,720.0,15.0,False,False,False
-a80c1172cd4670f190e267a01835ac9ae4c917ad,dec,2018,heat,auto,Thornton,667.109375,601.59375,673.625,35.0,False,False,False
-a80c1172cd4670f190e267a01835ac9ae4c917ad,dec,2018,heat,hold,Thornton,652.571072319202,644.6059850374065,644.720698254364,35.0,False,False,False
+a80c1172cd4670f190e267a01835ac9ae4c917ad,dec,2018,heat,auto,Thornton,662.2432432432432,609.7837837837837,669.6216216216217,35.0,False,False,False
+a80c1172cd4670f190e267a01835ac9ae4c917ad,dec,2018,heat,hold,Thornton,652.625468164794,644.6866416978777,644.7465667915106,35.0,False,False,False
 a80dd81ad6213d0f3384e999a785f9a3cb911c37,dec,2018,auto,auto,Denver,671.5433436532508,770.0,672.2678018575851,15.0,False,False,False
 a80dd81ad6213d0f3384e999a785f9a3cb911c37,dec,2018,auto,hold,Denver,681.6727089627392,815.8912386706949,682.6787512588116,15.0,False,False,False
 a8495bcc9d8f304129fdcdcd8a3b86f04a2123fd,dec,2018,auto,hold,Castle Pines North,714.0,661.3333333333334,660.3333333333334,15.0,False,False,False
@@ -1766,10 +1766,9 @@ d262015d8aedeee22c6542c5d5c1d457062ad65a,dec,2018,auto,hold,Denver,676.75,765.5,
 d26fe90a54c469638b5d283ce7c73ea24ed385cc,dec,2018,heat,auto,Denver,722.1111111111111,731.3888888888889,728.5555555555555,5.0,False,False,False
 d3020b5ae4f3dc70c8d5628df5b6b548ebb19f70,dec,2018,heat,auto,Colorado Springs,683.0,710.0,710.0,5.0,False,False,False
 d3020b5ae4f3dc70c8d5628df5b6b548ebb19f70,dec,2018,heat,hold,Colorado Springs,696.1604938271605,696.074074074074,692.4320987654321,5.0,False,False,False
-d30508b1ddaef2cb57380f3bfebb7de33d9d42ab,dec,2018,cool,auto,Fort Collins,617.3277777777778,604.0277777777778,749.4166666666666,0.0,False,False,False
-d30508b1ddaef2cb57380f3bfebb7de33d9d42ab,dec,2018,cool,hold,Fort Collins,581.6065573770492,572.0,731.0,0.0,False,False,False
-d30508b1ddaef2cb57380f3bfebb7de33d9d42ab,dec,2018,heat,auto,Fort Collins,691.2391304347826,703.3478260869565,851.5,0.0,False,False,False
-d30508b1ddaef2cb57380f3bfebb7de33d9d42ab,dec,2018,heat,hold,Fort Collins,578.3333333333334,743.6666666666666,783.0,0.0,False,False,False
+d30508b1ddaef2cb57380f3bfebb7de33d9d42ab,dec,2018,cool,auto,Fort Collins,631.2738095238095,619.6785714285714,758.6785714285714,0.0,False,False,False
+d30508b1ddaef2cb57380f3bfebb7de33d9d42ab,dec,2018,heat,auto,Fort Collins,739.0370370370371,831.5,836.3148148148148,0.0,False,False,False
+d30508b1ddaef2cb57380f3bfebb7de33d9d42ab,dec,2018,heat,hold,Fort Collins,577.5,762.5,771.0,0.0,False,False,False
 d3431b6631efd28cf78687a04438dd922ac6ebbd,dec,2018,heat,auto,Aurora,744.7,746.8,746.8,16.0,False,False,False
 d3431b6631efd28cf78687a04438dd922ac6ebbd,dec,2018,heat,hold,Aurora,740.6752873563219,742.2413793103449,742.2413793103449,16.0,False,False,False
 d3456139c944fe77aecebda3fdb66405bebb3c31,dec,2018,heat,hold,Thornton,705.8214285714286,699.6547619047619,697.6309523809524,10.0,False,False,False

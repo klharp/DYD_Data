@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 00105867bef9463f0a62d5257d0e91b8c8d19dee,aug,2020,cool,auto,Southgate,701.1871794871795,700.0,700.0,75.0,False,False,False
 00105867bef9463f0a62d5257d0e91b8c8d19dee,aug,2020,cool,hold,Southgate,701.2333333333333,700.0,700.0,75.0,False,False,False
 001cb822602423b9453a321b872212cdf014adb1,aug,2020,auto,auto,Georgetown,730.8421052631579,733.2105263157895,646.5263157894736,10.0,True,False,True
@@ -455,7 +455,7 @@ a4c915c07773c441c61609bfbfe5351147a49dd6,aug,2020,cool,hold,Edmonton,719.5454545
 a4daf127ef859d83b673b3fcb47336574b074a3f,aug,2020,cool,auto,Nicholasville,727.875,690.0,690.0,0.0,True,False,True
 a59ccf55d42dd8e6564feed4bf2950ea2ef2b46a,aug,2020,auto,auto,Louisville,753.16,720.04,650.12,29.0,True,False,False
 a59ccf55d42dd8e6564feed4bf2950ea2ef2b46a,aug,2020,cool,auto,Louisville,650.1219512195122,710.6585365853658,712.8048780487804,29.0,True,False,False
-a59ccf55d42dd8e6564feed4bf2950ea2ef2b46a,aug,2020,cool,hold,Louisville,725.0898876404494,728.5955056179776,847.2471910112359,29.0,True,False,False
+a59ccf55d42dd8e6564feed4bf2950ea2ef2b46a,aug,2020,cool,hold,Louisville,775.3478260869565,710.2173913043479,710.2173913043479,29.0,True,False,False
 a5df3603fe5fcef91b1887f78c569d631dc0e5a2,aug,2020,cool,auto,Taylorsville,701.4868421052631,700.0,700.0,15.0,True,False,True
 a5df3603fe5fcef91b1887f78c569d631dc0e5a2,aug,2020,cool,hold,Taylorsville,693.7253114554846,690.6927985414768,690.6927985414768,15.0,True,False,True
 a6a25a3ba3176ebfe1a897132144d9940d3c3d55,aug,2020,cool,auto,Winchester,708.9333333333333,700.0,700.0,15.0,False,False,False

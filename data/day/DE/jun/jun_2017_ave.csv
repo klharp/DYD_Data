@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 18f7ccf6b435622cb968d6da44cda99f382171bf,jun,2017,cool,auto,Camden Wyoming,738.1196877710321,755.1977450130096,664.6366001734606,27.0,False,False,True
 18f7ccf6b435622cb968d6da44cda99f382171bf,jun,2017,cool,hold,Camden Wyoming,689.675105485232,688.8818565400844,688.7067510548524,27.0,False,False,True
 21928216c72d02f4395d9585af619b190c11ed47,jun,2017,cool,auto,Claymont ,736.6248313090418,730.0,700.0,115.0,False,False,True

@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 002928222f5a2b5cfeba53f3aca5d5f24f6c4fe8,dec,2017,heat,auto,Columbus,716.0515789473684,715.0663157894737,717.0842105263158,40.0,False,False,False
 002928222f5a2b5cfeba53f3aca5d5f24f6c4fe8,dec,2017,heat,hold,Columbus,716.9644268774704,717.8577075098814,717.8577075098814,40.0,False,False,False
 00474e9c5a4122916b24150ad706014b0c17eb90,dec,2017,heat,auto,Newnan,708.3305084745763,711.0275423728814,710.9110169491526,10.0,False,False,False

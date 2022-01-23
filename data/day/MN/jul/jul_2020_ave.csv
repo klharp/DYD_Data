@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 0051e4024c219cda4431c8c6868383c944b4f787,jul,2020,cool,auto,Battle Lake,736.5729483282674,740.5699088145897,740.5699088145897,29.0,True,False,False
 0051e4024c219cda4431c8c6868383c944b4f787,jul,2020,cool,hold,Battle Lake,724.9896608767576,730.091811414392,729.36476426799,29.0,True,False,False
 00ea998f390e32c4402317bee432e46c91f0a8ef,jul,2020,cool,auto,Bloomington,718.4039408866995,718.0788177339901,694.2463054187192,49.0,True,False,False

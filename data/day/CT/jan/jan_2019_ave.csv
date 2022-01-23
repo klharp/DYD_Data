@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 0066b69bae234ce9b76749510713e1bce5154e18,Jan,2019,heat,auto,Wilton,684.7912243453645,747.4869072894551,683.1125265392782,0.0,False,False,False
 0066b69bae234ce9b76749510713e1bce5154e18,Jan,2019,heat,hold,Wilton,689.5967741935484,690.494623655914,690.494623655914,0.0,False,False,False
 01070fcdea4fec51a4f5308076b6ed985af95fe2,Jan,2019,heat,auto,Southington,639.6805555555555,652.5,637.5,40.0,False,False,False

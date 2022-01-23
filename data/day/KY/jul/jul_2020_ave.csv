@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 00105867bef9463f0a62d5257d0e91b8c8d19dee,jul,2020,cool,auto,Southgate,788.1916666666667,787.8083333333333,779.33125,75.0,False,False,False
 00105867bef9463f0a62d5257d0e91b8c8d19dee,jul,2020,cool,hold,Southgate,707.5879828326181,705.1502145922747,705.1502145922747,75.0,False,False,False
 003e168f638289edc59e7df30f5a63ff7bae7a2e,jul,2020,auto,auto,Science Hill,716.0416666666666,720.0,670.0,5.0,True,False,True

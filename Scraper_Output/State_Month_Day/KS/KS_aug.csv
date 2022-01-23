@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 00d2d0e5e17f6dc9a19aa132916fdc6ddacb983e,aug,2017,cool,hold,Fairway,759.7142857142858,746.3428571428572,745.9142857142857,80.0,False,False,False
 01a0d7a563a1755d37bb856a01a56e452deb2010,aug,2017,auto,hold,Olathe,753.352660082829,761.0525645109908,671.215992354253,30.0,False,False,False
 025ec7c58b524de74d8986f4896917c31052701a,aug,2017,cool,hold,Overland Park,730.6123680241327,740.0,720.0,5.0,False,False,True

@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 00105867bef9463f0a62d5257d0e91b8c8d19dee,Jan,2019,heat,auto,Southgate,641.28,651.12,640.48,75.0,False,False,False
 00105867bef9463f0a62d5257d0e91b8c8d19dee,Jan,2019,heat,hold,Southgate,643.4444444444445,650.0,640.0,75.0,False,False,False
 001cb822602423b9453a321b872212cdf014adb1,Jan,2019,auto,auto,Georgetown,713.5,750.0,700.0,10.0,True,False,True

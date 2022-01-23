@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 0219b339a36deb299cb64ff76ba40ac7563cf3af,jun,2020,cool,auto,Marion,744.3333333333334,750.5,745.3333333333334,15.0,False,False,False
 0219b339a36deb299cb64ff76ba40ac7563cf3af,jun,2020,cool,hold,Marion,760.9166666666666,766.25,764.5694444444445,15.0,False,False,False
 02d6f92c8b43e6f08da8a2b7efe50c30bab0dcc7,jun,2020,cool,hold,maquoketa,735.3927038626609,743.631974248927,743.631974248927,70.0,False,False,False
@@ -58,8 +58,8 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 1b6211dc0a7aec3a6a4a053e4c98edea5a49756a,jun,2020,cool,hold,Ankeny,696.4240331491712,697.5897790055249,680.7845303867404,10.0,False,False,False
 1bbb2ff269803e114fd8be1619d91fb209b1f3ce,jun,2020,cool,auto,Bettendorf,679.7333333333333,684.5333333333333,682.0,39.0,False,False,False
 1bbb2ff269803e114fd8be1619d91fb209b1f3ce,jun,2020,cool,hold,Bettendorf,703.0452674897119,702.2263374485597,702.1796982167352,39.0,False,False,False
-1bc2af7ffc3a1003d6cd351658e08f42be4879f1,jun,2020,cool,auto,Council Bluffs,792.1854838709677,803.5725806451613,752.6370967741935,15.0,True,False,False
-1bc2af7ffc3a1003d6cd351658e08f42be4879f1,jun,2020,cool,hold,Council Bluffs,773.8780487804878,800.829268292683,801.219512195122,15.0,True,False,False
+1bc2af7ffc3a1003d6cd351658e08f42be4879f1,jun,2020,cool,auto,Council Bluffs,787.4504504504505,800.4774774774775,741.2342342342342,15.0,True,False,False
+1bc2af7ffc3a1003d6cd351658e08f42be4879f1,jun,2020,cool,hold,Council Bluffs,772.175,800.0,800.0,15.0,True,False,False
 1bd5122055dc2418f824032d6df5ba30aad297d4,jun,2020,cool,auto,Davenport,696.7218579234973,699.2475409836065,699.2475409836065,0.0,False,False,False
 1bd5122055dc2418f824032d6df5ba30aad297d4,jun,2020,cool,hold,Davenport,704.1437908496732,700.0,700.0,0.0,False,False,False
 1c615e2c829bce7842f1af0f2d8059c9690fb3d8,jun,2020,cool,auto,Steamboat Rock,752.8571428571429,779.8571428571429,650.1142857142858,105.0,False,False,False

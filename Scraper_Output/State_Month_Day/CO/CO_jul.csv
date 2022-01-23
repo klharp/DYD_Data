@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 004666c8518763d5ff5a1b6f9be919899724167e,jul,2017,auto,auto,Denver,741.4444444444445,740.0,690.0,10.0,False,False,False
 004666c8518763d5ff5a1b6f9be919899724167e,jul,2017,auto,hold,Denver,761.5595854922279,762.8290155440415,690.0,10.0,False,False,False
 00b9d14bcf27ff6d6e0c30c6f60651c6c8c9ae8b,jul,2017,auto,auto,Aurora,701.0,694.0,644.0,17.0,False,False,False
@@ -3490,7 +3490,7 @@ ffe2149eddf8d4448ec56b087b652c4ade285579,jul,2018,cool,hold,Federal Heights,752.
 57a25535483c906423d19395997f1ae31997f8f4,jul,2019,cool,hold,Colorado Springs,783.9012345679013,790.0,790.0,0.0,True,False,False
 57c5c457df1bf2e58035462f4860ac5fdba5fe6d,jul,2019,auto,auto,Lakewood,689.4067796610168,680.5762711864406,650.3813559322034,10.0,True,False,False
 57c5c457df1bf2e58035462f4860ac5fdba5fe6d,jul,2019,auto,hold,Lakewood,697.7287234042552,673.6755319148937,643.6117021276596,10.0,True,False,False
-57c5c457df1bf2e58035462f4860ac5fdba5fe6d,jul,2019,cool,auto,Lakewood,675.0065359477125,638.156862745098,651.6732026143791,10.0,True,False,False
+57c5c457df1bf2e58035462f4860ac5fdba5fe6d,jul,2019,cool,auto,Lakewood,668.1333333333333,655.6,652.4380952380952,10.0,True,False,False
 57c5c457df1bf2e58035462f4860ac5fdba5fe6d,jul,2019,cool,hold,Lakewood,690.5269461077844,663.9191616766467,663.1347305389221,10.0,True,False,False
 57ccdc18cbd039088f441efd6ba31f079a2cfc14,jul,2019,cool,auto,Colorado Springs,732.6875,739.8839285714287,739.7053571428571,5.0,False,False,False
 57ccdc18cbd039088f441efd6ba31f079a2cfc14,jul,2019,cool,hold,Colorado Springs,725.7406896551724,720.0,690.0,5.0,False,False,False
@@ -5714,7 +5714,7 @@ fffbfb34cefe6da01eaf617298aa82ae80b96ed8,jul,2019,heat,hold,Berthoud,760.0440180
 544d02534ea3537ec84b63ebab2bf96edead0a56,jul,2020,cool,auto,Larkspur,689.8636363636364,650.0,657.2727272727273,10.0,False,False,True
 545e765cc6e05b99fc5e69f8d3fc64f2d4395e55,jul,2020,cool,hold,Fort Collins,734.3529411764706,714.1764705882354,714.0,15.0,False,False,False
 5465ee8a66585fbc004a23a7ce11b2f0215216d2,jul,2020,auto,auto,Arvada,754.0,750.0,680.0,15.0,False,False,False
-54c3581520f7d888d19beb9ca0c5c1ebf37bd216,jul,2020,cool,auto,Colorado Springs,663.7142857142858,664.7072599531616,665.2669789227166,30.0,False,False,False
+54c3581520f7d888d19beb9ca0c5c1ebf37bd216,jul,2020,cool,auto,Colorado Springs,664.5563549160671,666.2589928057554,664.9136690647482,30.0,False,False,False
 54c3581520f7d888d19beb9ca0c5c1ebf37bd216,jul,2020,cool,hold,Colorado Springs,665.869109947644,686.6125654450262,685.3717277486911,30.0,False,False,False
 54eca1c516ca822e1383bda0d358da0a878556a2,jul,2020,cool,hold,Monument,711.2083333333335,750.0,750.0,10.0,False,False,False
 54f190fbd0710db3abcfab453e25add026387cf9,jul,2020,cool,auto,Boulder,745.4444444444445,791.5213675213677,682.7179487179487,30.0,False,False,False

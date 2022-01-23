@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 021bc49d2737cfc5291795252754c8c84d99fb90,Jan,2017,heat,auto,Plainville,700.2959501557632,700.917445482866,700.8193146417445,35.0,False,False,False
 021bc49d2737cfc5291795252754c8c84d99fb90,Jan,2017,heat,hold,Plainville,693.2630718954248,691.4003267973857,691.4003267973857,35.0,False,False,False
 02382555cf0333ff1ad92861205814fd74616f88,Jan,2017,heat,hold,South Hadley,636.40625,760.0625,640.0,55.0,False,False,False

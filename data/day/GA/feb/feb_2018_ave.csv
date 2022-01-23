@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 002928222f5a2b5cfeba53f3aca5d5f24f6c4fe8,feb,2018,auto,auto,Columbus,705.4398907103825,735.0,685.0,40.0,False,False,False
 002928222f5a2b5cfeba53f3aca5d5f24f6c4fe8,feb,2018,heat,auto,Columbus,687.0,733.0,703.0,40.0,False,False,False
 002928222f5a2b5cfeba53f3aca5d5f24f6c4fe8,feb,2018,heat,hold,Columbus,729.5359160613398,729.0964487489911,729.0964487489911,40.0,False,False,False
@@ -2748,9 +2748,9 @@ cae7fc28c9a9455f19720189c255fbefd2562a72,feb,2018,auto,hold,Lawrenceville,697.58
 cae7fc28c9a9455f19720189c255fbefd2562a72,feb,2018,heat,hold,Lawrenceville,703.8,710.0,710.0,15.0,False,False,False
 cae920bab58abd32eda333a835f4602fdcae202d,feb,2018,auto,auto,Atlanta,639.8358208955224,699.5671641791045,639.6865671641791,50.0,False,False,False
 cae920bab58abd32eda333a835f4602fdcae202d,feb,2018,auto,hold,Atlanta,645.1920529801324,690.0,640.0,50.0,False,False,False
-cae920bab58abd32eda333a835f4602fdcae202d,feb,2018,cool,auto,Atlanta,615.6114649681529,627.9617834394904,654.5859872611464,50.0,False,False,False
+cae920bab58abd32eda333a835f4602fdcae202d,feb,2018,cool,auto,Atlanta,611.6839506172839,647.5555555555555,654.9629629629629,50.0,False,False,False
 cae920bab58abd32eda333a835f4602fdcae202d,feb,2018,cool,hold,Atlanta,633.239446366782,639.3868512110727,639.3868512110727,50.0,False,False,False
-cae920bab58abd32eda333a835f4602fdcae202d,feb,2018,heat,auto,Atlanta,616.6666666666666,597.3333333333334,628.6666666666666,50.0,False,False,False
+cae920bab58abd32eda333a835f4602fdcae202d,feb,2018,heat,auto,Atlanta,618.0,632.0,646.0,50.0,False,False,False
 cae920bab58abd32eda333a835f4602fdcae202d,feb,2018,heat,hold,Atlanta,629.6846153846154,642.376923076923,642.376923076923,50.0,False,False,False
 cb799a3c4011f349b79216b8f91a73202cf92763,feb,2018,auto,hold,Atlanta,703.642891800097,742.2983988355168,684.4090247452693,100.0,False,False,False
 cb82cea11d12052d0ab7540a1acadcce1f3a03e5,feb,2018,cool,auto,Forsyth,680.8571428571429,680.265306122449,729.6020408163265,5.0,False,False,True
@@ -3185,7 +3185,7 @@ ebe8fdbac54cb417524371a184fb245ae8023033,feb,2018,heat,hold,Alpharetta,718.67596
 ec36d12248024820c46e0bfded514707ad765138,feb,2018,auto,hold,cumming,705.0802469135803,780.0,700.866255144033,0.0,False,False,False
 ec662387516f7b357d4ec21eadb1062333c76003,feb,2018,auxHeatOnly,auto,Braselton,694.6184210526316,664.75,666.4342105263158,17.0,True,False,True
 ec662387516f7b357d4ec21eadb1062333c76003,feb,2018,auxHeatOnly,hold,Braselton,703.889400921659,721.8110599078341,721.8110599078341,17.0,True,False,True
-ec662387516f7b357d4ec21eadb1062333c76003,feb,2018,cool,auto,Braselton,659.4896860986547,673.7040358744395,695.9165919282511,17.0,True,False,True
+ec662387516f7b357d4ec21eadb1062333c76003,feb,2018,cool,auto,Braselton,661.0812324929972,676.7320261437909,697.5042016806723,17.0,True,False,True
 ec662387516f7b357d4ec21eadb1062333c76003,feb,2018,cool,hold,Braselton,666.7808708065668,670.6438258386867,670.6473947180585,17.0,True,False,True
 ec662387516f7b357d4ec21eadb1062333c76003,feb,2018,heat,auto,Braselton,666.0,677.3333333333334,767.3333333333334,17.0,True,False,True
 ec662387516f7b357d4ec21eadb1062333c76003,feb,2018,heat,hold,Braselton,697.7407407407408,747.9629629629629,747.9629629629629,17.0,True,False,True

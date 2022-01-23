@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 003694c41cad5e9b6fd22ab076ac82741f649155,aug,2017,cool,auto,Cottage Grove,718.6939890710382,720.3579234972677,679.5300546448087,0.0,False,False,False
 003694c41cad5e9b6fd22ab076ac82741f649155,aug,2017,cool,hold,Cottage Grove,715.2208201892745,716.5173501577287,714.3722397476341,0.0,False,False,False
 01cbc83700158311cb3594824a8c3db5ee300914,aug,2017,auto,hold,Cottage Grove,694.5208333333334,750.2291666666666,695.375,40.0,False,False,False

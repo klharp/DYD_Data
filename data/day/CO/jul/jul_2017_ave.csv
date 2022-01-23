@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 004666c8518763d5ff5a1b6f9be919899724167e,jul,2017,auto,auto,Denver,741.4444444444445,740.0,690.0,10.0,False,False,False
 004666c8518763d5ff5a1b6f9be919899724167e,jul,2017,auto,hold,Denver,761.5595854922279,762.8290155440415,690.0,10.0,False,False,False
 00b9d14bcf27ff6d6e0c30c6f60651c6c8c9ae8b,jul,2017,auto,auto,Aurora,701.0,694.0,644.0,17.0,False,False,False

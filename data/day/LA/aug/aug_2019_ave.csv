@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 01231b3659604ae515f75ef6288754f18e167b01,aug,2019,cool,auto,Covington,736.8706896551724,736.0086206896551,731.5258620689655,50.0,False,False,False
 01231b3659604ae515f75ef6288754f18e167b01,aug,2019,cool,hold,Covington,733.7621550591327,733.0906701708278,733.0906701708278,50.0,False,False,False
 0144cd6fa687f78356594d2306f223188e4e4d33,aug,2019,cool,auto,Central,712.1138790035587,712.7947805456703,699.1542111506525,0.0,False,False,False

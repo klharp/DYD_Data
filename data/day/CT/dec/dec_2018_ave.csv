@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 0066b69bae234ce9b76749510713e1bce5154e18,dec,2018,heat,auto,Wilton,683.3728813559322,762.4604519774011,675.9067796610169,0.0,False,False,False
 0066b69bae234ce9b76749510713e1bce5154e18,dec,2018,heat,hold,Wilton,694.3102040816326,690.8979591836735,690.8979591836735,0.0,False,False,False
 01070fcdea4fec51a4f5308076b6ed985af95fe2,dec,2018,heat,auto,Southington,628.0,694.0,650.0,40.0,False,False,False
@@ -27,7 +27,7 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 0c6b64fabb6515f09a26192d93cd59a1e048c7ca,dec,2018,heat,auto,East Lyme,650.0807665982204,650.4079397672826,633.6160164271047,40.0,False,False,False
 0c6b64fabb6515f09a26192d93cd59a1e048c7ca,dec,2018,heat,hold,East Lyme,640.8401162790698,650.6976744186046,637.7805232558139,40.0,False,False,False
 0d47ec476d79dfe1edd2b3dafa68706c355e4549,dec,2018,heat,hold,Danbury,668.1702412868633,667.8141197497766,667.8141197497766,20.0,False,False,False
-0d4871b896fc2a5b93007ca0a3a0799970fbf168,dec,2018,heat,hold,New Milford,738.9757009345794,740.0841121495328,740.2990654205607,15.0,False,False,False
+0d4871b896fc2a5b93007ca0a3a0799970fbf168,dec,2018,heat,hold,New Milford,738.9455909943715,739.8686679174484,739.8686679174484,15.0,False,False,False
 0db263ba7a152f0fd32ab21b17dbb56da80f791d,dec,2018,heat,auto,Coventry,677.2891156462586,762.7772108843537,678.9676870748299,28.0,False,False,False
 0db263ba7a152f0fd32ab21b17dbb56da80f791d,dec,2018,heat,hold,Coventry,677.4255319148937,680.0,679.9716312056737,28.0,False,False,False
 0e055c5626b524e51701f81b47f794f8174404c6,dec,2018,auto,auto,Southington,609.0769230769231,720.8461538461538,612.9230769230769,20.0,False,False,False

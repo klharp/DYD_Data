@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 000af209b660b6da2dfc91a633650ccb97df073e,aug,2020,heat,auto,Pinckney,764.7635997313633,650.0,610.0,80.0,False,False,False
 000af209b660b6da2dfc91a633650ccb97df073e,aug,2020,heat,hold,Pinckney,736.6764845605701,650.0,619.9952494061757,80.0,False,False,False
 001d65da87242dc0b8bb7013ec8efe01c813e750,aug,2020,cool,auto,Lake Orion,724.225,724.1666666666666,726.6666666666666,57.0,False,False,False
@@ -2040,7 +2040,6 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 86a8e93902fa803ef18b128641eef8e28ee5c2d3,aug,2020,heat,hold,Ferndale,723.2894736842105,730.0,730.0,0.0,True,False,False
 86e3915fcd30223733f15b09f0e3982918e09708,aug,2020,cool,auto,Flat Rock,728.0378787878788,730.0,727.0,0.0,False,False,False
 86e3915fcd30223733f15b09f0e3982918e09708,aug,2020,cool,hold,Flat Rock,705.5828358208955,703.4925373134329,684.6731343283582,0.0,False,False,False
-86f7f8f2653a298def65e234e7f6dc788aae73c6,aug,2020,cool,hold,Grand Rapids,762.4018771331058,571.0,680.0,50.0,True,False,False
 86fe68196fdea02c3ec1d8f5225a79eac2fd9d26,aug,2020,cool,hold,Dearborn,727.2739726027397,721.2739726027397,719.4589041095891,70.0,True,False,False
 8715aa3e8b0add23fd99786690c4f6235e6ec698,aug,2020,cool,auto,Lincoln,741.4146341463414,735.9146341463414,682.2926829268292,40.0,False,False,False
 8715aa3e8b0add23fd99786690c4f6235e6ec698,aug,2020,cool,hold,Lincoln,742.8333333333334,730.0208333333334,729.2916666666666,40.0,False,False,False
@@ -2311,7 +2310,7 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 9b599279bd0df77e3eb7c9ade2b6fdf721a95044,aug,2020,heat,auto,Saint Helen,698.2857142857143,699.6428571428571,699.6428571428571,5.0,False,False,False
 9b599279bd0df77e3eb7c9ade2b6fdf721a95044,aug,2020,heat,hold,Saint Helen,713.6796785304248,695.5453501722159,695.5453501722159,5.0,False,False,False
 9b5b2b3bd387830349f1c79815f6be7ee602aa43,aug,2020,cool,auto,Rockford,717.5555555555555,740.0,680.0,27.0,False,False,False
-9b60ec9808c90cf138ce08837bc03a14610764de,aug,2020,cool,hold,Westland,719.5555555555555,645.89898989899,648.5959595959596,5.0,False,False,False
+9b60ec9808c90cf138ce08837bc03a14610764de,aug,2020,cool,hold,Westland,705.8875,656.8,655.3875,5.0,False,False,False
 9b842beaed103e40c393ab39c88ffc4ff892286c,aug,2020,cool,auto,Rockford,730.9027777777778,753.375,690.0,0.0,False,False,False
 9b842beaed103e40c393ab39c88ffc4ff892286c,aug,2020,cool,hold,Rockford,738.6325757575758,753.8219696969697,729.0284090909091,0.0,False,False,False
 9b8f7b7659cdc06623f0f8ca9efdd4e0409ecf1f,aug,2020,cool,auto,Livonia,729.4493720565149,732.5545525902669,718.6750392464678,57.0,False,False,False
@@ -2351,7 +2350,7 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 9e0d2bc3a7609df759efb7bea05a755b435ef4bd,aug,2020,cool,hold,Auburn Hills,730.6504950495049,728.960396039604,709.6643564356435,0.0,False,False,False
 9e2d343dd091d449665bed805eaa029d4ed45b47,aug,2020,cool,auto,Portage,698.5826771653543,697.4094488188977,697.4409448818898,99.0,False,False,False
 9e2d343dd091d449665bed805eaa029d4ed45b47,aug,2020,cool,hold,Portage,697.9063360881543,695.9063360881543,695.9063360881543,99.0,False,False,False
-9e2d343dd091d449665bed805eaa029d4ed45b47,aug,2020,heat,auto,Portage,752.5,771.5,884.0,99.0,False,False,False
+9e2d343dd091d449665bed805eaa029d4ed45b47,aug,2020,heat,auto,Portage,751.0,723.0,703.0,99.0,False,False,False
 9e52140a4bb1a80ee83b0dcf2785e7bf5b6cd7e9,aug,2020,cool,auto,Grant,731.1739130434783,749.3695652173913,663.8115942028985,35.0,False,False,False
 9e52140a4bb1a80ee83b0dcf2785e7bf5b6cd7e9,aug,2020,cool,hold,Grant,739.9460400348129,747.8999129677981,676.0,35.0,False,False,False
 9e5232152c5f41cc26b2ec4c643663651c1f0251,aug,2020,cool,hold,Lake Ann,763.5,715.0,665.0,20.0,False,False,False

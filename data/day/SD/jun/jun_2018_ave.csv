@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 004e7f286453271cd8b2b9367719102dc96392c2,jun,2018,auto,hold,Elk Point,741.641975308642,731.9506172839506,679.4320987654321,20.0,False,False,False
 011eb806f7782fc048072fabfb035b54f5d71e67,jun,2018,auto,hold,Sioux Falls,735.125,731.0,658.78125,100.0,False,False,False
 05b6a87c2c20aa57b357426c9107705c0bd7ec20,jun,2018,cool,auto,Sioux Falls,738.6833333333333,740.0833333333334,699.8666666666667,15.0,True,False,False
@@ -33,14 +33,14 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 55c8c84126bfbaa3b1f52953f3a6c41ce2e88e8e,jun,2018,cool,auto,Brookings,710.2307692307693,740.0,740.0,30.0,False,False,False
 55c8c84126bfbaa3b1f52953f3a6c41ce2e88e8e,jun,2018,cool,hold,Brookings,704.2969696969697,710.0060606060606,709.9636363636364,30.0,False,False,False
 66fafd5b7131163da637a7660ba442db0a070d92,jun,2018,cool,auto,Sioux Falls,709.5,720.0,720.0,6.0,False,False,False
-670be188eade7b0b203dd0cbe52b8512daf30941,jun,2018,cool,auto,Tea,697.6,682.875,662.75,40.0,True,False,True
+670be188eade7b0b203dd0cbe52b8512daf30941,jun,2018,cool,auto,Tea,704.5714285714286,687.5714285714286,671.7142857142857,40.0,True,False,True
 670be188eade7b0b203dd0cbe52b8512daf30941,jun,2018,cool,hold,Tea,703.9618800888231,718.5792005921539,718.5792005921539,40.0,True,False,True
 769d58e58cf28ed36633f09f0bfe730fccc69040,jun,2018,cool,auto,Sioux Falls,701.3478260869565,701.1304347826087,651.1304347826087,68.0,False,False,False
 769d58e58cf28ed36633f09f0bfe730fccc69040,jun,2018,cool,hold,Sioux Falls,707.1666666666666,707.0,707.0,68.0,False,False,False
 8930281824f3ef2ac371723900928c198a63c348,jun,2018,cool,auto,Sioux Falls,694.0658119658119,718.2905982905983,718.2905982905983,10.0,False,False,False
 8930281824f3ef2ac371723900928c198a63c348,jun,2018,cool,hold,Sioux Falls,696.7427450980392,730.0784313725491,730.0784313725491,10.0,False,False,False
 89c72f65d234f95357466f70532bce6def19cc8f,jun,2018,auto,auto,Deadwood,725.125,760.0,680.0,20.0,True,False,True
-89c72f65d234f95357466f70532bce6def19cc8f,jun,2018,auto,hold,Deadwood,684.8805519620527,712.5830099180681,621.5510996119017,20.0,True,False,True
+89c72f65d234f95357466f70532bce6def19cc8f,jun,2018,auto,hold,Deadwood,685.5679910464465,724.5495243424734,634.7660884163403,20.0,True,False,True
 8f56c7dc00276a6b32a52d5ce09b1183ab8f1bd7,jun,2018,cool,auto,Box Elder,718.452677122769,730.0,730.0,10.0,False,False,False
 90e121dfbbf74b90bdeeba661458add0a7e5b5ba,jun,2018,cool,hold,Sioux Falls,722.25,740.0,740.0,10.0,False,False,False
 94f4dbce58d4a11a0ffa9e6290ddfb6e896b39d2,jun,2018,cool,hold,Sioux Falls,731.9375,730.0,730.0,5.0,False,False,False
@@ -64,8 +64,8 @@ ba6e220a85539b203580b1486b6e183220f6488c,jun,2018,auto,hold,Sioux Falls,707.1978
 ba824fb3fced9de90a39628266d6ba8bdc24270c,jun,2018,cool,hold,Rapid City,751.6170212765958,753.2978723404256,751.936170212766,5.0,False,False,False
 c286bb38a8bbe2053013f8899f27ce0e8fe7e2fc,jun,2018,cool,auto,Watertown,703.508695652174,702.3608695652174,698.7,16.0,False,False,False
 c286bb38a8bbe2053013f8899f27ce0e8fe7e2fc,jun,2018,cool,hold,Watertown,706.2,690.0,690.0,16.0,False,False,False
-c3353456a861b50590e2848ac724e0fdaae797b6,jun,2018,auto,auto,Dakota Dunes,771.875,771.125,609.0,27.0,False,False,False
-c3353456a861b50590e2848ac724e0fdaae797b6,jun,2018,auto,hold,Dakota Dunes,761.7481884057971,761.8478260869565,627.8260869565217,27.0,False,False,False
+c3353456a861b50590e2848ac724e0fdaae797b6,jun,2018,auto,auto,Dakota Dunes,764.0,779.0,672.0,27.0,False,False,False
+c3353456a861b50590e2848ac724e0fdaae797b6,jun,2018,auto,hold,Dakota Dunes,751.7083333333334,751.875,680.0,27.0,False,False,False
 c3cc30e0e8e9481f56d2d8ccb8875ffd6e58c48d,jun,2018,cool,hold,Rapid City,706.875,690.3333333333334,690.0,55.0,False,False,False
 cc7492974b078d6eceba17e49929a139635baebb,jun,2018,cool,auto,Yankton,765.8333333333334,765.0,750.0,45.0,False,False,False
 cc7492974b078d6eceba17e49929a139635baebb,jun,2018,cool,hold,Yankton,715.8269230769231,717.375,717.375,45.0,False,False,False

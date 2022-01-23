@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 004666c8518763d5ff5a1b6f9be919899724167e,dec,2017,heat,auto,Denver,726.6,736.3634517766498,729.194923857868,10.0,False,False,False
 004666c8518763d5ff5a1b6f9be919899724167e,dec,2017,heat,hold,Denver,705.5977382875606,723.5702746365105,706.1227786752827,10.0,False,False,False
 00b9d14bcf27ff6d6e0c30c6f60651c6c8c9ae8b,dec,2017,auto,auto,Aurora,685.2094017094017,733.3333333333334,683.3333333333334,17.0,False,False,False
@@ -1286,9 +1286,9 @@ d2345a5875d165e2172f946919ee209226c856da,dec,2017,heat,auto,Lakewood,707.0,715.0
 d2345a5875d165e2172f946919ee209226c856da,dec,2017,heat,hold,Lakewood,698.9353233830846,699.5870646766169,699.3781094527363,67.0,False,False,False
 d238b614566719a9810a8394ffda4bd42965444f,dec,2017,heat,auto,Arvada,678.3473684210526,680.3157894736842,680.3157894736842,60.0,True,False,False
 d238b614566719a9810a8394ffda4bd42965444f,dec,2017,heat,hold,Arvada,675.0384615384615,675.0384615384615,675.0384615384615,60.0,True,False,False
-d30508b1ddaef2cb57380f3bfebb7de33d9d42ab,dec,2017,cool,auto,Fort Collins,606.2969837587007,596.5058004640372,815.7006960556845,0.0,False,False,False
+d30508b1ddaef2cb57380f3bfebb7de33d9d42ab,dec,2017,cool,auto,Fort Collins,634.9012345679013,625.6172839506173,833.0987654320987,0.0,False,False,False
 d30508b1ddaef2cb57380f3bfebb7de33d9d42ab,dec,2017,cool,hold,Fort Collins,675.3888888888889,635.0,731.0,0.0,False,False,False
-d30508b1ddaef2cb57380f3bfebb7de33d9d42ab,dec,2017,heat,auto,Fort Collins,720.0758122743682,652.9458483754513,841.2418772563177,0.0,False,False,False
+d30508b1ddaef2cb57380f3bfebb7de33d9d42ab,dec,2017,heat,auto,Fort Collins,738.2272727272727,721.0,836.7727272727273,0.0,False,False,False
 d3431b6631efd28cf78687a04438dd922ac6ebbd,dec,2017,heat,hold,Aurora,730.7886597938144,731.8672680412371,731.8672680412371,16.0,False,False,False
 d3456139c944fe77aecebda3fdb66405bebb3c31,dec,2017,heat,auto,Thornton,687.1458333333334,719.9166666666666,717.5833333333334,10.0,False,False,False
 d3456139c944fe77aecebda3fdb66405bebb3c31,dec,2017,heat,hold,Thornton,720.1666666666666,720.0,720.0,10.0,False,False,False

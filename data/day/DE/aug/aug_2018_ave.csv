@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 006e9eb663d3497393620279fd86ae3ef8cd61cb,aug,2018,cool,auto,Middletown,748.006329113924,750.3544303797469,750.3544303797469,10.0,True,False,False
 006e9eb663d3497393620279fd86ae3ef8cd61cb,aug,2018,cool,hold,Middletown,740.2056163731556,741.0499762018087,741.0499762018087,10.0,True,False,False
 05f17d52e1db8e1d1c118b4d867161f3429fce55,aug,2018,cool,auto,New Castle,716.32,718.42,718.42,20.0,False,False,False

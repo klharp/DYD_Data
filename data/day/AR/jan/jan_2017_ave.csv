@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 07232c051ae191506a33f7b2cf57703c45edc81a,Jan,2017,auto,hold,Little Rock,667.2689565780946,734.3895009721322,632.6202203499676,45.0,False,False,False
 07232c051ae191506a33f7b2cf57703c45edc81a,Jan,2017,cool,hold,Little Rock,706.0964912280701,722.9890350877193,722.8859649122807,45.0,False,False,False
 07232c051ae191506a33f7b2cf57703c45edc81a,Jan,2017,heat,hold,Little Rock,655.8138847858198,657.4121122599705,650.2695716395864,45.0,False,False,False
@@ -202,7 +202,7 @@ caa3a6d7300286ca2179faf454973f425498aefa,Jan,2017,auto,hold,Little Rock,687.0,76
 d29d4a30656fe8d8339f19c788a5a76f83fb5a16,Jan,2017,heat,auto,Little Rock,716.9284649776453,718.8464977645306,718.4217585692995,0.0,False,False,False
 d29d4a30656fe8d8339f19c788a5a76f83fb5a16,Jan,2017,heat,hold,Little Rock,709.1573498964804,704.2536231884058,704.268115942029,0.0,False,False,False
 d2aeae56b5aedc55ce1e17b960ad2d3ba94ca002,Jan,2017,cool,auto,El Dorado,597.0,615.0,620.0,0.0,False,False,False
-d2aeae56b5aedc55ce1e17b960ad2d3ba94ca002,Jan,2017,cool,hold,El Dorado,632.9402332361516,643.5583090379009,643.5787172011662,0.0,False,False,False
+d2aeae56b5aedc55ce1e17b960ad2d3ba94ca002,Jan,2017,cool,hold,El Dorado,632.9445255474452,643.629197080292,643.629197080292,0.0,False,False,False
 d2aeae56b5aedc55ce1e17b960ad2d3ba94ca002,Jan,2017,heat,auto,El Dorado,635.3028571428572,651.1542857142857,651.1542857142857,0.0,False,False,False
 d2aeae56b5aedc55ce1e17b960ad2d3ba94ca002,Jan,2017,heat,hold,El Dorado,627.9569230769231,658.5538461538462,658.5538461538462,0.0,False,False,False
 d2e75a2c90de867dbde7c6eb3d74b9d3ce5ef160,Jan,2017,heat,auto,Pocahontas,687.9861111111111,684.0,684.0,0.0,False,False,False

@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 00105867bef9463f0a62d5257d0e91b8c8d19dee,jul,2021,cool,hold,Southgate,703.125,700.0,700.0,75.0,False,False,False
 02057b5580116f08cdadf2a920e8b0c0abe55724,jul,2021,auto,hold,Henderson,719.1515151515151,786.1515151515151,660.0,20.0,False,False,False
 020ded524bca03fd8503e9676cbd617ae62f12d4,jul,2021,auto,hold,Louisville,705.3814102564103,703.0333333333333,681.2801282051282,15.0,False,False,False

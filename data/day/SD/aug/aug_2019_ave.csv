@@ -1,6 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
-011eb806f7782fc048072fabfb035b54f5d71e67,aug,2019,auto,auto,Sioux Falls,727.7826086956521,750.0,600.0,100.0,False,False,False
-011eb806f7782fc048072fabfb035b54f5d71e67,aug,2019,auto,hold,Sioux Falls,710.4444444444445,754.1851851851852,593.3333333333334,100.0,False,False,False
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 045e533587d8a51c00e08e459243ce7ec3cbaaf9,aug,2019,cool,auto,Rapid City,712.3975694444445,731.6493055555555,694.6579861111111,70.0,True,False,False
 045e533587d8a51c00e08e459243ce7ec3cbaaf9,aug,2019,cool,hold,Rapid City,715.8333333333334,740.0,740.0,70.0,True,False,False
 0968b16b919c5e8b72ff8de3bda124068f7f322d,aug,2019,auto,auto,Sioux Falls,756.0761154855643,819.9002624671916,630.0708661417323,0.0,False,False,False
@@ -106,7 +104,7 @@ d37e2aadd7774c2112b3d30f1c00556868867274,aug,2019,cool,hold,Vermillion,734.02439
 d8a5080a26ef033201748f6bb21a14041b3e5089,aug,2019,cool,auto,Sioux Falls,761.4433962264151,753.1981132075472,753.1981132075472,15.0,False,False,False
 d8a5080a26ef033201748f6bb21a14041b3e5089,aug,2019,cool,hold,Sioux Falls,754.4814814814815,747.0,747.0,15.0,False,False,False
 e5a50f71271de0f30b2f068f1e6e3368ddfec11b,aug,2019,auto,hold,Sioux Falls,773.6333333333333,817.6333333333333,680.0,5.0,False,False,False
-e69c14a1b9ef293c0bca99ff7458e300a2fb4e30,aug,2019,auto,hold,Sioux Falls,711.6140629971364,718.6837416481069,626.9277760101813,10.0,False,False,False
+e69c14a1b9ef293c0bca99ff7458e300a2fb4e30,aug,2019,auto,hold,Sioux Falls,705.7545243619489,716.6125290023202,639.2733178654292,10.0,False,False,False
 e69c14a1b9ef293c0bca99ff7458e300a2fb4e30,aug,2019,cool,hold,Sioux Falls,692.34375,700.0,700.0,10.0,False,False,False
 e6dbbaa5309abde52529bb8af3025c5f2fb84ab3,aug,2019,cool,hold,Mitchell,744.2304964539007,740.0248226950355,740.0248226950355,27.0,False,False,True
 ed58efc3d484f4dc6bb8c941e07ed02801f4d7af,aug,2019,heat,auto,Spearfish,664.8942652329749,780.0,620.0,25.0,False,False,False
@@ -118,5 +116,4 @@ f54879bd1a53b5447fa7998054e94ab1621745eb,aug,2019,cool,hold,Sioux Falls,718.1885
 f55618457070bf0edd01780be7adab261f0423ce,aug,2019,cool,auto,Sioux Falls,731.374358974359,729.251282051282,674.1948717948718,0.0,True,False,False
 f55618457070bf0edd01780be7adab261f0423ce,aug,2019,cool,hold,Sioux Falls,726.8944099378882,723.4906832298136,721.4658385093168,0.0,True,False,False
 fb9e07d5242ec2ffc3c0820c3e4956038ac410af,aug,2019,auto,hold,Yankton,731.7945205479452,695.1780821917808,645.1506849315068,10.0,False,False,True
-fbb6b3184e085ae4fe5c86bab30afe6a29793469,aug,2019,auto,hold,Mitchell,678.15,700.45,456.45,30.0,False,False,False
-fbba43bcb505094b711bbda734c4088425953b97,aug,2019,auto,hold,Sioux Falls,731.0633152173913,736.2494565217391,542.778804347826,20.0,False,False,False
+fbba43bcb505094b711bbda734c4088425953b97,aug,2019,auto,hold,Sioux Falls,727.2060117302053,736.4948680351906,651.0,20.0,False,False,False

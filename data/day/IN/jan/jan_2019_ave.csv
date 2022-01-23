@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 008844c6c1993ea32d6117993fa4c89479fc9db8,Jan,2019,heat,auto,Indianapolis,704.5454545454545,730.0,690.0,40.0,True,False,False
 008844c6c1993ea32d6117993fa4c89479fc9db8,Jan,2019,heat,hold,Indianapolis,683.1470588235294,730.5147058823529,688.2941176470588,40.0,True,False,False
 00a57ff87df6c0a6293c5d88b27fcf5f48a0ad28,Jan,2019,heat,auto,Fort Wayne,711.0423529411764,711.3678431372549,716.5882352941177,20.0,False,False,True
@@ -1328,8 +1328,6 @@ b8daa664a07564e82939e4e680305ad102bc2bc2,Jan,2019,heat,auto,Noblesville,648.9782
 b8daa664a07564e82939e4e680305ad102bc2bc2,Jan,2019,heat,hold,Noblesville,667.3033333333333,672.3533333333334,671.98,5.0,False,False,False
 b905a984ca1ad1f7847d2f281c8fe9843393affe,Jan,2019,heat,auto,Jeffersonville,683.2163461538462,689.7019230769231,689.6298076923077,19.0,True,False,False
 b905a984ca1ad1f7847d2f281c8fe9843393affe,Jan,2019,heat,hold,Jeffersonville,674.6727272727272,680.6181818181818,680.4818181818182,19.0,True,False,False
-b910fa0f29d4412c9491f30ea41cec7fa5cc3a7b,Jan,2019,heat,auto,Indianapolis,649.180142687277,590.0,664.9875148632581,20.0,True,False,True
-b910fa0f29d4412c9491f30ea41cec7fa5cc3a7b,Jan,2019,heat,hold,Indianapolis,657.8607918263091,590.0,701.4010217113665,20.0,True,False,True
 b942d0b09eda3062eb8efb5c32292396cc6538be,Jan,2019,heat,auto,Carmel,667.2361111111111,670.0,670.0,0.0,False,False,False
 b94a5c29faf2a2ff71626d5f1c304efb19d6ab28,Jan,2019,heat,auto,Lake Station,681.8803986710964,684.9435215946844,683.2026578073089,0.0,True,False,False
 b94a5c29faf2a2ff71626d5f1c304efb19d6ab28,Jan,2019,heat,hold,Lake Station,688.5142857142857,692.0928571428572,692.0857142857143,0.0,True,False,False

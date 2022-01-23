@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 00a0f0ba8d5a1f94ea2806afb6c1baa70177c6c1,feb,2018,heat,hold,Medfield,647.25,651.6666666666666,649.5416666666666,37.0,False,False,False
 01dddc9a4241063b0f3fe22c1cbbd66cd3c8ca16,feb,2018,heat,hold,Amesbury,678.448275862069,680.0,680.0,7.0,False,False,False
 021bc49d2737cfc5291795252754c8c84d99fb90,feb,2018,heat,auto,Plainville,701.3705263157894,691.9473684210526,691.9473684210526,35.0,False,False,False
@@ -1159,8 +1159,6 @@ cd7185fb5d6c775f8db7a6fe00c7a1d75a55d952,feb,2018,heat,hold,Boston,661.371104815
 cda379d0df730f2cba0871624f5a693306ebddce,feb,2018,heat,hold,Gloucester,644.0,670.0,670.0,55.0,False,False,False
 cdd77d0ee7022e26815237ff8d3daeb904de9743,feb,2018,auto,auto,Agawam,669.2467532467532,818.987012987013,640.8441558441558,57.0,True,False,False
 cdd77d0ee7022e26815237ff8d3daeb904de9743,feb,2018,auto,hold,Agawam,694.9495548961424,757.6765578635014,698.0148367952522,57.0,True,False,False
-cdecf6028defb46d2daea1703238d41a8641aa0b,feb,2018,heat,auto,Charlton,654.7642276422764,579.9945799457995,656.4552845528456,15.0,False,False,False
-cdecf6028defb46d2daea1703238d41a8641aa0b,feb,2018,heat,hold,Charlton,670.1115537848606,579.9853917662682,657.0464807436919,15.0,False,False,False
 ce484d8ec86f0aef61045047b4c0a01e98634e32,feb,2018,heat,auto,Milford,701.7721893491124,716.7455621301775,690.6065088757397,15.0,False,False,False
 ce484d8ec86f0aef61045047b4c0a01e98634e32,feb,2018,heat,hold,Milford,702.4754098360655,696.448087431694,696.448087431694,15.0,False,False,False
 ced37125f85565ffd21f2f1760fa689db681499d,feb,2018,heat,hold,South Deerfield,628.953125,672.8125,671.59375,80.0,True,False,False

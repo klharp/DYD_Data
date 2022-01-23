@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 007b9ae939161adcf55e644a3a31bed6f9545465,Jan,2020,heat,auto,Washington,607.25,735.0,650.75,98.0,False,False,False
 007b9ae939161adcf55e644a3a31bed6f9545465,Jan,2020,heat,hold,Washington,693.7631578947369,716.1052631578947,712.0263157894736,98.0,False,False,False
 08049f898acb8591a4cad8c0900db78ad73b307f,Jan,2020,auto,auto,Washington,683.5598290598291,763.2307692307693,680.0940170940171,90.0,False,False,False
@@ -144,9 +144,9 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 939b8cfb049fd0e08b2627f0fb1a166ad697ac6c,Jan,2020,heat,hold,Washington,753.5481481481481,742.074074074074,741.5851851851852,20.0,False,False,False
 94ec6189abfb454245b83776161c80a01e756d85,Jan,2020,heat,hold,Washington,763.6666666666666,766.2222222222222,763.1111111111111,75.0,False,False,False
 960589d0b6bf9004b77a2e10809d6519da8b6b4a,Jan,2020,heat,hold,Washington,727.5833678113364,730.0821266032272,730.0821266032272,90.0,False,False,False
-976c95bf0ecfd05b2d7e521a87f86500d6016654,Jan,2020,cool,hold,Washington,704.6808510638298,769.468085106383,844.531914893617,79.0,False,False,False
-976c95bf0ecfd05b2d7e521a87f86500d6016654,Jan,2020,heat,auto,Washington,779.5443786982248,771.0,842.5443786982248,79.0,False,False,False
-976c95bf0ecfd05b2d7e521a87f86500d6016654,Jan,2020,heat,hold,Washington,780.0239361702128,764.6768617021277,822.2167553191489,79.0,False,False,False
+976c95bf0ecfd05b2d7e521a87f86500d6016654,Jan,2020,cool,hold,Washington,811.8125,766.5,812.625,79.0,False,False,False
+976c95bf0ecfd05b2d7e521a87f86500d6016654,Jan,2020,heat,auto,Washington,800.9051724137931,771.0,830.0,79.0,False,False,False
+976c95bf0ecfd05b2d7e521a87f86500d6016654,Jan,2020,heat,hold,Washington,774.5816135084427,762.0787992495309,802.2720450281425,79.0,False,False,False
 984fc5a025bef50cd501aa74f851522893fe6fd7,Jan,2020,auto,hold,Washington,700.6333333333333,752.0,702.0,86.0,False,False,False
 9a1a0af8e0823c37e792039e1fd0609e7fb56494,Jan,2020,heat,auto,Washington,722.9139784946236,720.0,720.0,5.0,False,False,False
 9a1a0af8e0823c37e792039e1fd0609e7fb56494,Jan,2020,heat,hold,Washington,717.9176829268292,718.6615853658536,718.6615853658536,5.0,False,False,False

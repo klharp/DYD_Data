@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 02a6a361c70d1052cbb1d7d80490d8326ae8e684,Jan,2019,heat,hold,Naples,616.6944444444445,659.6666666666666,641.9444444444445,15.0,False,False,False
 03bd31c029cbbc4209d67d40d4f3e41bcf4e91a5,Jan,2019,heat,auto,Brunswick,666.3333333333334,670.0,670.0,60.0,False,False,False
 03bd31c029cbbc4209d67d40d4f3e41bcf4e91a5,Jan,2019,heat,hold,Brunswick,667.0294117647059,670.0,670.0,60.0,False,False,False

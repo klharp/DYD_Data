@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 008844c6c1993ea32d6117993fa4c89479fc9db8,aug,2019,cool,auto,Indianapolis,722.3333333333334,770.0,689.3333333333334,40.0,True,False,False
 008844c6c1993ea32d6117993fa4c89479fc9db8,aug,2019,cool,hold,Indianapolis,722.1631205673759,748.6099290780141,705.6241134751773,40.0,True,False,False
 00a57ff87df6c0a6293c5d88b27fcf5f48a0ad28,aug,2019,cool,hold,Fort Wayne,729.136505239309,730.3913905409232,730.3913905409232,20.0,False,False,True

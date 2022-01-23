@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 00036e2921e77921dc23f39cecd8ef0ef80ba076,jun,2018,cool,auto,Indio,781.696,791.752,692.376,10.0,False,False,False
 0007af61e41e5121b78d434fbe95d99398501ef7,jun,2018,auto,hold,Chula Vista,696.2,755.0,615.0,10.0,False,False,False
 0029564391031ecb03549e6389960db4eed71126,jun,2018,auto,hold,San Gabriel,739.077922077922,752.077922077922,690.0,90.0,False,False,False

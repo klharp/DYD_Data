@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 052e3fc7cea46bc5fc812a70646c8e1fc8073ac1,Jan,2017,auto,auto,Pearl River,715.2643312101911,755.3009554140127,703.5031847133758,5.0,False,False,False
 052e3fc7cea46bc5fc812a70646c8e1fc8073ac1,Jan,2017,auto,hold,Pearl River,706.7647058823529,748.3058823529411,697.5529411764705,5.0,False,False,False
 052e3fc7cea46bc5fc812a70646c8e1fc8073ac1,Jan,2017,cool,auto,Pearl River,724.5301587301587,739.0603174603175,719.8793650793651,5.0,False,False,False

@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 0066b69bae234ce9b76749510713e1bce5154e18,feb,2020,heat,auto,Wilton,688.1507675438596,744.5581140350877,685.7933114035088,0.0,False,False,False
 01440e0a70900810dceaace98a7965a75bc818dc,feb,2020,heat,hold,Guilford,627.2081911262799,650.0,617.0,0.0,False,False,False
 01b5776ab24d14ace90a8296c49941a4ba8b0173,feb,2020,auto,hold,New MIlford,707.7097549255166,760.0,710.0,5.0,False,False,False
@@ -513,7 +513,7 @@ c12218933d687be46a2697fba4623fe32c66ef45,feb,2020,heat,auto,Newtown,654.15384615
 c12218933d687be46a2697fba4623fe32c66ef45,feb,2020,heat,hold,Newtown,593.44,653.52,653.52,10.0,False,False,False
 c147c2e1cbe076bc976db8e788fa285e351f07db,feb,2020,heat,auto,Durham,676.3461538461538,780.0,620.0,20.0,False,False,False
 c2f1a84ed18ee42d39add99fe5e0e1c50fd288e3,feb,2020,heat,auto,Mystic,648.0384615384615,780.0,650.0,116.0,False,False,False
-c36510e1cef94a504325c67c0e3732e5b40a1309,feb,2020,heat,auto,Thomaston,653.014164305949,624.2776203966006,653.6232294617564,45.0,False,False,False
+c36510e1cef94a504325c67c0e3732e5b40a1309,feb,2020,heat,auto,Thomaston,652.858064516129,627.6451612903226,653.3451612903226,45.0,False,False,False
 c36510e1cef94a504325c67c0e3732e5b40a1309,feb,2020,heat,hold,Thomaston,640.3082125603864,634.8850241545894,634.9091787439613,45.0,False,False,False
 c375938ce0336932e0a382c5b4d61e4ee9ff8da7,feb,2020,heat,hold,North Stonington,663.9273504273505,666.6666666666666,666.6666666666666,10.0,False,False,False
 c3e376327be94c49a4dc3440d6796dfee1757733,feb,2020,heat,auto,Enfield,660.1900826446281,661.6528925619834,655.8677685950413,50.0,False,False,False

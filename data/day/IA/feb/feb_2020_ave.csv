@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 0037b13de2c1ea596b8c97cc09d202a5e8ceeeae,feb,2020,heat,auto,Waverly,705.8048780487804,707.6747967479674,715.1138211382114,10.0,False,False,False
 0037b13de2c1ea596b8c97cc09d202a5e8ceeeae,feb,2020,heat,hold,Waverly,716.1078838174274,714.3692946058092,714.4066390041494,10.0,False,False,False
 02bdf1de6aee0eed87c66bdbd017c3ebb12a0f62,feb,2020,heat,hold,Emmetsburg,729.4444444444445,700.0,700.0,0.0,True,False,False

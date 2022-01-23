@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 01d2dea193d6f494d3d2a2a80c1b8bb11c100b94,feb,2017,heat,auto,Portage,710.5897435897435,783.3846153846154,649.9230769230769,70.0,False,False,False
 01d2dea193d6f494d3d2a2a80c1b8bb11c100b94,feb,2017,heat,hold,Portage,699.5,723.5,717.5,70.0,False,False,False
 0205a8de82aad26001281be438d7a4abf8503db4,feb,2017,heat,hold,Valparaiso,652.4871794871794,650.0,620.0,15.0,False,False,False
@@ -2653,8 +2653,6 @@ b8daa664a07564e82939e4e680305ad102bc2bc2,feb,2019,heat,auto,Noblesville,660.85,6
 b8daa664a07564e82939e4e680305ad102bc2bc2,feb,2019,heat,hold,Noblesville,668.3203883495146,668.0097087378641,668.0097087378641,5.0,False,False,False
 b905a984ca1ad1f7847d2f281c8fe9843393affe,feb,2019,heat,auto,Jeffersonville,687.6276112624887,695.2888283378746,695.2888283378746,19.0,True,False,False
 b905a984ca1ad1f7847d2f281c8fe9843393affe,feb,2019,heat,hold,Jeffersonville,693.7569832402236,695.5456238361268,695.5456238361268,19.0,True,False,False
-b910fa0f29d4412c9491f30ea41cec7fa5cc3a7b,feb,2019,heat,auto,Indianapolis,665.6034297963557,590.0,668.4190782422294,20.0,True,False,True
-b910fa0f29d4412c9491f30ea41cec7fa5cc3a7b,feb,2019,heat,hold,Indianapolis,687.8671875,590.0,767.6171875,20.0,True,False,True
 b942d0b09eda3062eb8efb5c32292396cc6538be,feb,2019,heat,auto,Carmel,675.4923076923077,670.0,670.0,0.0,False,False,False
 b94a5c29faf2a2ff71626d5f1c304efb19d6ab28,feb,2019,heat,auto,Lake Station,673.4864864864865,680.425945945946,675.1783783783784,0.0,True,False,False
 b94a5c29faf2a2ff71626d5f1c304efb19d6ab28,feb,2019,heat,hold,Lake Station,673.0917822838848,675.187833511206,675.1856990394878,0.0,True,False,False
@@ -4435,7 +4433,7 @@ d36e9c41568f65b38c2d0a62b48c39239eb8c70a,feb,2020,auto,hold,Lebanon,659.76672694
 d3c23fe950fc7b31d09158da0c70fd9e87fff23f,feb,2020,heat,hold,Kokomo,725.5607079646018,730.0,730.0,110.0,False,False,False
 d3c75c4cce64b6ec4f1e3e52ea6a51dab56d5550,feb,2020,cool,auto,Anderson,650.9130434782609,635.0434782608696,656.7826086956521,0.0,True,False,True
 d3c75c4cce64b6ec4f1e3e52ea6a51dab56d5550,feb,2020,cool,hold,Anderson,649.8514851485148,657.039603960396,657.039603960396,0.0,True,False,True
-d3c75c4cce64b6ec4f1e3e52ea6a51dab56d5550,feb,2020,heat,auto,Anderson,660.391369047619,658.7276785714286,667.0401785714286,0.0,True,False,True
+d3c75c4cce64b6ec4f1e3e52ea6a51dab56d5550,feb,2020,heat,auto,Anderson,661.7090032154341,663.4485530546624,668.4099678456591,0.0,True,False,True
 d3c75c4cce64b6ec4f1e3e52ea6a51dab56d5550,feb,2020,heat,hold,Anderson,669.2467426710098,675.3965798045602,675.3778501628665,0.0,True,False,True
 d4056ff76f99922a99bc9242fc0bda39cc407575,feb,2020,heat,hold,Granger,641.8678899082569,650.0,630.0,20.0,False,False,False
 d4101ef02691bceede782bbe35b7f0fb25f62a8b,feb,2020,heat,auto,Westfield,705.3684210526317,710.0,710.0,20.0,True,False,False

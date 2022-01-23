@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 002aab87db1d9e8ce470f80f23c97c59de5f4dcd,Jan,2018,heat,auto,San Marcos,711.2387387387388,714.2657657657658,712.5450450450451,15.0,False,False,False
 002aab87db1d9e8ce470f80f23c97c59de5f4dcd,Jan,2018,heat,hold,San Marcos,721.9019607843137,725.4313725490196,725.0784313725491,15.0,False,False,False
 00449ee911414c6517a9a1b99a820a55007db911,Jan,2018,heat,auto,Fremont,674.5333333333333,680.0,680.0,30.0,False,False,False
@@ -2224,7 +2224,7 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 64dca3d3cc71ca93f42af1565021bec53a52afbd,Jan,2018,heat,auto,Yuba City,738.3403141361257,739.9109947643979,739.9109947643979,45.0,False,False,False
 64dca3d3cc71ca93f42af1565021bec53a52afbd,Jan,2018,heat,hold,Yuba City,710.2051070840198,708.7388797364085,708.5939044481055,45.0,False,False,False
 64eb1952e014f4165f4d8350ae0786319d08c4c9,Jan,2018,auto,auto,Murrieta,659.6865671641791,690.0,630.0,10.0,False,False,False
-64eb1952e014f4165f4d8350ae0786319d08c4c9,Jan,2018,cool,auto,Murrieta,630.9397590361446,650.6385542168674,688.5542168674699,10.0,False,False,False
+64eb1952e014f4165f4d8350ae0786319d08c4c9,Jan,2018,cool,auto,Murrieta,631.3125,652.5375,688.875,10.0,False,False,False
 64eb1952e014f4165f4d8350ae0786319d08c4c9,Jan,2018,cool,hold,Murrieta,661.427536231884,693.8695652173913,693.8695652173913,10.0,False,False,False
 64eb1952e014f4165f4d8350ae0786319d08c4c9,Jan,2018,heat,auto,Murrieta,653.063829787234,664.0,666.5106382978723,10.0,False,False,False
 652ec957b7c512ac540bdeb169f1da5c420d9076,Jan,2018,auto,hold,Dos Palos,725.6240740740741,780.0,726.3333333333334,5.0,False,False,False

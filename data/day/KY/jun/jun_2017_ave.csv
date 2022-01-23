@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 008cfa92481086d7def321eeabb85c0d3eb846de,jun,2017,cool,auto,Campbellsville,700.0134228187919,694.3489932885906,680.0,5.0,True,False,True
 008cfa92481086d7def321eeabb85c0d3eb846de,jun,2017,cool,hold,Campbellsville,702.457399103139,695.493273542601,695.4304932735427,5.0,True,False,True
 020ded524bca03fd8503e9676cbd617ae62f12d4,jun,2017,auto,auto,Louisville,700.9473684210526,705.0,645.0,15.0,False,False,False

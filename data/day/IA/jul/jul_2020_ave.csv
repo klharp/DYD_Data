@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 0219b339a36deb299cb64ff76ba40ac7563cf3af,jul,2020,cool,hold,Marion,744.0,837.0,724.0,15.0,False,False,False
 02bdf1de6aee0eed87c66bdbd017c3ebb12a0f62,jul,2020,cool,auto,Emmetsburg,745.0,800.0,627.0,0.0,True,False,False
 02d6f92c8b43e6f08da8a2b7efe50c30bab0dcc7,jul,2020,cool,auto,maquoketa,720.3333333333334,720.0,720.0,70.0,False,False,False

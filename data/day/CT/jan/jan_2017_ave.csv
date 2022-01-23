@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 01b5776ab24d14ace90a8296c49941a4ba8b0173,Jan,2017,auto,hold,New MIlford,683.4847311827957,800.0,685.5096774193548,5.0,False,False,False
 05d474a41ce90b51ae9627f1dc2a5214d67b2741,Jan,2017,heat,auto,Guilford,630.9375,650.0,620.0,35.0,False,False,False
 0a751de00d076714c9f1c136f2203fae474b7ace,Jan,2017,heat,auto,East Hampton,652.6277292576419,680.0,640.0,0.0,False,False,False

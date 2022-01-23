@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 0010ea447dc3807b33daad2477d1cc02a71571fa,jun,2018,auto,auto,Chicago,732.84375,750.0,670.0,5.0,False,False,False
 0010ea447dc3807b33daad2477d1cc02a71571fa,jun,2018,cool,auto,Chicago,735.3333333333334,730.2222222222222,671.9444444444445,5.0,False,False,False
 0010ea447dc3807b33daad2477d1cc02a71571fa,jun,2018,cool,hold,Chicago,739.0,723.8529411764706,723.8529411764706,5.0,False,False,False
@@ -897,7 +897,6 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 300584c1dbba467ff46358e47b64a4b3534845fa,jun,2018,cool,auto,Chicago,718.3134166214014,728.2275936990766,728.2275936990766,80.0,False,False,False
 300584c1dbba467ff46358e47b64a4b3534845fa,jun,2018,cool,hold,Chicago,714.6908212560387,725.919806763285,725.919806763285,80.0,False,False,False
 30161fe666631657257e0b60f7a62b5edba122f3,jun,2018,cool,hold,Chicago,743.4772727272727,740.0,740.0,15.0,False,False,False
-302e5ac39235659ae985bc354fa8d7106740a9b0,jun,2018,cool,auto,Carol Stream,816.3333333333334,600.0,700.0,45.0,False,False,False
 303e59fff1980467a1f61940e87f50d3e2bc9846,jun,2018,auto,hold,Grayslake,709.9357530246141,710.0,660.0,16.0,True,False,False
 303e59fff1980467a1f61940e87f50d3e2bc9846,jun,2018,cool,auto,Grayslake,698.7591836734694,690.0,690.0,16.0,True,False,False
 303e59fff1980467a1f61940e87f50d3e2bc9846,jun,2018,cool,hold,Grayslake,711.0,700.0,670.0,16.0,True,False,False
@@ -1412,7 +1411,7 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 46d84e5ea7f7990e00f08f8465635b23953471a3,jun,2018,cool,auto,Sycamore,746.8359375,743.9609375,745.9375,75.0,False,False,False
 46d84e5ea7f7990e00f08f8465635b23953471a3,jun,2018,cool,hold,Sycamore,734.4833032490975,733.9778880866426,733.9986462093863,75.0,False,False,False
 46d84e5ea7f7990e00f08f8465635b23953471a3,jun,2018,heat,hold,Sycamore,741.056338028169,735.0281690140845,735.0305164319249,75.0,False,False,False
-46e3367e8ba9f4d9e44304e304aae6645c2fe936,jun,2018,cool,auto,Huntley,681.563829787234,645.4042553191489,687.9787234042553,15.0,False,False,False
+46e3367e8ba9f4d9e44304e304aae6645c2fe936,jun,2018,cool,auto,Huntley,680.8351648351648,646.9010989010989,688.2417582417582,15.0,False,False,False
 46e3367e8ba9f4d9e44304e304aae6645c2fe936,jun,2018,cool,hold,Huntley,680.0833333333334,661.25,660.625,15.0,False,False,False
 46ecbbafef67d2017a1257a08b226e49cec8eaaa,jun,2018,cool,auto,Palatine,761.0592823712949,771.6521060842433,758.4102964118565,25.0,False,False,False
 46ecbbafef67d2017a1257a08b226e49cec8eaaa,jun,2018,cool,hold,Palatine,755.6724137931035,756.1005747126437,753.6422413793103,25.0,False,False,False

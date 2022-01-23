@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 00105867bef9463f0a62d5257d0e91b8c8d19dee,jun,2019,cool,hold,Southgate,715.7916666666666,700.0,700.0,75.0,False,False,False
 003e168f638289edc59e7df30f5a63ff7bae7a2e,jun,2019,auto,auto,Science Hill,720.5,723.2272727272727,669.7272727272727,5.0,True,False,True
 003e168f638289edc59e7df30f5a63ff7bae7a2e,jun,2019,auto,hold,Science Hill,717.0540540540541,715.2702702702703,665.2702702702703,5.0,True,False,True
@@ -422,7 +422,7 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 82b87f1d4342e3ce22aa7095982256896803e9d2,jun,2019,cool,auto,Irvington,735.970189701897,735.0575880758807,670.930216802168,60.0,False,False,False
 82b87f1d4342e3ce22aa7095982256896803e9d2,jun,2019,cool,hold,Irvington,734.4850136239781,731.8801089918256,731.6512261580382,60.0,False,False,False
 82cce3a832338de3593f116e36fa9bdd9d830d7d,jun,2019,cool,hold,Louisville,752.6666666666666,747.5,747.5,90.0,False,False,True
-8459ac149f7346b528f899df2a08a7505ec9da0c,jun,2019,cool,auto,Lexington,677.1934265205894,666.8027956176804,672.1174914998111,0.0,False,False,False
+8459ac149f7346b528f899df2a08a7505ec9da0c,jun,2019,cool,auto,Lexington,678.7640358014646,671.9393816110659,670.3152969894223,0.0,False,False,False
 8459ac149f7346b528f899df2a08a7505ec9da0c,jun,2019,cool,hold,Lexington,689.0828220858896,678.2791411042945,678.2791411042945,0.0,False,False,False
 8459ac149f7346b528f899df2a08a7505ec9da0c,jun,2019,heat,auto,Lexington,615.6666666666666,710.0,674.3333333333334,0.0,False,False,False
 84be2553043f8e72889fe14e08ba8080985aba81,jun,2019,auto,hold,St. Matthews,719.8780487804878,740.0,690.0,20.0,False,False,False

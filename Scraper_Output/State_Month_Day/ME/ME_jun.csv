@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 06322bf1e7bd15eb760e1cc07c01525c4fd679bc,jun,2017,heat,hold,Harpswell,697.5109151973132,669.0428211586902,669.0428211586902,5.0,False,False,False
 071d40a2ebc85623a1b5da94a1ee4af028115825,jun,2017,heat,auto,North Yarmouth,707.7916666666665,670.0,670.0,25.0,False,False,False
 67f53f5424fc9069ec1785ebc1b3f47de39dbbe7,jun,2017,heat,hold,Harpswell,649.4545454545455,679.7272727272727,679.2727272727273,5.0,False,False,False

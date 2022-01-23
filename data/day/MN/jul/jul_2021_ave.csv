@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 0051e4024c219cda4431c8c6868383c944b4f787,jul,2021,cool,hold,Battle Lake,732.3366013071895,730.0,730.0,29.0,True,False,False
 01cbc83700158311cb3594824a8c3db5ee300914,jul,2021,cool,hold,Cottage Grove,764.0434782608696,784.7826086956521,784.7826086956521,40.0,False,False,False
 01e1619793696fb693b082ea3d26b964d4d2c5ff,jul,2021,auto,hold,Minneapolis,737.1918063314712,742.7951582867784,650.0,55.0,False,False,False

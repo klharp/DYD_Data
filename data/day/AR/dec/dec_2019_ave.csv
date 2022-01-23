@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 01111a4f1b00377be5ecc305a424d92540564055,dec,2019,auxHeatOnly,auto,Rockwell,685.2962962962963,745.978835978836,636.6666666666666,0.0,True,False,True
 01111a4f1b00377be5ecc305a424d92540564055,dec,2019,auxHeatOnly,hold,Rockwell,689.5753968253969,710.0,660.0674603174604,0.0,True,False,True
 01111a4f1b00377be5ecc305a424d92540564055,dec,2019,heat,auto,Rockwell,740.8571428571429,750.0,690.0,0.0,True,False,True
@@ -315,9 +315,8 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 5470e783cd88edb5b78769999b82ae8d566f0a89,dec,2019,auto,auto,Fort Smith,629.6209386281588,685.7039711191336,635.2274368231047,0.0,False,False,False
 5470e783cd88edb5b78769999b82ae8d566f0a89,dec,2019,auto,hold,Fort Smith,638.952380952381,690.952380952381,626.1904761904761,0.0,False,False,False
 5472d94328999e3dd7f841ed23f08ea4b5b62623,dec,2019,auto,hold,North Little Rock,660.9705882352941,742.8627450980392,661.3529411764706,0.0,False,False,False
-54c5cdf8b3cb4b70df2ea87725ff91debefcf60c,dec,2019,cool,hold,Little Rock,795.3333333333334,599.0,676.0,29.0,True,False,False
 54c5cdf8b3cb4b70df2ea87725ff91debefcf60c,dec,2019,heat,auto,Little Rock,789.5208333333334,751.0,800.0,29.0,True,False,False
-54c5cdf8b3cb4b70df2ea87725ff91debefcf60c,dec,2019,heat,hold,Little Rock,789.1567375886525,750.2028368794327,793.9659574468085,29.0,True,False,False
+54c5cdf8b3cb4b70df2ea87725ff91debefcf60c,dec,2019,heat,hold,Little Rock,789.1639460610362,750.3101490418736,794.0496806245565,29.0,True,False,False
 54c680871701cc0830567191011f614d08c39841,dec,2019,heat,auto,Pocahontas,666.5462962962963,663.5925925925926,663.5925925925926,70.0,False,False,False
 54c680871701cc0830567191011f614d08c39841,dec,2019,heat,hold,Pocahontas,675.0254629629629,673.3333333333334,673.3333333333334,70.0,False,False,False
 5549254f2d2506092b366a60cacbaa5e4af24e3c,dec,2019,auto,auto,Bay,694.4809523809524,770.0,690.0,5.0,False,False,True
@@ -823,7 +822,7 @@ d29d4a30656fe8d8339f19c788a5a76f83fb5a16,dec,2019,cool,hold,Little Rock,716.5,68
 d29d4a30656fe8d8339f19c788a5a76f83fb5a16,dec,2019,heat,auto,Little Rock,705.7440273037543,696.4914675767918,695.3993174061434,0.0,False,False,False
 d29d4a30656fe8d8339f19c788a5a76f83fb5a16,dec,2019,heat,hold,Little Rock,710.5203679369251,702.4244415243102,702.419185282523,0.0,False,False,False
 d2aeae56b5aedc55ce1e17b960ad2d3ba94ca002,dec,2019,cool,hold,El Dorado,624.811403508772,636.6973684210526,636.6973684210526,0.0,False,False,False
-d2aeae56b5aedc55ce1e17b960ad2d3ba94ca002,dec,2019,heat,auto,El Dorado,618.4691075514875,631.350114416476,621.6258581235697,0.0,False,False,False
+d2aeae56b5aedc55ce1e17b960ad2d3ba94ca002,dec,2019,heat,auto,El Dorado,618.4696449026346,631.3860252004582,621.6048109965636,0.0,False,False,False
 d2aeae56b5aedc55ce1e17b960ad2d3ba94ca002,dec,2019,heat,hold,El Dorado,624.874739039666,629.5198329853862,629.5782881002087,0.0,False,False,False
 d2e75a2c90de867dbde7c6eb3d74b9d3ce5ef160,dec,2019,heat,auto,Pocahontas,685.8762376237623,670.5544554455446,670.5544554455446,0.0,False,False,False
 d2e75a2c90de867dbde7c6eb3d74b9d3ce5ef160,dec,2019,heat,hold,Pocahontas,681.3461538461538,678.5565610859728,678.5565610859728,0.0,False,False,False

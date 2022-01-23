@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 002aab87db1d9e8ce470f80f23c97c59de5f4dcd,aug,2017,cool,auto,San Marcos,752.9761904761905,752.5357142857143,680.0,15.0,False,False,False
 002aab87db1d9e8ce470f80f23c97c59de5f4dcd,aug,2017,cool,hold,San Marcos,763.4,770.0,750.0,15.0,False,False,False
 0050d013d4928f706c90379b28f9ab257178f1a8,aug,2017,cool,auto,Dublin,768.066225165563,818.3576158940398,626.3708609271523,5.0,False,False,False

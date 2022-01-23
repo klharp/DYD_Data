@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 000901820a1c537e3432a15731cf77e975629e0e,jun,2020,auto,auto,Tampa,789.5866666666667,780.0,640.0,17.0,False,False,False
 000901820a1c537e3432a15731cf77e975629e0e,jun,2020,auto,hold,Tampa,752.431654676259,749.4831211953514,690.7365799667958,17.0,False,False,False
 004eace3d5227d38038ecf0d6a0b77a6d8076347,jun,2020,auto,auto,Callaway,763.8854166666666,764.8229166666666,690.0,19.0,False,False,False
@@ -916,8 +916,7 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 283afa47cdfc3832d618bff57a486c8da32713b9,jun,2020,auto,hold,Delray Beach,736.1854103343466,727.9893617021277,676.5349544072948,0.0,False,False,False
 283e9dd8dd9a396aa87ab1bd48095a24d5041d7b,jun,2020,cool,auto,Naples,783.8253968253969,790.0,720.0,20.0,False,False,False
 2874599eda6b59eab1df5c2439c790848801839a,jun,2020,cool,auto,Juno Beach,762.7788461538462,755.8384615384615,755.8384615384615,40.0,False,False,False
-2874599eda6b59eab1df5c2439c790848801839a,jun,2020,cool,hold,Juno Beach,774.0491228070175,769.1724310776942,769.0721804511278,40.0,False,False,False
-2874599eda6b59eab1df5c2439c790848801839a,jun,2020,heat,hold,Juno Beach,810.75,822.0,850.0,40.0,False,False,False
+2874599eda6b59eab1df5c2439c790848801839a,jun,2020,cool,hold,Juno Beach,774.0180541624875,769.1459378134404,769.031594784353,40.0,False,False,False
 28811a1a00b0b51af29f72c509ff71686336957d,jun,2020,cool,auto,Tampa,708.6458333333334,710.125,710.125,0.0,True,False,True
 28811a1a00b0b51af29f72c509ff71686336957d,jun,2020,cool,hold,Tampa,722.6633966891478,722.4564684242796,722.4564684242796,0.0,True,False,True
 28891111b428da1b8a00ffbedee22c44503e44fc,jun,2020,auto,hold,Destin,703.8867924528302,704.9472807991121,649.2824639289678,45.0,False,False,False
@@ -1512,7 +1511,7 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 428fbc71bf9cd5aab29e1aa1c2c6ece55730490e,jun,2020,cool,auto,Boynton Beach,736.2078947368421,731.8105263157895,731.6973684210526,5.0,False,False,False
 428fbc71bf9cd5aab29e1aa1c2c6ece55730490e,jun,2020,cool,hold,Boynton Beach,740.0033076074973,737.534729878721,736.4586549062844,5.0,False,False,False
 4297792ce850080715f6d5a00df5072c251ceeab,jun,2020,cool,auto,Clearwater,741.0,795.1785714285714,644.5,0.0,True,False,True
-42ab975b9585aa49c06041dc316ad2fe0944a751,jun,2020,cool,auto,Hollywood,726.8014866637517,740.4158285964145,717.0498469610844,0.0,False,False,False
+42ab975b9585aa49c06041dc316ad2fe0944a751,jun,2020,cool,auto,Hollywood,726.9224364592462,740.7234881682734,717.1091148115688,0.0,False,False,False
 42ab975b9585aa49c06041dc316ad2fe0944a751,jun,2020,cool,hold,Hollywood,725.4658027357812,727.4650827933765,725.7645788336933,0.0,False,False,False
 42b0266052657130ded6bf9429e221653cfd1bf3,jun,2020,cool,auto,Tampa,724.7532467532468,708.3896103896104,710.0,0.0,False,False,False
 42b0266052657130ded6bf9429e221653cfd1bf3,jun,2020,cool,hold,Tampa,727.125,720.25,719.875,0.0,False,False,False

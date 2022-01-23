@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 004e7f286453271cd8b2b9367719102dc96392c2,aug,2020,auto,auto,Elk Point,744.2875,740.125,680.0,20.0,False,False,False
 011eb806f7782fc048072fabfb035b54f5d71e67,aug,2020,cool,auto,Sioux Falls,723.6666666666666,722.7058823529412,720.6666666666666,100.0,False,False,False
 011eb806f7782fc048072fabfb035b54f5d71e67,aug,2020,cool,hold,Sioux Falls,713.0559440559441,798.0559440559441,775.8601398601398,100.0,False,False,False
@@ -90,8 +90,8 @@ ba824fb3fced9de90a39628266d6ba8bdc24270c,aug,2020,cool,hold,Rapid City,746.60714
 c286bb38a8bbe2053013f8899f27ce0e8fe7e2fc,aug,2020,cool,auto,Watertown,715.9856459330143,710.0,710.0,16.0,False,False,False
 c286bb38a8bbe2053013f8899f27ce0e8fe7e2fc,aug,2020,cool,hold,Watertown,714.885775862069,711.0021551724138,711.0021551724138,16.0,False,False,False
 c3cc30e0e8e9481f56d2d8ccb8875ffd6e58c48d,aug,2020,cool,hold,Rapid City,689.4791666666666,709.9583333333334,709.9166666666666,55.0,False,False,False
-c569b776f9ecb947ab7a457398e9949d6f68d7f3,aug,2020,auto,auto,Elkton,687.8246338715734,690.037551633496,617.303792714983,19.0,False,False,False
-c569b776f9ecb947ab7a457398e9949d6f68d7f3,aug,2020,auto,hold,Elkton,685.4857954545455,686.9772727272727,608.1164772727273,19.0,False,False,False
+c569b776f9ecb947ab7a457398e9949d6f68d7f3,aug,2020,auto,auto,Elkton,687.0091623036649,689.4051047120419,630.1570680628272,19.0,False,False,False
+c569b776f9ecb947ab7a457398e9949d6f68d7f3,aug,2020,auto,hold,Elkton,680.25,680.5416666666666,629.7604166666666,19.0,False,False,False
 cc7492974b078d6eceba17e49929a139635baebb,aug,2020,cool,hold,Yankton,707.0994065281899,705.0,704.973293768546,45.0,False,False,False
 d37e2aadd7774c2112b3d30f1c00556868867274,aug,2020,cool,hold,Vermillion,742.3214285714286,713.452380952381,712.9880952380952,45.0,False,False,False
 e5a50f71271de0f30b2f068f1e6e3368ddfec11b,aug,2020,auto,hold,Sioux Falls,757.234375,804.6640625,674.1640625,5.0,False,False,False

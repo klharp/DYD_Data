@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 000af209b660b6da2dfc91a633650ccb97df073e,dec,2019,heat,hold,Pinckney,617.3796477495108,650.0,620.0,80.0,False,False,False
 001d65da87242dc0b8bb7013ec8efe01c813e750,dec,2019,heat,auto,Lake Orion,686.1341772151899,696.1050632911392,687.5012658227848,57.0,False,False,False
 001d65da87242dc0b8bb7013ec8efe01c813e750,dec,2019,heat,hold,Lake Orion,688.9523227383863,692.2200488997555,692.2078239608802,57.0,False,False,False

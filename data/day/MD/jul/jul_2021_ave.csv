@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 00169fef3ce1e3a7aaaa39f9f28d8db467527197,jul,2021,auto,hold,Columbia,737.8333333333334,730.0,677.0,40.0,True,False,True
 003a3b5c65e4767907f528a81c3bc75c08aefb02,jul,2021,cool,hold,Belcamp,699.8511210762332,697.8493273542601,697.8493273542601,10.0,False,False,False
 004d65377c96d3ad22f52b1f4cec9f5cd105ed0a,jul,2021,cool,hold,Silver Spring,751.8250366032211,749.4597364568082,749.398243045388,10.0,False,False,False
@@ -32,7 +32,7 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 03d8465ba33d073e2f8c9d796447cedd23e179c0,jul,2021,cool,hold,Westminster,726.1095890410959,712.6986301369863,712.6986301369863,35.0,False,False,True
 03dfa28cb1174a89fe02d0cf548eb0009e62eab3,jul,2021,cool,hold,Rosedale,744.7277777777778,742.2626984126985,742.2670634920635,0.0,False,False,False
 0402dd7dae63d6d7e15484df27c817e242dfb995,jul,2021,cool,hold,Lutherville Timonium,701.0138888888889,710.0,710.0,30.0,False,False,False
-042fb51cf8dd1c4676dab675bc026ae0520d8f34,jul,2021,cool,hold,Greenbelt,672.3694474539545,668.2751895991332,702.0,0.0,False,False,False
+042fb51cf8dd1c4676dab675bc026ae0520d8f34,jul,2021,cool,hold,Greenbelt,673.5481651376147,672.8532110091743,702.0,0.0,False,False,False
 044ac8c536172a04bc799072d6553355531eba08,jul,2021,cool,hold,columbia,723.53125,742.1875,742.1875,0.0,False,False,False
 048869c4e06df3867c0395edf15b914abef195ce,jul,2021,cool,hold,Baltimore,709.7531731640979,708.7005893019038,708.7005893019038,10.0,False,False,False
 049b20be9b51ed2e8635178c7d2420c0f7c3fa75,jul,2021,cool,hold,Ellicott City,794.5,830.0,790.0,10.0,False,False,False

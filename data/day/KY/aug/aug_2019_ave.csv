@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 003e168f638289edc59e7df30f5a63ff7bae7a2e,aug,2019,auto,auto,Science Hill,722.2105263157895,720.0526315789474,655.7052631578947,5.0,True,False,True
 003e168f638289edc59e7df30f5a63ff7bae7a2e,aug,2019,auto,hold,Science Hill,728.0833333333334,721.625,669.125,5.0,True,False,True
 008cfa92481086d7def321eeabb85c0d3eb846de,aug,2019,cool,auto,Campbellsville,685.2352941176471,683.4117647058823,682.4117647058823,5.0,True,False,True
@@ -384,7 +384,7 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 82b87f1d4342e3ce22aa7095982256896803e9d2,aug,2019,cool,auto,Irvington,731.3127853881278,730.0881278538812,669.8643835616439,60.0,False,False,False
 82cce3a832338de3593f116e36fa9bdd9d830d7d,aug,2019,cool,hold,Louisville,731.0434782608696,769.5652173913044,765.8695652173913,90.0,False,False,True
 8459ac149f7346b528f899df2a08a7505ec9da0c,aug,2019,auto,auto,Lexington,685.5777777777778,710.0,660.5333333333333,0.0,False,False,False
-8459ac149f7346b528f899df2a08a7505ec9da0c,aug,2019,cool,auto,Lexington,682.6072744014733,666.9074585635359,675.1855432780848,0.0,False,False,False
+8459ac149f7346b528f899df2a08a7505ec9da0c,aug,2019,cool,auto,Lexington,685.0199460916442,678.3412398921832,675.3816711590297,0.0,False,False,False
 8459ac149f7346b528f899df2a08a7505ec9da0c,aug,2019,cool,hold,Lexington,678.6739130434783,719.0217391304348,720.0,0.0,False,False,False
 8459ac149f7346b528f899df2a08a7505ec9da0c,aug,2019,heat,auto,Lexington,695.3174603174604,683.6349206349206,693.8095238095239,0.0,False,False,False
 84be2553043f8e72889fe14e08ba8080985aba81,aug,2019,cool,auto,St. Matthews,715.961038961039,712.577922077922,712.577922077922,20.0,False,False,False

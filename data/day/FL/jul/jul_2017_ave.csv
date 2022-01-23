@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 00020f16d85e6d8c70fc67725f03ab06b116fead,jul,2017,auto,auto,Jacksonville,784.9118541033434,777.1907294832827,677.59726443769,5.0,False,False,True
 0024f0f900a4ff6923e95a2a20ee94c699ecf167,jul,2017,cool,auto,Miami,814.7745947983415,815.139464756879,782.276667923106,0.0,False,False,False
 0024f0f900a4ff6923e95a2a20ee94c699ecf167,jul,2017,cool,hold,Miami,796.202380952381,796.1944444444445,788.2539682539683,0.0,False,False,False
@@ -248,7 +248,7 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 166a170415f4f071ff58b224b39941cbb7cb0beb,jul,2017,auto,hold,Delray Beach,764.6198347107438,757.6262626262626,677.0422405876951,0.0,False,False,False
 168372f15c2794b2a9a60809949a6b583ffca3a1,jul,2017,cool,auto,Casselberry,781.5351882160393,780.0180032733224,690.0900163666121,0.0,False,False,True
 168372f15c2794b2a9a60809949a6b583ffca3a1,jul,2017,cool,hold,Casselberry,780.2832861189802,778.9057061918252,774.7600161877782,0.0,False,False,True
-1698c957c5fd68d8d46c637970fb76efbbf27984,jul,2017,cool,auto,Boynton Beach,736.9184290030212,738.5538771399798,654.067472306143,10.0,False,False,False
+1698c957c5fd68d8d46c637970fb76efbbf27984,jul,2017,cool,auto,Boynton Beach,737.0151745068285,739.1846231664138,653.8128477491148,10.0,False,False,False
 1698c957c5fd68d8d46c637970fb76efbbf27984,jul,2017,cool,hold,Boynton Beach,672.0998677248677,669.6097883597884,669.3247354497355,10.0,False,False,False
 169ca19d705d8c420f96079688f7242c245b571e,jul,2017,cool,auto,Lake Mary,743.2,748.2156862745098,729.5882352941177,5.0,False,False,True
 169ca19d705d8c420f96079688f7242c245b571e,jul,2017,cool,hold,Lake Mary,746.0633363068689,746.2765388046387,746.2167707404103,5.0,False,False,True

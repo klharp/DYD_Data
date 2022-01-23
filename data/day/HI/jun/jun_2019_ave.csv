@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 89cd44ef0cbcfb409aa19adbaaf37e92412bbbee,jun,2019,cool,hold,Honolulu,776.481450252951,775.2908937605396,775.2908937605396,10.0,False,False,True
 8cae7a3896eb4a1fa353dc08272e798ae90ae6d5,jun,2019,cool,hold,Honolulu,785.7511312217194,763.4751131221719,763.4298642533937,0.0,False,False,False
 d38b4c05deefc3fee27d40ae32f583e408d5f318,jun,2019,cool,auto,Honolulu,733.3792250618302,728.5144270403957,725.7873042044517,5.0,False,False,True

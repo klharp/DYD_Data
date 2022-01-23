@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 023f28aa735af23620c0b41b3af8a99be22cdd3c,jul,2020,cool,auto,Frenchtown,699.6727272727272,720.5454545454545,720.0,15.0,False,False,False
 023f28aa735af23620c0b41b3af8a99be22cdd3c,jul,2020,cool,hold,Frenchtown,724.9565217391304,720.0,720.0,15.0,False,False,False
 047670db85b0aa2dc5c8703f118e89ae19ad552a,jul,2020,auto,auto,Helena,707.9583333333334,713.375,649.625,0.0,False,False,False

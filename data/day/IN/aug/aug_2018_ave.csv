@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 001ee7bc7dadf001cb59b2aad6f5ff2bc3b15d43,aug,2018,cool,auto,South Bend,746.3149606299213,800.9685039370079,652.1496062992126,50.0,False,False,False
 001ee7bc7dadf001cb59b2aad6f5ff2bc3b15d43,aug,2018,cool,hold,South Bend,723.0540540540541,719.7837837837837,719.7837837837837,50.0,False,False,False
 004a8ed2edb250a5a1c876d076227bbb8a2a2135,aug,2018,auto,auto,Fort Wayne,744.3333333333334,715.1428571428571,665.1428571428571,30.0,False,False,False
@@ -639,7 +639,7 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 7dc2accd08843b274c8a2bcc2e7cecb5e13b9c38,aug,2018,heat,hold,Frankfort,749.6119402985074,780.3731343283582,712.9850746268656,98.0,False,False,False
 7dde514d09c312462ba4297181752939846d4a86,aug,2018,auto,hold,Syracuse,702.0,689.0,639.0,0.0,False,False,False
 7dde514d09c312462ba4297181752939846d4a86,aug,2018,cool,auto,Syracuse,795.32,653.0,743.0,0.0,False,False,False
-7dde514d09c312462ba4297181752939846d4a86,aug,2018,cool,hold,Syracuse,769.560706401766,664.2295805739515,683.083885209713,0.0,False,False,False
+7dde514d09c312462ba4297181752939846d4a86,aug,2018,cool,hold,Syracuse,774.1005434782609,695.133152173913,692.9972826086956,0.0,False,False,False
 7dde514d09c312462ba4297181752939846d4a86,aug,2018,heat,hold,Syracuse,727.2857142857143,650.0,650.0,0.0,False,False,False
 7e31b64d8f0df32dde070d6076883b062922185e,aug,2018,cool,auto,Fishers,727.8440420560747,731.4071261682243,731.4071261682243,27.0,False,False,True
 7e31b64d8f0df32dde070d6076883b062922185e,aug,2018,cool,hold,Fishers,700.2962962962963,700.7407407407408,700.7407407407408,27.0,False,False,True

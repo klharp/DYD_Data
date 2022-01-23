@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 051bb1ef790fd215de91e0304b4f8e06038c2f7d,feb,2017,heat,auto,middleton,665.6595238095238,700.0,671.6857142857143,10.0,True,False,False
 060e94e6800d4d62e15d65a113d8f8cb6e0a9983,feb,2017,heat,auto,Moscow,632.5,666.1666666666666,630.0,85.0,False,False,False
 060e94e6800d4d62e15d65a113d8f8cb6e0a9983,feb,2017,heat,hold,Moscow,644.0,655.3888888888889,649.1666666666666,85.0,False,False,False

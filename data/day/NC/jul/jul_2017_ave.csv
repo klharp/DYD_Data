@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 0010db271149fae01fa527e2c2105074d5771e5f,jul,2017,cool,auto,Raleigh,799.6507462686567,794.3283582089553,640.0,37.0,True,False,True
 004dfca396d696b8a7ce7dd71862b78384f55976,jul,2017,cool,hold,Charlotte,767.2618483412323,765.2831753554502,764.2310426540284,85.0,True,False,True
 00bbbdb5c3b6cb8b9e78191017ecdb97dad87e47,jul,2017,auto,auto,Jacksonville,753.1356643356644,760.220979020979,681.4797202797203,5.0,False,False,True
@@ -438,8 +438,8 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 446f1771b538690d9f1d5a2b6228deb8d24ad94e,jul,2017,cool,hold,Matthews,761.4177941779418,764.6990569905699,764.6916769167692,0.0,False,False,False
 448e8f94363f77a27105340db7ec707b99c7bb8c,jul,2017,cool,auto,Raleigh,742.624203821656,740.7791932059448,712.4309978768578,5.0,False,False,False
 448e8f94363f77a27105340db7ec707b99c7bb8c,jul,2017,cool,hold,Raleigh,741.9074074074074,740.0,740.0,5.0,False,False,False
-449716d6435b42d196db5556c0b5671378d9b13f,jul,2017,cool,auto,Jacksonville,729.3,718.8117647058823,749.2411764705882,20.0,False,False,True
-449716d6435b42d196db5556c0b5671378d9b13f,jul,2017,cool,hold,Jacksonville,725.0315955766192,720.4249605055293,720.6240126382306,20.0,False,False,True
+449716d6435b42d196db5556c0b5671378d9b13f,jul,2017,cool,auto,Jacksonville,728.418439716312,720.3191489361702,724.4042553191489,20.0,False,False,True
+449716d6435b42d196db5556c0b5671378d9b13f,jul,2017,cool,hold,Jacksonville,725.0221518987341,720.3924050632911,720.3924050632911,20.0,False,False,True
 449716d6435b42d196db5556c0b5671378d9b13f,jul,2017,heat,auto,Jacksonville,728.0,731.0,735.0,20.0,False,False,True
 449716d6435b42d196db5556c0b5671378d9b13f,jul,2017,heat,hold,Jacksonville,721.0,720.0,720.0,20.0,False,False,True
 452a31b4a2e661b2b9ba9f840f50adec0ab0a3af,jul,2017,cool,auto,Raeford,754.7724867724868,753.2821869488536,762.0793650793651,0.0,False,False,True

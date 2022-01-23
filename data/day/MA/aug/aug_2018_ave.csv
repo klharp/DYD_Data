@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 00a9cbb5e2ee388e61d7fa92fc762c725d4a8c76,aug,2018,auto,hold,Newton,772.4,769.2333333333333,680.0,10.0,False,False,False
 019c5eecdb47ecf46a4c4a1fe9d8a50618e652f2,aug,2018,cool,hold,Needham,734.3157894736842,720.0,720.0,20.0,False,False,False
 01a2ab82ff9b731e47a504b41b5802dbbbfaf4fa,aug,2018,auto,auto,Winchester,742.0526315789474,740.3947368421053,680.0,90.0,False,False,False

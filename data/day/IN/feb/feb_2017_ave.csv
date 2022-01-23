@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 01d2dea193d6f494d3d2a2a80c1b8bb11c100b94,feb,2017,heat,auto,Portage,710.5897435897435,783.3846153846154,649.9230769230769,70.0,False,False,False
 01d2dea193d6f494d3d2a2a80c1b8bb11c100b94,feb,2017,heat,hold,Portage,699.5,723.5,717.5,70.0,False,False,False
 0205a8de82aad26001281be438d7a4abf8503db4,feb,2017,heat,hold,Valparaiso,652.4871794871794,650.0,620.0,15.0,False,False,False

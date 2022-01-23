@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 011eb806f7782fc048072fabfb035b54f5d71e67,Jan,2017,auto,hold,Sioux Falls,678.2780269058296,738.2286995515695,680.2242152466367,100.0,False,False,False
 045e533587d8a51c00e08e459243ce7ec3cbaaf9,Jan,2017,auto,hold,Rapid City,670.2068965517242,780.0,679.6551724137931,70.0,True,False,False
 045e533587d8a51c00e08e459243ce7ec3cbaaf9,Jan,2017,heat,auto,Rapid City,696.3484848484849,780.0,699.0,70.0,True,False,False
@@ -19,7 +19,7 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 4db7c87b3904707da4b878c80e3551b4b2278385,Jan,2017,heat,auto,Brookings,657.4906303236797,750.0,660.0,60.0,False,False,False
 51e6bafa5298e3366ba871e35aed1d974abe184e,Jan,2017,heat,hold,Sioux Falls,695.4606060606061,678.8242424242425,677.9090909090909,19.0,True,False,False
 659aaa917beb2054d8a407f0b0e716aff9acb4d4,Jan,2017,auto,auto,Sioux Falls,712.2272727272727,790.0,720.0,60.0,False,False,False
-659aaa917beb2054d8a407f0b0e716aff9acb4d4,Jan,2017,auto,hold,Sioux Falls,678.8055555555555,781.6111111111111,674.3611111111111,60.0,False,False,False
+659aaa917beb2054d8a407f0b0e716aff9acb4d4,Jan,2017,auto,hold,Sioux Falls,678.6571428571428,780.5714285714286,677.7142857142857,60.0,False,False,False
 66fafd5b7131163da637a7660ba442db0a070d92,Jan,2017,heat,auto,Sioux Falls,692.5,720.0,720.0,6.0,False,False,False
 66fafd5b7131163da637a7660ba442db0a070d92,Jan,2017,heat,hold,Sioux Falls,688.625,690.875,690.5625,6.0,False,False,False
 7a59d7c797f30415b2b2557d368086f59a8bfbf6,Jan,2017,heat,auto,Baltic,654.5564304461942,693.1364829396325,656.5616797900262,5.0,False,False,False

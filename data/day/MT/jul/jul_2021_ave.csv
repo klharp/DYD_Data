@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 0bc51b95b2dc23713f611e182c689ad03dc2c300,jul,2021,cool,hold,Great Falls,717.9274691358024,723.3333333333334,723.3333333333334,10.0,False,False,False
 1ddea499a0c0b3ce5fb3dea339db485998b50485,jul,2021,cool,hold,billings,720.1428571428571,727.0,715.5714285714286,25.0,False,False,False
 2f91f344abd5823f11abdfa57e08bb514aa09564,jul,2021,cool,hold,Billings,733.7415730337078,731.9325842696629,719.5505617977528,50.0,True,False,False

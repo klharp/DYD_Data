@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 0010e47e4b45d741375cce16b3f2834662857046,aug,2019,cool,auto,Dunwoody,707.3984547461368,709.9724061810155,709.9724061810155,59.0,True,False,False
 0010e47e4b45d741375cce16b3f2834662857046,aug,2019,cool,hold,Dunwoody,716.0794995964487,715.5492332526231,715.5403551251009,59.0,True,False,False
 002928222f5a2b5cfeba53f3aca5d5f24f6c4fe8,aug,2019,cool,auto,Columbus,775.6128404669261,783.0836575875486,761.7996108949417,40.0,False,False,False
@@ -77,7 +77,7 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 053b1255fbdb746d304190c60dd87f8c313b8f65,aug,2019,cool,hold,Evans,732.5839416058394,731.1751824817518,730.8686131386861,0.0,True,False,True
 053e0bd85f24e0c8a9b430932837165f614d95fe,aug,2019,cool,auto,Grovetown,740.5397727272727,760.0,650.0,0.0,True,False,True
 053e0bd85f24e0c8a9b430932837165f614d95fe,aug,2019,cool,hold,Grovetown,703.6785714285714,702.3571428571429,701.75,0.0,True,False,True
-054b9414b2d58eac3855edc11e383ef321757e2f,aug,2019,cool,auto,Decatur,743.1763085399449,709.9862258953168,712.6611570247934,10.0,True,False,False
+054b9414b2d58eac3855edc11e383ef321757e2f,aug,2019,cool,auto,Decatur,742.9168975069252,710.6371191135734,712.786703601108,10.0,True,False,False
 0565a85736edeb71c81d0b6b5c1ae3b72d82e2d7,aug,2019,auto,auto,Lawrenceville,771.7960784313725,769.721568627451,690.0,20.0,False,False,False
 0565a85736edeb71c81d0b6b5c1ae3b72d82e2d7,aug,2019,auto,hold,Lawrenceville,758.3424483306836,754.9828298887122,689.9783783783784,20.0,False,False,False
 05a27051c02758c6f0a71ac95257ae9d92f0abcb,aug,2019,cool,auto,Lilburn,725.213768115942,720.2300724637681,720.2246376811594,0.0,False,False,False

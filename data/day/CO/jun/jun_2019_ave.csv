@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 004666c8518763d5ff5a1b6f9be919899724167e,jun,2019,auto,hold,Denver,736.2704081632653,767.7397959183673,643.5714285714286,10.0,False,False,False
 00b9d14bcf27ff6d6e0c30c6f60651c6c8c9ae8b,jun,2019,auto,auto,Aurora,690.9738675958188,700.0644599303135,669.9006968641115,17.0,False,False,False
 00b9d14bcf27ff6d6e0c30c6f60651c6c8c9ae8b,jun,2019,auto,hold,Aurora,689.7969696969697,700.0,635.3636363636364,17.0,False,False,False
@@ -2212,7 +2212,6 @@ d8600686cba5ad1a6bb3e791edf0582590cd6d33,jun,2019,cool,auto,Littleton,700.573604
 d8600686cba5ad1a6bb3e791edf0582590cd6d33,jun,2019,cool,hold,Littleton,693.6,718.1625,718.1625,28.0,True,False,False
 d889e0f608737ffe14e7e892ddebcc3aa593a0a0,jun,2019,cool,hold,Broomfield,763.016393442623,760.0,760.0,5.0,False,False,False
 d88ace19a51608add7cf19c8b14ca9c1451433e3,jun,2019,auto,hold,Parker,697.4,730.3,709.2,20.0,False,False,False
-d8e642a3eed8ae10d5d9530fd5bf749b8d3647d4,jun,2019,cool,hold,Boulder,691.6583333333333,600.0,710.0,0.0,True,False,False
 d965c7b577477bd13e3def81e3eb48325a16ac65,jun,2019,cool,hold,Denver,746.4193548387096,731.5612903225806,731.1225806451613,60.0,True,False,False
 d9ac71c6de45bf861d4d5fc391aad78642bdad7a,jun,2019,auto,hold,Englewood,741.9591836734694,727.5510204081633,677.5510204081633,59.0,False,False,False
 da057e7a0e8d18517d78a94fd5425aaf58cf419b,jun,2019,cool,auto,Golden,677.2789115646259,707.7551020408164,707.7551020408164,9.0,True,False,False

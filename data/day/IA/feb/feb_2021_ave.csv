@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 02d6f92c8b43e6f08da8a2b7efe50c30bab0dcc7,feb,2021,heat,hold,maquoketa,656.0378842030021,671.2390993566834,661.651179413867,70.0,False,False,False
 0405c9553318d29e4d72ccb69a3f095a3f3ce0a6,feb,2021,auto,hold,Ames,665.8108108108108,736.3783783783783,679.8594594594595,60.0,False,False,False
 04748c1d6262989d882b588289f9ea9f2ea31f34,feb,2021,heat,hold,Council Bluffs,647.3648648648649,650.0,650.0,60.0,False,False,False

@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 001d65da87242dc0b8bb7013ec8efe01c813e750,dec,2017,heat,auto,Lake Orion,670.4807692307693,694.0865384615385,673.9903846153846,57.0,False,False,False
 001d65da87242dc0b8bb7013ec8efe01c813e750,dec,2017,heat,hold,Lake Orion,682.4444444444445,684.7777777777778,684.0,57.0,False,False,False
 005ed661c2e61c794259a9ea59fa635198f73779,dec,2017,heat,hold,Gerrish Township,671.7338769458859,676.3606375092661,675.7550037064492,0.0,False,False,False

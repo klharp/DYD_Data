@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 007b9ae939161adcf55e644a3a31bed6f9545465,dec,2018,heat,auto,Washington,697.6666666666666,743.3333333333334,728.3333333333334,98.0,False,False,False
 007b9ae939161adcf55e644a3a31bed6f9545465,dec,2018,heat,hold,Washington,741.3333333333334,756.1111111111111,737.7777777777778,98.0,False,False,False
 08049f898acb8591a4cad8c0900db78ad73b307f,dec,2018,heat,auto,Washington,704.5283018867924,698.0566037735849,697.7169811320755,90.0,False,False,False

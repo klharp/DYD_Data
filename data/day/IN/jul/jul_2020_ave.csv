@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 001ee7bc7dadf001cb59b2aad6f5ff2bc3b15d43,jul,2020,cool,auto,South Bend,708.6455696202531,691.0759493670886,691.0759493670886,50.0,False,False,False
 001ee7bc7dadf001cb59b2aad6f5ff2bc3b15d43,jul,2020,cool,hold,South Bend,700.7524752475248,693.2227722772277,693.2227722772277,50.0,False,False,False
 004a8ed2edb250a5a1c876d076227bbb8a2a2135,jul,2020,auto,auto,Fort Wayne,773.7666666666667,755.7666666666667,700.0,30.0,False,False,False
@@ -566,7 +566,7 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 547038d402206f844130b0c472e099bf295ffd65,jul,2020,cool,auto,Saint John,745.2120141342756,743.7502944640754,743.7114252061249,9.0,True,False,False
 547038d402206f844130b0c472e099bf295ffd65,jul,2020,cool,hold,Saint John,748.1012378426171,745.7152961980548,745.6441202475685,9.0,True,False,False
 547130d2332efa47c7efec9291b9c1d1c2e00a7a,jul,2020,auto,hold,Indianapolis,672.3,682.3,653.6,0.0,False,False,False
-547130d2332efa47c7efec9291b9c1d1c2e00a7a,jul,2020,cool,auto,Indianapolis,660.2295081967213,668.2932604735884,673.6648451730418,0.0,False,False,False
+547130d2332efa47c7efec9291b9c1d1c2e00a7a,jul,2020,cool,auto,Indianapolis,661.3519553072625,669.8193668528864,674.0074487895716,0.0,False,False,False
 547130d2332efa47c7efec9291b9c1d1c2e00a7a,jul,2020,cool,hold,Indianapolis,651.4046121593292,666.9895178197065,666.9958071278826,0.0,False,False,False
 5476ca548f7b63a3d2bb4e39a91690195452cce0,jul,2020,cool,auto,Marion,723.4485981308411,721.9766355140187,720.7196261682243,69.0,False,False,False
 5476ca548f7b63a3d2bb4e39a91690195452cce0,jul,2020,cool,hold,Marion,691.8,690.4,686.8,69.0,False,False,False

@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 007b9ae939161adcf55e644a3a31bed6f9545465,jun,2021,cool,hold,Washington,734.8867924528302,733.1698113207547,732.2452830188679,98.0,False,False,False
 07b8de8f315e75d60c24feeeaf25d177af3a3376,jun,2021,cool,hold,Adams Morgan,658.9242424242424,653.6363636363636,653.6363636363636,0.0,False,False,True
 08049f898acb8591a4cad8c0900db78ad73b307f,jun,2021,auto,hold,Washington,706.9031078610603,708.6288848263254,614.0310786106033,90.0,False,False,False

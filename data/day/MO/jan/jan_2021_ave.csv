@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 002c012fc1267f2ff9bbe2a30db5e0c8ac85ac9f,Jan,2021,heat,hold,Ballwin,694.6927083333334,696.6822916666666,696.6666666666666,49.0,True,False,False
 005b44ffe2812f645179dccec3443da1ec58a68d,Jan,2021,auto,hold,Kirkwood,701.2893081761006,780.0,704.8616352201258,0.0,False,False,False
 01077fe00e6bddb7480aa62c3efecbfc1b5de9c4,Jan,2021,auxHeatOnly,hold,Lee's Summit,707.5359170575167,704.1723031350284,704.1723031350284,17.0,False,False,True
@@ -745,7 +745,7 @@ e28d01888096950d07b3a5f3a59081ab6bd87871,Jan,2021,heat,hold,St Charles,679.71830
 e29a266bc975b8c71def0292274a014c1352ee40,Jan,2021,heat,hold,Lee's Summit,675.0451612903225,670.9397849462366,670.8344086021506,17.0,False,False,False
 e29dce03bdb8804453310bf2359498df5b59926a,Jan,2021,auto,hold,Springfield,725.0480928689884,764.5373134328358,726.7081260364843,19.0,False,False,False
 e2c76d61f2f9f46da9ce0c170f9cd7a8242598fd,Jan,2021,auto,hold,St. Louis,708.2072829131653,750.0,708.4873949579832,0.0,True,False,False
-e2d30466e6043056dbb9aa0912466ebda6935f78,Jan,2021,heat,hold,St. Louis,632.36673553719,635.5103305785124,635.6095041322315,0.0,False,False,False
+e2d30466e6043056dbb9aa0912466ebda6935f78,Jan,2021,heat,hold,St. Louis,632.4751037344398,635.6576763485477,635.6753112033196,0.0,False,False,False
 e2ee59bd269d43d548b98166dfe94c6267625b8a,Jan,2021,heat,hold,Saint Joseph,680.609561752988,686.8094289508632,686.8691899070385,87.0,False,False,False
 e3084f83fb5888a62bf4d4f6235d0b6ac9119f75,Jan,2021,heat,hold,Ballwin,693.8421052631579,690.0,678.0,49.0,True,False,False
 e34755133ff4debad49399ebc1fb0bb5a3a56019,Jan,2021,auto,hold,St Louis,738.3934494195688,791.3432835820895,739.9253731343283,60.0,False,False,False

@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 01231fd2a32ab52081235d74998b0c2e4e9e9666,Jan,2019,heat,auto,Rogers,684.25,681.5,679.0,20.0,True,False,False
 01231fd2a32ab52081235d74998b0c2e4e9e9666,Jan,2019,heat,hold,Rogers,679.6666666666666,656.0,631.3333333333334,20.0,True,False,False
 055e47c3f24cb6590f0233f081e0ffafab333544,Jan,2019,heat,auto,Sherwood,688.6666666666666,733.843137254902,680.0392156862745,5.0,True,False,True

@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 000901820a1c537e3432a15731cf77e975629e0e,feb,2019,auto,auto,Tampa,738.436507936508,740.0,690.0,17.0,False,False,False
 000901820a1c537e3432a15731cf77e975629e0e,feb,2019,auto,hold,Tampa,737.4281045751634,749.8093681917211,699.8093681917211,17.0,False,False,False
 0024f0f900a4ff6923e95a2a20ee94c699ecf167,feb,2019,cool,hold,Miami,764.1428571428571,774.7142857142857,759.7142857142857,0.0,False,False,False
@@ -884,7 +884,7 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 2242566f06fdf343e97236bfa585d49479cadf34,feb,2019,heat,auto,Windermere,726.075,770.0,690.0,0.0,False,False,True
 2247fac057c22f3f3a00c3682ef65b5e9bc49eea,feb,2019,cool,auto,Vero Beach,697.0588235294117,690.0,640.0,10.0,False,False,True
 2247fac057c22f3f3a00c3682ef65b5e9bc49eea,feb,2019,cool,hold,Vero Beach,731.6666666666666,720.0,660.0,10.0,False,False,True
-2249beb9ca22be274c03bdac7b64786314fcc81e,feb,2019,cool,auto,Ft walton,750.3793103448276,719.551724137931,723.8965517241379,35.0,False,False,True
+2249beb9ca22be274c03bdac7b64786314fcc81e,feb,2019,cool,auto,Ft walton,749.8571428571429,724.6785714285714,726.0,35.0,False,False,True
 2249beb9ca22be274c03bdac7b64786314fcc81e,feb,2019,cool,hold,Ft walton,699.7796610169491,719.0,719.0,35.0,False,False,True
 2249beb9ca22be274c03bdac7b64786314fcc81e,feb,2019,heat,auto,Ft walton,740.234878240377,706.1453260015711,706.1453260015711,35.0,False,False,True
 2249beb9ca22be274c03bdac7b64786314fcc81e,feb,2019,heat,hold,Ft walton,742.7923322683706,711.2907348242811,711.2907348242811,35.0,False,False,True
@@ -1973,7 +1973,7 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 52671b4117c8479676720ccc252bbccbf9434657,feb,2019,cool,auto,Winter Garden,764.0178571428571,790.0,790.0,5.0,False,False,True
 52671b4117c8479676720ccc252bbccbf9434657,feb,2019,cool,hold,Winter Garden,770.9546027742749,778.4880201765448,777.4287515762926,5.0,False,False,True
 52671b4117c8479676720ccc252bbccbf9434657,feb,2019,heat,hold,Winter Garden,727.5217391304348,730.0,730.0,5.0,False,False,True
-5286d5d4e66be548efdccdb763c49ef8fdbd21dc,feb,2019,cool,auto,Pembroke Pines,750.4191049913942,764.2220309810672,760.130808950086,40.0,False,False,False
+5286d5d4e66be548efdccdb763c49ef8fdbd21dc,feb,2019,cool,auto,Pembroke Pines,750.5625,765.9947916666666,759.7847222222222,40.0,False,False,False
 5286d5d4e66be548efdccdb763c49ef8fdbd21dc,feb,2019,cool,hold,Pembroke Pines,746.6839258114373,753.4799072642968,753.4420401854715,40.0,False,False,False
 52e408b116521a05d32463d62fa0e8b5dae019c2,feb,2019,auto,auto,Lake Worth,753.3333333333334,736.0,680.0,0.0,False,False,False
 52e408b116521a05d32463d62fa0e8b5dae019c2,feb,2019,auto,hold,Lake Worth,752.738775510204,751.2326530612245,680.0,0.0,False,False,False
@@ -3586,7 +3586,6 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 933da02eb525b725343ff8ca303c0c74d7a21b9b,feb,2019,cool,auto,Hypoluxo,693.125,690.875,680.0,30.0,False,False,False
 933da02eb525b725343ff8ca303c0c74d7a21b9b,feb,2019,cool,hold,Hypoluxo,705.3052631578947,701.6947368421053,680.0,30.0,False,False,False
 934ae136538dfa58e8f7912a2267a07aca85bc17,feb,2019,cool,hold,Merritt Island,706.2311827956989,705.8064516129032,705.8064516129032,7.0,False,False,False
-934cfeda0ca52e06de77a9d60af389756691df61,feb,2019,cool,auto,Pompano Beach,747.6294536817102,745.9976247030879,920.0,47.0,False,False,True
 935128af91c743fc54663736791652da26b42f66,feb,2019,auto,hold,Crawfordville,725.1754385964912,760.0,710.0,8.0,True,False,True
 935128af91c743fc54663736791652da26b42f66,feb,2019,cool,hold,Crawfordville,719.2037037037037,720.0,720.0,8.0,True,False,True
 936a1b911bf359fd4e0e10be55c59d4a95b72b5a,feb,2019,auto,auto,Port St John,731.0604997807978,787.8772468215695,660.4625164401579,35.0,False,False,False

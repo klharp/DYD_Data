@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 0056cebd6cd72164f185e551f894f028d3d2e319,dec,2018,heat,hold,Clarkson Valley,706.5252918287938,711.1556420233463,710.4085603112841,45.0,True,False,True
 005b44ffe2812f645179dccec3443da1ec58a68d,dec,2018,auto,hold,Kirkwood,695.5881578947368,757.8219298245614,697.6899122807017,0.0,False,False,False
 008c4f598020b4161f9e0ee6c31c8f02b87b8a9c,dec,2018,heat,hold,Springfield,656.4117647058823,660.3529411764706,660.0,25.0,False,False,False
@@ -1157,8 +1157,6 @@ cb9e5c3b3bf8332fcc8b4a0265aac2dffdd1e2eb,dec,2018,heat,hold,Webster Groves,705.7
 cbaba46d7065fc2ed9b901c5a417166f0eeade75,dec,2018,heat,hold,Chesterfield,707.2408660351826,707.2327469553451,707.2327469553451,35.0,False,False,False
 cbcab5e3c42688245a590a0d62b7c5a828d5aed4,dec,2018,auto,auto,Richmond Heights,672.1764705882352,727.3235294117648,672.4705882352941,115.0,False,False,False
 cbcab5e3c42688245a590a0d62b7c5a828d5aed4,dec,2018,auto,hold,Richmond Heights,677.8671328671329,733.1188811188811,679.0979020979021,115.0,False,False,False
-cbd2831b92ba4952155a03fce184aa1664ed92a3,dec,2018,heat,auto,Rocky Mount,664.5416666666666,600.0,700.0,35.0,True,False,True
-cbd2831b92ba4952155a03fce184aa1664ed92a3,dec,2018,heat,hold,Rocky Mount,601.0,600.0,685.0,35.0,True,False,True
 cbf8b57555acf26c1d0071d6b30de96c21777c52,dec,2018,cool,auto,Branson,675.9433962264151,677.566037735849,661.8867924528302,10.0,True,False,True
 cbf8b57555acf26c1d0071d6b30de96c21777c52,dec,2018,cool,hold,Branson,666.4426229508197,672.5027322404371,672.5027322404371,10.0,True,False,True
 cbf8b57555acf26c1d0071d6b30de96c21777c52,dec,2018,heat,hold,Branson,686.4651493598863,693.6785206258891,693.6785206258891,10.0,True,False,True

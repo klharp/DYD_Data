@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 0034438232b9c99f7034f4e329ea2203949d0e9a,dec,2017,heat,auto,Manchester,697.3106796116505,780.2815533980582,699.5776699029126,40.0,False,False,False
 005b44ffe2812f645179dccec3443da1ec58a68d,dec,2017,heat,hold,Kirkwood,688.6333333333333,691.1694444444445,691.1694444444445,0.0,False,False,False
 01077fe00e6bddb7480aa62c3efecbfc1b5de9c4,dec,2017,auto,hold,Lee's Summit,678.4222222222222,760.0,680.0111111111111,17.0,False,False,True

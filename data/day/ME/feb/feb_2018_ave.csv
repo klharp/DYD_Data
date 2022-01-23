@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 02a6a361c70d1052cbb1d7d80490d8326ae8e684,feb,2018,heat,hold,Naples,652.625,650.0,620.0,15.0,False,False,False
 06322bf1e7bd15eb760e1cc07c01525c4fd679bc,feb,2018,heat,hold,Harpswell,682.6891557753444,670.0,670.0,5.0,False,False,False
 0adbc6ab910c02e6c98c5e3b698aa65408f25408,feb,2018,heat,auto,Old Orchard,620.3317535545024,650.0,620.8483412322275,97.0,False,False,False

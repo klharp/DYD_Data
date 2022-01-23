@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 0010ea447dc3807b33daad2477d1cc02a71571fa,aug,2017,auto,auto,Chicago,730.48,739.88,671.2133333333334,5.0,False,False,False
 0010ea447dc3807b33daad2477d1cc02a71571fa,aug,2017,auto,hold,Chicago,738.2083333333335,753.3333333333335,670.0,5.0,False,False,False
 0010ea447dc3807b33daad2477d1cc02a71571fa,aug,2017,cool,auto,Chicago,736.7075471698113,747.1698113207547,740.0,5.0,False,False,False
@@ -14121,8 +14121,8 @@ fffad25219fec06f6ad101ceda18ea4e00693b2c,aug,2019,cool,hold,Wilmette,758.7586206
 167c2fbceae828879ddf25632b09eb75e62a4612,aug,2020,cool,auto,Lisle,728.4542586750789,745.813880126183,710.0,35.0,False,False,False
 16878deb8f21869c54324821e256b870e4df105c,aug,2020,cool,hold,Vandalia,724.030303030303,720.0,720.0,30.0,False,False,False
 1695ff3d6ee400ca4c834a99f2d5822a2963a34c,aug,2020,cool,auto,Aurora,710.234823215477,703.9286190793863,703.9286190793863,25.0,True,False,False
-1695ff3d6ee400ca4c834a99f2d5822a2963a34c,aug,2020,cool,hold,Aurora,709.9301948051947,706.3084415584416,707.0535714285713,25.0,True,False,False
-1695ff3d6ee400ca4c834a99f2d5822a2963a34c,aug,2020,heat,hold,Aurora,746.8333333333335,699.5,775.5,25.0,True,False,False
+1695ff3d6ee400ca4c834a99f2d5822a2963a34c,aug,2020,cool,hold,Aurora,709.7508143322475,706.328990228013,706.5228013029317,25.0,True,False,False
+1695ff3d6ee400ca4c834a99f2d5822a2963a34c,aug,2020,heat,hold,Aurora,743.5,699.25,728.25,25.0,True,False,False
 16a7f4c5e3dedc80298be6cf3288b54d9eda513c,aug,2020,cool,hold,Forsyth,739.8289384719404,738.2812711291413,738.2812711291413,49.0,False,False,False
 16c0a40f587d2835dab53768014befb12584f478,aug,2020,cool,auto,Joliet,722.9449541284404,790.2798165137615,679.0795107033639,19.0,True,False,False
 16c0a40f587d2835dab53768014befb12584f478,aug,2020,cool,hold,Joliet,729.5833333333335,730.0,730.0,19.0,True,False,False
@@ -15285,7 +15285,7 @@ fffad25219fec06f6ad101ceda18ea4e00693b2c,aug,2019,cool,hold,Wilmette,758.7586206
 46cc23cb4322a46e0c0172275f6a415476d77a8d,aug,2020,auto,hold,Chicago,723.7271477663229,725.1745704467354,618.5154639175258,0.0,False,False,False
 46cc23cb4322a46e0c0172275f6a415476d77a8d,aug,2020,cool,auto,Chicago,724.2,700.0,700.0,0.0,False,False,False
 46cc23cb4322a46e0c0172275f6a415476d77a8d,aug,2020,cool,hold,Chicago,737.0,700.0,649.0,0.0,False,False,False
-46e3367e8ba9f4d9e44304e304aae6645c2fe936,aug,2020,cool,auto,Huntley,675.0625,641.0875,680.2375,15.0,False,False,False
+46e3367e8ba9f4d9e44304e304aae6645c2fe936,aug,2020,cool,auto,Huntley,694.2978723404256,669.936170212766,680.4042553191489,15.0,False,False,False
 46e3367e8ba9f4d9e44304e304aae6645c2fe936,aug,2020,cool,hold,Huntley,685.9112426035502,677.8224852071006,677.5857988165682,15.0,False,False,False
 46ecbbafef67d2017a1257a08b226e49cec8eaaa,aug,2020,cool,auto,Palatine,745.9690301548493,755.8255908720456,755.6055419722902,25.0,False,False,False
 46ecbbafef67d2017a1257a08b226e49cec8eaaa,aug,2020,cool,hold,Palatine,741.9642857142858,747.3705357142858,747.3705357142858,25.0,False,False,False

@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 07232c051ae191506a33f7b2cf57703c45edc81a,feb,2017,auto,hold,Little Rock,679.21589958159,744.9284518828451,631.644769874477,45.0,False,False,False
 07232c051ae191506a33f7b2cf57703c45edc81a,feb,2017,cool,hold,Little Rock,722.7813333333334,734.6773333333333,713.0773333333333,45.0,False,False,False
 07232c051ae191506a33f7b2cf57703c45edc81a,feb,2017,heat,hold,Little Rock,661.7057356608478,652.8129675810474,642.8478802992519,45.0,False,False,False
@@ -228,7 +228,7 @@ cff15706dd9048974ac61ac10d9fdea0d5533b0b,feb,2017,heat,auto,Cabot,707.8930817610
 cff15706dd9048974ac61ac10d9fdea0d5533b0b,feb,2017,heat,hold,Cabot,701.5585585585585,702.2972972972973,702.2972972972973,0.0,False,False,True
 d29d4a30656fe8d8339f19c788a5a76f83fb5a16,feb,2017,heat,auto,Little Rock,710.5675675675676,700.9648648648649,700.8486486486487,0.0,False,False,False
 d29d4a30656fe8d8339f19c788a5a76f83fb5a16,feb,2017,heat,hold,Little Rock,711.4180790960452,699.6949152542373,699.8531073446328,0.0,False,False,False
-d2aeae56b5aedc55ce1e17b960ad2d3ba94ca002,feb,2017,cool,auto,El Dorado,619.9261744966443,631.248322147651,647.8926174496644,0.0,False,False,False
+d2aeae56b5aedc55ce1e17b960ad2d3ba94ca002,feb,2017,cool,auto,El Dorado,630.065868263473,655.7604790419161,635.4610778443114,0.0,False,False,False
 d2aeae56b5aedc55ce1e17b960ad2d3ba94ca002,feb,2017,cool,hold,El Dorado,626.1658476658477,633.2714987714987,633.2162162162163,0.0,False,False,False
 d2aeae56b5aedc55ce1e17b960ad2d3ba94ca002,feb,2017,heat,auto,El Dorado,638.5520833333334,650.1979166666666,650.1979166666666,0.0,False,False,False
 d2aeae56b5aedc55ce1e17b960ad2d3ba94ca002,feb,2017,heat,hold,El Dorado,631.2783505154639,645.0,645.0,0.0,False,False,False

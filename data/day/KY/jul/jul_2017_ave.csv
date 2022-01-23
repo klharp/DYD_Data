@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 00105867bef9463f0a62d5257d0e91b8c8d19dee,jul,2017,cool,hold,Southgate,715.6315789473684,700.0,700.0,75.0,False,False,False
 008cfa92481086d7def321eeabb85c0d3eb846de,jul,2017,cool,auto,Campbellsville,706.5324675324675,700.0584415584416,680.0,5.0,True,False,True
 008cfa92481086d7def321eeabb85c0d3eb846de,jul,2017,cool,hold,Campbellsville,704.1323529411765,695.5735294117648,695.5735294117648,5.0,True,False,True

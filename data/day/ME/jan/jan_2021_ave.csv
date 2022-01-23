@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 02a6a361c70d1052cbb1d7d80490d8326ae8e684,Jan,2021,heat,hold,Naples,611.1142857142858,677.2,667.8285714285714,15.0,False,False,False
 06322bf1e7bd15eb760e1cc07c01525c4fd679bc,Jan,2021,heat,hold,Harpswell,675.3537327779558,660.0,660.0,5.0,False,False,False
 0de75d1de6a14bfa2a7ac33b197d9f2b68cc41c8,Jan,2021,heat,hold,Presque Isle,664.6938775510204,667.0189504373178,667.0116618075801,10.0,False,False,False

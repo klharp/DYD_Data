@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 008f4e8d0b1ee2d5311b860fe53fcf0935d191b3,Jan,2018,heat,auto,Kenner,728.1447963800905,722.0226244343892,722.0180995475113,37.0,False,False,False
 008f4e8d0b1ee2d5311b860fe53fcf0935d191b3,Jan,2018,heat,hold,Kenner,724.0241935483871,729.8104838709677,724.2983870967741,37.0,False,False,False
 01231b3659604ae515f75ef6288754f18e167b01,Jan,2018,auto,hold,Covington,722.0394265232975,775.4516129032259,713.8136200716846,50.0,False,False,False
@@ -28,7 +28,7 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 0944c9516da71ac872f831016536520a7175e61b,Jan,2018,heat,auto,Ventress,683.8706176961603,689.4782971619366,689.4782971619366,40.0,False,False,False
 0944c9516da71ac872f831016536520a7175e61b,Jan,2018,heat,hold,Ventress,680.7562695924765,683.9200626959248,683.9200626959248,40.0,False,False,False
 0bc66ebd86e2064c596cc7d8d53e62b648727de8,Jan,2018,auto,hold,Lacombe,635.977973568282,825.590308370044,671.9735682819384,20.0,False,False,False
-0c6ca95298028c2406d91f9a0ca77d919af1b1bf,Jan,2018,cool,auto,Walker,605.0,611.0,673.0,10.0,False,False,False
+0c6ca95298028c2406d91f9a0ca77d919af1b1bf,Jan,2018,cool,auto,Walker,605.0,622.0,666.0,10.0,False,False,False
 0c6ca95298028c2406d91f9a0ca77d919af1b1bf,Jan,2018,cool,hold,Walker,611.0394736842105,648.2368421052631,648.6184210526316,10.0,False,False,False
 0c6ca95298028c2406d91f9a0ca77d919af1b1bf,Jan,2018,heat,auto,Walker,659.221198156682,679.5806451612904,679.5806451612904,10.0,False,False,False
 0c6ca95298028c2406d91f9a0ca77d919af1b1bf,Jan,2018,heat,hold,Walker,673.4776785714286,681.7745535714286,681.7734375,10.0,False,False,False

@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 037988cc24eaeaa08f7002dbc926d02c8f9c0f1c,Jan,2018,heat,hold,Eureka,630.0578034682081,678.393063583815,678.150289017341,10.0,True,False,True
 0728208cff5242993896da88a882e076094b765f,Jan,2018,heat,auto,Billings,636.6,659.5,643.8,50.0,False,False,False
 0bc51b95b2dc23713f611e182c689ad03dc2c300,Jan,2018,heat,auto,Great Falls,687.125,689.6875,689.6875,10.0,False,False,False

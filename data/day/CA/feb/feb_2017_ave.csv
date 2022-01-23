@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 002aab87db1d9e8ce470f80f23c97c59de5f4dcd,feb,2017,heat,auto,San Marcos,689.04,700.12,690.18,15.0,False,False,False
 002aab87db1d9e8ce470f80f23c97c59de5f4dcd,feb,2017,heat,hold,San Marcos,684.1833333333333,700.0,683.0,15.0,False,False,False
 0050d013d4928f706c90379b28f9ab257178f1a8,feb,2017,heat,auto,Dublin,679.8571428571429,683.2142857142857,679.3571428571429,5.0,False,False,False
@@ -1364,7 +1364,7 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 850af36156a48dfbf0cefeb68b9c917c2251fbe0,feb,2017,auto,hold,Danville,717.6875,780.0,720.0,35.0,False,False,False
 85187f94e983f1e146579cb880c8c439d7593118,feb,2017,auto,hold,Murrieta,708.5263157894736,822.2631578947369,709.2105263157895,15.0,False,False,False
 8530a1771814dd1ed6a266ef13eba8a6d8b14f4c,feb,2017,auto,auto,San Jose,705.0,780.0,715.5,15.0,False,False,False
-858afc3df63df36b9dcf21b91c1cd8230b6a6c2d,feb,2017,heat,auto,Chula vista,791.015873015873,811.3571428571429,815.2777777777778,30.0,False,False,False
+858afc3df63df36b9dcf21b91c1cd8230b6a6c2d,feb,2017,heat,auto,Chula vista,780.6504854368932,809.4271844660194,807.5242718446602,30.0,False,False,False
 858afc3df63df36b9dcf21b91c1cd8230b6a6c2d,feb,2017,heat,hold,Chula vista,804.6666666666666,798.6666666666666,793.3333333333334,30.0,False,False,False
 861a83e94eb216e8c6b979abe52f565077138528,feb,2017,heat,hold,roseville,696.7234042553191,658.7234042553191,657.7659574468086,55.0,False,False,False
 861de8f78ceb3cc4c8891320b49276f0dfca3b07,feb,2017,heat,auto,SAn Diego,702.5,700.75,699.8333333333334,10.0,False,False,False

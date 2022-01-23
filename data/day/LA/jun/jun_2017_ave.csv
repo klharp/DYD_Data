@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 01231b3659604ae515f75ef6288754f18e167b01,jun,2017,cool,auto,Covington,744.4003466204506,744.3206239168111,725.5424610051994,50.0,False,False,False
 01231b3659604ae515f75ef6288754f18e167b01,jun,2017,cool,hold,Covington,745.036389083275,747.5248425472358,747.5010496850945,50.0,False,False,False
 026f9cb5ea5ea90f77c5e550fa2e827561cddef7,jun,2017,cool,auto,Luling,738.5098039215686,740.0,720.0,0.0,False,False,False
@@ -151,7 +151,7 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 819b0f9211a7fe75e712b5c6dba7de5a5392494f,jun,2017,cool,hold,Pineville,734.5853658536586,730.0,730.0,55.0,False,False,False
 81fc3397d22fd9c85dc3cd24d95cfbcf042e27d6,jun,2017,cool,auto,Pearl River,725.0,720.0,680.0,5.0,False,False,True
 81fc3397d22fd9c85dc3cd24d95cfbcf042e27d6,jun,2017,cool,hold,Pearl River,733.5833333333334,731.0416666666666,728.2083333333334,5.0,False,False,True
-81ffc86926757411fae29903a81e602f12905ae5,jun,2017,cool,auto,Baton Rouge,724.7603583426652,720.0223964165733,693.7245240761479,75.0,False,False,False
+81ffc86926757411fae29903a81e602f12905ae5,jun,2017,cool,auto,Baton Rouge,775.4388254486133,774.8450244698206,699.9934747145188,75.0,False,False,False
 81ffc86926757411fae29903a81e602f12905ae5,jun,2017,cool,hold,Baton Rouge,657.3,649.1717948717949,649.1692307692308,75.0,False,False,False
 84557ddd6c87022a451d0b0461f916015d5e8284,jun,2017,cool,hold,Baton Rouge,746.6949152542373,743.5593220338983,743.5593220338983,35.0,False,False,False
 85fd10aae095858b9a7fd527bccda70a18ca1b26,jun,2017,auto,auto,Shreveport,732.9342105263158,732.3684210526316,650.0,65.0,False,False,False
@@ -197,8 +197,8 @@ abd01e5e4360b87a54d00d069947aa8607ea66ef,jun,2017,auto,hold,Baton Rouge,764.358,
 abfbb8579b7b4be0cfa2fb35dc2a0d1073fbbb33,jun,2017,cool,auto,Napoleonville,711.764,710.024,739.952,40.0,False,False,False
 abfbb8579b7b4be0cfa2fb35dc2a0d1073fbbb33,jun,2017,cool,hold,Napoleonville,723.9212765957446,725.2978723404256,725.2978723404256,40.0,False,False,False
 ac1ff877a0f3404e364cbd51509f03fb9cc18209,jun,2017,auto,auto,Walker,744.4086021505376,744.9193548387096,694.9193548387096,10.0,False,False,False
-acd97e4ab4ef3bcd764d9bb3f69e3cd3604b6795,jun,2017,cool,auto,Lake Charles,577.4,577.0181818181818,652.5818181818182,0.0,False,False,False
-acd97e4ab4ef3bcd764d9bb3f69e3cd3604b6795,jun,2017,cool,hold,Lake Charles,647.4516129032259,627.1935483870968,627.9354838709677,0.0,False,False,False
+acd97e4ab4ef3bcd764d9bb3f69e3cd3604b6795,jun,2017,cool,auto,Lake Charles,571.6666666666666,652.0,650.6666666666666,0.0,False,False,False
+acd97e4ab4ef3bcd764d9bb3f69e3cd3604b6795,jun,2017,cool,hold,Lake Charles,649.9,628.6333333333333,628.5333333333333,0.0,False,False,False
 acd97e4ab4ef3bcd764d9bb3f69e3cd3604b6795,jun,2017,heat,hold,Lake Charles,696.5,680.0,680.0,0.0,False,False,False
 afea09e8c1505c733cc97ef52e6643db2e8af291,jun,2017,auto,hold,Prairieville,736.6867469879518,721.6385542168674,671.6265060240963,0.0,False,False,False
 b0325f00c3ac96b236749b994fbf6c16f95c62d5,jun,2017,auto,auto,Jefferson,749.1481481481482,750.0,680.0,30.0,False,False,False

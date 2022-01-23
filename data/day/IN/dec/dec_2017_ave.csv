@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 004a8ed2edb250a5a1c876d076227bbb8a2a2135,dec,2017,auto,auto,Fort Wayne,721.7155963302753,782.1192660550458,716.5779816513761,30.0,False,False,False
 004a8ed2edb250a5a1c876d076227bbb8a2a2135,dec,2017,auto,hold,Fort Wayne,723.0,770.0,699.0,30.0,False,False,False
 00a57ff87df6c0a6293c5d88b27fcf5f48a0ad28,dec,2017,heat,hold,Fort Wayne,705.2990196078431,725.0,725.0,20.0,False,False,True
@@ -810,7 +810,7 @@ b8daa664a07564e82939e4e680305ad102bc2bc2,dec,2017,heat,auto,Noblesville,671.0469
 b8daa664a07564e82939e4e680305ad102bc2bc2,dec,2017,heat,hold,Noblesville,658.2860411899313,655.7002288329519,655.7002288329519,5.0,False,False,False
 b910fa0f29d4412c9491f30ea41cec7fa5cc3a7b,dec,2017,auto,hold,Indianapolis,672.0,764.5,742.0,20.0,True,False,True
 b910fa0f29d4412c9491f30ea41cec7fa5cc3a7b,dec,2017,heat,auto,Indianapolis,672.6652003910068,678.2067448680352,678.0791788856305,20.0,True,False,True
-b910fa0f29d4412c9491f30ea41cec7fa5cc3a7b,dec,2017,heat,hold,Indianapolis,674.0304568527919,724.3565989847716,723.9416243654822,20.0,True,False,True
+b910fa0f29d4412c9491f30ea41cec7fa5cc3a7b,dec,2017,heat,hold,Indianapolis,673.9783989834816,724.3151207115629,723.7750952986023,20.0,True,False,True
 b942d0b09eda3062eb8efb5c32292396cc6538be,dec,2017,auto,hold,Carmel,704.6336206896551,794.1379310344828,705.8620689655172,0.0,False,False,False
 ba0469f10d33e15fba8056b59b3756973c555463,dec,2017,heat,auto,Fishers,670.1461083295403,668.6372325898953,667.8375056895767,5.0,False,False,False
 ba0469f10d33e15fba8056b59b3756973c555463,dec,2017,heat,hold,Fishers,656.1150627615062,663.0889121338912,650.8462343096235,5.0,False,False,False

@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 008844c6c1993ea32d6117993fa4c89479fc9db8,dec,2019,heat,auto,Indianapolis,706.7520661157025,750.0,709.8181818181819,40.0,True,False,False
 00a57ff87df6c0a6293c5d88b27fcf5f48a0ad28,dec,2019,heat,auto,Fort Wayne,724.1611316113161,720.0,728.7453874538745,20.0,False,False,True
 00a57ff87df6c0a6293c5d88b27fcf5f48a0ad28,dec,2019,heat,hold,Fort Wayne,721.9777777777778,728.6666666666666,728.6666666666666,20.0,False,False,True
@@ -757,7 +757,7 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 6e6646fc906a1db84efbdd93b3345df03b009ad3,dec,2019,heat,hold,Indianapolis,739.6538461538462,700.0,700.0,5.0,False,False,False
 6e9c8ebf0cc23f358cd60564624187335d655f60,dec,2019,heat,hold,Indianapolis,687.6938775510204,700.0,700.0,0.0,False,False,True
 6ec1a3a892c59a5ad58548b1430db35916b0a4e3,dec,2019,auto,hold,Jeffersonville,684.953488372093,684.8837209302326,635.1162790697674,0.0,False,False,False
-6ec1a3a892c59a5ad58548b1430db35916b0a4e3,dec,2019,heat,auto,Jeffersonville,636.6099585062241,654.5385892116183,642.8406639004149,0.0,False,False,False
+6ec1a3a892c59a5ad58548b1430db35916b0a4e3,dec,2019,heat,auto,Jeffersonville,635.1720720720721,659.2063063063063,640.3144144144144,0.0,False,False,False
 6ec1a3a892c59a5ad58548b1430db35916b0a4e3,dec,2019,heat,hold,Jeffersonville,651.6984126984127,657.8571428571429,657.5238095238095,0.0,False,False,False
 6ed4b08dbdae5259c76beb8061167f12ba2767b4,dec,2019,heat,hold,Yorktown,669.25,686.5,686.25,10.0,False,False,False
 6ed646e8598e5a0a6f2daef096332f27f400f6c5,dec,2019,auto,hold,Granger,693.1041666666666,744.6458333333334,694.6458333333334,39.0,True,False,False
@@ -839,9 +839,9 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 79233c82812fa71737e262c33c472faad52ed1f3,dec,2019,heat,hold,south bend,674.4,683.6,678.0,65.0,False,False,False
 7a36e6b6502a3dbc2c2a635c57b51dd3633b0ad0,dec,2019,heat,auto,Bremen,679.2710027100271,684.0,683.1084010840109,10.0,False,False,False
 7a36e6b6502a3dbc2c2a635c57b51dd3633b0ad0,dec,2019,heat,hold,Bremen,686.075,691.81875,691.025,10.0,False,False,False
-7a3d6e6352fbd4802b4b4266809c87a057e5c6e5,dec,2019,auto,auto,Osceola,638.2857142857143,791.4285714285714,753.0357142857143,19.0,True,False,False
+7a3d6e6352fbd4802b4b4266809c87a057e5c6e5,dec,2019,auto,auto,Osceola,635.2307692307693,795.0,745.0,19.0,True,False,False
 7a3d6e6352fbd4802b4b4266809c87a057e5c6e5,dec,2019,auto,hold,Osceola,675.5384615384615,780.0,730.0,19.0,True,False,False
-7a3d6e6352fbd4802b4b4266809c87a057e5c6e5,dec,2019,heat,auto,Osceola,674.2701525054466,716.9825708061002,758.2352941176471,19.0,True,False,False
+7a3d6e6352fbd4802b4b4266809c87a057e5c6e5,dec,2019,heat,auto,Osceola,674.0585585585585,716.1036036036036,754.7972972972973,19.0,True,False,False
 7a3d6e6352fbd4802b4b4266809c87a057e5c6e5,dec,2019,heat,hold,Osceola,684.569105691057,750.0,750.0,19.0,True,False,False
 7a43cffe1d4de1e48e15ec32b6e486c553c1e0eb,dec,2019,auto,hold,Carmel,672.3089430894308,709.3089430894308,652.1544715447154,30.0,True,False,True
 7a4a209c65e2c74f4d6d995a75c9d44d19eba72c,dec,2019,auto,auto,Crown Point,727.6114058355438,790.0,730.0,30.0,False,False,False

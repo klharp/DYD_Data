@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 0039c46facfa454852fda813f2c88ed0bbfab21d,jun,2017,auto,hold,Blue Springs,745.3333333333335,759.375,680.0,20.0,False,False,False
 0056cebd6cd72164f185e551f894f028d3d2e319,jun,2017,cool,hold,Clarkson Valley,748.7333333333332,740.0,740.0,45.0,True,False,True
 005b44ffe2812f645179dccec3443da1ec58a68d,jun,2017,cool,hold,Kirkwood,731.3189152076898,730.0,730.0,0.0,False,False,False
@@ -2837,7 +2837,7 @@ ffede669ccc5cc0e508b9ce744c4ae67cef9181b,jun,2018,cool,hold,Clayton,728.33710407
 71d5d4ba1bced39b38f0fb3a8d32323fb49784f4,jun,2019,cool,hold,Springfield,740.7850877192983,751.4425438596492,751.4425438596492,5.0,True,False,False
 71f0d3d13ea4495fd98f531ee83b85a38fabc9a6,jun,2019,cool,auto,Battlefield,746.6666666666665,767.7289377289377,689.4505494505495,37.0,False,False,False
 71f0d3d13ea4495fd98f531ee83b85a38fabc9a6,jun,2019,cool,hold,Battlefield,758.2783505154639,764.9484536082474,764.8453608247423,37.0,False,False,False
-720955ca3b5e2ba5720aa32c17dcdcec5591e3b3,jun,2019,cool,auto,Saint Louis,706.6074450084602,700.4450084602369,644.3316412859559,117.0,False,False,False
+720955ca3b5e2ba5720aa32c17dcdcec5591e3b3,jun,2019,cool,auto,Saint Louis,706.6949458483756,707.1534296028882,644.85559566787,117.0,False,False,False
 720955ca3b5e2ba5720aa32c17dcdcec5591e3b3,jun,2019,cool,hold,Saint Louis,709.4181818181818,715.0,715.0,117.0,False,False,False
 720955ca3b5e2ba5720aa32c17dcdcec5591e3b3,jun,2019,heat,auto,Saint Louis,716.4444444444445,720.0,737.0,117.0,False,False,False
 72197dacdca44a51489650430adc76e9b5a2b34c,jun,2019,auto,auto,Independence,725.7729257641922,730.0,650.0,0.0,False,False,False
@@ -4770,7 +4770,7 @@ fff9c9fc157b3018c7b44f37084f7b481f5ea638,jun,2019,auto,hold,Lake Saint Louis,735
 907f5ab32efe72689874a05def81eded00e26565,jun,2020,cool,hold,Joplin,745.311475409836,720.0,720.0,25.0,False,False,True
 90ab5144849a9438817906a3713e41367b3710d3,jun,2020,cool,auto,Manchester,717.5867052023121,729.5549132947976,721.0867052023121,20.0,True,False,False
 90ab5144849a9438817906a3713e41367b3710d3,jun,2020,cool,hold,Manchester,690.8915094339623,730.0,680.0,20.0,True,False,False
-90fc0bd4625036799f3efbfe24757c97986f6ccb,jun,2020,cool,auto,Lee's Summit,658.6565096952909,675.8864265927978,619.9307479224377,10.0,False,False,False
+90fc0bd4625036799f3efbfe24757c97986f6ccb,jun,2020,cool,auto,Lee's Summit,659.8410404624277,679.1763005780348,619.9277456647399,10.0,False,False,False
 90fc0bd4625036799f3efbfe24757c97986f6ccb,jun,2020,heat,auto,Lee's Summit,641.3846153846154,670.0,648.4615384615385,10.0,False,False,False
 914bd313b44008005ea03360c1286f22bd9dce09,jun,2020,cool,hold,St. Peters,731.7042857142858,732.6832142857143,732.6832142857143,35.0,True,False,False
 915655e9c69458252ef0d9dc59e0a5b4b5720393,jun,2020,cool,auto,Fenton,718.9736842105265,718.5842105263158,718.5842105263158,40.0,False,False,False

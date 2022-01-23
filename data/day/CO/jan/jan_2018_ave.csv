@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 004666c8518763d5ff5a1b6f9be919899724167e,Jan,2018,auto,auto,Denver,684.0496794871794,735.0,685.0,10.0,False,False,False
 004666c8518763d5ff5a1b6f9be919899724167e,Jan,2018,heat,auto,Denver,687.2785714285715,760.5,695.5714285714286,10.0,False,False,False
 004666c8518763d5ff5a1b6f9be919899724167e,Jan,2018,heat,hold,Denver,702.3467741935484,728.6290322580645,704.6774193548387,10.0,False,False,False
@@ -1218,8 +1218,7 @@ d3020b5ae4f3dc70c8d5628df5b6b548ebb19f70,Jan,2018,auto,auto,Colorado Springs,638
 d3020b5ae4f3dc70c8d5628df5b6b548ebb19f70,Jan,2018,auto,hold,Colorado Springs,669.1407407407407,780.0,661.3185185185185,5.0,False,False,False
 d3020b5ae4f3dc70c8d5628df5b6b548ebb19f70,Jan,2018,heat,auto,Colorado Springs,642.2574257425742,668.7128712871287,640.4950495049505,5.0,False,False,False
 d3020b5ae4f3dc70c8d5628df5b6b548ebb19f70,Jan,2018,heat,hold,Colorado Springs,658.3333333333334,666.4971751412429,658.6101694915254,5.0,False,False,False
-d30508b1ddaef2cb57380f3bfebb7de33d9d42ab,Jan,2018,cool,auto,Fort Collins,646.8,644.0,850.0,0.0,False,False,False
-d30508b1ddaef2cb57380f3bfebb7de33d9d42ab,Jan,2018,heat,auto,Fort Collins,741.0413793103448,784.9655172413793,841.5655172413793,0.0,False,False,False
+d30508b1ddaef2cb57380f3bfebb7de33d9d42ab,Jan,2018,heat,auto,Fort Collins,741.7013888888889,785.9444444444445,841.5069444444445,0.0,False,False,False
 d3431b6631efd28cf78687a04438dd922ac6ebbd,Jan,2018,heat,auto,Aurora,738.0350877192982,739.8771929824561,739.8771929824561,16.0,False,False,False
 d3431b6631efd28cf78687a04438dd922ac6ebbd,Jan,2018,heat,hold,Aurora,732.2098765432099,734.3827160493827,734.3827160493827,16.0,False,False,False
 d3456139c944fe77aecebda3fdb66405bebb3c31,Jan,2018,heat,auto,Thornton,715.8888888888889,720.0,720.0,10.0,False,False,False

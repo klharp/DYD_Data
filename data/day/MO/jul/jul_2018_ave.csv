@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 0034438232b9c99f7034f4e329ea2203949d0e9a,jul,2018,cool,hold,Manchester,750.4935064935065,752.6363636363636,751.8311688311688,40.0,False,False,False
 0056cebd6cd72164f185e551f894f028d3d2e319,jul,2018,auto,auto,Clarkson Valley,795.3612334801762,807.5814977973569,661.2114537444934,45.0,True,False,True
 0056cebd6cd72164f185e551f894f028d3d2e319,jul,2018,auto,hold,Clarkson Valley,748.3333333333334,727.8148148148148,672.5787037037037,45.0,True,False,True
@@ -453,7 +453,7 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 5770fb11edbbfb304739a8d2c377131ba55e3e68,jul,2018,cool,hold,Saint Louis,760.8486973947896,759.6808617234469,759.6327655310621,0.0,False,False,False
 5858000c1ab53a36355649b71cf32aa02d12f2bf,jul,2018,cool,auto,Jefferson City,765.0646258503401,768.9795918367347,768.9795918367347,100.0,False,False,False
 5858000c1ab53a36355649b71cf32aa02d12f2bf,jul,2018,cool,hold,Jefferson City,750.7289915966387,753.9926470588235,753.9926470588235,100.0,False,False,False
-58b1283e874e41672f7261396e53bcfe952e7ce6,jul,2018,cool,auto,St. Louis,716.6373801916933,680.6146166134185,707.6397763578275,117.0,False,False,False
+58b1283e874e41672f7261396e53bcfe952e7ce6,jul,2018,cool,auto,St. Louis,720.8501742160279,687.9176829268292,706.7029616724739,117.0,False,False,False
 58b1283e874e41672f7261396e53bcfe952e7ce6,jul,2018,cool,hold,St. Louis,724.0712166172107,780.1127596439169,740.919881305638,117.0,False,False,False
 58f17654ec369fe26801df62efebb53ea369d0f0,jul,2018,cool,auto,Columbia,730.3877952755905,742.9586614173228,742.9586614173228,6.0,True,False,True
 58f17654ec369fe26801df62efebb53ea369d0f0,jul,2018,cool,hold,Columbia,736.6670726755989,744.9809175801868,744.9776695087292,6.0,True,False,True

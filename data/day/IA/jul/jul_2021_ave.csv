@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 0405c9553318d29e4d72ccb69a3f095a3f3ce0a6,jul,2021,auto,hold,Ames,728.9369565217391,725.4630434782608,652.1630434782609,60.0,False,False,False
 0625e6ffa41af1becc34b671bc33445bb886d759,jul,2021,cool,hold,Council Bluffs,719.7721518987341,720.6835443037975,720.6835443037975,15.0,False,False,False
 08386d06a8573fe16ebdcac76e31ee0eb2877a39,jul,2021,cool,hold,Council Bluffs,750.6666666666666,740.0,740.0,15.0,False,False,False

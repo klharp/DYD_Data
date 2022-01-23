@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 001d3f919679bc281312e54922cb021d2020c1fa,jun,2021,auto,hold,Charlotte,731.791833111407,730.4926764314248,690.0,0.0,True,False,True
 002d657d269c2da28e96732bf69b6db645b85262,jun,2021,cool,hold,Lexington,722.4782608695652,720.0,720.0,20.0,False,False,True
 007cdd82d7747e9a85dfc0616574a29adc8b5804,jun,2021,auto,hold,Woodcroft,726.1063394683026,730.7423312883435,640.0,35.0,True,False,True

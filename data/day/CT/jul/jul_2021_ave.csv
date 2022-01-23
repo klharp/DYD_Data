@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 007f9b37f1ac5cfe9806f9a1a47809855e7e31b8,jul,2021,cool,hold,South Windsor,716.0585975024015,740.0,650.0,20.0,False,False,False
 01440e0a70900810dceaace98a7965a75bc818dc,jul,2021,cool,hold,Guilford,729.8148295003965,727.4516256938938,697.0,0.0,False,False,False
 01b5776ab24d14ace90a8296c49941a4ba8b0173,jul,2021,cool,hold,New MIlford,761.8570084666039,769.1285669488868,765.7613671997491,5.0,False,False,False

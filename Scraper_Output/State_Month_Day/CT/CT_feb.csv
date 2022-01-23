@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 01b5776ab24d14ace90a8296c49941a4ba8b0173,feb,2017,auto,hold,New MIlford,688.4463601532567,800.0,690.0,5.0,False,False,False
 05d474a41ce90b51ae9627f1dc2a5214d67b2741,feb,2017,heat,hold,Guilford,689.8461538461537,695.0,695.0,35.0,False,False,False
 0a751de00d076714c9f1c136f2203fae474b7ace,feb,2017,heat,auto,East Hampton,646.2423124231242,680.0,638.3087330873309,0.0,False,False,False
@@ -455,7 +455,7 @@ fefe9a1e7cdca41851d594cf74b2d28a98aca1de,feb,2017,heat,hold,Plantsville,679.8072
 719d1aa36bcd7a956457ff78cf66b2d06290d4f0,feb,2018,heat,hold,Monroe,678.6190476190476,682.1428571428571,682.1428571428571,50.0,False,False,False
 71e529d367e73062186399e77fc1ab6a06afdc24,feb,2018,heat,auto,Southington,680.4264705882352,671.2235294117647,671.2235294117647,18.0,False,False,False
 71e529d367e73062186399e77fc1ab6a06afdc24,feb,2018,heat,hold,Southington,684.0737618545837,672.0237091675448,672.0115911485774,18.0,False,False,False
-750dc19cee6296c961b08361f935a5930c10409a,feb,2018,heat,hold,West Hartford,639.1744186046511,639.0755813953489,640.2906976744188,70.0,False,False,False
+750dc19cee6296c961b08361f935a5930c10409a,feb,2018,heat,hold,West Hartford,640.0540540540541,640.5495495495495,640.6246246246246,70.0,False,False,False
 753112a12d7d0dab53fdaa8e4d60e023dda33359,feb,2018,heat,auto,Glastonbury,677.85,680.0,680.0,40.0,False,False,False
 753112a12d7d0dab53fdaa8e4d60e023dda33359,feb,2018,heat,hold,Glastonbury,677.0833333333334,680.0,680.0,40.0,False,False,False
 754d85b70372e7ed12eb663aac2f8471a479b4cd,feb,2018,heat,auto,Meriden,648.3047945205481,700.0,646.5433789954337,10.0,True,False,False
@@ -1981,7 +1981,7 @@ c12218933d687be46a2697fba4623fe32c66ef45,feb,2020,heat,auto,Newtown,654.15384615
 c12218933d687be46a2697fba4623fe32c66ef45,feb,2020,heat,hold,Newtown,593.44,653.52,653.52,10.0,False,False,False
 c147c2e1cbe076bc976db8e788fa285e351f07db,feb,2020,heat,auto,Durham,676.3461538461537,780.0,620.0,20.0,False,False,False
 c2f1a84ed18ee42d39add99fe5e0e1c50fd288e3,feb,2020,heat,auto,Mystic,648.0384615384615,780.0,650.0,116.0,False,False,False
-c36510e1cef94a504325c67c0e3732e5b40a1309,feb,2020,heat,auto,Thomaston,653.0141643059491,624.2776203966007,653.6232294617564,45.0,False,False,False
+c36510e1cef94a504325c67c0e3732e5b40a1309,feb,2020,heat,auto,Thomaston,652.858064516129,627.6451612903227,653.3451612903226,45.0,False,False,False
 c36510e1cef94a504325c67c0e3732e5b40a1309,feb,2020,heat,hold,Thomaston,640.3082125603863,634.8850241545894,634.9091787439612,45.0,False,False,False
 c375938ce0336932e0a382c5b4d61e4ee9ff8da7,feb,2020,heat,hold,North Stonington,663.9273504273505,666.6666666666666,666.6666666666666,10.0,False,False,False
 c3e376327be94c49a4dc3440d6796dfee1757733,feb,2020,heat,auto,Enfield,660.1900826446281,661.6528925619833,655.8677685950413,50.0,False,False,False

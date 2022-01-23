@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 004666c8518763d5ff5a1b6f9be919899724167e,aug,2017,auto,auto,Denver,756.5,766.6666666666665,683.3333333333334,10.0,False,False,False
 004666c8518763d5ff5a1b6f9be919899724167e,aug,2017,auto,hold,Denver,772.5555555555555,780.0,690.0,10.0,False,False,False
 0101ed9a523b572e5b256aeeaf9755d4f076d1a0,aug,2017,cool,auto,Golden,707.1204819277109,708.0843373493976,680.1204819277109,20.0,False,False,True
@@ -707,9 +707,8 @@ d16a960d2f0d5ebf6cfc4dcd17ea3c4858d2607c,aug,2017,heat,hold,Bailey,658.933333333
 d1d2cd52451fb2e57d7e0fc54b4618f46210b56e,aug,2017,auto,hold,Highlands Ranch,697.75,669.25,616.25,0.0,False,False,False
 d238b614566719a9810a8394ffda4bd42965444f,aug,2017,cool,hold,Arvada,707.2747252747251,750.0,750.0,60.0,True,False,False
 d2f43eb659a70edbb93e8e9d51493c6bc66620a9,aug,2017,auto,hold,Highlands Ranch,753.3333333333335,770.0,650.0,15.0,False,False,False
-d30508b1ddaef2cb57380f3bfebb7de33d9d42ab,aug,2017,cool,auto,Fort Collins,593.4868913857678,586.0674157303372,790.5056179775281,0.0,False,False,False
-d30508b1ddaef2cb57380f3bfebb7de33d9d42ab,aug,2017,cool,hold,Fort Collins,575.6555555555557,572.0,788.0,0.0,False,False,False
-d30508b1ddaef2cb57380f3bfebb7de33d9d42ab,aug,2017,heat,auto,Fort Collins,601.0,635.5,825.8,0.0,False,False,False
+d30508b1ddaef2cb57380f3bfebb7de33d9d42ab,aug,2017,cool,auto,Fort Collins,642.5227272727273,638.5681818181819,791.1590909090909,0.0,False,False,False
+d30508b1ddaef2cb57380f3bfebb7de33d9d42ab,aug,2017,heat,auto,Fort Collins,633.0,646.0,809.0,0.0,False,False,False
 d3431b6631efd28cf78687a04438dd922ac6ebbd,aug,2017,cool,hold,Aurora,735.1031976744188,739.1816860465117,739.1816860465117,16.0,False,False,False
 d34e9ed9156b65125abbd91fe132cbe7ec4a4ef0,aug,2017,cool,auto,Aurora,708.8121387283238,703.664739884393,702.5462427745665,35.0,False,False,False
 d34e9ed9156b65125abbd91fe132cbe7ec4a4ef0,aug,2017,cool,hold,Aurora,717.125,710.0,710.0,35.0,False,False,False
@@ -2084,7 +2083,7 @@ d2471e684a91add5d34b3989bc745e81ebaa7f46,aug,2018,cool,auto,Pueblo,753.488095238
 d2471e684a91add5d34b3989bc745e81ebaa7f46,aug,2018,cool,hold,Pueblo,777.4642857142858,780.0,780.0,10.0,False,False,False
 d3020b5ae4f3dc70c8d5628df5b6b548ebb19f70,aug,2018,cool,auto,Colorado Springs,660.0344827586208,688.4827586206897,687.5862068965519,5.0,False,False,False
 d3020b5ae4f3dc70c8d5628df5b6b548ebb19f70,aug,2018,cool,hold,Colorado Springs,720.6,740.7714285714287,740.7714285714287,5.0,False,False,False
-d30508b1ddaef2cb57380f3bfebb7de33d9d42ab,aug,2018,cool,auto,Fort Collins,630.2578849721707,624.2931354359927,731.1150278293137,0.0,False,False,False
+d30508b1ddaef2cb57380f3bfebb7de33d9d42ab,aug,2018,cool,auto,Fort Collins,637.5151515151515,632.1904761904761,731.1341991341991,0.0,False,False,False
 d30508b1ddaef2cb57380f3bfebb7de33d9d42ab,aug,2018,cool,hold,Fort Collins,632.390350877193,634.6447368421052,731.0,0.0,False,False,False
 d30508b1ddaef2cb57380f3bfebb7de33d9d42ab,aug,2018,heat,auto,Fort Collins,676.5714285714286,800.9285714285713,815.3571428571429,0.0,False,False,False
 d3431b6631efd28cf78687a04438dd922ac6ebbd,aug,2018,cool,auto,Aurora,738.1111111111112,750.0,750.0,16.0,False,False,False
@@ -4124,7 +4123,6 @@ d8600686cba5ad1a6bb3e791edf0582590cd6d33,aug,2019,cool,hold,Littleton,708.486111
 d88ace19a51608add7cf19c8b14ca9c1451433e3,aug,2019,auto,hold,Parker,683.8947368421052,714.421052631579,694.421052631579,20.0,False,False,False
 d8cf1e5087eb903c91f9987db77f1b0e2a6e8600,aug,2019,cool,auto,Firestone,743.4666666666667,740.0,740.0,9.0,True,False,False
 d8cf1e5087eb903c91f9987db77f1b0e2a6e8600,aug,2019,cool,hold,Firestone,721.1907514450868,723.6127167630057,722.3872832369943,9.0,True,False,False
-d8e642a3eed8ae10d5d9530fd5bf749b8d3647d4,aug,2019,heat,auto,Boulder,723.2272727272727,600.0,720.0,0.0,True,False,False
 d8e642a3eed8ae10d5d9530fd5bf749b8d3647d4,aug,2019,heat,hold,Boulder,743.8072916666665,719.9947916666665,732.484375,0.0,True,False,False
 d965c7b577477bd13e3def81e3eb48325a16ac65,aug,2019,auto,hold,Denver,772.0,760.0,640.0,60.0,True,False,False
 d965c7b577477bd13e3def81e3eb48325a16ac65,aug,2019,cool,hold,Denver,741.1444665341286,738.4479787939032,738.4426772697151,60.0,True,False,False

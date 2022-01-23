@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 001cb18881c5ace2d453720abb0d8fe710e80a29,feb,2018,heat,hold,San Diego,738.1666666666666,740.7916666666666,736.8333333333334,50.0,False,False,False
 002aab87db1d9e8ce470f80f23c97c59de5f4dcd,feb,2018,heat,auto,San Marcos,708.2376068376068,711.259829059829,710.7264957264957,15.0,False,False,False
 002aab87db1d9e8ce470f80f23c97c59de5f4dcd,feb,2018,heat,hold,San Marcos,711.484126984127,712.1547619047619,711.047619047619,15.0,False,False,False
@@ -542,7 +542,7 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 188530bd255cc9c4c829240bbd388eba686ba065,feb,2018,heat,auto,Corona,773.1067961165048,760.0533980582525,759.8495145631068,0.0,True,False,True
 188530bd255cc9c4c829240bbd388eba686ba065,feb,2018,heat,hold,Corona,740.8571428571429,750.0,750.0,0.0,True,False,True
 18d5b11e60a9b7d71f5db8aa973e72750b588ac6,feb,2018,auto,hold,San Diego,643.0,760.0,624.5,35.0,False,False,False
-18dfb9cb45664c2f14a16e1429bf9f484d3781b0,feb,2018,heat,auto,Sacramento,640.8818897637796,462.98818897637796,637.3937007874016,35.0,True,False,True
+18dfb9cb45664c2f14a16e1429bf9f484d3781b0,feb,2018,heat,auto,Sacramento,651.44,657.48,654.96,35.0,True,False,True
 18dfb9cb45664c2f14a16e1429bf9f484d3781b0,feb,2018,heat,hold,Sacramento,626.6,619.0,622.0,35.0,True,False,True
 18e7b29f8f30075e3474a72b81c43ecfa54665bf,feb,2018,heat,auto,Rosamond,731.0,733.2009925558312,733.2009925558312,25.0,False,False,False
 18e7b29f8f30075e3474a72b81c43ecfa54665bf,feb,2018,heat,hold,Rosamond,723.1929824561404,713.2719298245614,713.2719298245614,25.0,False,False,False
@@ -3990,7 +3990,7 @@ ac667ca90f5ee2e124a420bc88763197beb24b9c,feb,2018,heat,hold,Anderson,676.3808411
 ac6861b63f0fc66bbaf09856aaf9a8d89be4340d,feb,2018,heat,auto,West Hills,722.7254408060453,724.5088161209068,724.5088161209068,50.0,False,False,False
 ac6861b63f0fc66bbaf09856aaf9a8d89be4340d,feb,2018,heat,hold,West Hills,721.027290448343,722.9402209226771,722.9252761533463,50.0,False,False,False
 ac88344c3dabad8fffdcd7877a92c7d7313057d2,feb,2018,cool,auto,Thousand Oaks,707.15,703.6,700.0,65.0,True,False,False
-ac88344c3dabad8fffdcd7877a92c7d7313057d2,feb,2018,cool,hold,Thousand Oaks,705.7179487179487,698.5384615384615,709.8717948717949,65.0,True,False,False
+ac88344c3dabad8fffdcd7877a92c7d7313057d2,feb,2018,cool,hold,Thousand Oaks,709.3333333333334,728.1,727.8333333333334,65.0,True,False,False
 ac88344c3dabad8fffdcd7877a92c7d7313057d2,feb,2018,heat,auto,Thousand Oaks,698.1666666666666,720.0,720.0,65.0,True,False,False
 ac88344c3dabad8fffdcd7877a92c7d7313057d2,feb,2018,heat,hold,Thousand Oaks,711.5582822085889,725.2699386503067,724.5889570552147,65.0,True,False,False
 ac9220f1c0bac1faa6a2c5305296d33283bb1f23,feb,2018,heat,hold,Mountain View,699.031746031746,651.4285714285714,613.3333333333334,60.0,False,False,False
@@ -5588,7 +5588,7 @@ ebd3df97e450a95de8b52bed6fc240a0f36806e7,feb,2018,auto,auto,Agoura Hills,701.12,
 ebd3df97e450a95de8b52bed6fc240a0f36806e7,feb,2018,auto,hold,Agoura Hills,699.2972972972973,717.2702702702703,697.0945945945946,35.0,False,False,False
 ec362584265004c090ebd8243f535fcab01f23c8,feb,2018,heat,hold,Westminster,688.2395833333334,690.0,690.0,50.0,False,False,False
 ec3d14fca2b8c98bc866694a0a8e67892caa03ca,feb,2018,heat,hold,Romoland,669.9380952380952,670.0,670.0,15.0,False,False,False
-ec415de0e2f995f05e19332ea12d0b18b1aef5ce,feb,2018,heat,auto,Sacramento,642.9789631855748,600.7002253944403,639.9376408715252,0.0,False,False,False
+ec415de0e2f995f05e19332ea12d0b18b1aef5ce,feb,2018,heat,auto,Sacramento,651.125,716.5,634.0,0.0,False,False,False
 ec415de0e2f995f05e19332ea12d0b18b1aef5ce,feb,2018,heat,hold,Sacramento,675.8,680.0,680.0,0.0,False,False,False
 ec47bb3d78b20f6afdaa7f5088550e491f14035b,feb,2018,auto,auto,San Diego,686.8,734.4,684.16,35.0,False,False,False
 ec47bb3d78b20f6afdaa7f5088550e491f14035b,feb,2018,auto,hold,San Diego,692.5769230769231,731.125,681.0096153846154,35.0,False,False,False

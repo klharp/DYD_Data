@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 02382555cf0333ff1ad92861205814fd74616f88,jul,2017,cool,hold,South Hadley,789.2547169811321,776.122641509434,680.0,55.0,False,False,False
 02fe14bbcc60780d648cd5eae6868f1ff7e79b3c,jul,2017,auto,auto,Boston,706.0833333333334,705.0833333333334,655.0,100.0,False,False,False
 02fe14bbcc60780d648cd5eae6868f1ff7e79b3c,jul,2017,auto,hold,Boston,730.0436643835617,731.244006849315,643.472602739726,100.0,False,False,False

@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 0039c46facfa454852fda813f2c88ed0bbfab21d,aug,2020,cool,auto,Blue Springs,740.2033678756477,739.9961139896373,680.0155440414508,20.0,False,False,False
 0039c46facfa454852fda813f2c88ed0bbfab21d,aug,2020,cool,hold,Blue Springs,736.375,730.0,730.0,20.0,False,False,False
 005b44ffe2812f645179dccec3443da1ec58a68d,aug,2020,auto,hold,Kirkwood,738.5276907001045,734.324973876698,678.6854754440961,0.0,False,False,False
@@ -143,7 +143,7 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 179a34955231a2e96891cd7488a652f8626c5e47,aug,2020,auto,hold,Springfield,762.1875,761.9642857142857,690.0,29.0,False,False,False
 17b6ebe52b68fc0ffb7d9bfe2faeb7ec731bc6de,aug,2020,auto,hold,Springfield,790.7569296375267,820.0,700.0,0.0,False,False,False
 17dd8d9f81736c5dcbc42cd7e89eda2984634d25,aug,2020,auto,hold,Grain Valley,731.7607207207208,730.0763963963964,670.0,15.0,False,False,True
-188153650e879d5ca9fab3f333ae566cf00987c0,aug,2020,cool,auto,Lee's Summit,660.3846153846154,639.8974358974359,660.0,27.0,False,False,True
+188153650e879d5ca9fab3f333ae566cf00987c0,aug,2020,cool,auto,Lee's Summit,657.0625,648.625,660.0,27.0,False,False,True
 188153650e879d5ca9fab3f333ae566cf00987c0,aug,2020,cool,hold,Lee's Summit,669.3705357142857,665.46875,665.4241071428571,27.0,False,False,True
 1908517f8bccf5b496e1c8774e54a5f8ba04f586,aug,2020,cool,auto,Ozark,708.171052631579,728.1578947368421,728.1578947368421,50.0,True,False,False
 1908517f8bccf5b496e1c8774e54a5f8ba04f586,aug,2020,cool,hold,Ozark,705.4878048780488,694.829268292683,694.829268292683,50.0,True,False,False
@@ -836,7 +836,7 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 903b92508c2691683d7ac479e86863d47ebb6775,aug,2020,auto,hold,Robertsville,719.1630094043887,718.4827586206897,665.5862068965517,0.0,False,False,True
 904927e3c506ca1b9a1257cb6573f1def65fda50,aug,2020,cool,auto,Peculiar,743.5964912280701,780.0,670.0,19.0,True,False,True
 90ab5144849a9438817906a3713e41367b3710d3,aug,2020,cool,auto,Manchester,649.1369863013699,649.7534246575342,647.931506849315,20.0,True,False,False
-90fc0bd4625036799f3efbfe24757c97986f6ccb,aug,2020,cool,auto,Lee's Summit,629.5989010989011,665.8351648351648,619.6923076923077,10.0,False,False,False
+90fc0bd4625036799f3efbfe24757c97986f6ccb,aug,2020,cool,auto,Lee's Summit,630.8625,674.8875,619.65,10.0,False,False,False
 914bd313b44008005ea03360c1286f22bd9dce09,aug,2020,cool,hold,St. Peters,730.3970014992503,730.0,730.0,35.0,True,False,False
 915655e9c69458252ef0d9dc59e0a5b4b5720393,aug,2020,cool,auto,Fenton,722.7919191919192,722.0989898989899,722.0989898989899,40.0,False,False,False
 915655e9c69458252ef0d9dc59e0a5b4b5720393,aug,2020,cool,hold,Fenton,723.2675535846267,723.4283074648928,723.4227642276422,40.0,False,False,False

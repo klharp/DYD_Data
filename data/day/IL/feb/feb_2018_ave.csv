@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 0010ea447dc3807b33daad2477d1cc02a71571fa,feb,2018,heat,auto,Chicago,727.8541666666666,730.0,730.0,5.0,False,False,False
 0010ea447dc3807b33daad2477d1cc02a71571fa,feb,2018,heat,hold,Chicago,707.049504950495,707.6485148514852,707.4752475247525,5.0,False,False,False
 002ba06a2fbc44349736a758c25eb6755d270f15,feb,2018,heat,auto,Niles,743.0964467005076,743.9289340101523,743.8629441624365,60.0,False,False,False

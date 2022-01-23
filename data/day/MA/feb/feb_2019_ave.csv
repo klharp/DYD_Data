@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 006a1bbfe69e8af25ab5a25a8806d5cc74ff30bc,feb,2019,heat,hold,Lexington,610.3636363636364,650.0,620.0,0.0,False,False,False
 00a8aafaecdc1226b60ab865f4741b02e5fec578,feb,2019,heat,auto,Westwood,643.25,833.0,660.0,5.0,False,False,False
 019c5eecdb47ecf46a4c4a1fe9d8a50618e652f2,feb,2019,auto,auto,Needham,644.8199099549774,760.0,641.5097548774387,20.0,False,False,False

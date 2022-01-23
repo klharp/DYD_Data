@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 004e7f286453271cd8b2b9367719102dc96392c2,jul,2020,auto,auto,Elk Point,758.4230769230769,750.0,680.0,20.0,False,False,False
 011eb806f7782fc048072fabfb035b54f5d71e67,jul,2020,cool,auto,Sioux Falls,743.96875,774.375,774.375,100.0,False,False,False
 011eb806f7782fc048072fabfb035b54f5d71e67,jul,2020,cool,hold,Sioux Falls,734.2717391304348,775.0,769.7826086956521,100.0,False,False,False
@@ -28,13 +28,12 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 2e3f052d974a5f34ab5e4a430a975718633a71c5,jul,2020,cool,hold,Sisseton,713.0986175115207,730.4506912442396,727.5824884792627,40.0,False,False,False
 2f9a16dd49a7a56c5d2e1747bad9d2569792cc33,jul,2020,cool,auto,Sioux Falls,731.7892561983471,726.0661157024794,704.6694214876034,5.0,False,False,False
 2f9a16dd49a7a56c5d2e1747bad9d2569792cc33,jul,2020,cool,hold,Sioux Falls,727.7456140350877,722.4561403508771,722.4561403508771,5.0,False,False,False
-30a50f3df07d56b578fdf38b93291e6860f389ad,jul,2020,auto,hold,Sioux Falls,688.7777777777778,680.0,530.0,45.0,False,False,False
 30a50f3df07d56b578fdf38b93291e6860f389ad,jul,2020,cool,auto,Sioux Falls,694.2638888888889,685.0,685.0,45.0,False,False,False
 30a50f3df07d56b578fdf38b93291e6860f389ad,jul,2020,cool,hold,Sioux Falls,692.8947368421053,686.6520467836257,686.6520467836257,45.0,False,False,False
 30c9b455802f58170c2be006aab99c5c41a05977,jul,2020,cool,auto,aberdeen,731.9983660130719,731.0,731.0,45.0,True,False,False
 30c9b455802f58170c2be006aab99c5c41a05977,jul,2020,cool,hold,aberdeen,725.3391098857818,724.2804253643167,724.2804253643167,45.0,True,False,False
 3a6d34c0a5f6664f14043d1ec1f90525eb6a72aa,jul,2020,auto,auto,Rapid City,679.0,688.0,614.0,0.0,False,False,False
-3a6d34c0a5f6664f14043d1ec1f90525eb6a72aa,jul,2020,auto,hold,Rapid City,703.954081632653,707.921768707483,621.1632653061224,0.0,False,False,False
+3a6d34c0a5f6664f14043d1ec1f90525eb6a72aa,jul,2020,auto,hold,Rapid City,706.0560928433268,710.3829787234042,624.0696324951645,0.0,False,False,False
 3cb5cd50805e286cf3cd45001f0c9e54f6fed6c3,jul,2020,cool,auto,Sioux Falls,739.1086956521739,733.2391304347826,730.8913043478261,20.0,False,False,False
 3cb5cd50805e286cf3cd45001f0c9e54f6fed6c3,jul,2020,cool,hold,Sioux Falls,738.0769230769231,737.3076923076923,733.2307692307693,20.0,False,False,False
 3ed0e9cb7b0043eaf232cd07b55d33cb67e0debe,jul,2020,cool,auto,Mitchell,698.8612440191388,690.3588516746412,689.6842105263158,15.0,True,False,True

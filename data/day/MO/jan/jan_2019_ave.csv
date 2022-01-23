@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 0056cebd6cd72164f185e551f894f028d3d2e319,Jan,2019,heat,auto,Clarkson Valley,695.5571428571428,700.0,700.0,45.0,True,False,True
 0056cebd6cd72164f185e551f894f028d3d2e319,Jan,2019,heat,hold,Clarkson Valley,702.3691588785047,710.0,710.0,45.0,True,False,True
 005b44ffe2812f645179dccec3443da1ec58a68d,Jan,2019,auto,hold,Kirkwood,698.3643002028398,758.5200811359026,701.5188640973631,0.0,False,False,False

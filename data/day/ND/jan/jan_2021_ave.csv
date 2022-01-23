@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 04ff7b2784b6b4854553989e5f8cfa4d8d653c4e,Jan,2021,heat,hold,Bismarck,705.6551724137931,710.183908045977,709.6781609195402,20.0,True,False,False
 0a2c85faa9148f195dff7efd7fcaadd9b7e7a24b,Jan,2021,heat,hold,Bismarck,707.3559322033898,710.3050847457627,709.457627118644,20.0,True,False,False
 0c0bd0b708210af527c4acd1652566b20b9e1113,Jan,2021,heat,hold,Casselton,690.9589041095891,695.0,695.0,70.0,False,False,False
@@ -22,7 +22,7 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 6e3464542da5e275eebd42444f08f74e6e90d535,Jan,2021,heat,hold,Fargo,675.3440860215054,682.9354838709677,682.7849462365591,56.0,False,False,False
 8b5f61ec784b3bccda90d02afd324ebbfa44bb19,Jan,2021,heat,hold,Grand Forks,721.8141707760187,725.4059174669089,725.3968336361277,59.0,False,False,False
 8f20c0d306b7503704799f8515d37da8e6892a01,Jan,2021,heat,hold,Fargo,693.9308823529411,695.5235294117647,695.2823529411764,0.0,False,False,False
-8f4d43dff926ace6ea477d8ccec8a89f32b21c83,Jan,2021,heat,hold,Gackle,483.9017857142857,600.5535714285714,518.6122448979592,70.0,False,False,False
+8f4d43dff926ace6ea477d8ccec8a89f32b21c83,Jan,2021,heat,hold,Gackle,587.1860465116279,610.0,610.0,70.0,False,False,False
 93f9c19e6a1094ec8475c5102660ddfbebf59596,Jan,2021,heat,hold,Fargo,724.4583333333334,720.3333333333334,719.3333333333334,9.0,True,False,False
 95dcbd536a94a1d2d7f855d394365b866f1ccc1b,Jan,2021,heat,hold,Fargo,679.958024691358,683.2493827160494,683.2493827160494,5.0,False,False,False
 a0497410ab134c9b104bf4b5df24fa336b582cf4,Jan,2021,heat,hold,Bismarck,704.8291517323776,707.0,707.0,48.0,False,False,False

@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 019764d7b48dd9d6f1f4ad95451d7d0da2669405,feb,2021,auto,hold,Billings,698.6666666666666,730.0,690.0,5.0,False,False,False
 06941505466c4069dc9b2cd6aaf6b800a4cd5d40,feb,2021,heat,hold,Fairfield,696.5447154471544,700.0,700.0,15.0,False,False,False
 0bc51b95b2dc23713f611e182c689ad03dc2c300,feb,2021,heat,hold,Great Falls,701.9166666666666,705.2647849462365,705.2647849462365,10.0,False,False,False

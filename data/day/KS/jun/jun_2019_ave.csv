@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 007057fb45e64d4163560e034a08f5a949d56fb7,jun,2019,auto,hold,Overland Park,712.9268292682926,720.0,670.0,39.0,True,False,False
 007057fb45e64d4163560e034a08f5a949d56fb7,jun,2019,cool,auto,Overland Park,714.75,663.734375,663.15625,39.0,True,False,False
 00d2d0e5e17f6dc9a19aa132916fdc6ddacb983e,jun,2019,cool,hold,Fairway,747.9166666666666,720.8472222222222,719.5972222222222,80.0,False,False,False

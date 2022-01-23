@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 00105867bef9463f0a62d5257d0e91b8c8d19dee,jun,2020,cool,hold,Southgate,709.1676056338029,708.2056338028169,708.0591549295775,75.0,False,False,False
 001cb822602423b9453a321b872212cdf014adb1,jun,2020,auto,hold,Georgetown,744.2857142857143,765.1428571428571,644.4285714285714,10.0,True,False,True
 003e168f638289edc59e7df30f5a63ff7bae7a2e,jun,2020,auto,auto,Science Hill,700.5416666666666,710.0,660.0,5.0,True,False,True

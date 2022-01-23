@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 00020f16d85e6d8c70fc67725f03ab06b116fead,feb,2018,auto,auto,Jacksonville,750.7083333333334,760.0,660.0,5.0,False,False,True
 000901820a1c537e3432a15731cf77e975629e0e,feb,2018,auto,hold,Tampa,746.1,720.0,670.0,17.0,False,False,False
 0024f0f900a4ff6923e95a2a20ee94c699ecf167,feb,2018,cool,auto,Miami,765.2416998671979,791.1952191235059,739.9734395750332,0.0,False,False,False
@@ -444,7 +444,7 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 168372f15c2794b2a9a60809949a6b583ffca3a1,feb,2018,cool,hold,Casselberry,734.9433962264151,733.9245283018868,733.2075471698113,0.0,False,False,True
 168372f15c2794b2a9a60809949a6b583ffca3a1,feb,2018,heat,hold,Casselberry,683.1470588235294,680.0,680.0,0.0,False,False,True
 168c0ad45d9d4541edd62106ecb4e59e1f1233ee,feb,2018,auto,hold,Eustis,726.8958333333334,780.0,729.9791666666666,20.0,True,False,True
-1698c957c5fd68d8d46c637970fb76efbbf27984,feb,2018,cool,auto,Boynton Beach,673.7260869565217,693.2804347826087,655.2543478260869,10.0,False,False,False
+1698c957c5fd68d8d46c637970fb76efbbf27984,feb,2018,cool,auto,Boynton Beach,674.578021978022,694.3054945054945,654.6527472527473,10.0,False,False,False
 1698c957c5fd68d8d46c637970fb76efbbf27984,feb,2018,cool,hold,Boynton Beach,677.3136762860728,706.2013801756588,706.1198243412798,10.0,False,False,False
 169ca19d705d8c420f96079688f7242c245b571e,feb,2018,cool,hold,Lake Mary,706.6294117647059,701.7117647058824,700.8294117647059,5.0,False,False,True
 16b76f2f0d21bc5281ca5f9a5e0cb577e29ff9a0,feb,2018,cool,auto,Miami,727.4973544973545,721.7142857142857,721.0,25.0,False,False,False
@@ -2535,8 +2535,6 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 93449b8345c1b778ca6ae6dbe5b75fae6aa3cdb8,feb,2018,cool,hold,Archer,709.4444444444445,703.0555555555555,702.5,20.0,True,True,True
 93449b8345c1b778ca6ae6dbe5b75fae6aa3cdb8,feb,2018,heat,hold,Archer,673.0943396226415,655.0943396226415,655.0943396226415,20.0,True,True,True
 934ae136538dfa58e8f7912a2267a07aca85bc17,feb,2018,cool,hold,Merritt Island,739.4509803921569,740.0,740.0,7.0,False,False,False
-934cfeda0ca52e06de77a9d60af389756691df61,feb,2018,cool,auto,Pompano Beach,745.4592592592593,743.3333333333334,920.0,47.0,False,False,True
-934cfeda0ca52e06de77a9d60af389756691df61,feb,2018,cool,hold,Pompano Beach,742.1611111111112,740.0,920.0,47.0,False,False,True
 935128af91c743fc54663736791652da26b42f66,feb,2018,auto,hold,Crawfordville,700.5,709.0,690.5,8.0,True,False,True
 935128af91c743fc54663736791652da26b42f66,feb,2018,cool,auto,Crawfordville,696.53081347576,699.3410024650781,694.9843878389482,8.0,True,False,True
 935128af91c743fc54663736791652da26b42f66,feb,2018,cool,hold,Crawfordville,694.1415094339623,696.6922169811321,696.6922169811321,8.0,True,False,True
@@ -2619,7 +2617,7 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 97c518224bab3c3617f6302aa0e68e3034f7c990,feb,2018,cool,hold,Windermere,737.7708333333334,742.046875,719.9953703703703,5.0,True,False,True
 97c518224bab3c3617f6302aa0e68e3034f7c990,feb,2018,heat,auto,Windermere,688.8129496402878,737.5539568345324,682.4460431654676,5.0,True,False,True
 97c518224bab3c3617f6302aa0e68e3034f7c990,feb,2018,heat,hold,Windermere,680.0,748.0,679.0,5.0,True,False,True
-97f607a79f49d185a22caf63fd8606c83a3d29b5,feb,2018,cool,auto,Miami,673.7733990147783,692.0049261083744,643.3497536945813,10.0,False,False,False
+97f607a79f49d185a22caf63fd8606c83a3d29b5,feb,2018,cool,auto,Miami,676.7307692307693,695.7794871794872,643.0769230769231,10.0,False,False,False
 97f607a79f49d185a22caf63fd8606c83a3d29b5,feb,2018,cool,hold,Miami,667.6849775784754,712.8985426008969,649.9260089686098,10.0,False,False,False
 97fbba815d17105de52bd6bbd39bd5eb81c4178b,feb,2018,cool,auto,Gainesville,702.1376146788991,710.2807339449541,719.3119266055046,47.0,False,False,False
 97fbba815d17105de52bd6bbd39bd5eb81c4178b,feb,2018,cool,hold,Gainesville,715.0028169014084,730.0225352112676,729.8619718309859,47.0,False,False,False

@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 00a0f0ba8d5a1f94ea2806afb6c1baa70177c6c1,Jan,2021,heat,hold,Medfield,676.369240752758,673.4081765087606,673.4159636599611,37.0,False,False,False
 01a2ab82ff9b731e47a504b41b5802dbbbfaf4fa,Jan,2021,auto,hold,Winchester,716.2840764331211,810.0,720.0,90.0,False,False,False
 021bc49d2737cfc5291795252754c8c84d99fb90,Jan,2021,heat,hold,Plainville,677.7497279651795,678.59521218716,678.0957562568009,35.0,False,False,False

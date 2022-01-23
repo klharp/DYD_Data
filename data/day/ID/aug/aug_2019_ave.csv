@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 00047ac181d6c519a7980acd6dcb0fac57218cf1,aug,2019,cool,hold,Idaho Falls,737.4545454545455,730.0,730.0,7.0,False,False,False
 012d52b46213fa7b2169011049636c7a6438d977,aug,2019,cool,auto,Twin Falls,706.427178153446,708.1274382314695,708.072821846554,70.0,False,False,True
 012d52b46213fa7b2169011049636c7a6438d977,aug,2019,cool,hold,Twin Falls,719.9565217391304,718.5434782608696,718.5434782608696,70.0,False,False,True

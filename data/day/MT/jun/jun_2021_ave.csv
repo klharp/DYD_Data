@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 023f28aa735af23620c0b41b3af8a99be22cdd3c,jun,2021,cool,hold,Frenchtown,755.2258064516129,750.0,720.0,15.0,False,False,False
 0bc51b95b2dc23713f611e182c689ad03dc2c300,jun,2021,cool,hold,Great Falls,700.9925213675214,720.0,720.0,10.0,False,False,False
 1ddea499a0c0b3ce5fb3dea339db485998b50485,jun,2021,cool,hold,billings,704.5396825396825,705.1746031746031,705.1746031746031,25.0,False,False,False

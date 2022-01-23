@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 000009f677b24c7e48f1f6e36a9ab8ab83f546ba,jun,2019,auto,auto,Chicago,690.3221476510067,687.489932885906,630.0,0.0,False,False,True
 000ef89eadf430f4ec4be11295643c07969fce01,jun,2019,cool,hold,Wheaton,779.5,800.0,790.0,40.0,True,False,False
 0010ea447dc3807b33daad2477d1cc02a71571fa,jun,2019,cool,auto,Chicago,725.8987341772151,743.6962025316456,683.3417721518987,5.0,False,False,False
@@ -6012,7 +6012,7 @@ d59ac6f03e609a69da276e73602b45c187fddc6e,jun,2019,cool,auto,Chicago,732.70833333
 d59ac6f03e609a69da276e73602b45c187fddc6e,jun,2019,cool,hold,Chicago,733.360248447205,729.0931677018633,728.0869565217391,0.0,False,False,False
 d5a64c3b9055048e2370f99c061e2802a28bedd7,jun,2019,auto,hold,Darien,715.5,769.5833333333334,713.5833333333334,40.0,False,False,False
 d5b22c016dd47bf23515653282cfea189482250d,jun,2019,cool,hold,Hinsdale,739.6929982046679,741.9228007181329,741.9228007181329,0.0,False,False,False
-d5dc7c467f6fa04965ac9fe74d1c18c6bf905f3d,jun,2019,cool,auto,Schaumburg,740.4452149791956,656.2108183079057,677.9902912621359,0.0,True,False,False
+d5dc7c467f6fa04965ac9fe74d1c18c6bf905f3d,jun,2019,cool,auto,Schaumburg,740.425,656.2888888888889,678.0152777777778,0.0,True,False,False
 d5dc7c467f6fa04965ac9fe74d1c18c6bf905f3d,jun,2019,cool,hold,Schaumburg,738.3323863636364,650.2670454545455,670.0965909090909,0.0,True,False,False
 d5dc7c467f6fa04965ac9fe74d1c18c6bf905f3d,jun,2019,heat,auto,Schaumburg,764.3794326241135,761.6276595744681,762.9078014184397,0.0,True,False,False
 d5dc7c467f6fa04965ac9fe74d1c18c6bf905f3d,jun,2019,heat,hold,Schaumburg,764.9387755102041,760.0,760.0,0.0,True,False,False

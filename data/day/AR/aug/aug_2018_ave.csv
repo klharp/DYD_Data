@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 055e47c3f24cb6590f0233f081e0ffafab333544,aug,2018,cool,hold,Sherwood,719.5037037037036,717.1148148148148,716.7925925925925,5.0,True,False,True
 05f016d92aafe9576020078fc75573d087c9ab46,aug,2018,auto,auto,Little Rock,721.8461538461538,717.2115384615385,654.6153846153846,90.0,False,False,False
 05f016d92aafe9576020078fc75573d087c9ab46,aug,2018,auto,hold,Little Rock,714.7313432835821,712.1033582089552,635.6481343283582,90.0,False,False,False

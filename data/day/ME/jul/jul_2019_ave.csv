@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 04bac45f470c0fa7677e97de2a1d5d25a7488b93,jul,2019,auto,auto,Wells,738.8958333333334,780.0,640.0,5.0,True,False,False
 04bac45f470c0fa7677e97de2a1d5d25a7488b93,jul,2019,auto,hold,Wells,813.6770833333334,780.0,640.0,5.0,True,False,False
 0de75d1de6a14bfa2a7ac33b197d9f2b68cc41c8,jul,2019,heat,hold,Presque Isle,707.8106194690265,660.0176991150443,660.0176991150443,10.0,False,False,False

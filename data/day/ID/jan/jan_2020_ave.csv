@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 012d52b46213fa7b2169011049636c7a6438d977,Jan,2020,heat,auto,Twin Falls,701.7087857847977,706.2073050345508,706.2073050345508,70.0,False,False,True
 012d52b46213fa7b2169011049636c7a6438d977,Jan,2020,heat,hold,Twin Falls,696.6736842105263,700.0105263157894,700.0105263157894,70.0,False,False,True
 01e233c4fce6aabdd3f8be666d5f32f972d2a16b,Jan,2020,auto,auto,Eagle,707.5769230769231,760.0,710.0,16.0,False,False,False

@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 001ee7bc7dadf001cb59b2aad6f5ff2bc3b15d43,jun,2020,cool,hold,South Bend,721.1818181818181,720.2272727272727,720.2272727272727,50.0,False,False,False
 004a8ed2edb250a5a1c876d076227bbb8a2a2135,jun,2020,auto,auto,Fort Wayne,753.5810276679842,743.6126482213439,691.600790513834,30.0,False,False,False
 004a8ed2edb250a5a1c876d076227bbb8a2a2135,jun,2020,auto,hold,Fort Wayne,758.875,730.0,680.0,30.0,False,False,False
@@ -602,7 +602,7 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 547038d402206f844130b0c472e099bf295ffd65,jun,2020,cool,auto,Saint John,733.0922155688622,745.5149700598803,745.5149700598803,9.0,True,False,False
 547038d402206f844130b0c472e099bf295ffd65,jun,2020,cool,hold,Saint John,740.5534386617101,744.403345724907,744.403345724907,9.0,True,False,False
 547130d2332efa47c7efec9291b9c1d1c2e00a7a,jun,2020,auto,auto,Indianapolis,663.0,680.0,680.0,0.0,False,False,False
-547130d2332efa47c7efec9291b9c1d1c2e00a7a,jun,2020,cool,auto,Indianapolis,646.6690307328605,666.5295508274231,670.4089834515366,0.0,False,False,False
+547130d2332efa47c7efec9291b9c1d1c2e00a7a,jun,2020,cool,auto,Indianapolis,648.7185185185185,669.4864197530865,670.2296296296296,0.0,False,False,False
 547130d2332efa47c7efec9291b9c1d1c2e00a7a,jun,2020,cool,hold,Indianapolis,635.7529880478088,652.8207171314741,652.8207171314741,0.0,False,False,False
 5476ca548f7b63a3d2bb4e39a91690195452cce0,jun,2020,auto,auto,Marion,663.85,720.0,660.0,69.0,False,False,False
 5476ca548f7b63a3d2bb4e39a91690195452cce0,jun,2020,cool,auto,Marion,696.9198312236286,690.9240506329114,689.4683544303797,69.0,False,False,False
@@ -997,7 +997,7 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 867e5f01b3c1212170550a17fe7ba696a3b16cc0,jun,2020,auto,hold,Michigan City,732.1904761904761,749.6190476190476,698.3809523809524,30.0,True,False,False
 867e5f01b3c1212170550a17fe7ba696a3b16cc0,jun,2020,cool,auto,Michigan City,673.4,780.0,738.0,30.0,True,False,False
 867e5f01b3c1212170550a17fe7ba696a3b16cc0,jun,2020,cool,hold,Michigan City,703.9830028328612,753.7318224740321,725.4353163361662,30.0,True,False,False
-86870af0c17b25455e834b8b010cbf829c6f7745,jun,2020,cool,auto,Fort Wayne,707.5983026874115,710.7666195190948,718.2192362093352,50.0,False,False,False
+86870af0c17b25455e834b8b010cbf829c6f7745,jun,2020,cool,auto,Fort Wayne,708.6691842900302,720.4259818731118,718.7326283987916,50.0,False,False,False
 86870af0c17b25455e834b8b010cbf829c6f7745,jun,2020,cool,hold,Fort Wayne,687.7213114754098,679.1475409836065,678.7377049180328,50.0,False,False,False
 86870af0c17b25455e834b8b010cbf829c6f7745,jun,2020,heat,auto,Fort Wayne,723.1927710843373,740.0,738.8795180722891,50.0,False,False,False
 86a8704b2e4ffedd2e561ad2042efadafaa2fba5,jun,2020,cool,auto,Chesterton,718.9688473520249,737.4423676012461,737.196261682243,15.0,True,False,False

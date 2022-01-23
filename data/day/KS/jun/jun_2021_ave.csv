@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 00d2d0e5e17f6dc9a19aa132916fdc6ddacb983e,jun,2021,cool,hold,Fairway,751.9166666666666,714.25,708.25,80.0,False,False,False
 0151c36b94d654ae2ec0ae5d5693c45376258e4c,jun,2021,auto,hold,Westwood,715.1025641025641,718.0512820512821,653.9230769230769,0.0,True,False,False
 01a0d7a563a1755d37bb856a01a56e452deb2010,jun,2021,auto,hold,Olathe,708.5368421052632,719.1263157894737,667.2631578947369,30.0,False,False,False

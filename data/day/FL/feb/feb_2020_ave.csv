@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 00020f16d85e6d8c70fc67725f03ab06b116fead,feb,2020,auto,auto,Jacksonville,717.375,760.0,690.0,5.0,False,False,True
 00020f16d85e6d8c70fc67725f03ab06b116fead,feb,2020,heat,auto,Jacksonville,724.625,758.0,688.0,5.0,False,False,True
 000901820a1c537e3432a15731cf77e975629e0e,feb,2020,auto,auto,Tampa,742.3070175438596,790.0,740.0,17.0,False,False,False
@@ -1779,7 +1779,7 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 4289a0a09ebe271bc8b6deb94770e82c5183e93c,feb,2020,heat,hold,orlando,691.3888888888889,691.7530864197531,690.5864197530864,45.0,True,False,True
 428fbc71bf9cd5aab29e1aa1c2c6ece55730490e,feb,2020,cool,auto,Boynton Beach,740.9545454545455,750.0,748.0,5.0,False,False,False
 428fbc71bf9cd5aab29e1aa1c2c6ece55730490e,feb,2020,cool,hold,Boynton Beach,724.7841726618705,722.9784172661871,722.9280575539568,5.0,False,False,False
-42ab975b9585aa49c06041dc316ad2fe0944a751,feb,2020,cool,auto,Hollywood,718.6769596199525,774.2916864608076,701.2042755344418,0.0,False,False,False
+42ab975b9585aa49c06041dc316ad2fe0944a751,feb,2020,cool,auto,Hollywood,718.9546539379475,775.1236276849642,701.3054892601432,0.0,False,False,False
 42ab975b9585aa49c06041dc316ad2fe0944a751,feb,2020,cool,hold,Hollywood,719.0965034965035,742.7594405594406,742.5398601398601,0.0,False,False,False
 42b0266052657130ded6bf9429e221653cfd1bf3,feb,2020,heat,auto,Tampa,697.8,730.4,700.4,0.0,False,False,False
 42bd863d52b381779b4b4ce54a0ece39151763f9,feb,2020,cool,auto,Brandon,697.4330180042722,700.3851083307903,701.532804394263,0.0,True,False,True

@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 0004ddd9fb43232e8457ed12b578e20c5e1b33b0,aug,2017,cool,auto,Parkville,728.8333333333334,730.0,690.0,50.0,False,False,False
 00169fef3ce1e3a7aaaa39f9f28d8db467527197,aug,2017,auto,auto,Columbia,737.0260869565218,744.0347826086957,677.6,40.0,True,False,True
 004d65377c96d3ad22f52b1f4cec9f5cd105ed0a,aug,2017,cool,auto,Silver Spring,767.5141509433962,791.6933962264151,650.0047169811321,10.0,False,False,False
@@ -108,7 +108,7 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 247fbbd64b8e79c933c9a4f274ffb5612b1f9697,aug,2017,auto,hold,Waldorf,722.8065326633166,718.2562814070352,685.8467336683417,10.0,False,True,True
 24b21ea20c9016745371f972262d09eef18c9533,aug,2017,cool,auto,Joppa,815.1545189504374,830.0437317784257,680.0,10.0,False,False,False
 24b21ea20c9016745371f972262d09eef18c9533,aug,2017,cool,hold,Joppa,791.5348837209302,820.0,790.0,10.0,False,False,False
-270ef1906145491045a55c90337fe2ef22b48c00,aug,2017,cool,auto,Boyds,635.2773752012882,669.9549114331724,691.3248792270531,0.0,False,False,False
+270ef1906145491045a55c90337fe2ef22b48c00,aug,2017,cool,auto,Boyds,638.9690063810392,679.2014585232453,689.0478577939836,0.0,False,False,False
 270ef1906145491045a55c90337fe2ef22b48c00,aug,2017,cool,hold,Boyds,656.7272727272727,780.0,780.0,0.0,False,False,False
 2732c9c096c3048b800c9934ca3db84644f76292,aug,2017,cool,auto,Finksburg,731.1075268817204,740.0,714.8387096774194,30.0,True,False,True
 2732c9c096c3048b800c9934ca3db84644f76292,aug,2017,cool,hold,Finksburg,719.2910685805423,728.7049441786284,728.7049441786284,30.0,True,False,True

@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 01111a4f1b00377be5ecc305a424d92540564055,aug,2020,cool,auto,Rockwell,726.0655737704918,720.0,720.0,0.0,True,False,True
 01111a4f1b00377be5ecc305a424d92540564055,aug,2020,cool,hold,Rockwell,739.8417721518987,731.2246835443038,719.8639240506329,0.0,True,False,True
 01231fd2a32ab52081235d74998b0c2e4e9e9666,aug,2020,cool,auto,Rogers,704.7434514637904,711.0007704160247,703.3929121725732,20.0,True,False,False
@@ -266,8 +266,8 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 5470e783cd88edb5b78769999b82ae8d566f0a89,aug,2020,auto,auto,Fort Smith,697.7941176470588,694.1176470588235,632.0,0.0,False,False,False
 5470e783cd88edb5b78769999b82ae8d566f0a89,aug,2020,auto,hold,Fort Smith,699.1428571428571,698.7218045112782,631.9398496240601,0.0,False,False,False
 5472d94328999e3dd7f841ed23f08ea4b5b62623,aug,2020,auto,hold,North Little Rock,706.8316062176166,698.6036269430052,643.1528497409327,0.0,False,False,False
-54c5cdf8b3cb4b70df2ea87725ff91debefcf60c,aug,2020,cool,auto,Little Rock,664.7326732673267,666.990099009901,750.0,29.0,True,False,False
-54c5cdf8b3cb4b70df2ea87725ff91debefcf60c,aug,2020,cool,hold,Little Rock,680.1763727121464,666.450915141431,754.1148086522462,29.0,True,False,False
+54c5cdf8b3cb4b70df2ea87725ff91debefcf60c,aug,2020,cool,auto,Little Rock,666.0860215053764,672.752688172043,750.0,29.0,True,False,False
+54c5cdf8b3cb4b70df2ea87725ff91debefcf60c,aug,2020,cool,hold,Little Rock,669.6152173913043,693.3326086956522,755.3760869565217,29.0,True,False,False
 54c680871701cc0830567191011f614d08c39841,aug,2020,cool,hold,Pocahontas,690.8357142857143,692.0,692.0,70.0,False,False,False
 5549254f2d2506092b366a60cacbaa5e4af24e3c,aug,2020,auto,hold,Bay,699.6111111111111,700.0,610.0,5.0,False,False,True
 55512397b347295dc01577e2c7f7221249cce9c4,aug,2020,auto,auto,Centerton,764.1554054054054,778.668918918919,650.0,15.0,False,False,True
@@ -401,7 +401,7 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 7f27ad3835c10bfa71dc2c06b1b1d793c7a06396,aug,2020,auto,auto,Alexander,746.096866096866,743.1088319088319,679.9994301994302,0.0,True,False,True
 7fc31afe2abe857d76cd9d6ce63fc7305d6d084a,aug,2020,auto,auto,Little Rock,744.2083333333334,759.0,680.0,90.0,False,False,False
 7fc31afe2abe857d76cd9d6ce63fc7305d6d084a,aug,2020,auto,hold,Little Rock,730.4115384615385,733.9615384615385,663.5346153846153,90.0,False,False,False
-7fe1bd3322620bcbfa13a6b40205065c58fc98c4,aug,2020,cool,hold,Little Rock,664.1951219512196,638.069105691057,636.5,9.0,True,False,True
+7fe1bd3322620bcbfa13a6b40205065c58fc98c4,aug,2020,cool,hold,Little Rock,664.1877551020408,638.2897959183673,636.6204081632653,9.0,True,False,True
 7fef29f4a5ce4b371e57ff70454115f29c6e4967,aug,2020,cool,hold,Hot Springs Village,685.6685288640596,677.3947858472998,677.364990689013,28.0,False,False,True
 7ff4c24d8c0412519374c59a899d5877baf13380,aug,2020,cool,hold,Harrison,654.0713792309464,652.71793690997,652.71793690997,39.0,True,False,False
 810258fb51eae880019f4bb140ed23c3909c27a9,aug,2020,cool,auto,Centerton,716.1641791044776,698.4776119402985,696.9203980099503,17.0,False,False,False

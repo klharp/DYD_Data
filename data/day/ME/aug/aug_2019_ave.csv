@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 1d304ddb5cf7d6f5b8647e4879eb51593cc62ad1,aug,2019,heat,hold,Newburgh,712.4475847893115,650.0,620.0,40.0,False,False,False
 2316df6722d1555921d3e51c36f1bb2cd3ffa41d,aug,2019,heat,auto,Bangor,725.665371809101,650.0,610.0,60.0,False,False,False
 38618e0152941e18a31c699f121721d267397df7,aug,2019,heat,hold,Old Town,729.0,741.0,649.0,50.0,False,False,False

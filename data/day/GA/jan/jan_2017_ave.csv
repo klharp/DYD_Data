@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 0070efdb5ff09d96c8cc5aab956ed49ef5b838b1,Jan,2017,auto,auto,Duluth,749.800539083558,780.0,750.0,0.0,False,False,False
 0070efdb5ff09d96c8cc5aab956ed49ef5b838b1,Jan,2017,auto,hold,Duluth,767.3968253968254,799.8968253968254,769.8968253968254,0.0,False,False,False
 007b945172cb726b360ffa1ab95f88d706fe99ac,Jan,2017,heat,auto,Marietta,671.0833333333334,687.75,680.6666666666666,20.0,False,False,False

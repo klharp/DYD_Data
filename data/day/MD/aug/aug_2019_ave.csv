@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 00146b92aa45248f15537bd507a76c650e898d53,aug,2019,cool,auto,Annapolis,716.4466019417475,710.247572815534,697.3009708737864,30.0,True,False,True
 00146b92aa45248f15537bd507a76c650e898d53,aug,2019,cool,hold,Annapolis,714.7741935483871,699.0,699.0,30.0,True,False,True
 00155eb6bd323271f1175e39fe7dea89a76eeb83,aug,2019,cool,auto,Columbia,771.3301886792453,770.0849056603773,769.2830188679245,49.0,True,False,False
@@ -1028,7 +1028,7 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 4db0d353b9b62d2ffb21f3f8b26ac8fe4b122113,aug,2019,auto,hold,Baltimore,768.5514705882352,754.5588235294117,668.9191176470588,19.0,False,False,True
 4dca4e576aac729c6ee6f0875f8cdd4ca446ca0a,aug,2019,auto,auto,Reisterstown,718.6892617449664,732.3926174496644,670.0,25.0,True,False,True
 4dca4e576aac729c6ee6f0875f8cdd4ca446ca0a,aug,2019,auto,hold,Reisterstown,724.828530259366,743.4956772334294,670.0,25.0,True,False,True
-4dd52ea60e005ca8672cd55fd9bc92a867e9fab5,aug,2019,cool,auto,Baltimore,746.1499330655957,735.5542168674699,748.7202141900937,100.0,False,False,False
+4dd52ea60e005ca8672cd55fd9bc92a867e9fab5,aug,2019,cool,auto,Baltimore,746.0636758321274,749.2720694645442,751.6078147612156,100.0,False,False,False
 4dd52ea60e005ca8672cd55fd9bc92a867e9fab5,aug,2019,cool,hold,Baltimore,747.502994011976,741.0219560878244,741.0219560878244,100.0,False,False,False
 4dd5d40f4e4a5dfd1f282d648f9965169b00247b,aug,2019,cool,hold,Silver Spring,715.7950819672132,712.7786885245902,712.7786885245902,40.0,False,False,False
 4df03fe009258f4c4c0783ebd97faf797e8ef135,aug,2019,cool,auto,Bel Air,768.7758620689655,800.1724137931035,800.1724137931035,10.0,False,False,False
@@ -1353,7 +1353,7 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 6826e24fcc87532a46def4ce5ecd51c04c68a268,aug,2019,cool,hold,Severna Park,705.1720430107526,704.516129032258,704.516129032258,5.0,False,False,False
 682e56e252a03e67fe36134c0fe6f2913d1be2fa,aug,2019,cool,auto,Odenton,761.934405940594,791.2908415841584,780.7178217821782,9.0,False,False,False
 682e56e252a03e67fe36134c0fe6f2913d1be2fa,aug,2019,cool,hold,Odenton,765.2794550810015,792.0692194403534,783.9469808541974,9.0,False,False,False
-682e5d0ed472dfb6dff79d4b08bf4225e915a769,aug,2019,cool,auto,Burtonsville,800.4855687606112,595.9932088285229,683.5738539898132,28.0,True,False,True
+682e5d0ed472dfb6dff79d4b08bf4225e915a769,aug,2019,cool,auto,Burtonsville,799.5064599483204,620.0,675.0,28.0,True,False,True
 684098ffd9d9dd48dd5cfd7c7c95cd467358c904,aug,2019,cool,auto,Owings Mills,733.4896073903002,735.6374133949191,709.0,20.0,False,False,True
 684098ffd9d9dd48dd5cfd7c7c95cd467358c904,aug,2019,cool,hold,Owings Mills,738.5498995311453,759.8633623576691,709.0,20.0,False,False,True
 6846e05bb3bf85843af23e5006c4689dda708f08,aug,2019,cool,auto,Gambrills,733.9761904761905,734.2857142857143,725.7142857142857,5.0,False,False,False

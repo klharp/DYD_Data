@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 015c5b19f842d6361568129bab20f692ecb5ba98,feb,2017,heat,auto,South Charleston,682.6333333333333,680.2666666666667,679.9,10.0,True,False,True
 015c5b19f842d6361568129bab20f692ecb5ba98,feb,2017,heat,hold,South Charleston,684.2450980392157,680.0,680.0,10.0,True,False,True
 0294595998430fa9228ff8b203c54f8378f9560c,feb,2017,auto,auto,Huntington,719.5932914046122,727.2599580712788,707.2976939203354,0.0,False,False,False
@@ -11,8 +11,7 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 0bba27d3be343a725816c693e1fb53486f65c7b9,feb,2017,auto,auto,Morgantown,688.3333333333334,740.0,690.0,45.0,False,False,False
 1fd7def9414b33a56954346cad6ad53d4e72558b,feb,2017,auto,hold,Charleston,681.8450184501845,738.60024600246,679.7416974169741,25.0,True,False,True
 23ea815e8d635bf755b4f45c8594fba04bf97e35,feb,2017,auto,hold,Morgantown,686.1458831568159,740.0,676.5609839426033,0.0,False,False,False
-2a6d52403ea1f70dc88bf0f4e65a55eb79e86307,feb,2017,heat,auto,Valley Head,639.1147540983607,760.0,600.0,15.0,False,False,False
-2b5e3272f28cb85110dd1e9980407782eac5c7bd,feb,2017,auto,auto,Morgantown,694.6092715231788,746.0,670.1523178807947,5.0,False,False,False
+2b5e3272f28cb85110dd1e9980407782eac5c7bd,feb,2017,auto,auto,Morgantown,703.5537190082645,747.4876033057851,687.5454545454545,5.0,False,False,False
 2b5e3272f28cb85110dd1e9980407782eac5c7bd,feb,2017,auto,hold,Morgantown,684.2818181818182,813.5909090909091,685.8181818181819,5.0,False,False,False
 36a6eea1de28b712fe8c429a3f35722814041d48,feb,2017,heat,auto,Beckley,686.3939393939394,706.060606060606,706.060606060606,16.0,False,False,False
 36a6eea1de28b712fe8c429a3f35722814041d48,feb,2017,heat,hold,Beckley,666.7884615384615,670.0,670.0,16.0,False,False,False
@@ -23,7 +22,7 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 3b074e7845f1ba41db95040d361a0e57ef376561,feb,2017,auto,hold,Charleston,703.3899371069182,749.6855345911949,682.7044025157232,25.0,False,False,True
 4d2d2b09b53a479ced061b0225d0e510345371bc,feb,2017,heat,auto,Huntington,659.9311111111111,751.4,652.1488888888889,80.0,False,False,False
 4d2d2b09b53a479ced061b0225d0e510345371bc,feb,2017,heat,hold,Huntington,668.4886363636364,670.0,670.0,80.0,False,False,False
-4dce5928bbfcbe0aa3325f543471a41c701d65b2,feb,2017,heat,hold,Morgantown,668.9737991266376,659.1746724890829,652.9126637554585,50.0,False,False,False
+4dce5928bbfcbe0aa3325f543471a41c701d65b2,feb,2017,heat,hold,Morgantown,668.1699029126214,660.1990291262136,659.9368932038835,50.0,False,False,False
 52c29ff29757cf8ad28daf7a576ff0153eddb0ad,feb,2017,auto,auto,Charleston,718.5714285714286,720.0,670.0,45.0,False,False,True
 5b63c7e159b95b51613a8b3c23a6c29d61629a69,feb,2017,auto,auto,Huntington,683.1111943092475,733.8876825159116,680.5619618120554,50.0,False,False,True
 5b63c7e159b95b51613a8b3c23a6c29d61629a69,feb,2017,cool,auto,Huntington,692.7948717948718,712.0192307692307,670.6538461538462,50.0,False,False,True
@@ -58,7 +57,7 @@ c998ac7f2a3614951b7cf94765c8bfc3bac73d03,feb,2017,heat,hold,Morgantown,703.22916
 dbffb0ed7afef29432989be18bde0806ceacef4f,feb,2017,heat,auto,Martinsburg,689.6060606060606,689.3030303030303,684.6363636363636,10.0,False,False,False
 e3ac2724c88ea899b680fbe05317441945a88774,feb,2017,heat,hold,Weirton,675.6379310344828,675.9145114942529,675.903735632184,50.0,False,False,False
 e855d8cb49782f619454ef8dd5fbe3e3653bb4ab,feb,2017,auto,auto,Huntington,703.0355329949239,775.1776649746192,671.6446700507614,40.0,False,False,True
-e855d8cb49782f619454ef8dd5fbe3e3653bb4ab,feb,2017,auto,hold,Huntington,704.5149253731344,771.6679104477612,683.8470149253732,40.0,False,False,True
+e855d8cb49782f619454ef8dd5fbe3e3653bb4ab,feb,2017,auto,hold,Huntington,705.164,771.788,692.764,40.0,False,False,True
 e9ed8e4d3dfed58bcfc5c134ef335dc1a39bbbc7,feb,2017,heat,hold,South Charleston,685.358024691358,687.6543209876543,687.4074074074074,10.0,False,False,False
 f3b865a8ea305b2afa22e5280eed5786274340b3,feb,2017,auto,auto,Lerona,669.0,737.0,685.0,35.0,False,False,True
-ffe671086af78d223bc2967b5d8ce02eeb5dbede,feb,2017,heat,auto,Huntington,609.4563106796116,650.1699029126214,604.6116504854369,20.0,True,True,True
+ffe671086af78d223bc2967b5d8ce02eeb5dbede,feb,2017,heat,auto,Huntington,649.75,651.75,647.5,20.0,True,True,True

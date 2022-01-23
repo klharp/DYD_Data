@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 021bc49d2737cfc5291795252754c8c84d99fb90,jun,2017,heat,auto,Plainville,697.9239130434783,699.945652173913,699.945652173913,35.0,False,False,False
 021bc49d2737cfc5291795252754c8c84d99fb90,jun,2017,heat,hold,Plainville,713.7948717948718,710.0,710.0,35.0,False,False,False
 02382555cf0333ff1ad92861205814fd74616f88,jun,2017,cool,hold,South Hadley,807.1428571428571,760.0,680.0,55.0,False,False,False
@@ -4756,7 +4756,7 @@ fffa05184379d65eec4deeb00b14374669d0ff1e,jun,2019,cool,hold,Salem,709.5294117647
 216104883265e2a6bbe4039b2e91e84c28f356af,jun,2020,cool,hold,Cambridge,730.7083333333335,773.125,773.125,5.0,False,False,False
 219e31f25223d0815770a46a157a0ce982192161,jun,2020,cool,auto,Indian Orchard,752.1388888888888,747.7777777777777,680.0,90.0,True,False,False
 219e31f25223d0815770a46a157a0ce982192161,jun,2020,cool,hold,Indian Orchard,745.4222222222223,741.162962962963,719.3777777777777,90.0,True,False,False
-21d6010ac427902cb4dddef3951db42cdbfee6b4,jun,2020,cool,auto,Tewksbury,741.2717647058822,776.5352941176469,696.9858823529413,0.0,True,False,False
+21d6010ac427902cb4dddef3951db42cdbfee6b4,jun,2020,cool,auto,Tewksbury,741.4921592279857,782.7080820265379,698.1761158021714,0.0,True,False,False
 21d6010ac427902cb4dddef3951db42cdbfee6b4,jun,2020,cool,hold,Tewksbury,725.2001763668429,794.4259259259261,792.6146384479719,0.0,True,False,False
 21e27e04afd16d29a56db1af9098a944457f7d57,jun,2020,auto,auto,Weymouth,724.8080568720378,738.3791469194313,640.0,60.0,True,False,False
 21e27e04afd16d29a56db1af9098a944457f7d57,jun,2020,auto,hold,Weymouth,716.5214521452145,736.6844884488447,640.6204620462046,60.0,True,False,False

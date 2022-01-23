@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 005b44ffe2812f645179dccec3443da1ec58a68d,jul,2021,auto,hold,Kirkwood,738.0210970464135,730.954641350211,677.82805907173,0.0,False,False,False
 008c4f598020b4161f9e0ee6c31c8f02b87b8a9c,jul,2021,auto,hold,Springfield,712.25,702.75,649.0,25.0,False,False,False
 01ba0147c60a7211c7aaed335054b4ab06051e35,jul,2021,cool,hold,Wildwood,748.9135135135135,750.0756756756757,729.7621621621622,30.0,True,False,True

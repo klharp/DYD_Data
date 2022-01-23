@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 0057524413acccb390d3a4ee0ba2e74236f02e98,Jan,2019,auto,auto,Raleigh,687.227027027027,760.2702702702703,690.0486486486486,10.0,False,False,False
 007cdd82d7747e9a85dfc0616574a29adc8b5804,Jan,2019,heat,hold,Woodcroft,698.9833333333333,706.8439393939394,706.8136363636364,35.0,True,False,True
 00bbbdb5c3b6cb8b9e78191017ecdb97dad87e47,Jan,2019,auto,auto,Jacksonville,668.1493975903614,786.4746987951808,663.5228915662651,5.0,False,False,True
@@ -1752,7 +1752,6 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 7f6c0ce85a5aa458320181ab1dc460e351075cbd,Jan,2019,heat,auto,Garner,740.4477611940298,743.3880597014926,742.5074626865671,0.0,False,False,True
 7f6c0ce85a5aa458320181ab1dc460e351075cbd,Jan,2019,heat,hold,Garner,727.55,716.4,715.15,0.0,False,False,True
 7f8cc6e555b198752ab86b140623d30301ecd3d1,Jan,2019,auto,hold,Raleigh,710.3371356147021,779.8339670468948,709.7427122940431,25.0,False,False,False
-7fc44e51462fa126192e660c08ad0c117bd4dd44,Jan,2019,heat,hold,Cornelius,697.2064516129033,600.0,681.3354838709678,10.0,False,False,True
 7fda2c15e2cfe1533186145fb9c7459c4b34c659,Jan,2019,auto,auto,Garner,693.5483870967741,732.3790322580645,701.491935483871,0.0,True,False,True
 7fda2c15e2cfe1533186145fb9c7459c4b34c659,Jan,2019,auto,hold,Garner,690.1046511627907,731.4418604651163,695.1395348837209,0.0,True,False,True
 7ff18b9af4e0f9ff6bd2f1decba6aede729b1529,Jan,2019,heat,auto,High Point,704.7710843373494,740.0,700.0,15.0,False,False,False

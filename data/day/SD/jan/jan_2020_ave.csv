@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 011eb806f7782fc048072fabfb035b54f5d71e67,Jan,2020,auto,auto,Sioux Falls,640.3846153846154,740.0,643.6923076923077,100.0,False,False,False
 011eb806f7782fc048072fabfb035b54f5d71e67,Jan,2020,auto,hold,Sioux Falls,664.2875,740.0,670.6,100.0,False,False,False
 045e533587d8a51c00e08e459243ce7ec3cbaaf9,Jan,2020,heat,auto,Rapid City,699.7529411764706,742.2470588235294,693.4823529411765,70.0,True,False,False
@@ -24,7 +24,7 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 29821fb5f84f8a985543e886c07d5df89e0ff431,Jan,2020,heat,hold,Rapid City,686.7439024390244,692.0426829268292,691.890243902439,5.0,False,False,False
 2d3155f570e0548c9209e96ad6a85ea7ff90b5fa,Jan,2020,heat,auto,Sioux Falls,678.0769230769231,700.0,700.0,0.0,False,False,False
 2e3f052d974a5f34ab5e4a430a975718633a71c5,Jan,2020,heat,auto,Sisseton,676.7901234567901,692.8271604938271,692.0092592592592,40.0,False,False,False
-2e3f052d974a5f34ab5e4a430a975718633a71c5,Jan,2020,heat,hold,Sisseton,549.140770791075,674.0024340770791,538.4649087221095,40.0,False,False,False
+2e3f052d974a5f34ab5e4a430a975718633a71c5,Jan,2020,heat,hold,Sisseton,692.0283505154639,695.4278350515464,695.0025773195877,40.0,False,False,False
 2f9a16dd49a7a56c5d2e1747bad9d2569792cc33,Jan,2020,heat,auto,Sioux Falls,696.1266666666667,735.2133333333334,678.8266666666667,5.0,False,False,False
 30a50f3df07d56b578fdf38b93291e6860f389ad,Jan,2020,heat,auto,Sioux Falls,684.1666666666666,690.0,690.0,45.0,False,False,False
 30a50f3df07d56b578fdf38b93291e6860f389ad,Jan,2020,heat,hold,Sioux Falls,676.0,680.0,680.0,45.0,False,False,False
@@ -55,7 +55,7 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 8930281824f3ef2ac371723900928c198a63c348,Jan,2020,heat,auto,Sioux Falls,683.3884803921569,690.4129901960785,688.4227941176471,10.0,False,False,False
 8930281824f3ef2ac371723900928c198a63c348,Jan,2020,heat,hold,Sioux Falls,682.590395480226,687.9463276836158,687.9463276836158,10.0,False,False,False
 89c72f65d234f95357466f70532bce6def19cc8f,Jan,2020,heat,auto,Deadwood,570.0,656.0,621.0,20.0,True,False,True
-89c72f65d234f95357466f70532bce6def19cc8f,Jan,2020,heat,hold,Deadwood,562.964664310954,650.0,571.5995288574794,20.0,True,False,True
+89c72f65d234f95357466f70532bce6def19cc8f,Jan,2020,heat,hold,Deadwood,638.0,650.0,645.0,20.0,True,False,True
 8c172a33b834bb76e457626c4e1c02eeb8f19e34,Jan,2020,heat,auto,Rapid City,651.8797729618163,660.0753353973168,653.21826625387,70.0,False,False,False
 8c172a33b834bb76e457626c4e1c02eeb8f19e34,Jan,2020,heat,hold,Rapid City,656.8520710059172,660.2130177514792,659.2307692307693,70.0,False,False,False
 8c270e6d5c14b9d44168564cf0a1b46c8ff248a2,Jan,2020,heat,hold,Brookings,708.4,720.0,719.9411764705883,50.0,True,False,True
@@ -81,7 +81,7 @@ b7a937656f2e9c6d008fad41ee6ebe74772ef66d,Jan,2020,heat,hold,Sioux Falls,710.0,71
 b85c56de18e4a72130aca98705afa5ffa398ffc5,Jan,2020,heat,hold,Brookings,695.7289300657502,698.8652121936641,698.8652121936641,10.0,False,False,False
 ba6e220a85539b203580b1486b6e183220f6488c,Jan,2020,auto,auto,Sioux Falls,662.3235294117648,710.0,660.0,0.0,False,False,False
 ba6e220a85539b203580b1486b6e183220f6488c,Jan,2020,auto,hold,Sioux Falls,662.4,714.2352941176471,662.9058823529411,0.0,False,False,False
-ba824fb3fced9de90a39628266d6ba8bdc24270c,Jan,2020,heat,hold,Rapid City,685.873381294964,680.3151079136691,676.221582733813,5.0,False,False,False
+ba824fb3fced9de90a39628266d6ba8bdc24270c,Jan,2020,heat,hold,Rapid City,686.5220030349013,681.9711684370258,680.4514415781487,5.0,False,False,False
 c3cc30e0e8e9481f56d2d8ccb8875ffd6e58c48d,Jan,2020,heat,hold,Rapid City,689.2352941176471,695.0,695.0,55.0,False,False,False
 c569b776f9ecb947ab7a457398e9949d6f68d7f3,Jan,2020,heat,hold,Elkton,681.95,686.475,686.25,19.0,False,False,False
 cc7492974b078d6eceba17e49929a139635baebb,Jan,2020,heat,hold,Yankton,704.3176470588236,706.3529411764706,706.3529411764706,45.0,False,False,False

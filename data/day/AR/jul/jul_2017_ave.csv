@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 07232c051ae191506a33f7b2cf57703c45edc81a,jul,2017,auto,hold,Little Rock,761.0,730.0,730.0,45.0,False,False,False
 07232c051ae191506a33f7b2cf57703c45edc81a,jul,2017,cool,auto,Little Rock,740.2314814814815,737.1851851851852,667.8425925925926,45.0,False,False,False
 07232c051ae191506a33f7b2cf57703c45edc81a,jul,2017,cool,hold,Little Rock,726.7402957486137,724.7978280961183,724.8019870609982,45.0,False,False,False
@@ -343,8 +343,8 @@ d0c65ed8121aae6b678191fc1ae4edaeda729288,jul,2017,cool,hold,Little Rock,780.8839
 d29d4a30656fe8d8339f19c788a5a76f83fb5a16,jul,2017,auto,hold,Little Rock,707.3333333333334,718.3333333333334,716.0,0.0,False,False,False
 d29d4a30656fe8d8339f19c788a5a76f83fb5a16,jul,2017,cool,auto,Little Rock,720.6274509803922,732.6862745098039,720.0,0.0,False,False,False
 d29d4a30656fe8d8339f19c788a5a76f83fb5a16,jul,2017,cool,hold,Little Rock,716.0250847457627,722.9823728813559,722.9938983050847,0.0,False,False,False
-d2aeae56b5aedc55ce1e17b960ad2d3ba94ca002,jul,2017,cool,auto,El Dorado,626.3582677165355,605.0472440944882,633.9448818897638,0.0,False,False,False
-d2aeae56b5aedc55ce1e17b960ad2d3ba94ca002,jul,2017,cool,hold,El Dorado,660.5686433793663,653.0032493907393,652.9930950446791,0.0,False,False,False
+d2aeae56b5aedc55ce1e17b960ad2d3ba94ca002,jul,2017,cool,auto,El Dorado,616.9910714285714,611.4464285714286,646.8035714285714,0.0,False,False,False
+d2aeae56b5aedc55ce1e17b960ad2d3ba94ca002,jul,2017,cool,hold,El Dorado,660.5615603413247,653.0247866720845,653.0105648110524,0.0,False,False,False
 d2d3255efc20ac25be79df100d9cc3a04706f1a3,jul,2017,cool,hold,Springdale,691.3297385620915,686.0522875816994,686.0522875816994,25.0,False,False,False
 d35dc5d2c672d0579d18a460c4aec33297c067e3,jul,2017,cool,auto,Little Rock,701.6746987951807,701.0883534136547,677.277108433735,15.0,False,False,False
 d35dc5d2c672d0579d18a460c4aec33297c067e3,jul,2017,cool,hold,Little Rock,719.6385350318471,719.1958598726114,719.0875796178344,15.0,False,False,False

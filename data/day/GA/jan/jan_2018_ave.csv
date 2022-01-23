@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 002928222f5a2b5cfeba53f3aca5d5f24f6c4fe8,Jan,2018,heat,auto,Columbus,722.1744186046511,723.7819767441861,723.7819767441861,40.0,False,False,False
 002928222f5a2b5cfeba53f3aca5d5f24f6c4fe8,Jan,2018,heat,hold,Columbus,718.7077385424493,718.297520661157,718.297520661157,40.0,False,False,False
 00474e9c5a4122916b24150ad706014b0c17eb90,Jan,2018,cool,hold,Newnan,728.8,701.2,701.2,10.0,False,False,False
@@ -2002,7 +2002,7 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 9b58ebba3cf9da14528f79cf0845f4fd768519ab,Jan,2018,auxHeatOnly,hold,Ringgold,653.0,720.0,720.0,0.0,False,False,True
 9b58ebba3cf9da14528f79cf0845f4fd768519ab,Jan,2018,cool,auto,Ringgold,619.7837837837837,638.6216216216217,648.2702702702703,0.0,False,False,True
 9b58ebba3cf9da14528f79cf0845f4fd768519ab,Jan,2018,cool,hold,Ringgold,628.5333333333333,628.4666666666667,628.05,0.0,False,False,True
-9b58ebba3cf9da14528f79cf0845f4fd768519ab,Jan,2018,heat,auto,Ringgold,657.594315245478,650.8927648578812,651.7790697674419,0.0,False,False,True
+9b58ebba3cf9da14528f79cf0845f4fd768519ab,Jan,2018,heat,auto,Ringgold,657.7657894736842,651.8302631578947,651.8118421052632,0.0,False,False,True
 9b58ebba3cf9da14528f79cf0845f4fd768519ab,Jan,2018,heat,hold,Ringgold,649.7089235127479,641.300283286119,641.2287535410765,0.0,False,False,True
 9b5debc97c155ed6f5978fde3cf5f54927e54864,Jan,2018,auxHeatOnly,auto,Atlanta,723.6774193548387,733.5645161290323,730.5806451612904,20.0,True,False,True
 9b5debc97c155ed6f5978fde3cf5f54927e54864,Jan,2018,auxHeatOnly,hold,Atlanta,724.0,737.5,730.0,20.0,True,False,True

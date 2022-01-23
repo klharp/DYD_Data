@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 00105867bef9463f0a62d5257d0e91b8c8d19dee,Jan,2020,heat,auto,Southgate,644.75,650.0,650.0,75.0,False,False,False
 00105867bef9463f0a62d5257d0e91b8c8d19dee,Jan,2020,heat,hold,Southgate,638.9870967741936,650.0193548387097,643.741935483871,75.0,False,False,False
 003e168f638289edc59e7df30f5a63ff7bae7a2e,Jan,2020,heat,auto,Science Hill,729.3333333333334,735.3137254901961,735.1691176470588,5.0,True,False,True
@@ -654,7 +654,7 @@ d95059ac98d01c9a116b5c785d58b3f43fb8a979,Jan,2020,auto,hold,Bowling Green,700.54
 d95059ac98d01c9a116b5c785d58b3f43fb8a979,Jan,2020,heat,hold,Bowling Green,712.8796992481203,719.984962406015,719.812030075188,49.0,True,False,False
 d9803db4274457b5877257abdede0402797d20a0,Jan,2020,auxHeatOnly,hold,Mammoth Cave,717.421052631579,677.3684210526316,714.4736842105264,29.0,True,False,True
 d9803db4274457b5877257abdede0402797d20a0,Jan,2020,cool,hold,Mammoth Cave,666.7919075144508,653.4393063583815,700.0,29.0,True,False,True
-d9803db4274457b5877257abdede0402797d20a0,Jan,2020,heat,hold,Mammoth Cave,669.2492492492493,662.7477477477478,743.7987987987988,29.0,True,False,True
+d9803db4274457b5877257abdede0402797d20a0,Jan,2020,heat,hold,Mammoth Cave,669.4397590361446,663.0873493975904,743.9307228915662,29.0,True,False,True
 d98d513c6707e05f203062e422113e83d2d10dab,Jan,2020,heat,hold,Highland Heights,672.2658064516129,678.5958064516129,678.5958064516129,60.0,False,False,False
 d9adb74fe85e79edfa2c839257fb03f2dcdce341,Jan,2020,auto,hold,Louisville,699.5972222222222,760.0,701.4833333333333,0.0,True,False,False
 da1b9dd5d92b28461a0e77e594f5a3f0121901e8,Jan,2020,heat,auto,Louisville,653.2862745098039,650.0,650.0,20.0,False,False,False

@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 0037b13de2c1ea596b8c97cc09d202a5e8ceeeae,jul,2018,cool,auto,Waverly,717.9782433521353,732.2046736502821,721.6059629331185,10.0,False,False,False
 0037b13de2c1ea596b8c97cc09d202a5e8ceeeae,jul,2018,cool,hold,Waverly,735.8454545454546,779.0914438502674,779.0941176470589,10.0,False,False,False
 02d6f92c8b43e6f08da8a2b7efe50c30bab0dcc7,jul,2018,cool,auto,maquoketa,729.2273764258555,733.3490494296578,733.3490494296578,70.0,False,False,False

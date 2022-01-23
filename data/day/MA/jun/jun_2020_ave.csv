@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 0001dfcbc22d23f9170714d0e3428f14b2626276,jun,2020,heat,auto,New Bedford,730.174193548387,660.0,660.0,0.0,False,False,False
 00a8aafaecdc1226b60ab865f4741b02e5fec578,jun,2020,cool,auto,Westwood,751.0588235294117,751.2941176470588,680.0,5.0,False,False,False
 00a8aafaecdc1226b60ab865f4741b02e5fec578,jun,2020,cool,hold,Westwood,734.0,734.5,712.0,5.0,False,False,False
@@ -254,7 +254,7 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 216104883265e2a6bbe4039b2e91e84c28f356af,jun,2020,cool,hold,Cambridge,730.7083333333334,773.125,773.125,5.0,False,False,False
 219e31f25223d0815770a46a157a0ce982192161,jun,2020,cool,auto,Indian Orchard,752.1388888888889,747.7777777777778,680.0,90.0,True,False,False
 219e31f25223d0815770a46a157a0ce982192161,jun,2020,cool,hold,Indian Orchard,745.4222222222222,741.162962962963,719.3777777777777,90.0,True,False,False
-21d6010ac427902cb4dddef3951db42cdbfee6b4,jun,2020,cool,auto,Tewksbury,741.2717647058823,776.535294117647,696.9858823529412,0.0,True,False,False
+21d6010ac427902cb4dddef3951db42cdbfee6b4,jun,2020,cool,auto,Tewksbury,741.4921592279856,782.708082026538,698.1761158021712,0.0,True,False,False
 21d6010ac427902cb4dddef3951db42cdbfee6b4,jun,2020,cool,hold,Tewksbury,725.200176366843,794.425925925926,792.6146384479717,0.0,True,False,False
 21e27e04afd16d29a56db1af9098a944457f7d57,jun,2020,auto,auto,Weymouth,724.8080568720379,738.3791469194313,640.0,60.0,True,False,False
 21e27e04afd16d29a56db1af9098a944457f7d57,jun,2020,auto,hold,Weymouth,716.5214521452145,736.6844884488448,640.6204620462046,60.0,True,False,False

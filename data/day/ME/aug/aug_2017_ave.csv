@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 a86f074cd58d2ce47d145a5ddf4492c1acca3635,aug,2017,heat,auto,South Portland,727.1666666666666,780.0,640.0,85.0,False,False,False
 aeb6a66ea9334f71ba2b04f324a9a0cb61776743,aug,2017,heat,auto,Greenville,719.4583333333334,730.4166666666666,729.3333333333334,35.0,False,False,False
 aeb6a66ea9334f71ba2b04f324a9a0cb61776743,aug,2017,heat,hold,Greenville,709.0206117021277,656.4900265957447,642.9787234042553,35.0,False,False,False

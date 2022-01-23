@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 00036e2921e77921dc23f39cecd8ef0ef80ba076,feb,2021,auto,hold,Indio,688.0014888337469,725.5260545905708,665.7265508684864,10.0,False,False,False
 0007af61e41e5121b78d434fbe95d99398501ef7,feb,2021,auto,hold,Chula Vista,687.6964285714286,751.4955357142857,688.4925595238095,10.0,False,False,False
 002aab87db1d9e8ce470f80f23c97c59de5f4dcd,feb,2021,heat,hold,San Marcos,699.0,777.0,680.0,15.0,False,False,False
@@ -2943,7 +2943,7 @@ bd7f480ca60db995f743e3c65b24a24f1871a5a1,feb,2021,heat,hold,Dunnigan,747.8954545
 bd88475e73281a80d01984c689fe3903d5316955,feb,2021,auto,hold,Culver City,701.8357536304457,738.029043565348,693.0050075112669,99.0,False,False,False
 bd990b12ff6016c80fb9c7a156710f9525838d33,feb,2021,auto,hold,Madera,697.3414634146342,760.0,700.0,0.0,False,False,False
 bdb34a57aae88532ed3a5a21de4024a933cced25,feb,2021,heat,hold,Rancho Cordova,734.1538461538462,710.0,710.0,0.0,False,False,False
-bdc9c9f5e42a2f72b28b22e16acffe620280381b,feb,2021,heat,hold,Antelope,695.9943820224719,701.0800561797753,705.4550561797753,0.0,False,False,False
+bdc9c9f5e42a2f72b28b22e16acffe620280381b,feb,2021,heat,hold,Antelope,696.1925820256776,700.4850213980028,701.5534950071327,0.0,False,False,False
 bddaf21c320037ca753573deaaf576b318653a2c,feb,2021,heat,hold,Santa Clarita,708.7111111111111,714.8333333333334,712.3666666666667,15.0,False,False,False
 bdeb965acc9508c79a81cf360728aaa8ce15c350,feb,2021,heat,hold,Riverside,691.4137931034483,688.551724137931,688.551724137931,45.0,False,False,False
 bdec2c4fcf823e595129e7786f16bb9615745376,feb,2021,heat,hold,Valley Center,666.270093457944,659.6897196261682,651.9906542056075,40.0,False,False,True

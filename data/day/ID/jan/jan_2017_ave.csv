@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 01e233c4fce6aabdd3f8be666d5f32f972d2a16b,Jan,2017,auto,auto,Eagle,697.392,800.0,700.0,16.0,False,False,False
 01e233c4fce6aabdd3f8be666d5f32f972d2a16b,Jan,2017,auto,hold,Eagle,706.8333333333334,760.0,710.0,16.0,False,False,False
 03914e1be819896420f0a91bd59ce372eec7961d,Jan,2017,heat,auto,twin falls,698.3333333333334,788.3333333333334,708.3333333333334,10.0,False,False,False

@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 38618e0152941e18a31c699f121721d267397df7,jul,2018,heat,hold,Old Town,707.6348949919225,650.0,630.0,50.0,False,False,False
 4fa233be8e86fb6bd5974dab5a30e5ab2bab2878,jul,2018,heat,hold,Shirley Mills,709.4594594594595,651.081081081081,621.7297297297297,80.0,False,False,False
 590487e13b23b41e232cab63f588978494880281,jul,2018,auto,auto,Portland,751.8070175438596,777.1052631578947,671.438596491228,15.0,False,False,False

@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 011eb806f7782fc048072fabfb035b54f5d71e67,feb,2017,auto,hold,Sioux Falls,667.9,744.6,679.1,100.0,False,False,False
 045e533587d8a51c00e08e459243ce7ec3cbaaf9,feb,2017,auto,auto,Rapid City,632.5235294117647,819.5294117647059,640.7058823529412,70.0,True,False,False
 0968b16b919c5e8b72ff8de3bda124068f7f322d,feb,2017,auto,hold,Sioux Falls,687.4166666666666,770.0,690.0,0.0,False,False,False
@@ -7,12 +7,11 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 18cd13efb32ea1f3caa01bc30656d0afbe3d1413,feb,2017,heat,hold,Sioux Falls,679.84,679.1866666666666,678.7466666666667,16.0,False,False,False
 442bbae1b4d42fdbfed83178e3a7f95b0e305c58,feb,2017,heat,auto,Sioux Falls,682.0914127423823,681.5318559556787,681.3074792243767,75.0,False,False,False
 442bbae1b4d42fdbfed83178e3a7f95b0e305c58,feb,2017,heat,hold,Sioux Falls,686.9341825902335,688.4161358811041,688.4161358811041,75.0,False,False,False
-45a85784a761b7df6242c82ee3b01c01c9d4b647,feb,2017,auto,auto,Hayti,620.5666666666667,750.0,600.0,8.0,True,False,True
 45a85784a761b7df6242c82ee3b01c01c9d4b647,feb,2017,auto,hold,Hayti,626.5333333333333,750.0,650.0,8.0,True,False,True
 45a85784a761b7df6242c82ee3b01c01c9d4b647,feb,2017,heat,hold,Hayti,632.5029354207436,679.4911937377691,650.5283757338552,8.0,True,False,True
 4a2f71c8dace61eeb7806b1c4aabd4f7980dc760,feb,2017,auto,hold,Rapid City,675.8627450980392,708.0261437908497,645.4313725490196,0.0,False,False,False
 4db7c87b3904707da4b878c80e3551b4b2278385,feb,2017,heat,auto,Brookings,657.0428134556574,750.0,660.0,60.0,False,False,False
-51e6bafa5298e3366ba871e35aed1d974abe184e,feb,2017,heat,hold,Sioux Falls,693.5641025641025,680.8974358974359,664.3589743589744,19.0,True,False,False
+51e6bafa5298e3366ba871e35aed1d974abe184e,feb,2017,heat,hold,Sioux Falls,698.1481481481482,694.6296296296297,692.9629629629629,19.0,True,False,False
 592711bc11f980e727246e2f71e3a77a4fd91ca8,feb,2017,heat,hold,Hayti,619.5387323943662,650.0,650.0,8.0,True,False,True
 66fafd5b7131163da637a7660ba442db0a070d92,feb,2017,heat,auto,Sioux Falls,674.952380952381,650.0,650.0,6.0,False,False,False
 66fafd5b7131163da637a7660ba442db0a070d92,feb,2017,heat,hold,Sioux Falls,688.7333333333333,691.0,690.7,6.0,False,False,False
@@ -20,7 +19,7 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 7a59d7c797f30415b2b2557d368086f59a8bfbf6,feb,2017,heat,auto,Baltic,655.3185483870968,664.8629032258065,656.5604838709677,5.0,False,False,False
 7a59d7c797f30415b2b2557d368086f59a8bfbf6,feb,2017,heat,hold,Baltic,659.4545454545455,667.5247933884298,655.0165289256198,5.0,False,False,False
 90e121dfbbf74b90bdeeba661458add0a7e5b5ba,feb,2017,heat,auto,Sioux Falls,681.7142857142857,701.7142857142857,697.0,10.0,False,False,False
-90e121dfbbf74b90bdeeba661458add0a7e5b5ba,feb,2017,heat,hold,Sioux Falls,683.3333333333334,707.6,667.9333333333333,10.0,False,False,False
+90e121dfbbf74b90bdeeba661458add0a7e5b5ba,feb,2017,heat,hold,Sioux Falls,682.9285714285714,700.0,680.0,10.0,False,False,False
 94f4dbce58d4a11a0ffa9e6290ddfb6e896b39d2,feb,2017,heat,auto,Sioux Falls,683.0540540540541,680.0,680.0,5.0,False,False,False
 9890e8311a56a9abe9923f5fc2c000c196edf928,feb,2017,auto,auto,Sioux Falls,677.7142857142857,740.0,680.0,25.0,False,False,False
 b82f636e91b827f8c3335e14b4784f234c7fa83e,feb,2017,heat,hold,Sioux Falls,626.3333333333334,655.2380952380952,630.4285714285714,90.0,False,False,False

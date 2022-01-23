@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 001cb586cbb1bfa7441fff670b3357d9d412926a,feb,2021,heat,hold,Columbia,699.8461538461538,705.7211538461538,705.1826923076923,40.0,True,False,True
 002810066b5066f73ebb23c9a6872760028f5cd8,feb,2021,heat,hold,Hanover,662.3333333333334,665.0,665.0,10.0,False,False,False
 003a3b5c65e4767907f528a81c3bc75c08aefb02,feb,2021,heat,hold,Belcamp,696.8737864077669,700.0,700.0,10.0,False,False,False

@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 004666c8518763d5ff5a1b6f9be919899724167e,Jan,2020,auto,auto,Denver,631.2,780.0,690.0,10.0,False,False,False
 004666c8518763d5ff5a1b6f9be919899724167e,Jan,2020,auto,hold,Denver,679.32,780.0,700.0,10.0,False,False,False
 004666c8518763d5ff5a1b6f9be919899724167e,Jan,2020,heat,auto,Denver,716.0,722.1818181818181,718.9090909090909,10.0,False,False,False
@@ -676,7 +676,7 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 54c3581520f7d888d19beb9ca0c5c1ebf37bd216,Jan,2020,auto,auto,Colorado Springs,642.0,670.0,629.0,30.0,False,False,False
 54c3581520f7d888d19beb9ca0c5c1ebf37bd216,Jan,2020,auto,hold,Colorado Springs,608.475,675.0,605.0,30.0,False,False,False
 54c3581520f7d888d19beb9ca0c5c1ebf37bd216,Jan,2020,cool,hold,Colorado Springs,617.5,610.0,610.0,30.0,False,False,False
-54c3581520f7d888d19beb9ca0c5c1ebf37bd216,Jan,2020,heat,auto,Colorado Springs,629.3155258764608,654.4474123539233,628.0133555926544,30.0,False,False,False
+54c3581520f7d888d19beb9ca0c5c1ebf37bd216,Jan,2020,heat,auto,Colorado Springs,630.8992248062016,663.2054263565891,629.1763565891473,30.0,False,False,False
 54c3581520f7d888d19beb9ca0c5c1ebf37bd216,Jan,2020,heat,hold,Colorado Springs,631.4090909090909,614.2045454545455,614.5,30.0,False,False,False
 54eca1c516ca822e1383bda0d358da0a878556a2,Jan,2020,heat,auto,Monument,694.4473684210526,690.3684210526316,690.0,10.0,False,False,False
 54eca1c516ca822e1383bda0d358da0a878556a2,Jan,2020,heat,hold,Monument,702.7,700.8,700.8,10.0,False,False,False
@@ -1745,7 +1745,7 @@ d8cf1e5087eb903c91f9987db77f1b0e2a6e8600,Jan,2020,auto,auto,Firestone,644.540229
 d8cf1e5087eb903c91f9987db77f1b0e2a6e8600,Jan,2020,auto,hold,Firestone,663.4,760.0,666.84,9.0,True,False,False
 d8cf1e5087eb903c91f9987db77f1b0e2a6e8600,Jan,2020,heat,auto,Firestone,655.6086956521739,661.9565217391304,659.7826086956521,9.0,True,False,False
 d8cf1e5087eb903c91f9987db77f1b0e2a6e8600,Jan,2020,heat,hold,Firestone,663.3333333333334,670.0,670.0,9.0,True,False,False
-d8e642a3eed8ae10d5d9530fd5bf749b8d3647d4,Jan,2020,cool,auto,Boulder,548.9387755102041,538.7295918367347,759.795918367347,0.0,True,False,False
+d8e642a3eed8ae10d5d9530fd5bf749b8d3647d4,Jan,2020,cool,auto,Boulder,679.225,689.775,720.0,0.0,True,False,False
 d9341f72c63fcdfb20258ec0d5f9b162c1e3f3e3,Jan,2020,heat,hold,Denver,688.8333333333334,670.0,670.0,120.0,True,False,False
 d965c7b577477bd13e3def81e3eb48325a16ac65,Jan,2020,auto,hold,Denver,716.8181818181819,781.7272727272727,695.1818181818181,60.0,True,False,False
 d9f02a1e341bad91f4bad7d0c0d5c58ec9c88b2a,Jan,2020,heat,hold,Louisville,697.425,700.0,700.0,0.0,False,False,False

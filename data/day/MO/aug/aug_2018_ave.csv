@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 0056cebd6cd72164f185e551f894f028d3d2e319,aug,2018,auto,hold,Clarkson Valley,741.054945054945,732.7472527472528,682.7472527472528,45.0,True,False,True
 005b44ffe2812f645179dccec3443da1ec58a68d,aug,2018,cool,hold,Kirkwood,733.1741140215717,730.4668721109399,730.4668721109399,0.0,False,False,False
 008c4f598020b4161f9e0ee6c31c8f02b87b8a9c,aug,2018,auto,hold,Springfield,721.3548387096774,726.5806451612904,664.4193548387096,25.0,False,False,False

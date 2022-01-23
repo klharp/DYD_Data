@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 00146b92aa45248f15537bd507a76c650e898d53,aug,2020,cool,auto,Annapolis,712.5652173913044,713.1594202898551,713.1594202898551,30.0,True,False,True
 00169fef3ce1e3a7aaaa39f9f28d8db467527197,aug,2020,auto,auto,Columbia,741.5,772.5,618.0,40.0,True,False,True
 002810066b5066f73ebb23c9a6872760028f5cd8,aug,2020,cool,auto,Hanover,711.375,740.0,740.0,10.0,False,False,False
@@ -2999,8 +2999,8 @@ f2cc15e9b08391d9f5da0cf328723e138afff7d4,aug,2020,cool,auto,Sandy Spring,709.253
 f2cc15e9b08391d9f5da0cf328723e138afff7d4,aug,2020,cool,hold,Sandy Spring,725.0373880989995,722.1574512901527,722.1574512901527,5.0,False,False,False
 f2d28be769d838556a0e01acb7f2cec5f07828d4,aug,2020,cool,auto,Mount Airy,671.2517006802722,668.8911564625851,669.7891156462586,37.0,True,False,True
 f2d28be769d838556a0e01acb7f2cec5f07828d4,aug,2020,cool,hold,Mount Airy,669.7661764705882,675.9235294117647,675.7955882352941,37.0,True,False,True
-f2d28be769d838556a0e01acb7f2cec5f07828d4,aug,2020,heat,auto,Mount Airy,685.1346863468634,639.5442804428044,683.0571955719557,37.0,True,False,True
-f2d28be769d838556a0e01acb7f2cec5f07828d4,aug,2020,heat,hold,Mount Airy,683.0,683.2105263157895,683.5037593984962,37.0,True,False,True
+f2d28be769d838556a0e01acb7f2cec5f07828d4,aug,2020,heat,auto,Mount Airy,676.9375,674.4201388888889,677.28125,37.0,True,False,True
+f2d28be769d838556a0e01acb7f2cec5f07828d4,aug,2020,heat,hold,Mount Airy,682.9924528301887,683.5245283018868,683.5924528301887,37.0,True,False,True
 f2fa00845ccf5ce2be8cbd84287f12cd982b746e,aug,2020,cool,auto,Clarksburg,732.2894736842105,740.1842105263158,739.2631578947369,0.0,False,False,False
 f2fa00845ccf5ce2be8cbd84287f12cd982b746e,aug,2020,cool,hold,Clarksburg,758.0,735.0,735.0,0.0,False,False,False
 f318e4362fd02ed1235df6bef1451e249ab878f8,aug,2020,cool,auto,Gaithersburg,736.2321428571429,728.7946428571429,722.4866071428571,35.0,False,False,True
@@ -3042,7 +3042,6 @@ f722f3a7c5953c011debffdac447d1aba0577d8a,aug,2020,auto,auto,Havre de Grace,764.3
 f722f3a7c5953c011debffdac447d1aba0577d8a,aug,2020,cool,hold,Havre de Grace,795.8125,770.0,770.0,0.0,False,False,False
 f7339286e8a612702e9da65b607382291cb75b1f,aug,2020,auto,hold,Frederick,739.0181698050875,738.5480673934588,718.5480673934588,5.0,False,False,True
 f7339286e8a612702e9da65b607382291cb75b1f,aug,2020,cool,hold,Frederick,730.5471698113207,728.7075471698113,728.2452830188679,5.0,False,False,True
-f78d319d5da8238ba3e0e906fa649d95445e9c82,aug,2020,auxHeatOnly,auto,Glen Burnie,748.75,780.0,910.0,55.0,True,False,False
 f78d319d5da8238ba3e0e906fa649d95445e9c82,aug,2020,cool,hold,Glen Burnie,749.5334987593052,750.0372208436725,719.9131513647643,55.0,True,False,False
 f79dc9d670ed887d44e29f60fb50a4c8cbc7e529,aug,2020,auto,auto,Waldorf,733.4423076923077,738.6730769230769,668.4807692307693,5.0,False,False,False
 f7b3ca4a757aa9fb7e6688b9f663aa8080d0f843,aug,2020,cool,auto,Frederick,700.6838487972509,699.4742268041238,678.1958762886597,7.0,True,False,False

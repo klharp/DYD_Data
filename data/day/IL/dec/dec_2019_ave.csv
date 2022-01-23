@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 000009f677b24c7e48f1f6e36a9ab8ab83f546ba,dec,2019,auto,auto,Chicago,664.917808219178,712.4794520547945,651.4109589041096,0.0,False,False,True
 0010ea447dc3807b33daad2477d1cc02a71571fa,dec,2019,heat,auto,Chicago,717.1805555555555,729.3333333333334,721.6666666666666,5.0,False,False,False
 0010ea447dc3807b33daad2477d1cc02a71571fa,dec,2019,heat,hold,Chicago,712.1842105263158,715.2631578947369,715.2631578947369,5.0,False,False,False
@@ -2417,7 +2417,7 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 68a49644cb630e044b2d227d4f675403449ac358,dec,2019,heat,hold,Volo,729.7,730.0,730.2,10.0,True,False,False
 68bee24832b24114603aa260342dfd0c4dbfc402,dec,2019,heat,auto,Chicago,669.0699588477366,703.9218106995885,694.1522633744856,70.0,False,False,False
 68bee24832b24114603aa260342dfd0c4dbfc402,dec,2019,heat,hold,Chicago,694.5,703.0,703.0,70.0,False,False,False
-68db0712e8c4723e3d5bc0dbce8daf9c59535a90,dec,2019,heat,auto,Sugar Grove,716.4238410596026,653.5099337748344,721.5099337748344,15.0,False,False,False
+68db0712e8c4723e3d5bc0dbce8daf9c59535a90,dec,2019,heat,auto,Sugar Grove,719.0540540540541,730.0,723.081081081081,15.0,False,False,False
 68dfdd408c278a90979da17e502e728eae9a2298,dec,2019,heat,auto,Hinsdale,660.5185185185185,819.2962962962963,650.2592592592592,10.0,False,False,False
 68e07a5b01294ba5b4ca74f6480895851c1f5a50,dec,2019,auto,auto,Algonquin,679.0909090909091,811.3737373737374,652.6734006734007,9.0,True,False,False
 68e07a5b01294ba5b4ca74f6480895851c1f5a50,dec,2019,auto,hold,Algonquin,715.8421052631579,770.0,720.0,9.0,True,False,False
@@ -3274,7 +3274,7 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 8f3ee4634acf8e273b17098848abbcbc7be610ab,dec,2019,heat,hold,Northfield,705.4050814956855,708.2785234899329,708.2742090124641,0.0,True,False,False
 8f4a1feb8e0cc01b805670f92cd4318bbbf1d65b,dec,2019,auto,hold,Peoria,712.3422222222222,765.0,715.0,55.0,False,False,False
 8f4a1feb8e0cc01b805670f92cd4318bbbf1d65b,dec,2019,heat,hold,Peoria,717.9756838905776,720.9131567520625,720.9131567520625,55.0,False,False,False
-8f4e96d22378edfea2cbcab439ec66c8d19aa0e0,dec,2019,heat,auto,Granite City,697.7676056338029,706.6514084507043,723.7869718309859,95.0,False,False,False
+8f4e96d22378edfea2cbcab439ec66c8d19aa0e0,dec,2019,heat,auto,Granite City,699.9201596806387,720.9141716566867,722.9560878243512,95.0,False,False,False
 8f4e96d22378edfea2cbcab439ec66c8d19aa0e0,dec,2019,heat,hold,Granite City,700.684924866699,723.1013087736306,723.1463887542413,95.0,False,False,False
 8f571e048cbdc47497df8afcbf0c814169961850,dec,2019,heat,auto,Chicago,718.8843373493976,713.0530120481927,721.9132530120482,60.0,False,False,False
 8f571e048cbdc47497df8afcbf0c814169961850,dec,2019,heat,hold,Chicago,722.8391038696537,726.0695373872563,726.0695373872563,60.0,False,False,False
@@ -5614,8 +5614,6 @@ f349ccad78102102b810b55f26083dae266b411d,dec,2019,heat,hold,Columbia,713.8458218
 f352156d56885a556c1efdfb425002b7bc5d3b1a,dec,2019,heat,auto,Evanston,665.2824427480916,753.0229007633587,658.2137404580153,99.0,True,False,False
 f352156d56885a556c1efdfb425002b7bc5d3b1a,dec,2019,heat,hold,Evanston,691.6907630522088,698.0160642570281,697.6787148594377,99.0,True,False,False
 f3534a9293a62586ae1165ed4a047e2f6611f9a5,dec,2019,auto,hold,Urbana,731.96875,782.5,657.5,0.0,False,False,False
-f367dcdf79ca284e040ff22629a8f1c863b5b247,dec,2019,heat,auto,Schaumburg,715.6944881889764,519.0,716.6102362204724,30.0,True,False,False
-f367dcdf79ca284e040ff22629a8f1c863b5b247,dec,2019,heat,hold,Schaumburg,725.756,519.0,730.948,30.0,True,False,False
 f38d1ceec8dd4ff9e9da6e9d5703adaa68a9b5cf,dec,2019,auto,auto,Naperville,681.9791666666666,735.0,685.0,30.0,True,False,False
 f38d1ceec8dd4ff9e9da6e9d5703adaa68a9b5cf,dec,2019,auto,hold,Naperville,696.0261437908497,751.0718954248366,699.8300653594771,30.0,True,False,False
 f38d1ceec8dd4ff9e9da6e9d5703adaa68a9b5cf,dec,2019,heat,hold,Naperville,676.8038277511962,681.2153110047847,681.2153110047847,30.0,True,False,False

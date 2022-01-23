@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 000af209b660b6da2dfc91a633650ccb97df073e,jun,2019,heat,auto,Pinckney,719.3552699228792,670.0,670.0,80.0,False,False,False
 000af209b660b6da2dfc91a633650ccb97df073e,jun,2019,heat,hold,Pinckney,702.4623853211009,680.9816513761468,680.9816513761468,80.0,False,False,False
 001d65da87242dc0b8bb7013ec8efe01c813e750,jun,2019,cool,auto,Lake Orion,706.11328125,718.361328125,719.99609375,57.0,False,False,False
@@ -657,7 +657,7 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 23b343def9c091c340e3949efb2963816a0c6b03,jun,2019,auto,hold,Berrien Springs,688.6818181818181,700.0867768595041,650.3347107438017,10.0,False,False,False
 23b343def9c091c340e3949efb2963816a0c6b03,jun,2019,heat,hold,Berrien Springs,707.6363636363636,711.0,711.0,10.0,False,False,False
 23bdd8bd3f16b0945f3f88c4909620e95521466d,jun,2019,cool,auto,St Joseph,685.8614800759013,690.7229601518027,690.7229601518027,50.0,False,False,False
-23bdd8bd3f16b0945f3f88c4909620e95521466d,jun,2019,cool,hold,St Joseph,664.2878567972907,666.2298016448959,666.2399612965651,50.0,False,False,False
+23bdd8bd3f16b0945f3f88c4909620e95521466d,jun,2019,cool,hold,St Joseph,664.29200968523,666.2939467312349,666.2944309927361,50.0,False,False,False
 23d791d362018c8d3ec56e96a0c0f2feef6c5fac,jun,2019,cool,auto,Wixom,682.7777777777778,681.3333333333334,678.6666666666666,5.0,False,False,False
 23d791d362018c8d3ec56e96a0c0f2feef6c5fac,jun,2019,cool,hold,Wixom,696.3225806451613,694.7903225806451,694.7903225806451,5.0,False,False,False
 23fc69c7e605f939dbc834ca713e70ae0e7b492e,jun,2019,cool,hold,Grand Rapids,734.0178571428571,723.3571428571429,721.1428571428571,65.0,False,False,False
@@ -1385,7 +1385,7 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 46e6b151232e818176dafb93d549f98daf955407,jun,2019,cool,auto,Tecumseh,714.495145631068,730.0776699029126,729.6699029126214,25.0,True,False,False
 46e6b151232e818176dafb93d549f98daf955407,jun,2019,cool,hold,Tecumseh,723.2628571428571,728.5428571428571,728.3885714285715,25.0,True,False,False
 46fe92330ce489a8f5fd89cb21c643bc6c048e2c,jun,2019,cool,auto,Roseville,773.1858974358975,769.6538461538462,789.715811965812,0.0,False,False,False
-46fe92330ce489a8f5fd89cb21c643bc6c048e2c,jun,2019,cool,hold,Roseville,799.4152249134949,610.4671280276816,656.7335640138408,0.0,False,False,False
+46fe92330ce489a8f5fd89cb21c643bc6c048e2c,jun,2019,cool,hold,Roseville,798.72,721.0,727.84,0.0,False,False,False
 47034062d116676d8a998a82db9b4f097fc416d9,jun,2019,cool,auto,Beverly Hills,675.1552511415525,733.3926940639269,673.7397260273973,40.0,True,False,False
 47197931dbab6520d752b4011d515cafd70735ed,jun,2019,auto,hold,Hamtramck,770.3461538461538,764.0,709.5769230769231,0.0,True,False,False
 47197931dbab6520d752b4011d515cafd70735ed,jun,2019,cool,auto,Hamtramck,785.9,800.0,690.0,0.0,True,False,False
@@ -4063,7 +4063,7 @@ d8ac7ffa11d17d37c60b9e55f255ff35d700c787,jun,2019,cool,auto,Hudsonville,744.3367
 d8ac7ffa11d17d37c60b9e55f255ff35d700c787,jun,2019,cool,hold,Hudsonville,744.8552875695733,752.6307977736549,747.8237476808905,0.0,True,False,False
 d8ac7ffa11d17d37c60b9e55f255ff35d700c787,jun,2019,heat,auto,Hudsonville,700.9473684210526,807.3684210526316,655.0,0.0,True,False,False
 d8ac7ffa11d17d37c60b9e55f255ff35d700c787,jun,2019,heat,hold,Hudsonville,704.2,718.8,704.4,0.0,True,False,False
-d8d123be0a59bd4215b62502a63db9930658fe5a,jun,2019,cool,auto,Thompsonville,647.8061889250814,654.9706840390879,648.8110749185668,95.0,False,False,True
+d8d123be0a59bd4215b62502a63db9930658fe5a,jun,2019,cool,auto,Thompsonville,647.8123980424143,655.0603588907014,648.8091353996738,95.0,False,False,True
 d8d123be0a59bd4215b62502a63db9930658fe5a,jun,2019,cool,hold,Thompsonville,653.0645161290323,645.4354838709677,645.6290322580645,95.0,False,False,True
 d8d123be0a59bd4215b62502a63db9930658fe5a,jun,2019,heat,auto,Thompsonville,662.4619883040936,671.578947368421,670.5263157894736,95.0,False,False,True
 d8d123be0a59bd4215b62502a63db9930658fe5a,jun,2019,heat,hold,Thompsonville,671.0930232558139,650.0,650.0,95.0,False,False,True

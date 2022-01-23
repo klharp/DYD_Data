@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 007057fb45e64d4163560e034a08f5a949d56fb7,dec,2019,cool,auto,Overland Park,736.1,705.3,705.3,39.0,True,False,False
 007057fb45e64d4163560e034a08f5a949d56fb7,dec,2019,heat,auto,Overland Park,731.566371681416,736.4247787610619,734.9646017699115,39.0,True,False,False
 0151c36b94d654ae2ec0ae5d5693c45376258e4c,dec,2019,auto,auto,Westwood,686.1818181818181,756.3636363636364,681.8181818181819,0.0,True,False,False

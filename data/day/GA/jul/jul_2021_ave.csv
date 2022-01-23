@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 0010e47e4b45d741375cce16b3f2834662857046,jul,2021,auto,hold,Dunwoody,701.9239607975668,700.0,630.0,59.0,True,False,False
 002928222f5a2b5cfeba53f3aca5d5f24f6c4fe8,jul,2021,cool,hold,Columbus,710.2537434237152,708.3520841764467,708.3039255362202,40.0,False,False,False
 006f827019c7979541901360ed5bbdf1ef265887,jul,2021,cool,hold,Grovetown,790.0545454545454,790.0545454545454,790.0545454545454,10.0,True,False,True
@@ -644,7 +644,7 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 50534e04c61fc044fe49335622cf5bd88578e41e,jul,2021,auto,hold,Cumming,732.9185094185094,733.9549549549549,650.5651105651106,10.0,False,False,False
 506b3783dc4778d72eaee2c60ea3e9d999617730,jul,2021,cool,hold,Roswell,730.5617747440273,728.4744027303755,728.4436860068259,37.0,False,False,False
 507136c612b3c8d7b36a4d7d9b0b18164eb58114,jul,2021,cool,hold,Dublin,704.4741480611045,710.4280258519389,710.1830199764983,5.0,True,False,True
-50725394d5aa5e810fc29bc35576f2373aa1fac8,jul,2021,cool,hold,Flowery Branch,673.8,641.704,665.496,9.0,True,False,False
+50725394d5aa5e810fc29bc35576f2373aa1fac8,jul,2021,cool,hold,Flowery Branch,690.5531914893617,722.531914893617,722.7446808510638,9.0,True,False,False
 5077a2cc8db29f4370b3764f76a39d648c6a4134,jul,2021,cool,hold,Marietta,739.6727272727272,740.0,740.0,0.0,True,False,False
 509c68bbabdbc325200f71d70aa2689990829038,jul,2021,auto,hold,Tucker,789.5,785.0,735.0,0.0,False,False,False
 509c68bbabdbc325200f71d70aa2689990829038,jul,2021,cool,hold,Tucker,767.4776345716452,763.7831690674753,752.6383623957544,0.0,False,False,False

@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 007210724b66339a5fdb5b839e204d4b68e22d99,jun,2020,auto,auto,New Orleans,755.7872340425532,754.2340425531914,717.2234042553191,5.0,False,False,False
 007210724b66339a5fdb5b839e204d4b68e22d99,jun,2020,auto,hold,New Orleans,747.0,750.0,720.0,5.0,False,False,False
 008f4e8d0b1ee2d5311b860fe53fcf0935d191b3,jun,2020,auto,auto,Kenner,732.7777777777778,731.2222222222222,700.5555555555555,37.0,False,False,False
@@ -280,7 +280,7 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 61897939b8a6691d106469f9e9067236cfd0ed25,jun,2020,cool,hold,Kenner,728.469696969697,749.9242424242424,749.9242424242424,40.0,False,False,False
 62eccb4e7f4a477ef96eb54a0f3b33b04bd0f033,jun,2020,auto,auto,Mandeville,720.5977011494252,713.639846743295,656.2452107279694,39.0,True,False,False
 62eccb4e7f4a477ef96eb54a0f3b33b04bd0f033,jun,2020,auto,hold,Mandeville,722.8755980861245,711.976076555024,657.2727272727273,39.0,True,False,False
-6376ebbd228dd4a9e6fa0df7cff8c6f33a22b9e1,jun,2020,cool,auto,Covington,704.5529411764705,689.3364705882353,680.3176470588236,0.0,True,False,False
+6376ebbd228dd4a9e6fa0df7cff8c6f33a22b9e1,jun,2020,cool,auto,Covington,705.9423558897244,695.1578947368421,683.922305764411,0.0,True,False,False
 6376ebbd228dd4a9e6fa0df7cff8c6f33a22b9e1,jun,2020,cool,hold,Covington,711.0720235178834,706.6291033806957,706.5864772170505,0.0,True,False,False
 63df237cc21c09730a982d2f9337b77206f1733c,jun,2020,auto,hold,Lake Charles,713.0,710.0416666666666,680.0416666666666,10.0,False,False,False
 6406c6291171e7c57e7c03ba71335df56891faf5,jun,2020,cool,hold,Monroe,715.1875,682.0,682.0,0.0,False,False,False

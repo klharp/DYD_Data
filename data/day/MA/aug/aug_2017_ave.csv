@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 00a0f0ba8d5a1f94ea2806afb6c1baa70177c6c1,aug,2017,cool,auto,Medfield,770.0,780.0,680.0,37.0,False,False,False
 00a0f0ba8d5a1f94ea2806afb6c1baa70177c6c1,aug,2017,cool,hold,Medfield,737.9615384615385,750.2692307692307,749.5,37.0,False,False,False
 02382555cf0333ff1ad92861205814fd74616f88,aug,2017,cool,hold,South Hadley,784.1111111111111,774.8282828282828,679.8181818181819,55.0,False,False,False

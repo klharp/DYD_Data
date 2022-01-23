@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 00020f16d85e6d8c70fc67725f03ab06b116fead,Jan,2019,heat,auto,Jacksonville,730.1538461538462,760.6923076923077,729.3076923076923,5.0,False,False,True
 000901820a1c537e3432a15731cf77e975629e0e,Jan,2019,auto,auto,Tampa,734.6666666666666,780.0,730.0,17.0,False,False,False
 000901820a1c537e3432a15731cf77e975629e0e,Jan,2019,auto,hold,Tampa,765.196261682243,810.0,720.0,17.0,False,False,False
@@ -912,8 +912,8 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 1ec4f740821e68feec767010a7bc1a709f8879b2,Jan,2019,auto,hold,Pembroke Pines,759.7173913043479,805.6376811594203,757.2173913043479,0.0,False,False,False
 1ec4f740821e68feec767010a7bc1a709f8879b2,Jan,2019,cool,auto,Pembroke Pines,754.6847222222223,761.7638888888889,761.8486111111112,0.0,False,False,False
 1ec4f740821e68feec767010a7bc1a709f8879b2,Jan,2019,cool,hold,Pembroke Pines,755.1530758226037,768.0343347639486,765.3247496423462,0.0,False,False,False
-1ec4f740821e68feec767010a7bc1a709f8879b2,Jan,2019,heat,auto,Pembroke Pines,748.32,784.88,785.0628571428572,0.0,False,False,False
-1ec4f740821e68feec767010a7bc1a709f8879b2,Jan,2019,heat,hold,Pembroke Pines,737.9701492537314,797.6417910447761,806.6417910447761,0.0,False,False,False
+1ec4f740821e68feec767010a7bc1a709f8879b2,Jan,2019,heat,auto,Pembroke Pines,746.430303030303,782.9090909090909,781.1030303030303,0.0,False,False,False
+1ec4f740821e68feec767010a7bc1a709f8879b2,Jan,2019,heat,hold,Pembroke Pines,733.94,790.56,791.7,0.0,False,False,False
 1eceea1cb33eaba10f1c31396e67890df62158ab,Jan,2019,auto,hold,Orlando,736.1232876712329,783.6917808219179,734.0,68.0,True,False,True
 1eceea1cb33eaba10f1c31396e67890df62158ab,Jan,2019,cool,hold,Orlando,743.1268011527377,746.8991354466859,746.8414985590778,68.0,True,False,True
 1eceea1cb33eaba10f1c31396e67890df62158ab,Jan,2019,heat,hold,Orlando,734.879392971246,728.8785942492012,728.80910543131,68.0,True,False,True
@@ -4264,7 +4264,6 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 92ee014be8651577c5a85a2e2b70d80539bdf377,Jan,2019,auto,auto,Safety Harbor,724.1,753.0,703.0,20.0,False,False,False
 933da02eb525b725343ff8ca303c0c74d7a21b9b,Jan,2019,cool,auto,Hypoluxo,714.375,710.375,680.0,30.0,False,False,False
 933da02eb525b725343ff8ca303c0c74d7a21b9b,Jan,2019,cool,hold,Hypoluxo,726.875,730.0,680.0,30.0,False,False,False
-934cfeda0ca52e06de77a9d60af389756691df61,Jan,2019,cool,auto,Pompano Beach,735.4845735027224,734.1923774954628,920.0,47.0,False,False,True
 935128af91c743fc54663736791652da26b42f66,Jan,2019,heat,auto,Crawfordville,684.8611111111111,710.0,680.0,8.0,True,False,True
 935128af91c743fc54663736791652da26b42f66,Jan,2019,heat,hold,Crawfordville,699.8534031413612,698.2198952879581,698.1413612565445,8.0,True,False,True
 9378497123c30760d65926fcc560bf51fd308a74,Jan,2019,auto,auto,Milton,717.1205673758865,746.0780141843971,712.8723404255319,5.0,False,False,True
@@ -4707,7 +4706,7 @@ a20c35176007a723a10ce6e51de97e778ec0b541,Jan,2019,auxHeatOnly,auto,Lutz,696.8904
 a20c35176007a723a10ce6e51de97e778ec0b541,Jan,2019,auxHeatOnly,hold,Lutz,662.75,776.5,771.25,0.0,False,False,True
 a20c35176007a723a10ce6e51de97e778ec0b541,Jan,2019,cool,auto,Lutz,725.5,790.0,737.0,0.0,False,False,True
 a20c35176007a723a10ce6e51de97e778ec0b541,Jan,2019,cool,hold,Lutz,733.0,793.0,786.0,0.0,False,False,True
-a20c35176007a723a10ce6e51de97e778ec0b541,Jan,2019,heat,auto,Lutz,688.34,783.236,771.316,0.0,False,False,True
+a20c35176007a723a10ce6e51de97e778ec0b541,Jan,2019,heat,auto,Lutz,682.4835680751173,781.5399061032864,750.8732394366198,0.0,False,False,True
 a20c35176007a723a10ce6e51de97e778ec0b541,Jan,2019,heat,hold,Lutz,650.5925925925926,786.0987654320987,784.1234567901234,0.0,False,False,True
 a244759ec641ffb98e7476141ba9222c2cc4b7d6,Jan,2019,cool,auto,Naples,725.5730337078652,730.0,730.0,10.0,False,False,False
 a244759ec641ffb98e7476141ba9222c2cc4b7d6,Jan,2019,cool,hold,Naples,693.2422562764917,747.8236061297685,747.8236061297685,10.0,False,False,False

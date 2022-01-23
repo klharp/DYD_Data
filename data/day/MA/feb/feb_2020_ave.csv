@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 0001dfcbc22d23f9170714d0e3428f14b2626276,feb,2020,heat,auto,New Bedford,675.9343544857768,698.3369803063457,665.8490153172867,0.0,False,False,False
 019c5eecdb47ecf46a4c4a1fe9d8a50618e652f2,feb,2020,auto,auto,Needham,640.8723027944818,740.0,640.2263883975946,20.0,False,False,False
 01a28ab243f4d2fd1a22bf4d05a115971d9fb471,feb,2020,heat,auto,North Andover,693.6746987951807,700.0,700.0,10.0,True,False,False
@@ -265,7 +265,7 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 216104883265e2a6bbe4039b2e91e84c28f356af,feb,2020,heat,auto,Cambridge,658.0,706.0,692.5,5.0,False,False,False
 216104883265e2a6bbe4039b2e91e84c28f356af,feb,2020,heat,hold,Cambridge,664.0,659.0,644.0,5.0,False,False,False
 219e31f25223d0815770a46a157a0ce982192161,feb,2020,heat,auto,Indian Orchard,684.6307692307693,701.8923076923077,687.9846153846154,90.0,True,False,False
-21d6010ac427902cb4dddef3951db42cdbfee6b4,feb,2020,heat,auto,Tewksbury,648.0569498069498,665.9932432432432,652.4942084942085,0.0,True,False,False
+21d6010ac427902cb4dddef3951db42cdbfee6b4,feb,2020,heat,auto,Tewksbury,647.4111675126903,669.410152284264,652.5076142131979,0.0,True,False,False
 21d6010ac427902cb4dddef3951db42cdbfee6b4,feb,2020,heat,hold,Tewksbury,648.7353463587922,644.417406749556,644.3867673179396,0.0,True,False,False
 21e27e04afd16d29a56db1af9098a944457f7d57,feb,2020,heat,auto,Weymouth,654.5,674.875,657.875,60.0,True,False,False
 2211eaa1f134a07fe6ae0abe88d388df86308573,feb,2020,heat,auto,Belmont,703.89898989899,707.4141414141415,707.4141414141415,100.0,False,False,False
@@ -1605,8 +1605,8 @@ c4aa54ef3a44662d2c83bed0d57aa1d780d81fea,feb,2020,heat,auto,Marlborough,700.9298
 c4fa8f19bb78d0cccbd13dce3d00b694a9c3d500,feb,2020,heat,auto,Athol,643.7125748502993,670.0,640.0,45.0,False,False,False
 c4fa8f19bb78d0cccbd13dce3d00b694a9c3d500,feb,2020,heat,hold,Athol,655.4186335403726,657.1801242236024,657.1540372670808,45.0,False,False,False
 c58c45db84db9674e2f4064717e501d820c19fa6,feb,2020,heat,auto,Middleboro,696.390625,696.875,696.875,39.0,True,False,False
-c62f1d61ff1f925425c1492275d3045d961fd3b1,feb,2020,heat,auto,Woburn,635.8461538461538,691.1538461538462,611.5384615384615,57.0,False,False,False
-c62f1d61ff1f925425c1492275d3045d961fd3b1,feb,2020,heat,hold,Woburn,657.4911858974359,665.7964743589744,665.8036858974359,57.0,False,False,False
+c62f1d61ff1f925425c1492275d3045d961fd3b1,feb,2020,heat,auto,Woburn,636.36,695.0,610.0,57.0,False,False,False
+c62f1d61ff1f925425c1492275d3045d961fd3b1,feb,2020,heat,hold,Woburn,657.5212510024057,665.8532477947073,665.8251804330393,57.0,False,False,False
 c66260ede964fdc2087ac56582c161aaa92c841f,feb,2020,heat,auto,Belchertown,642.1951219512196,780.0,700.0,30.0,False,False,False
 c6872df225971c4ebfbb771b3e2ee9c716525284,feb,2020,heat,auto,Quincy,736.2258064516129,727.4193548387096,727.0322580645161,20.0,False,False,True
 c6872df225971c4ebfbb771b3e2ee9c716525284,feb,2020,heat,hold,Quincy,735.0760869565217,735.8695652173913,735.8451086956521,20.0,False,False,True

@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 0219b339a36deb299cb64ff76ba40ac7563cf3af,Jan,2021,heat,hold,Marion,679.9583333333334,680.375,679.9583333333334,15.0,False,False,False
 02d6f92c8b43e6f08da8a2b7efe50c30bab0dcc7,Jan,2021,heat,hold,maquoketa,667.8349075975359,678.0193018480493,673.4271047227926,70.0,False,False,False
 0405c9553318d29e4d72ccb69a3f095a3f3ce0a6,Jan,2021,auto,hold,Ames,670.9296296296296,742.7314814814815,679.7833333333333,60.0,False,False,False

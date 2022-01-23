@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 007b9ae939161adcf55e644a3a31bed6f9545465,jun,2018,cool,hold,Washington,718.5712025316456,720.2848101265823,719.8655063291139,98.0,False,False,False
 08049f898acb8591a4cad8c0900db78ad73b307f,jun,2018,cool,auto,Washington,682.8201754385965,680.0,680.0,90.0,False,False,False
 08049f898acb8591a4cad8c0900db78ad73b307f,jun,2018,cool,hold,Washington,761.359649122807,760.0,760.0,90.0,False,False,False
@@ -142,7 +142,7 @@ b62dfa825e1841571f3c38354352a02cf40e4706,jun,2018,auto,auto,Washington,729.39285
 b99bb86a471fd156d347b07453bedeee48de15bf,jun,2018,cool,auto,Washington,727.8200836820083,729.071129707113,729.0041841004185,0.0,False,False,True
 b99bb86a471fd156d347b07453bedeee48de15bf,jun,2018,cool,hold,Washington,728.6803797468355,727.9018987341772,727.8164556962025,0.0,False,False,True
 ba7f8959bec2591fc20e7bf3a9eeed767a868c7b,jun,2018,auto,hold,Washington,728.9583333333334,720.1666666666666,670.1666666666666,5.0,False,False,False
-ba7f8959bec2591fc20e7bf3a9eeed767a868c7b,jun,2018,cool,auto,Washington,731.8571428571429,604.1428571428571,670.0,5.0,False,False,False
+ba7f8959bec2591fc20e7bf3a9eeed767a868c7b,jun,2018,cool,auto,Washington,730.0,629.0,670.0,5.0,False,False,False
 ba7f8959bec2591fc20e7bf3a9eeed767a868c7b,jun,2018,cool,hold,Washington,727.457627118644,649.5254237288135,673.728813559322,5.0,False,False,False
 bbe5d97de91884dff49bd1c616455d7b1b972b95,jun,2018,cool,auto,Washington,692.7068965517242,687.1724137931035,706.2068965517242,18.0,True,False,True
 bbe5d97de91884dff49bd1c616455d7b1b972b95,jun,2018,cool,hold,Washington,694.074074074074,690.4814814814815,690.7037037037037,18.0,True,False,True

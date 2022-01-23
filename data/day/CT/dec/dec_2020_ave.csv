@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 0066b69bae234ce9b76749510713e1bce5154e18,dec,2020,heat,auto,Wilton,691.5408950617284,739.1712962962963,690.0254629629629,0.0,False,False,False
 0066b69bae234ce9b76749510713e1bce5154e18,dec,2020,heat,hold,Wilton,699.3333333333334,700.0,700.0,0.0,False,False,False
 007f9b37f1ac5cfe9806f9a1a47809855e7e31b8,dec,2020,heat,hold,South Windsor,676.3937955049066,679.0,679.0,20.0,False,False,False

@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 00105867bef9463f0a62d5257d0e91b8c8d19dee,aug,2017,cool,hold,Southgate,728.2857142857142,700.0,700.0,75.0,False,False,False
 008cfa92481086d7def321eeabb85c0d3eb846de,aug,2017,cool,auto,Campbellsville,702.3352941176471,699.2235294117647,680.0,5.0,True,False,True
 008cfa92481086d7def321eeabb85c0d3eb846de,aug,2017,cool,hold,Campbellsville,706.8091603053434,700.0916030534352,699.9083969465648,5.0,True,False,True
@@ -1290,7 +1290,7 @@ ffbcfc7a85b89b45816e8c216f602c018c63777e,aug,2018,cool,hold,Lexington,740.246268
 82b87f1d4342e3ce22aa7095982256896803e9d2,aug,2019,cool,auto,Irvington,731.3127853881277,730.0881278538812,669.8643835616439,60.0,False,False,False
 82cce3a832338de3593f116e36fa9bdd9d830d7d,aug,2019,cool,hold,Louisville,731.0434782608696,769.5652173913044,765.8695652173913,90.0,False,False,True
 8459ac149f7346b528f899df2a08a7505ec9da0c,aug,2019,auto,auto,Lexington,685.5777777777778,710.0,660.5333333333333,0.0,False,False,False
-8459ac149f7346b528f899df2a08a7505ec9da0c,aug,2019,cool,auto,Lexington,682.6072744014732,666.9074585635359,675.1855432780848,0.0,False,False,False
+8459ac149f7346b528f899df2a08a7505ec9da0c,aug,2019,cool,auto,Lexington,685.0199460916443,678.3412398921832,675.3816711590298,0.0,False,False,False
 8459ac149f7346b528f899df2a08a7505ec9da0c,aug,2019,cool,hold,Lexington,678.6739130434783,719.0217391304348,720.0,0.0,False,False,False
 8459ac149f7346b528f899df2a08a7505ec9da0c,aug,2019,heat,auto,Lexington,695.3174603174604,683.6349206349206,693.809523809524,0.0,False,False,False
 84be2553043f8e72889fe14e08ba8080985aba81,aug,2019,cool,auto,St. Matthews,715.961038961039,712.577922077922,712.577922077922,20.0,False,False,False
@@ -2110,7 +2110,7 @@ a4c915c07773c441c61609bfbfe5351147a49dd6,aug,2020,cool,hold,Edmonton,719.5454545
 a4daf127ef859d83b673b3fcb47336574b074a3f,aug,2020,cool,auto,Nicholasville,727.875,690.0,690.0,0.0,True,False,True
 a59ccf55d42dd8e6564feed4bf2950ea2ef2b46a,aug,2020,auto,auto,Louisville,753.16,720.04,650.12,29.0,True,False,False
 a59ccf55d42dd8e6564feed4bf2950ea2ef2b46a,aug,2020,cool,auto,Louisville,650.1219512195122,710.6585365853657,712.8048780487803,29.0,True,False,False
-a59ccf55d42dd8e6564feed4bf2950ea2ef2b46a,aug,2020,cool,hold,Louisville,725.0898876404493,728.5955056179776,847.2471910112358,29.0,True,False,False
+a59ccf55d42dd8e6564feed4bf2950ea2ef2b46a,aug,2020,cool,hold,Louisville,775.3478260869565,710.2173913043479,710.2173913043479,29.0,True,False,False
 a5df3603fe5fcef91b1887f78c569d631dc0e5a2,aug,2020,cool,auto,Taylorsville,701.486842105263,700.0,700.0,15.0,True,False,True
 a5df3603fe5fcef91b1887f78c569d631dc0e5a2,aug,2020,cool,hold,Taylorsville,693.7253114554846,690.6927985414767,690.6927985414767,15.0,True,False,True
 a6a25a3ba3176ebfe1a897132144d9940d3c3d55,aug,2020,cool,auto,Winchester,708.9333333333333,700.0,700.0,15.0,False,False,False

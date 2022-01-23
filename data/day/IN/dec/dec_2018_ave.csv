@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 004a8ed2edb250a5a1c876d076227bbb8a2a2135,dec,2018,auto,auto,Fort Wayne,742.6263736263736,799.3406593406594,749.3406593406594,30.0,False,False,False
 008844c6c1993ea32d6117993fa4c89479fc9db8,dec,2018,heat,auto,Indianapolis,690.208,743.936,673.416,40.0,True,False,False
 008844c6c1993ea32d6117993fa4c89479fc9db8,dec,2018,heat,hold,Indianapolis,686.1220472440945,730.1102362204724,682.988188976378,40.0,True,False,False
@@ -1210,9 +1210,6 @@ b7b8bf4ce3674d2f3b84bc810727fa52f5e32890,dec,2018,heat,hold,Zionsville,643.59375
 b8380406c7f9c1315b9fde12f8aca65db4ae296b,dec,2018,heat,auto,Indianapolis,669.8653846153846,709.5384615384615,663.8269230769231,5.0,False,False,False
 b86886b2bf67d353eded82bb10c1ef6fa82550e3,dec,2018,heat,auto,Indianapolis,650.3593220338983,653.4915254237288,646.9830508474577,25.0,False,False,False
 b8daa664a07564e82939e4e680305ad102bc2bc2,dec,2018,heat,hold,Noblesville,659.2202380952381,650.0,645.0,5.0,False,False,False
-b910fa0f29d4412c9491f30ea41cec7fa5cc3a7b,dec,2018,cool,auto,Indianapolis,653.5555555555555,590.0,680.0,20.0,True,False,True
-b910fa0f29d4412c9491f30ea41cec7fa5cc3a7b,dec,2018,heat,auto,Indianapolis,670.685936151855,590.0,673.637187230371,20.0,True,False,True
-b910fa0f29d4412c9491f30ea41cec7fa5cc3a7b,dec,2018,heat,hold,Indianapolis,675.5141903171954,590.0,716.1869782971619,20.0,True,False,True
 b942d0b09eda3062eb8efb5c32292396cc6538be,dec,2018,auto,hold,Carmel,698.3333333333334,789.3571428571429,700.0,0.0,False,False,False
 ba0469f10d33e15fba8056b59b3756973c555463,dec,2018,heat,auto,Fishers,663.2068965517242,675.7531760435571,673.404718693285,5.0,False,False,False
 ba0469f10d33e15fba8056b59b3756973c555463,dec,2018,heat,hold,Fishers,658.6434782608695,679.2782608695652,670.1217391304348,5.0,False,False,False

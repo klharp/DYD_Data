@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 000009f677b24c7e48f1f6e36a9ab8ab83f546ba,aug,2019,cool,auto,Chicago,684.6111111111111,680.5370370370371,679.7407407407408,0.0,False,False,True
 000ef89eadf430f4ec4be11295643c07969fce01,aug,2019,cool,hold,Wheaton,789.7882352941176,797.1764705882352,790.0,40.0,True,False,False
 0010ea447dc3807b33daad2477d1cc02a71571fa,aug,2019,cool,auto,Chicago,728.4345238095239,728.5714285714286,680.0,5.0,False,False,False

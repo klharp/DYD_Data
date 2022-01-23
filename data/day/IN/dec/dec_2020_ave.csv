@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 008844c6c1993ea32d6117993fa4c89479fc9db8,dec,2020,heat,auto,Indianapolis,707.1447368421053,750.0,710.0,40.0,True,False,False
 008844c6c1993ea32d6117993fa4c89479fc9db8,dec,2020,heat,hold,Indianapolis,705.155737704918,708.016393442623,707.7459016393443,40.0,True,False,False
 00a57ff87df6c0a6293c5d88b27fcf5f48a0ad28,dec,2020,auto,auto,Fort Wayne,728.6519607843137,790.0,740.0,20.0,False,False,True
@@ -188,7 +188,7 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 1f35fcc937968c4e5cdf70aad64b5e0e86c1234e,dec,2020,heat,auto,Hobart,703.2132352941177,720.5882352941177,704.7279411764706,5.0,False,False,False
 1f35fcc937968c4e5cdf70aad64b5e0e86c1234e,dec,2020,heat,hold,Hobart,705.3666666666667,706.0,706.0,5.0,False,False,False
 1fafa9307f06bc5307e08236e8936a9b19a2bcb7,dec,2020,auxHeatOnly,hold,Pekin,620.2833333333333,623.6444444444444,623.6444444444444,25.0,True,False,True
-1fafa9307f06bc5307e08236e8936a9b19a2bcb7,dec,2020,heat,auto,Pekin,629.3589743589744,658.2724358974359,626.7724358974359,25.0,True,False,True
+1fafa9307f06bc5307e08236e8936a9b19a2bcb7,dec,2020,heat,auto,Pekin,630.4948096885813,662.9100346020762,627.3529411764706,25.0,True,False,True
 1fafa9307f06bc5307e08236e8936a9b19a2bcb7,dec,2020,heat,hold,Pekin,653.0761346998536,653.8674963396779,653.8535871156662,25.0,True,False,True
 1fd31f615f65a60e19ebe25a198cd7e3e2a4a082,dec,2020,auto,hold,Fort Wayne,683.9896907216495,770.0,690.3092783505155,50.0,False,False,False
 1fe0c368d99b050f8e2e96179bf0db1daa8c3fb9,dec,2020,heat,auto,New Haven,696.9791666666666,750.0,700.0,20.0,False,False,False
@@ -731,7 +731,7 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 6e71fac084afa67d50336d35328f8087ddcd5619,dec,2020,heat,hold,Muncie,703.6875,705.2083333333334,705.2083333333334,57.0,False,False,True
 6ea682049531c0b4aeef575289a0e5cfb53c7ead,dec,2020,heat,auto,Fort Wayne,689.4603174603175,780.0,700.0,20.0,False,False,False
 6ea682049531c0b4aeef575289a0e5cfb53c7ead,dec,2020,heat,hold,Fort Wayne,715.8144329896908,721.4639175257732,721.0927835051547,20.0,False,False,False
-6ec1a3a892c59a5ad58548b1430db35916b0a4e3,dec,2020,heat,auto,Jeffersonville,654.536231884058,701.1787439613527,656.2173913043479,0.0,False,False,False
+6ec1a3a892c59a5ad58548b1430db35916b0a4e3,dec,2020,heat,auto,Jeffersonville,654.5883777239709,701.4237288135594,656.1113801452784,0.0,False,False,False
 6ec1a3a892c59a5ad58548b1430db35916b0a4e3,dec,2020,heat,hold,Jeffersonville,641.4292002934703,643.3250183418929,643.2626559060895,0.0,False,False,False
 6ed646e8598e5a0a6f2daef096332f27f400f6c5,dec,2020,auto,hold,Granger,707.2608695652174,760.0,710.0,39.0,True,False,False
 6ee6ac4971a9e59dab61ca0a7e1be16a422a02f6,dec,2020,heat,auto,Fort Wayne,670.25,680.0,680.0,0.0,False,False,False

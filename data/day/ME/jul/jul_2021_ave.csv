@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 2d3f19df9837542e28597777e3227078de997066,jul,2021,cool,hold,Windham,715.7558441558441,721.6701298701299,721.5220779220779,10.0,False,False,False
 39e2fc66cf3a4aa3db6c2db32cecbdb69d7f43ba,jul,2021,heat,hold,Bath,700.8768472906404,678.167487684729,677.7487684729064,90.0,False,False,False
 40042da7c20fd7d013669ace29774480850ce169,jul,2021,heat,hold,Gray,749.5,650.0,650.0,30.0,False,False,False

@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 007f9b37f1ac5cfe9806f9a1a47809855e7e31b8,jun,2017,cool,hold,South Windsor,717.464161849711,732.6982658959537,660.0,20.0,False,False,False
 0094e2c467552f4b15765889040931605fb22890,jun,2017,cool,auto,Norwalk,739.4545454545455,709.2727272727273,692.7272727272727,27.0,False,False,False
 0094e2c467552f4b15765889040931605fb22890,jun,2017,cool,hold,Norwalk,765.0,699.0,700.0,27.0,False,False,False

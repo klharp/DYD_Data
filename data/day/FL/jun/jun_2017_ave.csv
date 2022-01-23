@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 00020f16d85e6d8c70fc67725f03ab06b116fead,jun,2017,auto,auto,Jacksonville,775.4923076923077,773.4230769230769,667.1634615384615,5.0,False,False,True
 0024f0f900a4ff6923e95a2a20ee94c699ecf167,jun,2017,cool,auto,Miami,799.9833531510106,804.5374554102259,788.7871581450654,0.0,False,False,False
 0024f0f900a4ff6923e95a2a20ee94c699ecf167,jun,2017,cool,hold,Miami,796.2891402714932,806.0285067873303,790.0,0.0,False,False,False
@@ -2045,7 +2045,7 @@ ed94641436ab5c711972c70d15c8eb886c1dbc26,jun,2017,cool,hold,Pembroke Pines,745.7
 edcac5025bd7bfd097dc1ecbcaee16839bdf6200,jun,2017,cool,auto,Weston,746.7129629629629,720.0,700.0,20.0,False,False,False
 edcac5025bd7bfd097dc1ecbcaee16839bdf6200,jun,2017,cool,hold,Weston,720.5263157894736,707.3187134502924,707.1228070175439,20.0,False,False,False
 ee299be6d5a326bb121b88c23f9d602810fc028b,jun,2017,auto,hold,Royal Palm Beach,748.2191780821918,744.6761252446184,687.4285714285714,80.0,False,False,False
-ee5e6b74f5dd7d30192ac3a26ed9867ea506e3a8,jun,2017,cool,auto,Pensacola,664.4107142857143,677.4196428571429,686.9404761904761,0.0,True,False,False
+ee5e6b74f5dd7d30192ac3a26ed9867ea506e3a8,jun,2017,cool,auto,Pensacola,677.0,693.236559139785,687.7132616487455,0.0,True,False,False
 ee5e6b74f5dd7d30192ac3a26ed9867ea506e3a8,jun,2017,cool,hold,Pensacola,630.5020021842009,631.8347287950492,631.8347287950492,0.0,True,False,False
 ee65e9001eeea1986d9c622c0a41b37af52a9c34,jun,2017,cool,hold,Jacksonville,711.353227771011,710.0,710.0,5.0,True,False,True
 ee80aaae4f62f2d19bd9414a988fd5d396e22841,jun,2017,cool,auto,Port St. Lucie,744.9962686567164,744.625,746.1567164179105,27.0,False,False,False

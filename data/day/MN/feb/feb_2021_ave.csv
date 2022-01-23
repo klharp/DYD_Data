@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 003694c41cad5e9b6fd22ab076ac82741f649155,feb,2021,heat,hold,Cottage Grove,681.9,662.1,660.6,0.0,False,False,False
 0051e4024c219cda4431c8c6868383c944b4f787,feb,2021,heat,hold,Battle Lake,673.816,683.608,672.388,29.0,True,False,False
 007acfc3e08a38ea3c02b08e36fecf9d314c1157,feb,2021,heat,hold,Saint Paul,678.2888888888889,700.0,700.0,89.0,False,False,False

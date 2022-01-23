@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 05162dee3201157920ad972444b13d9722fcb17c,Jan,2021,heat,hold,Rehoboth Beach,677.9652406417113,679.9331550802139,679.716577540107,9.0,True,False,True
 05f17d52e1db8e1d1c118b4d867161f3429fce55,Jan,2021,heat,hold,New Castle,676.3333333333334,680.0,680.0,20.0,False,False,False
 0763b11c276e25fc64ca052d8bd55899e0e340bc,Jan,2021,heat,hold,Wilmington,735.0138036809816,738.4355828220858,738.4355828220858,10.0,False,False,False

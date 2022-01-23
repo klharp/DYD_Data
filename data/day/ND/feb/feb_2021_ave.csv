@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 0a2c85faa9148f195dff7efd7fcaadd9b7e7a24b,feb,2021,heat,hold,Bismarck,703.2142857142857,710.2142857142857,709.6071428571429,20.0,True,False,False
 0c0bd0b708210af527c4acd1652566b20b9e1113,feb,2021,heat,hold,Casselton,691.6923076923077,695.1923076923077,694.9423076923077,70.0,False,False,False
 0fac6afda912cd175202e8e2925e028b7d22bbec,feb,2021,heat,hold,Thompson,698.0641025641025,702.8846153846154,702.8846153846154,69.0,True,False,False
@@ -24,10 +24,8 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 6e3464542da5e275eebd42444f08f74e6e90d535,feb,2021,heat,hold,Fargo,666.6912751677852,674.0939597315436,674.0939597315436,56.0,False,False,False
 7543f250c54358d149412911fee3058f8a8b40e5,feb,2021,auto,hold,Fargo,679.9233520694942,750.0,680.5728155339806,9.0,True,False,False
 7704704fb68e3b5388328d60bc0d285590698ad5,feb,2021,heat,hold,Lincoln,697.0223048327138,697.1747211895911,697.1747211895911,5.0,False,False,False
-888b6ac298ffde44db4d670dec3030c5ee6d1c0e,feb,2021,auto,hold,Fargo,583.2586206896551,740.0,582.8448275862069,5.0,False,False,False
 8b5f61ec784b3bccda90d02afd324ebbfa44bb19,feb,2021,heat,hold,Grand Forks,725.8050807217473,730.764245014245,730.764245014245,59.0,False,False,False
 8f20c0d306b7503704799f8515d37da8e6892a01,feb,2021,heat,hold,Fargo,693.6039215686275,697.1307189542483,696.6039215686275,0.0,False,False,False
-8f4d43dff926ace6ea477d8ccec8a89f32b21c83,feb,2021,heat,hold,Gackle,459.4314381270903,600.0,475.40802675585286,70.0,False,False,False
 93e8de5edd35b8ee1fc373fb9216a7d14116a573,feb,2021,heat,hold,Williston,701.6931818181819,710.0,710.0,9.0,False,False,False
 95dcbd536a94a1d2d7f855d394365b866f1ccc1b,feb,2021,heat,hold,Fargo,686.684317718941,691.4378818737271,691.4236252545825,5.0,False,False,False
 99d5c43427ce0444928113e9ca8afeb6da53c26c,feb,2021,heat,hold,Dickinson,709.3185840707964,715.3097345132743,714.2477876106195,10.0,False,False,False

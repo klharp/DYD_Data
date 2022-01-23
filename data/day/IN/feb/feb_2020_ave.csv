@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 004a8ed2edb250a5a1c876d076227bbb8a2a2135,feb,2020,auto,hold,Fort Wayne,741.4202898550725,795.0,745.0,30.0,False,False,False
 008844c6c1993ea32d6117993fa4c89479fc9db8,feb,2020,heat,auto,Indianapolis,704.8656716417911,736.2686567164179,706.5671641791045,40.0,True,False,False
 008844c6c1993ea32d6117993fa4c89479fc9db8,feb,2020,heat,hold,Indianapolis,696.1693121693122,704.5608465608466,704.4285714285714,40.0,True,False,False
@@ -1383,7 +1383,7 @@ d36e9c41568f65b38c2d0a62b48c39239eb8c70a,feb,2020,auto,hold,Lebanon,659.76672694
 d3c23fe950fc7b31d09158da0c70fd9e87fff23f,feb,2020,heat,hold,Kokomo,725.5607079646018,730.0,730.0,110.0,False,False,False
 d3c75c4cce64b6ec4f1e3e52ea6a51dab56d5550,feb,2020,cool,auto,Anderson,650.9130434782609,635.0434782608696,656.7826086956521,0.0,True,False,True
 d3c75c4cce64b6ec4f1e3e52ea6a51dab56d5550,feb,2020,cool,hold,Anderson,649.8514851485148,657.039603960396,657.039603960396,0.0,True,False,True
-d3c75c4cce64b6ec4f1e3e52ea6a51dab56d5550,feb,2020,heat,auto,Anderson,660.391369047619,658.7276785714286,667.0401785714286,0.0,True,False,True
+d3c75c4cce64b6ec4f1e3e52ea6a51dab56d5550,feb,2020,heat,auto,Anderson,661.7090032154341,663.4485530546624,668.4099678456591,0.0,True,False,True
 d3c75c4cce64b6ec4f1e3e52ea6a51dab56d5550,feb,2020,heat,hold,Anderson,669.2467426710098,675.3965798045602,675.3778501628665,0.0,True,False,True
 d4056ff76f99922a99bc9242fc0bda39cc407575,feb,2020,heat,hold,Granger,641.8678899082569,650.0,630.0,20.0,False,False,False
 d4101ef02691bceede782bbe35b7f0fb25f62a8b,feb,2020,heat,auto,Westfield,705.3684210526316,710.0,710.0,20.0,True,False,False

@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 000af209b660b6da2dfc91a633650ccb97df073e,aug,2018,heat,hold,Pinckney,754.0437280561762,660.0,660.0,80.0,False,False,False
 001d65da87242dc0b8bb7013ec8efe01c813e750,aug,2018,cool,auto,Lake Orion,724.5728395061728,727.3283950617284,739.8172839506173,57.0,False,False,False
 001d65da87242dc0b8bb7013ec8efe01c813e750,aug,2018,cool,hold,Lake Orion,727.6305882352941,730.2886274509804,730.2690196078431,57.0,False,False,False
@@ -1165,7 +1165,6 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 5de1bd837f8faf483fa640d77ab4ad08ac96293a,aug,2018,cool,hold,Monroe,738.4178652535958,741.5855412566237,741.5855412566237,47.0,False,False,False
 5e416c578e7dabf5394337e8fa011fd8400d5a56,aug,2018,cool,auto,Ypsilanti,719.1558441558442,710.0,650.0,0.0,False,False,False
 5e416c578e7dabf5394337e8fa011fd8400d5a56,aug,2018,cool,hold,Ypsilanti,772.56,798.44,777.68,0.0,False,False,False
-5e646ac37b79743016123c49cc47e01c66d9c0e6,aug,2018,cool,hold,Chesterfield,783.0,590.0,630.0,20.0,False,False,False
 5e931dfb4752c2d2e37cb1a3ed03bb0dcb01360d,aug,2018,cool,auto,Colfax,700.7944408532644,815.49709114415,787.4815772462831,40.0,False,False,False
 5e931dfb4752c2d2e37cb1a3ed03bb0dcb01360d,aug,2018,cool,hold,Colfax,727.8065099457505,813.7613019891501,788.7341772151899,40.0,False,False,False
 5e9d86758d0b51ccde661d151a3cac9cb59569a4,aug,2018,auto,auto,Okemos,712.4722222222222,713.5897435897435,641.7948717948718,45.0,True,False,False
@@ -2093,7 +2092,6 @@ b4c6f61946ffd3e9fad19c81e1d61db47f16ecbe,aug,2018,auto,auto,Bangor,719.021052631
 b4db6abdf61008d92e2fb366dade79e6e67d5b04,aug,2018,cool,auto,Grand Rapids,710.6871508379888,713.1843575418994,713.1843575418994,40.0,False,False,False
 b4db6abdf61008d92e2fb366dade79e6e67d5b04,aug,2018,cool,hold,Grand Rapids,706.4380952380952,704.0666666666667,704.0190476190476,40.0,False,False,False
 b4e0c74ce6421201364bc82212f1d7185c0f1a67,aug,2018,cool,hold,East Lansing,757.6666666666666,745.3333333333334,739.0,5.0,True,False,False
-b4e0c74ce6421201364bc82212f1d7185c0f1a67,aug,2018,heat,hold,East Lansing,766.75,800.0,850.0,5.0,True,False,False
 b4e2c787b3246a174535400c4903ee8da9ba2268,aug,2018,auto,auto,Sterling Heights,708.8181818181819,720.0,650.0909090909091,5.0,False,False,False
 b5296c3d45b7d5953add79d0fd12ccd476a0d0b8,aug,2018,cool,auto,Waterford,736.064393939394,735.2537878787879,685.3030303030303,7.0,False,False,False
 b5296c3d45b7d5953add79d0fd12ccd476a0d0b8,aug,2018,cool,hold,Waterford,736.5747460087083,739.8592162554427,739.7387518142235,7.0,False,False,False

@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 0066b69bae234ce9b76749510713e1bce5154e18,dec,2019,heat,auto,Wilton,683.1096634093377,744.3371335504886,681.3811074918567,0.0,False,False,False
 0066b69bae234ce9b76749510713e1bce5154e18,dec,2019,heat,hold,Wilton,690.2142857142857,691.4285714285714,691.4285714285714,0.0,False,False,False
 0090bb6fc40c84b7f42c125689e22350e6128e3e,dec,2019,heat,hold,Monroe,668.3421052631579,679.0,660.0,0.0,False,False,False
@@ -613,7 +613,7 @@ c147c2e1cbe076bc976db8e788fa285e351f07db,dec,2019,heat,hold,Durham,695.378378378
 c2d8d0048950088f047e22642c60203a71156dcd,dec,2019,heat,auto,Sandy Hook,663.0,750.0,690.0,10.0,False,False,False
 c2d8d0048950088f047e22642c60203a71156dcd,dec,2019,heat,hold,Sandy Hook,666.7272727272727,676.5454545454545,672.4545454545455,10.0,False,False,False
 c2f1a84ed18ee42d39add99fe5e0e1c50fd288e3,dec,2019,heat,hold,Mystic,672.5,701.68,698.92,116.0,False,False,False
-c36510e1cef94a504325c67c0e3732e5b40a1309,dec,2019,heat,auto,Thomaston,661.0371287128713,639.990099009901,662.7376237623762,45.0,False,False,False
+c36510e1cef94a504325c67c0e3732e5b40a1309,dec,2019,heat,auto,Thomaston,660.5235602094241,642.2931937172775,662.3193717277487,45.0,False,False,False
 c36510e1cef94a504325c67c0e3732e5b40a1309,dec,2019,heat,hold,Thomaston,647.9964054636952,647.4543493889288,647.4651329978433,45.0,False,False,False
 c375938ce0336932e0a382c5b4d61e4ee9ff8da7,dec,2019,auto,hold,North Stonington,657.030303030303,710.0,660.0,10.0,False,False,False
 c375938ce0336932e0a382c5b4d61e4ee9ff8da7,dec,2019,heat,auto,North Stonington,667.4794007490636,670.2996254681648,670.1198501872659,10.0,False,False,False

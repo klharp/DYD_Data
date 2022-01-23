@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 0004ddd9fb43232e8457ed12b578e20c5e1b33b0,aug,2018,cool,hold,Parkville,733.34,730.74,730.54,50.0,False,False,False
 00169fef3ce1e3a7aaaa39f9f28d8db467527197,aug,2018,cool,auto,Columbia,721.4285714285714,730.0,730.0,40.0,True,False,True
 001cb586cbb1bfa7441fff670b3357d9d412926a,aug,2018,cool,hold,Columbia,763.8378378378378,761.4324324324324,758.2972972972973,40.0,True,False,True
@@ -831,7 +831,7 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 53de5b5ed3bd3ea8a467d667b01e446db4baa18f,aug,2018,auto,hold,Baltimore,726.8824451410659,722.5015673981192,649.91065830721,70.0,False,False,False
 5461c22ae8114452a86fe685783bc2c6d7ef8bb3,aug,2018,cool,auto,Havre de Grace,755.9177288528389,760.9663962920047,757.8215527230591,18.0,False,False,False
 5461c22ae8114452a86fe685783bc2c6d7ef8bb3,aug,2018,cool,hold,Havre de Grace,757.2047012732615,762.4495592556317,762.4505386875612,18.0,False,False,False
-546aa07373c0e18ba2ed3d173b9d4b10620ca636,aug,2018,cool,auto,Baltimore,729.4934920044626,632.1402008181481,670.0037188545928,0.0,True,False,True
+546aa07373c0e18ba2ed3d173b9d4b10620ca636,aug,2018,cool,auto,Baltimore,701.4986760812003,676.2797881729921,670.008826125331,0.0,True,False,True
 546aa07373c0e18ba2ed3d173b9d4b10620ca636,aug,2018,cool,hold,Baltimore,692.5581395348837,690.0,690.0,0.0,True,False,True
 549aeccfd0340fdaa1acddc09436384a831351ab,aug,2018,cool,hold,Annapolis,742.696062992126,742.5677165354331,742.5677165354331,10.0,False,False,False
 54da800ff0189b494af8be4101760b73c7bfc81e,aug,2018,cool,auto,Silver Spring,698.7894736842105,700.421052631579,699.7894736842105,70.0,False,False,False
@@ -1340,7 +1340,7 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 861a817ae578b632f5649756ed7ae0aa8d4656f8,aug,2018,cool,hold,Middletown,689.5,708.0,690.0,5.0,False,False,False
 8621ce3ea2a24e83c23ebaf77121a90a4ef473a1,aug,2018,cool,auto,Baltimore,720.9470029239766,731.5270467836257,731.5270467836257,70.0,False,False,False
 8621ce3ea2a24e83c23ebaf77121a90a4ef473a1,aug,2018,cool,hold,Baltimore,711.2934362934363,711.949806949807,711.949806949807,70.0,False,False,False
-864c6761473075e5a570d58367561af7507ea51b,aug,2018,cool,auto,Randallstown,806.4004149377594,817.6348547717843,846.0580912863071,40.0,False,False,False
+864c6761473075e5a570d58367561af7507ea51b,aug,2018,cool,auto,Randallstown,790.5964912280701,790.0,800.0,40.0,False,False,False
 864c6761473075e5a570d58367561af7507ea51b,aug,2018,cool,hold,Randallstown,800.1084112149533,800.0,800.0,40.0,False,False,False
 86fd734b2bdbacdb52ce4dbbe7b93677dca7f33e,aug,2018,cool,auto,Ellicott City,722.0492107706592,719.8081089445992,650.3611884865367,0.0,False,False,False
 86fd734b2bdbacdb52ce4dbbe7b93677dca7f33e,aug,2018,cool,hold,Ellicott City,748.5,710.5,710.5,0.0,False,False,False
@@ -2563,7 +2563,7 @@ fb0f832415aa7949b3f1f5625581af9afa494f41,aug,2018,cool,hold,Baltimore,721.344931
 fb256b37545c92636cd3d9a56c2a302d3ae13f36,aug,2018,cool,hold,Dundalk,738.1231407817364,737.6112071947423,737.6112071947423,0.0,True,False,True
 fb27ec703bb033cb99309ce9efcb429f1dfc956c,aug,2018,auto,auto,Jessup,737.6070252469814,736.6410537870472,641.1635565312843,35.0,True,False,True
 fb27ec703bb033cb99309ce9efcb429f1dfc956c,aug,2018,auto,hold,Jessup,741.6354166666666,740.0,660.0,35.0,True,False,True
-fb503c77b9f34fb9c4fdd467312fbf4b9a573908,aug,2018,cool,auto,Upper Marlboro,817.7349397590361,816.6265060240963,844.9397590361446,10.0,True,False,True
+fb503c77b9f34fb9c4fdd467312fbf4b9a573908,aug,2018,cool,auto,Upper Marlboro,801.5714285714286,800.0,820.0,10.0,True,False,True
 fb503c77b9f34fb9c4fdd467312fbf4b9a573908,aug,2018,cool,hold,Upper Marlboro,808.2282051282051,812.0769230769231,812.0769230769231,10.0,True,False,True
 fb7424814e62c1f00f74b9b5e5a676ecef64b8d5,aug,2018,cool,auto,Hyattsville,696.0357142857143,695.7142857142857,695.7142857142857,5.0,False,False,False
 fb7424814e62c1f00f74b9b5e5a676ecef64b8d5,aug,2018,cool,hold,Hyattsville,691.7058823529412,691.1764705882352,691.1764705882352,5.0,False,False,False

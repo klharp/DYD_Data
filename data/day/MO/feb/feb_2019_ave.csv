@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 0039c46facfa454852fda813f2c88ed0bbfab21d,feb,2019,auto,hold,Blue Springs,692.8333333333334,795.0,725.0,20.0,False,False,False
 0056cebd6cd72164f185e551f894f028d3d2e319,feb,2019,heat,auto,Clarkson Valley,684.9090909090909,700.0,700.0,45.0,True,False,True
 0056cebd6cd72164f185e551f894f028d3d2e319,feb,2019,heat,hold,Clarkson Valley,693.5833333333334,710.0,710.0,45.0,True,False,True
@@ -775,7 +775,7 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 85d0403350b4178303de3bb07b7cad2791cc146b,feb,2019,auto,auto,Kansas City,660.25,725.7045454545455,662.7045454545455,40.0,False,False,False
 86b97dbf8cf2e09b1f6581065fba5b575719fabd,feb,2019,auto,auto,O'Fallon,717.2475920679886,770.0,720.0,10.0,False,False,False
 86b97dbf8cf2e09b1f6581065fba5b575719fabd,feb,2019,auto,hold,O'Fallon,696.4666666666667,749.45,699.45,10.0,False,False,False
-86d922748515df51417a0dcd6ae4db9a46eaeffa,feb,2019,heat,auto,Joplin,650.4223107569721,676.9581673306773,652.5776892430279,0.0,False,False,True
+86d922748515df51417a0dcd6ae4db9a46eaeffa,feb,2019,heat,auto,Joplin,650.3886639676114,678.2044534412955,652.3765182186235,0.0,False,False,True
 86d922748515df51417a0dcd6ae4db9a46eaeffa,feb,2019,heat,hold,Joplin,653.6893649579189,656.5057383320582,656.4942616679418,0.0,False,False,True
 874a597f8ea6c704b78ba37d37162a78d9017c29,feb,2019,heat,hold,Ozark,679.5838243170863,674.9223352972683,674.9223352972683,10.0,True,False,True
 87538a0f41f1200db29b0a92952ca6c630d37f15,feb,2019,heat,auto,Warrenton,679.969875573019,680.2920759659463,680.2920759659463,10.0,False,False,False

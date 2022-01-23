@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 0056cebd6cd72164f185e551f894f028d3d2e319,aug,2017,cool,hold,Clarkson Valley,743.28,741.44,738.56,45.0,True,False,True
 005b44ffe2812f645179dccec3443da1ec58a68d,aug,2017,cool,hold,Kirkwood,740.7483562462642,740.0,740.0,0.0,False,False,False
 01077fe00e6bddb7480aa62c3efecbfc1b5de9c4,aug,2017,auto,auto,Lee's Summit,728.8181818181819,707.8181818181819,652.7272727272727,17.0,False,False,True

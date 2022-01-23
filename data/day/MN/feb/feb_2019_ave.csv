@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 015e8d7ebe673c9e6acc810138ab9aa969562e19,feb,2019,auto,auto,Mankato,668.2298136645962,730.0,669.9006211180124,15.0,False,False,False
 015e8d7ebe673c9e6acc810138ab9aa969562e19,feb,2019,auto,hold,Mankato,643.6666666666666,730.0,670.0,15.0,False,False,False
 01cbc83700158311cb3594824a8c3db5ee300914,feb,2019,heat,auto,Cottage Grove,680.2,711.16,685.04,40.0,False,False,False

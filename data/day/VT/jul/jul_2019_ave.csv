@@ -1,26 +1,21 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 021f34fc89980727ffbfaa2541ad5dcc847ff46f,jul,2019,cool,auto,Colchester,753.7600767754319,755.3301343570057,753.6848368522072,9.0,True,False,False
-05baf6c0241b635d98e2d73b929c8e0f81a0e025,jul,2019,heat,hold,Hartland,694.7184135977337,650.0,580.0,0.0,False,False,False
 08e5ea6a99f568b84b88969934ce6fd54f4a8359,jul,2019,heat,hold,Bethel,784.2668364459536,650.0,630.0,0.0,False,False,False
-08e9d7365bb8f03903827359fb15dc779f0d72c8,jul,2019,heat,hold,Stowe,840.1441860465117,650.0,578.0660954712363,15.0,False,False,False
 0ddcca6e74610999ee10239e72330c797274efa8,jul,2019,auto,hold,South Burlington,746.5,788.0,690.0,5.0,False,False,False
-0e51eab7b259c251d7b77f7174b1bee53fb83ff3,jul,2019,heat,hold,westfield,741.576,650.0,509.964,55.0,False,False,False
 1cc2b77c1f9dd8971c8050cb5604220405ec8404,jul,2019,cool,hold,Colchester,687.8910073989755,686.7359134889016,686.7359134889016,0.0,True,False,False
-202b20f2fdcb124df820af1fd71955548fab26ff,jul,2019,cool,hold,South Burlington,708.4405864197531,709.4239969135803,709.3707561728395,0.0,True,False,False
+202b20f2fdcb124df820af1fd71955548fab26ff,jul,2019,cool,hold,South Burlington,708.3532818532818,709.4698841698842,709.4667953667954,0.0,True,False,False
 3875b039ce4a59e5ed0e01c0b77f90623e0963cd,jul,2019,heat,hold,Concord,741.0467404674047,710.0,710.0,0.0,False,False,False
 46f977bf6b32f3c8c3bce774e4fd6eda8d92db21,jul,2019,cool,hold,Peru,745.7736842105263,751.4578947368421,743.4842105263158,5.0,False,False,True
 5d200eb20a3ccfc13067e991346f27689232ec6a,jul,2019,cool,auto,Colchester,763.8095238095239,762.5619047619048,674.7142857142857,5.0,False,False,False
 5d200eb20a3ccfc13067e991346f27689232ec6a,jul,2019,cool,hold,Colchester,779.0,760.0,710.0,5.0,False,False,False
-5e6215887d5f3c45b41ba1ef9b53dc0b5bb1ae8b,jul,2019,heat,hold,Chester,728.9895833333334,650.0,500.0,120.0,False,False,False
 5f048ceb99823f9ac82c2c9b8e2c13e85b9ac36f,jul,2019,cool,auto,Essex,692.1245272825499,700.892490545651,620.0,7.0,False,False,False
 647073dd061dfdbda60d6ebe18579d91c09c5323,jul,2019,cool,auto,Milton,734.6666666666666,750.0,750.0,15.0,False,False,False
 662953f85593ffcb52ca9d8569604ec908481b51,jul,2019,cool,auto,South Burlington,672.8837031369549,674.2226472838562,674.2226472838562,0.0,False,False,False
 662953f85593ffcb52ca9d8569604ec908481b51,jul,2019,cool,hold,South Burlington,674.2185705169113,674.9132099553286,674.9132099553286,0.0,False,False,False
 6f76dee396823efaa4928dd76539ab3f46489ee6,jul,2019,heat,auto,Bethel,758.1256544502618,700.0,640.0,0.0,False,False,False
-71984008b7dff37ff8383f34211aa9764e462a4b,jul,2019,heat,hold,Chester,779.1626666666667,650.0773333333333,500.13733333333334,115.0,False,False,False
+71984008b7dff37ff8383f34211aa9764e462a4b,jul,2019,heat,hold,Chester,822.0,708.0,603.0,115.0,False,False,False
 740b64e1cafcfbc98a8ee89cd0a518eee4163aa1,jul,2019,cool,hold,Peru,741.7596153846154,752.9519230769231,749.5480769230769,5.0,False,False,True
 76b12ae9924097aa336534433c0e9b7d53d46e4f,jul,2019,cool,auto,Woodford,679.7063492063492,680.0,645.0,10.0,False,False,True
-7c92a63faec4b10f1b994e2e77691b307aeb6915,jul,2019,heat,hold,South Hero,755.2173764906303,650.0,450.0,15.0,False,False,False
 7cf01f9297d88d3d00700bf97cf8051cd99241f8,jul,2019,cool,auto,Woodford,700.7166666666667,700.0,655.0,10.0,False,False,True
 7fa021bd983c34f07a6ab6cb5cf89b2a51fdc387,jul,2019,heat,hold,Bethel,808.6895868704019,660.0,660.0,0.0,False,False,False
 8c9560256e24bd3bd9cc777165a1c0ecd1fc1e9d,jul,2019,heat,hold,Winooski,764.4634146341464,660.0,660.0,105.0,False,False,False
@@ -30,23 +25,14 @@ Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureEx
 976d2b5f6b178a1eb7af02790f9ca6a1caa18feb,jul,2019,cool,auto,Essex,701.2042944785276,700.8478527607361,700.0,7.0,False,False,False
 993a60967289b4973387c7bc3b322f447ba725f1,jul,2019,cool,hold,Burlington,713.8982142857143,710.8292857142857,710.8292857142857,90.0,False,False,False
 a03478399f597209ced9babf1f3e635cccb1a0c1,jul,2019,cool,hold,Peru,703.8,713.2,688.2,5.0,False,False,True
-a1a9fe0e9032274670b0ee43b67a76d3ed18cda5,jul,2019,auto,hold,South Burlington,727.7222222222222,825.5555555555555,670.0,5.0,False,False,False
+a1a9fe0e9032274670b0ee43b67a76d3ed18cda5,jul,2019,auto,hold,South Burlington,727.5,740.0,670.0,5.0,False,False,False
 a99b7e08d0379ed03cb1de3ed8a6ff5fb0e30ead,jul,2019,cool,hold,Burlington,754.8333333333334,764.7708333333334,764.1041666666666,105.0,True,False,False
 b1edee7100dbb1eee6016590ed37a1e79003eff7,jul,2019,auto,hold,Middlebury,752.1392405063291,752.6708860759494,670.0,10.0,False,False,False
 b280bb572e020824c1d10ca790031bddad638ddf,jul,2019,cool,auto,Woodford,666.1666666666666,665.0,635.0,10.0,False,False,True
-bac0305837ab995c66aad34153c932023f31d93d,jul,2019,heat,hold,Proctor,755.5291161690807,650.0,530.0,100.0,False,False,False
 bbe5199cf833df39722e4f7e78091f2d5b945fd5,jul,2019,cool,hold,Williston,765.1495901639345,774.0983606557377,774.0983606557377,17.0,False,False,False
-c6eca0d52d9850338b1ec2dc6d19726f6d74cc06,jul,2019,heat,hold,South Hero,772.7961538461539,650.0,540.0,15.0,False,False,False
 d58be700034341c053836c3763723e9a90b90ed2,jul,2019,cool,hold,Essex Junction,723.0083410565338,721.222891566265,721.222891566265,55.0,False,False,False
-d63cb3788a6b312df8b48a557b86090dd629263e,jul,2019,auto,auto,South Burlington,697.9134615384615,700.0,600.0,0.0,False,False,False
-d63cb3788a6b312df8b48a557b86090dd629263e,jul,2019,auto,hold,South Burlington,700.3079470198676,700.0,600.0,0.0,False,False,False
-dfebba5b4c1cef022c6adc295b3ebe6abc3dbc5d,jul,2019,heat,hold,Waterbury Center,738.1209883555808,650.0,550.0,40.0,False,False,False
-dff152b834051b8c400a572af119b26eb79c03c6,jul,2019,heat,hold,Shrewsbury,730.9965517241379,650.0,568.3448275862069,120.0,False,False,False
 e44893029fdab02205cf581b038d85c7d63535cc,jul,2019,heat,hold,wilmington,687.6616945107398,650.0,619.9994033412888,10.0,False,False,False
-f0da960a3fa374f1f719439150052e38c531d274,jul,2019,heat,hold,Hartland,706.4184859654097,650.0,550.0,0.0,False,False,False
-f23a83d45499bc989a9f6bf289c0ae1606b4f60c,jul,2019,heat,hold,Hartford,731.2385892116182,650.0,550.0,0.0,True,False,False
 f737e73d0fe1f0e19591956f6a4b1755f4c27f8d,jul,2019,heat,hold,Montpelier,763.5333333333333,670.0,670.0,30.0,False,False,False
-fa08475416235509957094bd28ed79584aee4469,jul,2019,heat,hold,Chester,772.1640625,650.0,490.0,115.0,False,False,False
 fae2077e3bd726479b0d4f7381810a11ddfd6945,jul,2019,heat,auto,Concord,742.7894954507858,700.0,700.0,0.0,False,False,False
 fb25c89e80abf37ee43b1d4c3b1aa4aaf4e948fb,jul,2019,heat,hold,Underhill Center,732.5898573692551,655.2076069730587,650.4152139461173,30.0,False,False,False
 fb5559f697fdfaa37875b00d94ac7a600e0d864c,jul,2019,cool,auto,Brownsville,735.0,759.6666666666666,699.6666666666666,99.0,False,False,True

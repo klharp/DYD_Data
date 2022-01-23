@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 0010ea447dc3807b33daad2477d1cc02a71571fa,dec,2020,heat,auto,Chicago,675.5648148148148,715.0,681.7592592592592,5.0,False,False,False
 0010ea447dc3807b33daad2477d1cc02a71571fa,dec,2020,heat,hold,Chicago,676.1475409836065,681.5573770491803,680.7786885245902,5.0,False,False,False
 0027e9be6cd672afe749634eaf39c372d1b7819e,dec,2020,heat,auto,Sparland,700.1612903225806,710.983870967742,710.9032258064516,75.0,True,False,False
@@ -3422,7 +3422,7 @@ a264832abf366c1a61078ca18e7bdcf4f40196f1,dec,2020,auto,hold,Danville,717.9,770.0
 a27852d90a3e3b4628c7cccfcace842097aa2749,dec,2020,heat,auto,Lincoln,651.7200854700855,680.0,650.0,75.0,False,False,False
 a2785d8d64bd3940f875f22e5f341b41f2258319,dec,2020,heat,hold,Plainfield,702.286197421264,705.3170577045022,705.3170577045022,20.0,True,False,False
 a27a5573bb45b0b8a1613998e3f6c995373ec735,dec,2020,heat,hold,West Chicago,692.7048192771084,696.6686746987951,696.4879518072289,30.0,False,False,False
-a27f411169320396900915a3385b9b9963d17277,dec,2020,heat,auto,Joliet,753.2708333333334,658.6111111111111,757.8819444444445,45.0,False,False,False
+a27f411169320396900915a3385b9b9963d17277,dec,2020,heat,auto,Joliet,753.7328431372549,665.0,758.3455882352941,45.0,False,False,False
 a2a656b34fe0b527f8bd3d90414229b8ef090fbf,dec,2020,heat,auto,Carterville,674.7017543859649,674.6315789473684,674.6315789473684,16.0,False,False,False
 a2b0bddf15af808d55865162fb07347d6829b11b,dec,2020,heat,hold,Mount Prospect,699.1904761904761,702.3604010025063,702.3604010025063,65.0,False,False,False
 a2d713890e9acbe897e040d6882561989904f7ac,dec,2020,auto,auto,Champaign,635.6322751322751,740.0,640.0,90.0,False,False,False

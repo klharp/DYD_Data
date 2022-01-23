@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 0056cebd6cd72164f185e551f894f028d3d2e319,jul,2017,cool,hold,Clarkson Valley,745.8009478672984,734.739336492891,734.739336492891,45.0,True,False,True
 005b44ffe2812f645179dccec3443da1ec58a68d,jul,2017,cool,auto,Kirkwood,753.5315315315315,750.0,690.0,0.0,False,False,False
 005b44ffe2812f645179dccec3443da1ec58a68d,jul,2017,cool,hold,Kirkwood,749.8697916666665,742.8998842592592,742.8998842592592,0.0,False,False,False
@@ -1254,7 +1254,7 @@ ffe3dd2ebf461c6fe1085a577daa4fec78c7c48f,jul,2017,cool,hold,Kansas city,690.8576
 5770fb11edbbfb304739a8d2c377131ba55e3e68,jul,2018,cool,hold,Saint Louis,760.8486973947896,759.6808617234468,759.6327655310622,0.0,False,False,False
 5858000c1ab53a36355649b71cf32aa02d12f2bf,jul,2018,cool,auto,Jefferson City,765.0646258503401,768.9795918367348,768.9795918367348,100.0,False,False,False
 5858000c1ab53a36355649b71cf32aa02d12f2bf,jul,2018,cool,hold,Jefferson City,750.7289915966388,753.9926470588235,753.9926470588235,100.0,False,False,False
-58b1283e874e41672f7261396e53bcfe952e7ce6,jul,2018,cool,auto,St. Louis,716.6373801916933,680.6146166134185,707.6397763578275,117.0,False,False,False
+58b1283e874e41672f7261396e53bcfe952e7ce6,jul,2018,cool,auto,St. Louis,720.8501742160279,687.9176829268292,706.7029616724739,117.0,False,False,False
 58b1283e874e41672f7261396e53bcfe952e7ce6,jul,2018,cool,hold,St. Louis,724.0712166172107,780.1127596439169,740.919881305638,117.0,False,False,False
 58f17654ec369fe26801df62efebb53ea369d0f0,jul,2018,cool,auto,Columbia,730.3877952755905,742.9586614173227,742.9586614173227,6.0,True,False,True
 58f17654ec369fe26801df62efebb53ea369d0f0,jul,2018,cool,hold,Columbia,736.6670726755989,744.9809175801868,744.9776695087293,6.0,True,False,True
@@ -2838,7 +2838,7 @@ fff9c9fc157b3018c7b44f37084f7b481f5ea638,jul,2018,cool,auto,Lake Saint Louis,755
 71d5d4ba1bced39b38f0fb3a8d32323fb49784f4,jul,2019,cool,auto,Springfield,740.3544913573252,740.0,760.0,5.0,True,False,False
 71f0d3d13ea4495fd98f531ee83b85a38fabc9a6,jul,2019,cool,auto,Battlefield,767.8846625766872,770.2429447852762,715.5680981595093,37.0,False,False,False
 71f0d3d13ea4495fd98f531ee83b85a38fabc9a6,jul,2019,cool,hold,Battlefield,756.3,753.7518987341773,753.7518987341773,37.0,False,False,False
-720955ca3b5e2ba5720aa32c17dcdcec5591e3b3,jul,2019,cool,auto,Saint Louis,717.9315375982042,690.7283950617284,645.0505050505052,117.0,False,False,False
+720955ca3b5e2ba5720aa32c17dcdcec5591e3b3,jul,2019,cool,auto,Saint Louis,718.0703703703704,699.8012345679014,649.4555555555555,117.0,False,False,False
 720955ca3b5e2ba5720aa32c17dcdcec5591e3b3,jul,2019,cool,hold,Saint Louis,717.1048951048951,665.4055944055945,665.2797202797202,117.0,False,False,False
 72197dacdca44a51489650430adc76e9b5a2b34c,jul,2019,cool,auto,Independence,721.3076923076923,694.8615384615384,650.0,0.0,False,False,False
 72197dacdca44a51489650430adc76e9b5a2b34c,jul,2019,cool,hold,Independence,701.25,663.85,660.55,0.0,False,False,False

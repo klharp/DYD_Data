@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 019764d7b48dd9d6f1f4ad95451d7d0da2669405,feb,2018,auto,hold,Billings,687.8333333333334,740.0,690.0,5.0,False,False,False
 037988cc24eaeaa08f7002dbc926d02c8f9c0f1c,feb,2018,heat,hold,Eureka,611.510033444816,687.1254180602007,686.5367892976589,10.0,True,False,True
 0728208cff5242993896da88a882e076094b765f,feb,2018,heat,hold,Billings,668.0980392156863,690.0,690.0,50.0,False,False,False

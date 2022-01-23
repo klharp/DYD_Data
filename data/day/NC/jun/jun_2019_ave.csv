@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 001d3f919679bc281312e54922cb021d2020c1fa,jun,2019,cool,auto,Charlotte,691.5144478844169,690.0,690.0,0.0,True,False,True
 001d3f919679bc281312e54922cb021d2020c1fa,jun,2019,cool,hold,Charlotte,681.4849007765315,680.0,680.0,0.0,True,False,True
 002d657d269c2da28e96732bf69b6db645b85262,jun,2019,auto,auto,Lexington,720.3125,762.5625,712.5625,20.0,False,False,True

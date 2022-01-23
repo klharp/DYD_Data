@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 01194744830da7bbc9603d51735c58faef66f72e,jun,2017,cool,auto,Ocean Springs,738.0080321285141,736.9226907630522,676.0210843373494,0.0,False,False,True
 01194744830da7bbc9603d51735c58faef66f72e,jun,2017,cool,hold,Ocean Springs,735.1435897435897,736.9448717948718,736.9448717948718,0.0,False,False,True
 022c67a9cc7538740068f7248330a614c0ddb96f,jun,2017,auto,auto,Biloxi,708.25,719.375,669.375,5.0,True,False,True

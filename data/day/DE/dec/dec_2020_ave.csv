@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 05162dee3201157920ad972444b13d9722fcb17c,dec,2020,heat,auto,Rehoboth Beach,686.9011627906976,689.7674418604652,689.7674418604652,9.0,True,False,True
 05162dee3201157920ad972444b13d9722fcb17c,dec,2020,heat,hold,Rehoboth Beach,699.8677685950413,689.8925619834711,689.805785123967,9.0,True,False,True
 05f17d52e1db8e1d1c118b4d867161f3429fce55,dec,2020,heat,auto,New Castle,681.9026548672566,682.6946902654868,682.6946902654868,20.0,False,False,False

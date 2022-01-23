@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 0977612bebbbbc2ff5a90040050f2a55607e6004,jul,2017,cool,auto,Washington,742.3684210526317,749.578947368421,694.1052631578948,5.0,False,False,False
 0977612bebbbbc2ff5a90040050f2a55607e6004,jul,2017,cool,hold,Washington,729.5754716981132,724.566037735849,723.9622641509435,5.0,False,False,False
 0ef03d5ff6a191d52626482c35b8ca26a346f033,jul,2017,auto,hold,Washington,750.675,747.575,687.725,120.0,False,False,False
@@ -292,9 +292,9 @@ b62dfa825e1841571f3c38354352a02cf40e4706,jul,2018,auto,auto,Washington,750.30909
 b99bb86a471fd156d347b07453bedeee48de15bf,jul,2018,cool,auto,Washington,722.25,722.0846153846153,722.0076923076923,0.0,False,False,True
 b99bb86a471fd156d347b07453bedeee48de15bf,jul,2018,cool,hold,Washington,715.1789883268483,712.9182879377432,712.9182879377432,0.0,False,False,True
 ba7f8959bec2591fc20e7bf3a9eeed767a868c7b,jul,2018,auto,auto,Washington,710.045871559633,717.2293577981651,670.0,5.0,False,False,False
-ba7f8959bec2591fc20e7bf3a9eeed767a868c7b,jul,2018,auto,hold,Washington,718.2821576763486,719.149377593361,670.2531120331951,5.0,False,False,False
-ba7f8959bec2591fc20e7bf3a9eeed767a868c7b,jul,2018,cool,auto,Washington,654.8449197860963,629.3743315508021,670.0053475935829,5.0,False,False,False
-ba7f8959bec2591fc20e7bf3a9eeed767a868c7b,jul,2018,cool,hold,Washington,705.3329886246123,667.5325749741469,679.8345398138573,5.0,False,False,False
+ba7f8959bec2591fc20e7bf3a9eeed767a868c7b,jul,2018,auto,hold,Washington,718.4666666666667,719.6458333333335,670.2541666666667,5.0,False,False,False
+ba7f8959bec2591fc20e7bf3a9eeed767a868c7b,jul,2018,cool,auto,Washington,673.0916666666667,645.775,670.0083333333333,5.0,False,False,False
+ba7f8959bec2591fc20e7bf3a9eeed767a868c7b,jul,2018,cool,hold,Washington,705.9291338582678,673.4578177727784,680.697412823397,5.0,False,False,False
 bbae6cf2a45c38a05be313d7827a51dae9bd1e8f,jul,2018,cool,auto,Washington,727.0,753.0,696.7142857142858,0.0,False,False,True
 bbae6cf2a45c38a05be313d7827a51dae9bd1e8f,jul,2018,cool,hold,Washington,753.5809578107184,755.5632839224629,755.4800456100342,0.0,False,False,True
 bbe5d97de91884dff49bd1c616455d7b1b972b95,jul,2018,cool,auto,Washington,684.3425414364641,683.7734806629834,719.7016574585635,18.0,True,False,True

@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 00bbbdb5c3b6cb8b9e78191017ecdb97dad87e47,Jan,2017,auto,auto,Jacksonville,689.9978237214364,762.5016322089227,687.4907508161044,5.0,False,False,True
 00e5498cd188bdf09a9a1a902e6084b200cbbdef,Jan,2017,auto,hold,Wade,686.2068965517242,751.3103448275862,688.2758620689655,55.0,False,False,False
 013708850f6d20343f635dc3c0130399b66b0578,Jan,2017,auto,hold,Concord,690.9903846153846,750.5288461538462,690.0,0.0,False,False,False

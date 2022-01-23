@@ -1,4 +1,4 @@
-Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl,TemperatureExpectedCool,TemperatureExpectedHeat,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
+Identifier,Month,Year,HvacMode,CalendarEvent,City,Temperature_ctrl_ave,TemperatureExpectedCool_ave,TemperatureExpectedHeat_ave,Age_of_Home__years_,allowCompWithAux,Has_Electric,Has_a_Heat_Pump
 003e168f638289edc59e7df30f5a63ff7bae7a2e,jul,2018,auto,auto,Science Hill,739.3660714285714,753.9285714285714,652.8571428571429,5.0,True,False,True
 003e168f638289edc59e7df30f5a63ff7bae7a2e,jul,2018,auto,hold,Science Hill,715.6034482758621,711.551724137931,655.948275862069,5.0,True,False,True
 003e168f638289edc59e7df30f5a63ff7bae7a2e,jul,2018,cool,auto,Science Hill,767.5357142857143,790.5,652.1071428571429,5.0,True,False,True
